@@ -1,15 +1,36 @@
 {
   "name": "electron-vue",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "main": "src/main/_.js",
+  "author": "草鞋没号 <308487730@qq.com>",
+  "license": "MIT",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build"
+    "dev": "npm run dev:all",
+    "dev:all": "concurrently -n=vue,ele -c=green,blue \"npm run vue:dev\" \"npm run ele:dev\"",
+    "vue:dev": "vite",
+    "vue:build": "vite build",
+    "ele:build": "node script/build --env=production",
+    "ele:dev": "node script/build --env=development --watch"
   },
   "dependencies": {
     "vue": "^3.0.0-rc.1"
   },
   "devDependencies": {
+    "@rollup/plugin-commonjs": "^15.0.0",
+    "@rollup/plugin-node-resolve": "^9.0.0",
+    "@rollup/plugin-typescript": "^5.0.2",
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "chalk": "^4.1.0",
+    "concurrently": "^5.3.0",
+    "dotenv": "^8.2.0",
+    "electron": "9.1.0",
+    "electron-builder": "^22.8.0",
+    "electron-connect": "^0.6.3",
+    "electron-is-dev": "^1.2.0",
+    "minimist": "^1.2.5",
+    "ora": "^5.0.0",
+    "typescript": "^3.9.7",
     "vite": "^1.0.0-rc.1",
-    "@vue/compiler-sfc": "^3.0.0-rc.1"
+    "wait-on": "^5.2.0"
   }
 }
