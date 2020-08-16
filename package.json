@@ -32,5 +32,11 @@
     "typescript": "^3.9.7",
     "vite": "^1.0.0-rc.1",
     "wait-on": "^5.2.0"
-  }
+  },
+  "keywords": [
+    "vite",
+    "electron",
+    "vue3",
+    "rollup"
+  ]
 }
