@@ -6,11 +6,43 @@
   "license": "MIT",
   "scripts": {
     "dev": "npm run dev:all",
-    "dev:all": "concurrently -n=vue,ele -c=green,blue \"npm run vue:dev\" \"npm run ele:dev\"",
-    "vue:dev": "vite",
-    "vue:build": "vite build",
-    "ele:build": "node script/build --env=production",
-    "ele:dev": "node script/build --env=development --watch"
+    "dev:all": "concurrently -n=vue,ele -c=green,blue \"npm run dev:vue\" \"npm run dev:ele\"",
+    "dev:vue": "vite",
+    "dev:ele": "node script/build --env=development --watch",
+    "build:vue": "vite build",
+    "build:ele": "node script/build --env=production",
+    "build": "npm run build:vue && npm run build:ele && electron-builder"
+  },
+  "build": {
+    "appId": "308487730@qq.com",
+    "files": [
+      "!node_modules",
+      "src/main/**",
+      "src/render/dist/**"
+    ],
+    "mac": {
+      "artifactName": "${productName}_setup_${version}.${ext}",
+      "target": [
+        "dmg"
+      ]
+    },
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "artifactName": "${productName}_setup_${version}.${ext}"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "deleteAppDataOnUninstall": false
+    }
   },
   "dependencies": {
     "vue": "^3.0.0-rc.1"

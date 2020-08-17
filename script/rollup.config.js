@@ -20,8 +20,11 @@ module.exports = (env = 'production') => {
     external: [
       'fs',
       'path',
+      'http',
+      'https',
+      'child_process',
+      'os',
       'electron',
-      'electron-is-dev',
     ],
   }
 };

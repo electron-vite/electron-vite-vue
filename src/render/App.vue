@@ -3,7 +3,7 @@
     <img style="height:200px;" src="./assets/electron.png" alt="Electron logo">
     <img alt="Vue logo" src="./assets/logo.png" />
   </div>
-  <HelloWorld msg="Hello Electron 9.0 + Vue 3.0 + Vite" />
+  <HelloWorld msg="Hello Electron 9.0 + Vue 3.0  Vite" />
 </template>
 
 <script>
