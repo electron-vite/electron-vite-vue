@@ -35,6 +35,8 @@ if (argv.watch) {
       if (ev.code === 'END') {
         // init-未启动、started-第一次启动、restarted-重新启动
         electron.electronState === 'init' ? electron.start() : electron.restart();
+      } else if (ev.code === 'ERROR') {
+        console.log(ev.error)
       }
     });
   });
