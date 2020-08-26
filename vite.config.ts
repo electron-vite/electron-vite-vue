@@ -10,6 +10,7 @@ dotenv.config({ path: join(__dirname, '.env') })
 const config: UserConfig = {
   root: join(__dirname, 'src/render'),
   port: +process.env.PORT,
+  base: './',
 }
 
 export default config
