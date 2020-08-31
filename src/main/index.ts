@@ -15,11 +15,14 @@ function createWin() {
   win = new BrowserWindow({
     width: 1024,
     height: 768,
+    webPreferences: {
+      nodeIntegration: true,
+    },
   })
 
   const URL = is_dev
     ? `http://localhost:${process.env.PORT}` // vite 启动的服务器地址
-    : `file://${join(__dirname, '../render/dist/index.html')}` // vite 构建后的静态文件地址
+    : `file://${join(__dirname, '../../dist/render/index.html')}` // vite 构建后的静态文件地址
 
   win.loadURL(URL)
 }

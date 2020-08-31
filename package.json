@@ -1,7 +1,7 @@
 {
   "name": "electron-vue",
   "version": "0.0.1",
-  "main": "src/main/_.js",
+  "main": "dist/main/_.js",
   "author": "草鞋没号 <308487730@qq.com>",
   "license": "MIT",
   "scripts": {
@@ -17,8 +17,7 @@
     "appId": "308487730@qq.com",
     "files": [
       "!node_modules",
-      "src/main/**",
-      "src/render/dist/**"
+      "dist/**"
     ],
     "mac": {
       "artifactName": "${productName}_setup_${version}.${ext}",
