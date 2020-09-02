@@ -12,7 +12,7 @@ Electron、vue、vite 整合
 
 ## 踩坑记
 - import { write } from 'fs' 的这种形式会被 vite 编译成 /@modules/fs?import
-const { write } = require('fs') 这种形式就能用了 😉
+- const { write } = require('fs') 这种形式就能用了 😉
 - const { ipcRenderer } = require('electron') 同理
 
 ---
