@@ -18,7 +18,8 @@ const config: UserConfig = {
     '/@/': root,
   },
   optimizeDeps: {
-    allowNodeBuiltins: ['electron-is-dev', 'electron-store', 'electron']
+    // 这里不加也没事，用 require 的形式就能避开 import 被编译成 /@modules/fs?import
+    // allowNodeBuiltins: ['electron-is-dev', 'electron-store', 'electron']
   },
 }
 
