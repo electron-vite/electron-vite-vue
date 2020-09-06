@@ -2,6 +2,8 @@ const path = require('path')
 const { nodeResolve } = require('@rollup/plugin-node-resolve')
 const commonjs = require('@rollup/plugin-commonjs')
 const esbuild = require('rollup-plugin-esbuild')
+const alias = require('@rollup/plugin-alias')
+const json = require('@rollup/plugin-json')
 
 module.exports = (env = 'production') => {
   return {
@@ -13,8 +15,9 @@ module.exports = (env = 'production') => {
       sourcemap: true,
     },
     plugins: [
-      nodeResolve(),
+      nodeResolve({ jsnext: true, preferBuiltins: true, browser: true }), // 消除碰到 node.js 模块时⚠警告
       commonjs(),
+      json(),
       esbuild({
         // All options are optional
         include: /\.[jt]sx?$/, // default, inferred from `loaders` option
@@ -36,9 +39,27 @@ module.exports = (env = 'production') => {
           '.json': 'json',
           // Enable JSX in .js files too
           '.js': 'jsx'
-        }
+        },
       }),
+      alias({
+        entries: [
+          { find: '@main', replacement: path.join(__dirname, '../src/main'), },
+        ]
+      })
     ],
-    external: ['fs', 'path', 'electron', 'electron-is-dev'],
+    external: [
+      'crypto',
+      'assert',
+      'fs',
+      'util',
+      'os',
+      'events',
+      'child_process',
+      'http',
+      'https',
+      'path',
+      'electron',
+      'electron-is-dev',
+    ],
   }
 }

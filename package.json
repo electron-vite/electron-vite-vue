@@ -47,7 +47,9 @@
     "vue": "^3.0.0-rc.8"
   },
   "devDependencies": {
+    "@rollup/plugin-alias": "^3.1.1",
     "@rollup/plugin-commonjs": "^15.0.0",
+    "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-node-resolve": "^9.0.0",
     "@vue/compiler-sfc": "^3.0.0-rc.8",
     "chalk": "^4.1.0",
