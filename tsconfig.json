@@ -10,8 +10,11 @@
     "baseUrl": "./",
     "strict": true,
     "paths": {
-      "@/*": ["src/render/*"],
-      "root/*": ["/*"]
+      "/assets/*": ["src/render/assets/*"],
+      "/components/*": ["src/render/components/*"],
+      "/lib/*": ["src/render/lib/*"],
+      "/utils/*": ["src/render/utils/*"],
+      "/views/*": ["src/render/views/*"]
     },
     "allowSyntheticDefaultImports": true
   },

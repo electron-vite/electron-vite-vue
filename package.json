@@ -11,7 +11,7 @@
     "dev:ele": "node script/build --env=development --watch",
     "build:vue": "vite build",
     "build:ele": "node script/build --env=production",
-    "build": "npm run build:vue && npm run build:ele && electron-builder"
+    "build": "rm -rf dist && npm run build:vue && npm run build:ele && electron-builder"
   },
   "build": {
     "appId": "308487730@qq.com",
@@ -63,8 +63,8 @@
     "minimist": "^1.2.5",
     "ora": "^5.0.0",
     "rollup-plugin-esbuild": "^2.4.2",
-    "typescript": "^3.9.7",
-    "vite": "^1.0.0-rc.1",
+    "typescript": "^4.0.3",
+    "vite": "^1.0.0-rc.4",
     "wait-on": "^5.2.0"
   },
   "keywords": [
