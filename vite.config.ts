@@ -45,13 +45,11 @@ const config: UserConfig = {
       {
         name: '@rollup/plugin-replace-electron-store',
         transform(code, id) {
-          // const Store = require('electron-store')
-          const electronStoreReg = /(const|let|var)[\n\s]+(\w+)[\n\s]*=[\n\s]*require\(["|']electron-store["|']\)/g
+          // const Store = require('electron-store') -> import Store from 'electron-store'
+          const electronStoreReg = /(const|let|var)[\n\s]+(\w+)[\n\s]*=[\n\s]*require\(["|'](.+)["|']\)/g
           const res = code.match(electronStoreReg)
-          /*@replace = import Store from 'electron-store'*/
-          // const replaceStore = /\/\*\s*@replace\s*=\s*([\S\s]+)\s*\*\//g
           if (res) {
-            code = code.replace(electronStoreReg, `import $2 from 'electron-store'`)
+            code = code.replace(electronStoreReg, `import $2 from '$3'`)
           }
           return code
         },
