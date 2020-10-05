@@ -43,12 +43,16 @@ const config: UserConfig = {
     ],
     plugins: [
       {
-        name: '@rollup/plugin-replace-electron-store',
-        transform(code, id) {
-          // const Store = require('electron-store') -> import Store from 'electron-store'
+        name: '@rollup/plugin-cjs2esm',
+        transform(code, filename) {
+          if (filename.includes('/node_modules/')) {
+            return code
+          }
+
           const electronStoreReg = /(const|let|var)[\n\s]+(\w+)[\n\s]*=[\n\s]*require\(["|'](.+)["|']\)/g
           const res = code.match(electronStoreReg)
           if (res) {
+            // const Store = require('electron-store') -> import Store from 'electron-store'
             code = code.replace(electronStoreReg, `import $2 from '$3'`)
           }
           return code
