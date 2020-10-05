@@ -49,11 +49,11 @@ const config: UserConfig = {
             return code
           }
 
-          const electronStoreReg = /(const|let|var)[\n\s]+(\w+)[\n\s]*=[\n\s]*require\(["|'](.+)["|']\)/g
-          const res = code.match(electronStoreReg)
+          const cjsRegexp = /(const|let|var)[\n\s]+(\w+)[\n\s]*=[\n\s]*require\(["|'](.+)["|']\)/g
+          const res = code.match(cjsRegexp)
           if (res) {
             // const Store = require('electron-store') -> import Store from 'electron-store'
-            code = code.replace(electronStoreReg, `import $2 from '$3'`)
+            code = code.replace(cjsRegexp, `import $2 from '$3'`)
           }
           return code
         },
