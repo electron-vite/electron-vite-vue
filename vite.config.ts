@@ -1,7 +1,7 @@
 /**
  * 参考链接: https://github.com/vitejs/vite/blob/master/src/node/config.ts
  */
-import { join } from 'path'
+import { join, sep } from 'path'
 import { UserConfig } from 'vite'
 import dotenv from 'dotenv'
 
@@ -45,7 +45,7 @@ const config: UserConfig = {
       {
         name: '@rollup/plugin-cjs2esm',
         transform(code, filename) {
-          if (filename.includes('/node_modules/')) {
+          if (filename.includes(`${sep}node_modules${sep}`)) {
             return code
           }
 
