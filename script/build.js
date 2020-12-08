@@ -2,22 +2,37 @@
  * electron 打包
  */
 const path = require('path');
+const fs = require('fs');
+const electron = require('electron');
+const cp = require('child_process');
 const rollup = require('rollup');
 const argv = require('minimist')(process.argv.slice(2));
 const chalk = require('chalk');
 const ora = require('ora');
 const waitOn = require('wait-on');
-const electron = require('electron-connect').server.create({ stopOnClose: true });
-require('dotenv').config({ path: path.join(__dirname, '../.env') })
 const options = require('./rollup.config');
+const pkg = require('../package.json');
 
 const opt = options(argv.env);
 const TAG = '[script/build.js]';
 const spinner = ora(`${TAG} Electron build...`);
+const env = {};
+
+try {
+  // 解析 .env
+  let env_str = fs.readFileSync(path.join(__dirname, '../.env'), 'utf-8');
+  env_str = env_str.replace(/#.*\n/g, '') // 去掉注释
+  for (const line of env_str.split('\n')) {
+    const tmp = line.split('=');
+    env[tmp[0]] = tmp[1];
+  }
+} catch (error) { }
 
 if (argv.watch) {
+  let child = null;
+
   waitOn({
-    resources: [`http://localhost:${process.env.PORT}`],
+    resources: [`http://localhost:${env.PORT}`],
     log: false,
   }, err => {
     if (err) {
@@ -33,8 +48,8 @@ if (argv.watch) {
     });
     watcher.on('event', ev => {
       if (ev.code === 'END') {
-        // init-未启动、started-第一次启动、restarted-重新启动
-        electron.electronState === 'init' ? electron.start() : electron.restart();
+        if (child) child.kill();
+        child = cp.spawn(electron, [path.join(__dirname, '..', pkg.main)], { stdio: 'inherit', });
       } else if (ev.code === 'ERROR') {
         console.log(ev.error)
       }
