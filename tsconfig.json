@@ -1,11 +1,12 @@
 {
   "compilerOptions": {
     "target": "esnext",
-    "module": "esnext",
+    "module": "UMD",
     "moduleResolution": "node",
     "importHelpers": true,
     "jsx": "react",
     "esModuleInterop": true,
+    "resolveJsonModule": true,
     "sourceMap": true,
     "baseUrl": "./",
     "strict": true,

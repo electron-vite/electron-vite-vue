@@ -1,21 +1,22 @@
-const path = require('path')
-const { nodeResolve } = require('@rollup/plugin-node-resolve')
-const commonjs = require('@rollup/plugin-commonjs')
-const esbuild = require('rollup-plugin-esbuild')
-const alias = require('@rollup/plugin-alias')
-const json = require('@rollup/plugin-json')
+import { join } from 'path'
+import { RollupOptions } from 'rollup'
+import { nodeResolve } from '@rollup/plugin-node-resolve'
+import commonjs from '@rollup/plugin-commonjs'
+import esbuild from 'rollup-plugin-esbuild'
+import alias from '@rollup/plugin-alias'
+import json from '@rollup/plugin-json'
 
-module.exports = (env = 'production') => {
-  return {
-    input: path.join(__dirname, '../src/main/index.ts'),
+export default (env = 'production') => {
+  const options: RollupOptions = {
+    input: join(__dirname, '../src/main/index.ts'),
     output: {
-      file: path.join(__dirname, '../dist/main/_.js'),
+      file: join(__dirname, '../dist/main/_.js'),
       format: 'cjs',
       name: 'ElectronMainBundle',
       sourcemap: true,
     },
     plugins: [
-      nodeResolve({ jsnext: true, preferBuiltins: true, browser: true }), // 消除碰到 node.js 模块时⚠警告
+      nodeResolve({ preferBuiltins: true, browser: true }), // 消除碰到 node.js 模块时⚠警告
       commonjs(),
       json(),
       esbuild({
@@ -43,7 +44,7 @@ module.exports = (env = 'production') => {
       }),
       alias({
         entries: [
-          { find: '@main', replacement: path.join(__dirname, '../src/main'), },
+          { find: '@main', replacement: join(__dirname, '../src/main'), },
         ]
       })
     ],
@@ -61,4 +62,6 @@ module.exports = (env = 'production') => {
       'electron',
     ],
   }
+
+  return options
 }
