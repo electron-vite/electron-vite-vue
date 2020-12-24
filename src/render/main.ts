@@ -10,4 +10,4 @@ console.log('ipcRenderer:', ipcRenderer)
 console.log('Store', store)
 console.log('electron is dev', isdev)
 
-createApp(App as any).mount('#app')
+createApp(App as any).mount('#app').$nextTick(window.ClosePreloadLoading)

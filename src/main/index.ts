@@ -8,7 +8,7 @@ import dotenv from 'dotenv'
 
 dotenv.config({ path: join(__dirname, '../../.env') })
 
-let win = null
+let win: BrowserWindow
 
 function createWin() {
   // 创建浏览器窗口
@@ -17,6 +17,7 @@ function createWin() {
     height: 768,
     webPreferences: {
       nodeIntegration: true,
+      preload: join(__dirname, '../preload/index.js'),
     },
   })
 
@@ -24,7 +25,7 @@ function createWin() {
     ? `http://localhost:${process.env.PORT}` // vite 启动的服务器地址
     : `file://${join(__dirname, '../render/index.html')}` // vite 构建后的静态文件地址
 
-  win.loadURL(URL)
+  win?.loadURL(URL)
 }
 
 app.whenReady().then(createWin)
