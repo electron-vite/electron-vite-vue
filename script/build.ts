@@ -7,9 +7,9 @@ import { watch, rollup, OutputOptions } from 'rollup'
 import minimist from 'minimist'
 import chalk from 'chalk'
 import ora from 'ora'
-import waitOn from 'wait-on'
 import electron from 'electron'
 import dotenv from 'dotenv'
+import { waitOn } from './utils'
 import options from './rollup.config'
 import { main } from '../package.json'
 
@@ -21,16 +21,7 @@ const TAG = '[script/build.ts]'
 const spinner = ora(`${TAG} Electron build...`)
 
 if (argv.watch) {
-  waitOn({
-    resources: [`http://localhost:${process.env.PORT}`],
-    log: false,
-  }, err => {
-    if (err) {
-      console.log(err)
-      process.exit(1)
-    }
-
-    // once here, all resources are available
+  waitOn({ port: process.env.PORT as string }).then(msg => {
     const watcher = watch(opt)
     let child: ChildProcess
     watcher.on('change', filename => {

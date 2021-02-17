@@ -9,9 +9,9 @@
     "dev:all": "concurrently -n=vue,ele -c=green,blue \"npm run dev:vue\" \"npm run dev:ele\"",
     "dev:vue": "vite",
     "dev:ele": "node -r ts-node/register script/build --env=development --watch",
-    "build:vue": "vite build",
+    "build:vue": "vuedx-typecheck . && vite build",
     "build:ele": "node -r ts-node/register script/build --env=production",
-    "build": "rm -rf dist && npm run build:vue && npm run build:ele && electron-builder"
+    "build": "rimraf dist && npm run build:vue && npm run build:ele && electron-builder"
   },
   "build": {
     "appId": "308487730@qq.com",
@@ -44,7 +44,7 @@
     }
   },
   "dependencies": {
-    "vue": "^3.0.0"
+    "vue": "^3.0.5"
   },
   "devDependencies": {
     "@rollup/plugin-alias": "^3.1.1",
@@ -53,21 +53,23 @@
     "@rollup/plugin-node-resolve": "^9.0.0",
     "@types/minimist": "^1.2.1",
     "@types/wait-on": "^5.2.0",
-    "@vue/compiler-sfc": "^3.0.0",
+    "@vitejs/plugin-vue": "^1.1.4",
+    "@vue/compiler-sfc": "^3.0.5",
+    "@vuedx/typecheck": "^0.6.0",
+    "@vuedx/typescript-plugin-vue": "^0.6.0",
     "chalk": "^4.1.0",
     "concurrently": "^5.3.0",
-    "electron": "9.1.0",
+    "electron": "11.2.3",
     "electron-builder": "^22.8.0",
-    "electron-is-dev": "^1.2.0",
-    "electron-store": "^6.0.0",
+    "electron-store": "^7.0.2",
     "minimist": "^1.2.5",
     "ora": "^5.0.0",
+    "rimraf": "^3.0.2",
     "rollup-plugin-copy": "^3.3.0",
     "rollup-plugin-esbuild": "^2.4.2",
     "ts-node": "^9.1.1",
-    "typescript": "^4.0.3",
-    "vite": "^1.0.0-rc.4",
-    "wait-on": "^5.2.0"
+    "typescript": "^4.1.3",
+    "vite": "^2.0.0"
   },
   "keywords": [
     "vite",
