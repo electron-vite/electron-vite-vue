@@ -15,12 +15,20 @@
   },
   "build": {
     "appId": "308487730@qq.com",
+    "asar": false,
+    "directories": {
+      "output": "release/${version}"
+    },
     "files": [
       "!node_modules",
       "dist/**"
     ],
+    "extraResources": {
+      "from": "src/preload",
+      "to": "app/dist/preload"
+    },
     "mac": {
-      "artifactName": "${productName}_setup_${version}.${ext}",
+      "artifactName": "${productName}_${version}.${ext}",
       "target": [
         "dmg"
       ]
@@ -34,7 +42,7 @@
           ]
         }
       ],
-      "artifactName": "${productName}_setup_${version}.${ext}"
+      "artifactName": "${productName}_${version}.${ext}"
     },
     "nsis": {
       "oneClick": false,
@@ -62,7 +70,6 @@
     "minimist": "^1.2.5",
     "ora": "^5.0.0",
     "rimraf": "^3.0.2",
-    "rollup-plugin-copy": "^3.3.0",
     "rollup-plugin-esbuild": "^2.6.1",
     "rollup-plugin-node-externals": "^2.2.0",
     "ts-node": "^9.1.1",

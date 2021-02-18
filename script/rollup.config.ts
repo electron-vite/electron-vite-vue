@@ -5,7 +5,6 @@ import commonjs from '@rollup/plugin-commonjs'
 import esbuild from 'rollup-plugin-esbuild'
 import alias from '@rollup/plugin-alias'
 import json from '@rollup/plugin-json'
-import copy from 'rollup-plugin-copy'
 import externals from 'rollup-plugin-node-externals'
 
 export default (env = 'production') => {
@@ -49,9 +48,6 @@ export default (env = 'production') => {
         entries: [
           { find: '@main', replacement: join(__dirname, '../src/main'), },
         ]
-      }),
-      copy({
-        targets: [{ src: join(__dirname, '../src/preload'), dest: join(__dirname, '../dist') }],
       }),
       externals(),
     ],
