@@ -1,3 +1,4 @@
+import { sep } from 'path'
 import { get } from 'http'
 import { green } from 'chalk'
 
@@ -17,4 +18,24 @@ export function waitOn(arg0: { port: string | number; interval?: number; }) {
       })
     }, interval)
   })
+}
+
+/** cjs2esm */
+export function cjs2esm() {
+  return {
+    name: '@rollup/plugin-cjs2esm',
+    transform(code: string, filename: string) {
+      if (filename.includes(`${sep}node_modules${sep}`)) {
+        return code
+      }
+
+      const cjsRegexp = /(const|let|var)[\n\s]+(\w+)[\n\s]*=[\n\s]*require\(["|'](.+)["|']\)/g
+      const res = code.match(cjsRegexp)
+      if (res) {
+        // const Store = require('electron-store') -> import Store from 'electron-store'
+        code = code.replace(cjsRegexp, `import $2 from '$3'`)
+      }
+      return code
+    },
+  }
 }

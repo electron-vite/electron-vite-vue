@@ -7,5 +7,5 @@ declare module '*.jpg'
 
 interface Window {
   /** 关闭预加载动画 */
- ClosePreloadLoading: () => void
+  ClosePreloadLoading: () => void
 }

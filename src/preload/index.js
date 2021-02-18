@@ -1,3 +1,4 @@
+// @ts-nocheck
 
 /** docoment 加载完成 */
 function domReady(...args) {

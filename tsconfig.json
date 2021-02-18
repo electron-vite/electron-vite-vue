@@ -11,16 +11,12 @@
     "baseUrl": "./",
     "strict": true,
     "paths": {
-      "/assets/*": ["src/render/assets/*"],
-      "/components/*": ["src/render/components/*"],
-      "/lib/*": ["src/render/lib/*"],
-      "/utils/*": ["src/render/utils/*"],
-      "/views/*": ["src/render/views/*"]
+      "@/*": ["src/render/*"],
+      "@root/*": ["./*"],
     },
     "allowSyntheticDefaultImports": true
   },
   "include": [
-    "src/**/*",
-    "typings/*.d.ts"
+    "src"
   ]
 }
