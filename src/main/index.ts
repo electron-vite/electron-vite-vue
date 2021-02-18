@@ -16,7 +16,7 @@ function createWin() {
     height: 768,
     webPreferences: {
       nodeIntegration: true,
-      preload: join(__dirname, '../preload/index.js'),
+      preload: join(__dirname, '../../src/preload/index.js'),
     },
   })
 
