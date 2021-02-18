@@ -25,7 +25,7 @@
     ],
     "extraResources": {
       "from": "src/preload",
-      "to": "app/dist/preload"
+      "to": "app/src/preload"
     },
     "mac": {
       "artifactName": "${productName}_${version}.${ext}",
