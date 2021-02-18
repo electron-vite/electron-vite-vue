@@ -1,17 +1,19 @@
 import { get } from 'http'
+import { green } from 'chalk'
 
 /** 轮询监听 vite 启动 */
 export function waitOn(arg0: { port: string | number; interval?: number; }) {
   return new Promise(resolve => {
     const { port, interval = 149 } = arg0
+    const url = `http://localhost:${port}`
     let counter = 0
     const timer: NodeJS.Timer = setInterval(() => {
-      get(`http://localhost:${port}`, res => {
+      get(url, res => {
         clearInterval(timer)
-        console.log('[waitOn]', res.statusCode, res.statusMessage)
+        console.log('[waitOn]', green(`"${url}" are already responsive.`), `(${res.statusCode}: ${res.statusMessage})`)
         resolve(res.statusCode)
       }).on('error', err => {
-        console.log('[waitOn]', `counter:${counter++}`)
+        console.log('[waitOn]', `counter: ${counter++}`)
       })
     }, interval)
   })

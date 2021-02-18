@@ -6,6 +6,7 @@ import esbuild from 'rollup-plugin-esbuild'
 import alias from '@rollup/plugin-alias'
 import json from '@rollup/plugin-json'
 import copy from 'rollup-plugin-copy'
+import externals from 'rollup-plugin-node-externals'
 
 export default (env = 'production') => {
   const options: RollupOptions = {
@@ -26,7 +27,7 @@ export default (env = 'production') => {
         exclude: /node_modules/, // default
         // watch: process.argv.includes('--watch'), // rollup 中有配置
         sourceMap: false, // default
-        minify: process.env.NODE_ENV === 'production',
+        minify: env === 'production',
         target: 'es2017', // default, or 'es20XX', 'esnext'
         jsxFactory: 'React.createElement',
         jsxFragment: 'React.Fragment',
@@ -34,6 +35,7 @@ export default (env = 'production') => {
         define: {
           __VERSION__: '"x.y.z"'
         },
+        tsconfig: 'tsconfig.json', // default
         // Add extra loaders
         loaders: {
           // Add .json files support
@@ -50,21 +52,10 @@ export default (env = 'production') => {
       }),
       copy({
         targets: [{ src: join(__dirname, '../src/preload'), dest: join(__dirname, '../dist') }],
-      })
+      }),
+      externals(),
     ],
-    external: [
-      'crypto',
-      'assert',
-      'fs',
-      'util',
-      'os',
-      'events',
-      'child_process',
-      'http',
-      'https',
-      'path',
-      'electron',
-    ],
+    external: ['electron'],
   }
 
   return options
