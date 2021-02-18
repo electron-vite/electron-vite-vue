@@ -41,6 +41,20 @@
     ],
   ```
 - "rollup-plugin-esbuild": "^2.4.2", 有 BUG `21-02-18`
+- **tsconfig.json中不能有多余的逗号，不然有如下警告** `21-02-18`
+  ```bash
+   SyntaxError: Unexpected token ] in JSON at position 428
+      at JSON.parse (<anonymous>)
+      at Object.load (/Users/caoxie/Desktop/github/electron-vue-vite2/node_modules/rollup-plugin-esbuild/dist/index.js:21:17) {
+    code: 'PLUGIN_ERROR',
+    plugin: 'esbuild',
+    hook: 'transform',
+    id: '/Users/caoxie/Desktop/github/electron-vue-vite2/src/main/index.ts',
+    watchFiles: [
+      '/Users/caoxie/Desktop/github/electron-vue-vite2/src/main/index.ts'
+    ]
+  }
+  ```
 
 ## 总结
 
