@@ -1,10 +1,11 @@
 /**
  * electron 主文件
  */
-require('dotenv').config({ path: join(__dirname, '../../.env') })
-
 import { join } from 'path'
 import { app, BrowserWindow } from 'electron'
+import dotenv from 'dotenv'
+
+dotenv.config({ path: join(__dirname, '../../.env') })
 
 let win: BrowserWindow
 

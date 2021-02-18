@@ -10,6 +10,7 @@ import { cjs2esm } from './script/utils'
 export default defineConfig({
   plugins: [vue()],
   root: join(__dirname, 'src/render'),
+  base: './', // index.html 中静态资源加载位置
   server: {
     port: +process.env.PORT,
   },
