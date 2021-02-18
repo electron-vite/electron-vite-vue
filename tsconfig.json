@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "ESNext",
-    "module": "UMD",
+    "module": "CommonJS",
     "moduleResolution": "node",
     "importHelpers": true,
     "jsx": "preserve",
