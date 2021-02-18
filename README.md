@@ -57,6 +57,25 @@
   ```
 - main 进程中暂时无法用 require，打包后会导致模块找不到 `21-02-18`
 - `"asar": false` 这样可以保障 `"extraResources"` 能够正常搬运到文件夹中 `21-02-18`
+- 报错 **React is not defined** `21-02-18`
+  * 参考链接 `https://github.com/vitejs/vite/issues/1286`
+  * 参考链接 `https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx`
+  ```ts
+  // vite.config.js
+  import vueJsx from '@vitejs/plugin-vue-jsx'
+
+  export default {
+    plugins: [
+      vueJsx({
+        // options are passed on to @vue/babel-plugin-jsx
+      })
+    ],
+    esbuild: {
+      jsxFactory: 'h',
+      jsxFragment: 'Fragment'
+    },
+  }
+  ```
 
 ## 总结
 
