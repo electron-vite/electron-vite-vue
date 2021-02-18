@@ -1,6 +1,10 @@
 node_modules
 .DS_Store
 dist
+dist-ssr
 *.local
+
 src/main/_.js
 src/main/_.js.map
+tmp
+**/.tmp
