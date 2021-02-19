@@ -53,6 +53,10 @@
     },
   }
   ```
+- 报错 `https://github.com/ajv-validator/ajv/issues/1399` `21-02-19`
+  ```bash
+  Circular dependency: node_modules\conf\node_modules\ajv\dist\compile\validate\dataType.js -> node_modules\conf\node_modules\ajv\dist\compile\util.js -> node_modules\conf\node_modules\ajv\dist\compile\validate\index.js -> node_modules\conf\node_modules\ajv\dist\compile\validate\dataType.js
+  ```
 
 ---
 - 如果只需要最基础的集成 Demo 请使用 [`vite@2.x`](https://github.com/caoxiemeihao/electron-vue-vite/tree/vite%402.x) 或 [`vite@1.x`](https://github.com/caoxiemeihao/electron-vue-vite/tree/vite%401.x) 分支
