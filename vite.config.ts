@@ -21,6 +21,7 @@ export default defineConfig({
   resolve: {
     alias: {
       '@': join(__dirname, 'src/render'),
+      '@src': join(__dirname, 'src'),
       '@root': __dirname,
     },
   },
