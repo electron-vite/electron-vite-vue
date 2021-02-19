@@ -1,13 +1,15 @@
 import { defineComponent } from 'vue'
-import { RouterView } from 'vue-router'
+import { RouterView, useRoute } from 'vue-router'
 import AppLayout from '@/layout'
 
 export default defineComponent({
   setup() {
-    return () => (
-      <AppLayout>
+    const route = useRoute()
+
+    return () => route.path === '/login'
+      ? <RouterView />
+      : <AppLayout>
         <RouterView />
       </AppLayout>
-    )
   },
 })

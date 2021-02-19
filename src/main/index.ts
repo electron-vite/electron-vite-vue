@@ -2,29 +2,53 @@
  * electron 主文件
  */
 import { join } from 'path'
-import { app, BrowserWindow } from 'electron'
+import { app } from 'electron'
+import { Login, Main } from './window'
+import store, { USER_INFO } from '@src/common/utils/store.ts'
+import { User } from './interfaces/user'
 import dotenv from 'dotenv'
+import {
+  LOGIN,
+  LOGIN_CLOSE,
+  LOGOUT,
+} from '@src/common/constant/event.ts'
 
 dotenv.config({ path: join(__dirname, '../../.env') })
 
-let win: BrowserWindow
+function init() {
+  const loginWin = new Login()
+  const mainWin = new Main()
 
-function createWin() {
-  // 创建浏览器窗口
-  win = new BrowserWindow({
-    width: 1024,
-    height: 768,
-    webPreferences: {
-      nodeIntegration: true,
-      preload: join(__dirname, '../../src/preload/index.js'),
-    },
-  })
+  const mainOpen = () => {
+    mainWin.open()
+    const unsubscribe = mainWin.subscribe(LOGOUT, win => {
+      unsubscribe()
+      mainWin.close()
+      loginOpen()
+    })
+  }
+  const loginOpen = () => {
+    loginWin.open()
+    const unsubscribeLogin = loginWin.subscribe(LOGIN, win => {
+      unsubscribeLogin()
+      loginWin.close()
+      mainOpen()
+    })
+    const unsubscribeClose = loginWin.subscribe(LOGIN_CLOSE, win => {
+      unsubscribeClose()
+      loginWin.close()
+      app.exit(0)
+    })
+  }
 
-  const URL = app.isPackaged
-    ? `file://${join(__dirname, '../render/index.html')}` // vite 构建后的静态文件地址
-    : `http://localhost:${process.env.PORT}` // vite 启动的服务器地址
+  const user: User = (store.get(USER_INFO) ?? {}) as User
 
-  win?.loadURL(URL)
+  if (user.token) {
+    mainOpen()
+  } else {
+    loginOpen()
+  }
+
 }
 
-app.whenReady().then(createWin)
+app.whenReady().then(init)

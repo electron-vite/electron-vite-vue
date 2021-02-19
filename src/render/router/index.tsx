@@ -1,4 +1,4 @@
-import { createRouter, createWebHashHistory, RouteRecordRaw } from 'vue-router'
+import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
 import { HomeOutlined, UserOutlined } from '@ant-design/icons-vue'
 
 export interface RouteMeta {
@@ -16,6 +16,10 @@ export const routes: RouteRecordRaw[] = [
     } as RouteMeta,
   },
   {
+    path: '/login',
+    component: () => import('@/pages/login'),
+  },
+  {
     path: '/about',
     component: () => import('@/pages/about'),
     meta: {
@@ -27,5 +31,5 @@ export const routes: RouteRecordRaw[] = [
 
 export default createRouter({
   routes,
-  history: createWebHashHistory(),
+  history: createWebHistory(),
 })
