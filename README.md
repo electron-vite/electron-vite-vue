@@ -67,4 +67,4 @@
 
 ---
 
-![](https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/master/screenshot/800x600.png)
+![](https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/master/screenshot/800x600-2.png)
