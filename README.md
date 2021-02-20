@@ -1,5 +1,5 @@
 # electron-vue-vite
-`Electron` + `vue3` + `vite` 整合
+`Electron` + `vue3` + `vite2` + `ant-design-vue2` 整合
 
 #### [简书地址](https://www.jianshu.com/p/ee5ec23d4716)
 
