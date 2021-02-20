@@ -45,9 +45,10 @@ export default (env = 'production') => {
         },
       }),
       alias({
-        entries: [
-          { find: '@main', replacement: join(__dirname, '../src/main'), },
-        ]
+        entries: {
+          '@src': join(__dirname, '../src'),
+          '@root': join(__dirname, '..'),
+        },
       }),
       externals(),
     ],

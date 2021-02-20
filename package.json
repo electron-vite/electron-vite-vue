@@ -52,21 +52,26 @@
     }
   },
   "dependencies": {
-    "vue": "^3.0.5"
+    "@ant-design/icons-vue": "^6.0.1",
+    "ant-design-vue": "^2.0.0",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.3"
   },
   "devDependencies": {
-    "@rollup/plugin-alias": "^3.1.1",
-    "@rollup/plugin-commonjs": "^15.0.0",
+    "@rollup/plugin-alias": "^3.1.2",
+    "@rollup/plugin-commonjs": "^17.1.0",
     "@rollup/plugin-json": "^4.1.0",
-    "@rollup/plugin-node-resolve": "^9.0.0",
+    "@rollup/plugin-node-resolve": "^11.2.0",
     "@types/minimist": "^1.2.1",
     "@vitejs/plugin-vue": "^1.1.4",
+    "@vitejs/plugin-vue-jsx": "^1.1.0",
     "@vue/compiler-sfc": "^3.0.5",
     "chalk": "^4.1.0",
     "concurrently": "^5.3.0",
     "electron": "11.2.3",
     "electron-builder": "^22.8.0",
     "electron-store": "^7.0.2",
+    "less": "^4.1.1",
     "minimist": "^1.2.5",
     "ora": "^5.0.0",
     "rimraf": "^3.0.2",

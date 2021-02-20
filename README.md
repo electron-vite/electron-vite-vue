@@ -17,31 +17,8 @@
 - import { write } from 'fs' 的这种形式会被 vite 编译成 /@modules/fs?import
 - const { write } = require('fs') 这种形式就能用了 😉
 - const { ipcRenderer } = require('electron') 同理
-- 虽然开发期可以用 require 避开 vite 的编译问题，但是打包时候 rollup 那边又出了问题；
-  * 拿 const Store = require('electron-store') 举例，在 vite.config.ts 中通过自定义 rollup 插件转换成 EMS 形式即可
-  ```javascript
-    // vite.config.ts -> rollupInputOptions -> plugins
-    plugins: [
-      {
-        name: '@rollup/plugin-cjs2esm',
-        transform(code, filename) {
-          if (filename.includes('/node_modules/')) {
-            return code
-          }
-
-          const cjsRegexp = /(const|let|var)[\n\s]+(\w+)[\n\s]*=[\n\s]*require\(["|'](.+)["|']\)/g
-          const res = code.match(cjsRegexp)
-          if (res) {
-            // const Store = require('electron-store') -> import Store from 'electron-store'
-            code = code.replace(cjsRegexp, `import $2 from '$3'`)
-          }
-          return code
-        },
-      }
-    ],
-  ```
 - "rollup-plugin-esbuild": "^2.4.2", 有 BUG `21-02-18`
-- **tsconfig.json中不能有多余的逗号，不然有如下警告** `21-02-18`
+- tsconfig.json中不能有多余的逗号，不然 `rollup-plugin-esbuild` 会有如下警告 `21-02-18`
   ```bash
    SyntaxError: Unexpected token ] in JSON at position 428
       at JSON.parse (<anonymous>)
@@ -57,14 +34,31 @@
   ```
 - main 进程中暂时无法用 require，打包后会导致模块找不到 `21-02-18`
 - `"asar": false` 这样可以保障 `"extraResources"` 能够正常搬运到文件夹中 `21-02-18`
+- 报错 **React is not defined** `21-02-18`
+  * 参考链接 `https://github.com/vitejs/vite/issues/1286`
+  * 参考链接 `https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx`
+  ```ts
+  // vite.config.js
+  import vueJsx from '@vitejs/plugin-vue-jsx'
 
-## 总结
-
-- 2019 款 13 寸 mac-pro 启动速度 4秒 左右
-- 奔腾 G4560 台机 CUP 神舟笔记本启动速度 6 秒左右
-- 毋庸置疑 vite 的方案比起 @vue/cli、umi、create-react-app 这类基于 webpack 的脚手架启动这块的优势大的多滴多
-- 技术总是飞快的迭代、进步，目的都是解决一些已经存在、或即将到来的问题；继续治疗、学习起来、加油哇~
+  export default {
+    plugins: [
+      vueJsx({
+        // options are passed on to @vue/babel-plugin-jsx
+      })
+    ],
+    esbuild: {
+      jsxFactory: 'h',
+      jsxFragment: 'Fragment'
+    },
+  }
+  ```
+- 报错 `https://github.com/ajv-validator/ajv/issues/1399` `21-02-19`
+  ```bash
+  Circular dependency: node_modules\conf\node_modules\ajv\dist\compile\validate\dataType.js -> node_modules\conf\node_modules\ajv\dist\compile\util.js -> node_modules\conf\node_modules\ajv\dist\compile\validate\index.js -> node_modules\conf\node_modules\ajv\dist\compile\validate\dataType.js
+  ```
 
 ---
+- 如果只需要最基础的集成 Demo 请使用 [`vite@2.x`](https://github.com/caoxiemeihao/electron-vue-vite/tree/vite%402.x) 或 [`vite@1.x`](https://github.com/caoxiemeihao/electron-vue-vite/tree/vite%401.x) 分支
 
 ![](https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/master/screenshot/800x600-2.png)

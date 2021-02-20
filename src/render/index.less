@@ -1,0 +1,55 @@
+/**
+ * 全局样式
+ */
+
+:root {
+  --color-primary: #FF6C60;
+
+  --padding-sm: 12px;
+  --padding-md: 16px;
+  --padding-lg: 20px;
+  --padding-form: 5px var(--padding-sm);
+
+  --height-header: 64px;
+  --width-sider: 200px;
+  --width-sider-min: 80px;
+
+  --shadow-base: 0 0 7px -3px rgba(0, 0, 0, 0.33);
+  --shadow-chunk: 0 4px 10px -4px rgba(0, 0, 0, 0.15);
+  --shadow-header: 0px 2px 5px -3px #c1c1c1;
+}
+
+#app {
+  height: 100%;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
+
+::selection {
+  background: #FF6C60;
+  color: #fff;
+}
+
+.content-wrap {
+  height: calc(100% - var(--padding-sm) * 2);
+  overflow: auto;
+  padding: var(--padding-md);
+  box-shadow: var(--shadow-base);
+  margin: var(--padding-sm);
+  background-color: white;
+}
+
+.shadow-base {
+  box-shadow: var(--shadow-base);
+}
+
+.shadow-chunk {
+  box-shadow: var(--shadow-chunk);
+}
+
+.shadow-header {
+  box-shadow: var(--shadow-header);
+}
