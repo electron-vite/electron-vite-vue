@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
+import { createRouter, createWebHashHistory, RouteRecordRaw } from 'vue-router'
 import { HomeOutlined, UserOutlined } from '@ant-design/icons-vue'
 
 export interface RouteMeta {
@@ -31,5 +31,5 @@ export const routes: RouteRecordRaw[] = [
 
 export default createRouter({
   routes,
-  history: createWebHistory(),
+  history: createWebHashHistory(), // 这里使用 hash 模式，确保打包后正常加载
 })

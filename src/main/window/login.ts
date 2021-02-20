@@ -23,7 +23,7 @@ export class Login extends WinSubscribe {
       frame: !app.isPackaged, // 打包后去掉边框
       ...this.opts,
     })
-    this.win.loadURL(`${this.url}/login`)
+    this.win.loadURL(`${this.url}#/login`) // 这里使用 hash 模式，确保打包后正常加载
     // 窗口居中
     this.win.center()
   }
