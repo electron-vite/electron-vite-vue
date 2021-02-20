@@ -61,4 +61,6 @@
 ---
 - 如果只需要最基础的集成 Demo 请使用 [`vite@2.x`](https://github.com/caoxiemeihao/electron-vue-vite/tree/vite%402.x) 或 [`vite@1.x`](https://github.com/caoxiemeihao/electron-vue-vite/tree/vite%401.x) 分支
 
-![](https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/master/screenshot/800x600-2.png)
+![](https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/master/screenshot/login.png)
+
+![](https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/master/screenshot/main-antd.png)
