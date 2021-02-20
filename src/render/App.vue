@@ -1,5 +1,5 @@
 <template>
-  <div class="logo-box">
+  <div class="app-box">
     <img style="height:200px;" src="./assets/electron.png" alt="Electron logo">
     <img alt="Vue logo" src="./assets/logo.png" />
   </div>
@@ -18,9 +18,11 @@ export default {
 </script>
 
 <style>
-.logo-box {
+.app-box {
+  padding-top: 14vh;
   display: flex;
   width: 100%;
   justify-content: center;
+  margin-bottom: 29px;
 }
 </style>

@@ -1,0 +1,38 @@
+.sider-wrap {
+  .menu-item {
+    font-size: 20px;
+    line-height: 50px;
+    cursor: pointer;
+    color: #b3afc0;
+
+    a {
+      color: #b3afc0;
+    }
+
+    &.active {
+      background-color: #e7e5eb;
+
+      a {
+        color: var(--color-primary, #594c96);
+      }
+    }
+
+    &.setting {
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      left: 0;
+    }
+
+  }
+
+}
+
+.setting-popover {
+  width: 90px;
+
+  .setting-item {
+    padding: 0 4px;
+    cursor: pointer;
+  }
+}

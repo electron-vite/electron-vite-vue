@@ -1,0 +1,38 @@
+.custom-devtool {
+  display: flex;
+  align-items: center;
+  line-height: initial;
+
+  .btn-group {
+    padding: 4px;
+    border-radius: 4px;
+    background: rgba(194, 194, 194, .14);
+    color: #b3afc0;
+
+    .anticon {
+      padding: 4px;
+      border-radius: 100%;
+
+      &:hover {
+        color: var(--color-primary, #ff7700);
+        border-color: var(--color-primary, #ff7700);
+      }
+
+      &:first-child {
+        margin-left: 0;
+      }
+    }
+  }
+
+  .href.production {
+    color: transparent;
+
+    &:hover {
+      color: #999;
+    }
+  }
+
+  &.vertical {}
+
+  &.horizontal {}
+}

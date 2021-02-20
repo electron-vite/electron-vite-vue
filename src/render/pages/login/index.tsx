@@ -3,18 +3,7 @@ import { defineComponent, reactive, ref } from 'vue'
 import { Button, Input, Form, Tabs } from 'ant-design-vue'
 import { UserOutlined, CloseOutlined, HomeOutlined, LockOutlined } from '@ant-design/icons-vue'
 import { LOGIN, LOGIN_CLOSE } from '@src/common/constant/event.ts'
-
 import './index.less'
-
-interface stringAry {
-  name: string
-  value: string
-}
-
-const dropData: stringAry[] = [
-  { name: '商家', value: '0' },
-  { name: '个人', value: '1' },
-]
 
 enum TabKey {
   登录 = '登录',
@@ -30,7 +19,6 @@ export default defineComponent({
       password2: '',
     })
     const tabKey = ref<TabKey>(TabKey.登录)
-    const itemKey = ref(0)
 
     const submitForm = () => {
       console.log(values)
