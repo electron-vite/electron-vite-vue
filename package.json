@@ -19,6 +19,9 @@
     "directories": {
       "output": "release/${version}"
     },
+    "electronDownload": {
+      "mirror": "https://npm.taobao.org/mirrors/electron/"
+    },
     "files": [
       "!node_modules",
       "dist/**"
