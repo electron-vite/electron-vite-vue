@@ -11,6 +11,7 @@ import {
   LOGIN,
   LOGIN_CLOSE,
   LOGOUT,
+  TOGGLE_DEVTOOLS,
 } from '@src/common/constant/event.ts'
 
 dotenv.config({ path: join(__dirname, '../../.env') })
@@ -21,8 +22,12 @@ function init() {
 
   const mainOpen = () => {
     mainWin.open()
-    const unsubscribe = mainWin.subscribe(LOGOUT, win => {
-      unsubscribe()
+    const unsubscribeDevtool = mainWin.subscribe(TOGGLE_DEVTOOLS, win => {
+      mainWin.win?.webContents.toggleDevTools()
+    })
+    const unsubscribeLogin = mainWin.subscribe(LOGOUT, win => {
+      unsubscribeDevtool()
+      unsubscribeLogin()
       mainWin.close()
       loginOpen()
     })

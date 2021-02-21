@@ -23,9 +23,7 @@ export default () => {
       <div class="custom-devtool">
         <div class={['btn-group', 'd-flex', layout, layout === 'vertical' ? 'flex-column' : ''].join(' ')}>
           <Tooltip title="切换开发者工具">
-            <ControlOutlined
-              onClick={() => ipcRenderer.send(event.TOGGLE_DEVTOOLS)}
-            />
+            <ControlOutlined onClick={() => ipcRenderer.invoke(event.TOGGLE_DEVTOOLS)} />
           </Tooltip>
           <Tooltip title="首页">
             <WindowsOutlined onClick={() => router.push('/')} />
