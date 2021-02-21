@@ -26,10 +26,12 @@ export default defineConfig({
     },
   },
   optimizeDeps: {
-    exclude: ['electron-store', 'electron']
+    // exclude: ['electron-store', 'electron'],
   },
   build: {
     outDir: join(__dirname, 'dist/render'),
+    sourcemap: true,
+    minify: false,
     rollupOptions: {
       external: ['electron'],
       plugins: [
