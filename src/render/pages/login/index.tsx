@@ -70,6 +70,7 @@ export default defineComponent({
 
     return () => (
       <div class="login-wrap">
+        <div class="drap-top-bar"></div>
         <div class="left-banner d-flex align-items-center justify-content-center">BANNER</div>
         <div class="right-login">
           <Tabs key={tabKey as any}>

@@ -18,14 +18,15 @@ export default () => {
 
   const Component = ({ layout }: ComponentProps) => {
     const router = useRouter()
+    const placement = { placement: layout === 'vertical' ? 'right' : undefined }
 
     return (
       <div class="custom-devtool">
         <div class={['btn-group', 'd-flex', layout, layout === 'vertical' ? 'flex-column' : ''].join(' ')}>
-          <Tooltip title="切换开发者工具">
+          <Tooltip title="切换开发者工具" {...placement}>
             <ControlOutlined onClick={() => ipcRenderer.invoke(event.TOGGLE_DEVTOOLS)} />
           </Tooltip>
-          <Tooltip title="首页">
+          <Tooltip title="首页" {...placement}>
             <WindowsOutlined onClick={() => router.push('/')} />
           </Tooltip>
           <ArrowLeftOutlined onClick={() => router.back()} />
