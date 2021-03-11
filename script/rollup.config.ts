@@ -18,8 +18,11 @@ export default (env = 'production') => {
     },
     plugins: [
       nodeResolve({
-        preferBuiltins: true, // 消除碰到 node.js 模块时⚠警告
-        browser: true,
+        // 消除碰到 node.js 模块时⚠警告
+        preferBuiltins: true, browser: true,
+
+        // 这里配置 .ts 解决 @rollup/plugin-alias 加载 ts 文件找不到
+        // 与 @rollup/plugin-alias 配置 customResolver 效果相同
         extensions: ['.ts', '.js'],
       }),
       commonjs(),
