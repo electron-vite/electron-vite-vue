@@ -4,7 +4,7 @@
 import { join } from 'path'
 import { app } from 'electron'
 import { Login, Main } from './window'
-import store, { USER_INFO } from '@src/common/utils/store.ts'
+import store, { USER_INFO } from '@src/common/utils/store'
 import { User } from './interfaces/user'
 import dotenv from 'dotenv'
 import {
@@ -12,7 +12,7 @@ import {
   LOGIN_CLOSE,
   LOGOUT,
   TOGGLE_DEVTOOLS,
-} from '@src/common/constant/event.ts'
+} from '@src/common/constant/event'
 
 dotenv.config({ path: join(__dirname, '../../.env') })
 

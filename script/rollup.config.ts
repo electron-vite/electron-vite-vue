@@ -17,7 +17,11 @@ export default (env = 'production') => {
       sourcemap: true,
     },
     plugins: [
-      nodeResolve({ preferBuiltins: true, browser: true }), // 消除碰到 node.js 模块时⚠警告
+      nodeResolve({
+        preferBuiltins: true, // 消除碰到 node.js 模块时⚠警告
+        browser: true,
+        extensions: ['.ts', '.js'],
+      }),
       commonjs(),
       json(),
       esbuild({
