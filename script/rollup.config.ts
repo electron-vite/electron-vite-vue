@@ -60,6 +60,12 @@ export default (env = 'production') => {
       externals(),
     ],
     external: ['electron'],
+    onwarn: warning => {
+      // https://github.com/rollup/rollup/issues/1089#issuecomment-365395213
+      if (warning.code !== 'CIRCULAR_DEPENDENCY') {
+        console.error(`(!) ${warning.message}`)
+      }
+    },
   }
 
   return options
