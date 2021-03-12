@@ -35,7 +35,7 @@ export default defineConfig({
     rollupOptions: {
       external: ['electron'],
       plugins: [
-        externals(),
+        // externals(), 会使打包后的代码里面含有 import 语句；导致报错跑不起来
         // cjs2esm(),
       ],
     },
