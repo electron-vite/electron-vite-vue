@@ -1,6 +1,10 @@
 # electron-vue-vite
 `Electron` + `vue3` + `vite2` + `ant-design-vue2` 整合
 
+## 🐛 已知问题
+- https://github.com/caoxiemeihao/electron-vue-vite/issues/7
+- 项目打包后仍有问题 `待解决...` 暂时通过集成 `webpack` 解决打包问题 [https://github.com/caoxiemeihao/electron-vue-vite-webpack](https://github.com/caoxiemeihao/electron-vue-vite-webpack)
+
 #### [简书地址](https://www.jianshu.com/p/ee5ec23d4716)
 
 ## How and Why
@@ -12,9 +16,6 @@
 ## Command
 - npm run dev
 - npm run build
-
-## 已知问题
-- 项目打包后仍有问题 `待解决...` 暂时通过集成 `webpack` 解决打包问题 [https://github.com/caoxiemeihao/electron-vue-vite-webpack](https://github.com/caoxiemeihao/electron-vue-vite-webpack)
 
 ---
 - 如果只需要最基础的集成 Demo 请使用 [`vite@2.x`](https://github.com/caoxiemeihao/electron-vue-vite/tree/vite%402.x) 或 [`vite@1.x`](https://github.com/caoxiemeihao/electron-vue-vite/tree/vite%401.x) 分支
