@@ -1,7 +1,7 @@
 {
   "name": "electron-vue",
   "version": "0.0.1",
-  "main": "dist/main/_.js",
+  "main": "dist/main/index.js",
   "author": "草鞋没号 <308487730@qq.com>",
   "license": "MIT",
   "scripts": {

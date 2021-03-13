@@ -11,15 +11,15 @@ export default (env = 'production') => {
   const options: RollupOptions = {
     input: join(__dirname, '../src/main/index.ts'),
     output: {
-      file: join(__dirname, '../dist/main/_.js'),
+      file: join(__dirname, '..', process.env.npm_package_main as string),
       format: 'cjs',
       name: 'ElectronMainBundle',
-      sourcemap: true,
+      sourcemap: false,
     },
     plugins: [
       nodeResolve({
         // 消除碰到 node.js 模块时⚠警告
-        preferBuiltins: true, browser: true,
+        // preferBuiltins: true, browser: true,
 
         // 这里配置 .ts 解决 @rollup/plugin-alias 加载 ts 文件找不到
         // 与 @rollup/plugin-alias 配置 customResolver 效果相同
@@ -33,7 +33,7 @@ export default (env = 'production') => {
         exclude: /node_modules/, // default
         // watch: process.argv.includes('--watch'), // rollup 中有配置
         sourceMap: false, // default
-        minify: env === 'production',
+        minify: false, // env === 'production',
         target: 'es2017', // default, or 'es20XX', 'esnext'
         jsxFactory: 'React.createElement',
         jsxFragment: 'React.Fragment',
