@@ -16,7 +16,7 @@ export default defineComponent({
         </Layout.Sider>
         <Layout.Content>
           {/* 奇怪的写法: https://github.com/vuejs/composition-api/issues/84 */}
-          {ctx?.slots?.default()}
+          {ctx?.slots?.default?.()}
         </Layout.Content>
       </Layout>
     )

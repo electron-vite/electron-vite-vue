@@ -18,7 +18,7 @@ export default () => {
 
   const Component = ({ layout }: ComponentProps) => {
     const router = useRouter()
-    const placement = { placement: layout === 'vertical' ? 'right' : undefined }
+    const placement: Record<string, any = { placement: layout === 'vertical' ? 'right' : undefined }
 
     return (
       <div class="custom-devtool">
