@@ -71,3 +71,7 @@
   Circular dependency: node_modules\conf\node_modules\ajv\dist\compile\validate\dataType.js -> node_modules\conf\node_modules\ajv\dist\compile\util.js -> node_modules\conf\node_modules\ajv\dist\compile\validate\index.js -> node_modules\conf\node_modules\ajv\dist\compile\validate\dataType.js
   ```
 
+## License
+
+[MIT License](https://opensource.org/licenses/MIT)
+
