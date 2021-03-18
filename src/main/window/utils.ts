@@ -12,6 +12,7 @@ export const options: Electron.BrowserWindowConstructorOptions = {
   height: 768,
   webPreferences: {
     nodeIntegration: true,
+    contextIsolation: false,
     preload: join(__dirname, '../../src/preload/index.js'),
   },
   ...(app.isPackaged
