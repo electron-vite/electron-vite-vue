@@ -21,7 +21,7 @@ export function waitOn(arg0: { port: string | number; interval?: number; }) {
 }
 
 /** cjs2esm */
-export function cjs2esm() {
+function _cjs2esm() {
   return {
     name: '@rollup/plugin-cjs2esm',
     transform(code: string, filename: string) {
@@ -38,4 +38,12 @@ export function cjs2esm() {
       return code
     },
   }
+}
+
+/**
+ * cjs2esm
+ * 参考: https://mp.weixin.qq.com/s/SlXIjnwbHS_enHXlZAnMMw
+ */
+export function cjs2esm() {
+
 }
