@@ -17,7 +17,7 @@ dotenv.config({ path: join(__dirname, '../.env') })
 
 const argv = minimist(process.argv.slice(2))
 const opt = options(argv.env)
-const TAG = '[script/build.ts]'
+const TAG = '[build-main.ts]'
 const spinner = ora(`${TAG} Electron build...`)
 
 if (argv.watch) {
