@@ -5,7 +5,7 @@ import commonjs from '@rollup/plugin-commonjs'
 import esbuild from 'rollup-plugin-esbuild'
 import alias from '@rollup/plugin-alias'
 import json from '@rollup/plugin-json'
-import externals from 'rollup-plugin-node-externals'
+import { builtins } from './utils'
 
 export default (env = 'production') => {
   const options: RollupOptions = {
@@ -49,9 +49,11 @@ export default (env = 'production') => {
           { find: '@main', replacement: join(__dirname, '../src/main'), },
         ]
       }),
-      externals(),
     ],
-    external: ['electron'],
+    external: [
+      ...builtins(),
+      'electron',
+    ],
   }
 
   return options

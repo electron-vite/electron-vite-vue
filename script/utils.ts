@@ -1,3 +1,4 @@
+import { builtinModules } from 'module'
 import { sep } from 'path'
 import { get } from 'http'
 import { green } from 'chalk'
@@ -39,3 +40,6 @@ export function cjs2esm() {
     },
   }
 }
+
+/** node.js 内置模块 */
+export const builtins = () => builtinModules.filter(x => !/^_|^(internal|v8|node-inspect)\/|\//.test(x))
