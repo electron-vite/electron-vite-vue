@@ -24,6 +24,7 @@ export default defineConfig({
     emptyOutDir: true,
     minify: false,
     commonjsOptions: {},
+    assetsDir: '', // 相对路径加载问题
     rollupOptions: {
       external: [
         ...builtins(),
