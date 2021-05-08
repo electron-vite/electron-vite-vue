@@ -21,3 +21,9 @@
 ---
 
 ![](https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/main/screenshot/800x600-2.png)
+
+---
+
+## License
+
+[MIT License](https://opensource.org/licenses/MIT)
