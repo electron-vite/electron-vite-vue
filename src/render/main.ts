@@ -1,8 +1,4 @@
-/**
- * !!! ensure cwd crrect
- */
-process.chdir(__dirname)
-
+import '@src/common/patch'
 import { createApp } from 'vue'
 import App from './App.vue'
 import fs = require('fs')

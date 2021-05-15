@@ -1,6 +1,7 @@
 /**
  * electron 主文件
  */
+import '@src/common/patch'
 import { join } from 'path'
 import { app, BrowserWindow } from 'electron'
 import dotenv from 'dotenv'
