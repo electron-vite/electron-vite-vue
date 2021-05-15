@@ -1,7 +1,8 @@
 import { builtinModules } from 'module'
-import { sep } from 'path'
+import { sep, join } from 'path'
 import { get } from 'http'
 import { green } from 'chalk'
+import { Plugin } from 'rollup'
 
 /** 轮询监听 vite 启动 */
 export function waitOn(arg0: { port: string | number; interval?: number; }) {
@@ -41,5 +42,22 @@ export function cjs2esm() {
   }
 }
 
-/** node.js 内置模块 */
+/** ensure cwd crrect */
+export function ensureCwdCrrect(filename: string): Plugin {
+  return {
+    name: 'cxmh:ensure-cwd-crrect',
+    transform(code, id) {
+      if (id === filename) {
+        return `
+// !!! ensure cwd crrect
+process.chdir(__dirname)
+
+${code}
+`
+      }
+    },
+  }
+}
+
+/** node.js builtins module */
 export const builtins = () => builtinModules.filter(x => !/^_|^(internal|v8|node-inspect)\/|\//.test(x))
