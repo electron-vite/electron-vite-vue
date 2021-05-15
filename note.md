@@ -18,3 +18,5 @@
   * rollup 对 .ts 文件并不会编程(只会编译 .js 文件)
   * typescript 不编译 require
   * `npm` 有个包 `typescript-require`
+- electron-store、conf
+  * npm 包会有依赖 `process.cwd()` 的情况，默认 `process.cwd() === '/'` 需要正确指向；补丁 `src/common/patch.ts`
