@@ -1,9 +1,12 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-// vite 会编译 import 的形式；所以 electron 及 node.js 内置模块用 require 形式
-const { ipcRenderer } = require('electron')
+import { ipcRenderer } from 'electron'
+// import Store from 'electron-store'
 import './index.css'
 
 console.log('ipcRenderer:', ipcRenderer)
+// console.log('electron-store', new Store({ name: 'electron-vue' }))
 
-createApp(App).mount('#app').$nextTick(window.ClosePreloadLoading)
+createApp(App)
+  .mount('#app')
+  .$nextTick(window.ClosePreloadLoading)

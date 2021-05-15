@@ -12,6 +12,7 @@
     "strict": true,
     "paths": {
       "@/*": ["src/render/*"],
+      "@main/*": ["src/main/*"],
       "@root/*": ["./*"]
     },
     "allowSyntheticDefaultImports": true

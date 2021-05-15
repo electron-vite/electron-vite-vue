@@ -16,13 +16,13 @@ import { main } from '../package.json'
 dotenv.config({ path: join(__dirname, '../.env') })
 
 const argv = minimist(process.argv.slice(2))
-const opt = options(argv.env)
+const opts = options(argv.env)
 const TAG = '[build-main.ts]'
 const spinner = ora(`${TAG} Electron build...`)
 
 if (argv.watch) {
   waitOn({ port: process.env.PORT as string }).then(msg => {
-    const watcher = watch(opt)
+    const watcher = watch(opts)
     let child: ChildProcess
     watcher.on('change', filename => {
       const log = chalk.green(`change -- ${filename}`)
@@ -39,11 +39,11 @@ if (argv.watch) {
   })
 } else {
   spinner.start()
-  rollup(opt)
+  rollup(opts)
     .then(build => {
       spinner.stop()
       console.log(TAG, chalk.green('Electron build successed.'))
-      build.write(opt.output as OutputOptions)
+      build.write(opts.output as OutputOptions)
     })
     .catch(error => {
       spinner.stop()
