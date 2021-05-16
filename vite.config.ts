@@ -45,7 +45,7 @@ export default defineConfig(env => {
     optimizeDeps: {
       exclude: [
         'electron',
-        'electron-store', // optional
+        // 'electron-store', // optional
       ],
     },
     build: {
