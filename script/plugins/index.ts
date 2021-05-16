@@ -1,4 +1,3 @@
-import fs from 'fs'
 import path from 'path'
 import acorn from 'acorn'
 import { Plugin as RollupPlugin } from 'rollup'
@@ -29,7 +28,7 @@ export function cjs2esm() {
 }
 
 /** esm2cjs */
-export function esm2cjs(needConvertModules: string[]): VitePlugin {
+export function esm2cjs(moduleList: string[]): VitePlugin {
   const filter = {
     include: (id: string) => vue_js_ts_extensions.includes(path.parse(id).ext)
   }
@@ -47,9 +46,8 @@ export function esm2cjs(needConvertModules: string[]): VitePlugin {
 
         let codeRet = code
         node.body.reverse().forEach((item) => {
-          console.log(item)
           if (item.type !== 'ImportDeclaration') return
-          if (!needConvertModules.includes(item.source.value)) return // 跳过不要转换的模块
+          if (!moduleList.includes(item.source.value)) return // 跳过不要转换的模块
 
           const statr = codeRet.substring(0, item.start)
           const end = codeRet.substring(item.end)
@@ -79,8 +77,6 @@ const { ${modules.join(', ')} } = ${deftModule}${end}`
             codeRet = `${statr}const { ${modules.join(', ')} } = require(${item.source.raw})${end}`
           }
         })
-
-        fs.writeFileSync(path.join(__dirname, '.tmp/') + `${parsed.name + parsed.ext}.js`, codeRet)
 
         return codeRet
       }
