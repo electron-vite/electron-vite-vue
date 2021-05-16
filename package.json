@@ -63,6 +63,7 @@
     "@types/minimist": "^1.2.1",
     "@vitejs/plugin-vue": "^1.2.2",
     "@vue/compiler-sfc": "^3.0.11",
+    "acorn": "^8.2.4",
     "chalk": "^4.1.0",
     "concurrently": "^6.0.0",
     "electron": "12.0.2",

@@ -4,13 +4,23 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import { join } from 'path'
 // import typescript from '@rollup/plugin-typescript'
-import { builtins, ensureCwdCrrect } from './script/utils'
+import { builtins } from './script/utils'
+import {
+  // ensureCwdCrrect,
+  esm2cjs,
+} from './script/plugins'
 
 const root = join(__dirname, 'src/render')
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [vue()],
+  plugins: [
+    vue(),
+    esm2cjs([
+      'electron',
+      'electron-store',
+    ]),
+  ],
   root,
   base: './', // index.html 中静态资源加载位置
   server: {
@@ -23,6 +33,9 @@ export default defineConfig({
       '@src': join(__dirname, 'src'),
       '@root': __dirname,
     },
+  },
+  optimizeDeps: {
+    exclude: ['electron'],
   },
   build: {
     outDir: join(__dirname, 'dist/render'),

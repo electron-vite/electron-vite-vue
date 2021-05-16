@@ -1,8 +1,6 @@
 import { builtinModules } from 'module'
-import { sep, join } from 'path'
 import { get } from 'http'
 import { green } from 'chalk'
-import { Plugin } from 'rollup'
 
 /** 轮询监听 vite 启动 */
 export function waitOn(arg0: { port: string | number; interval?: number; }) {
@@ -20,43 +18,6 @@ export function waitOn(arg0: { port: string | number; interval?: number; }) {
       })
     }, interval)
   })
-}
-
-/** cjs2esm */
-export function cjs2esm() {
-  return {
-    name: '@rollup/plugin-cjs2esm',
-    transform(code: string, filename: string) {
-      if (filename.includes(`${sep}node_modules${sep}`)) {
-        return code
-      }
-
-      const cjsRegexp = /(const|let|var)[\n\s]+(\w+)[\n\s]*=[\n\s]*require\(["|'](.+)["|']\)/g
-      const res = code.match(cjsRegexp)
-      if (res) {
-        // const Store = require('electron-store') -> import Store from 'electron-store'
-        code = code.replace(cjsRegexp, `import $2 from '$3'`)
-      }
-      return code
-    },
-  }
-}
-
-/** ensure cwd crrect */
-export function ensureCwdCrrect(filename: string): Plugin {
-  return {
-    name: 'cxmh:ensure-cwd-crrect',
-    transform(code, id) {
-      if (id === filename) {
-        return `
-// !!! ensure cwd crrect
-process.chdir(__dirname)
-
-${code}
-`
-      }
-    },
-  }
 }
 
 /** node.js builtins module */
