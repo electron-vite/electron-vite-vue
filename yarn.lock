@@ -2816,6 +2816,13 @@ vite@^2.2.4:
   optionalDependencies:
     fsevents "~2.3.1"
 
+vitejs-plugin-electron@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/vitejs-plugin-electron/-/vitejs-plugin-electron-0.0.4.tgz#b6ce83510572cf50c55cc9f35d6a847d7fcd67b4"
+  integrity sha512-mD4weY2OJaDY48i5P4LNYV10wS490MvZG4y9egfve75Qs89nZ6G8mfdRId+3bL36AKGJuvEWLiuzpV0dHSAqwA==
+  dependencies:
+    acorn "^8.2.4"
+
 vue@^3.0.11:
   version "3.0.11"
   resolved "https://registry.yarnpkg.com/vue/-/vue-3.0.11.tgz#c82f9594cbf4dcc869241d4c8dd3e08d9a8f4b5f"
