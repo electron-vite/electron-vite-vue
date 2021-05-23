@@ -11,7 +11,7 @@
 ## Note
 - In the development environment, we need to transform the `Electron` related API into commonjs
 - And you can only use ESM
-- So far, I've written an `esm2cjs` plugin
+- So far, I've written an [vitejs-plugin-electron](https://github.com/caoxiemeihao/vitejs-plugins/tree/main/electron) plugin
   ```ts
   import { ipcRenderer } from 'electron'
   import Store from 'electron-store'
@@ -25,7 +25,7 @@
 
 - 开发模式下 Electron 相关的 API 需要转换成 commonjs
 - 并且你只能用 ESM
-- 为此我写了一个 `esm2cjs` 插件
+- 为此我写了一个 [vitejs-plugin-electron](https://github.com/caoxiemeihao/vitejs-plugins/tree/main/electron) 插件
 
 ## electron-vue-vite-webpack
 - If you are afraid of stepping on the pit, you can consider using this project
