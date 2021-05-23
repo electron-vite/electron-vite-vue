@@ -28,7 +28,7 @@
 - 为此我写了一个 [vitejs-plugin-electron](https://github.com/caoxiemeihao/vitejs-plugins/tree/main/electron) 插件
 
 ## electron-vue-vite-webpack
-- If you are afraid of stepping on the pit, you can consider using this project
+- If you're worried, you can consider using this project
 [ https://github.com/caoxiemeihao/electron-vue-vite-webpack ]( https://github.com/caoxiemeihao/electron-vue-vite-webpack)
  The production environment is packaged with 'webpack'
 
