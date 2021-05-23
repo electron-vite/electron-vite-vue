@@ -3,7 +3,6 @@ require('dotenv').config({ path: join(__dirname, '.env') })
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import { join } from 'path'
-import { builtins } from './script/utils'
 import electron from 'vitejs-plugin-electron'
 
 const root = join(__dirname, 'src/render')
@@ -34,15 +33,6 @@ export default defineConfig(env => {
       commonjsOptions: {},
       assetsDir: '', // 相对路径 加载问题
       sourcemap: true,
-      rollupOptions: {
-        external: [
-          ...builtins(),
-          'electron',
-        ],
-        output: {
-          format: 'cjs',
-        },
-      },
     },
   }
 })

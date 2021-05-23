@@ -2816,10 +2816,10 @@ vite@^2.2.4:
   optionalDependencies:
     fsevents "~2.3.1"
 
-vitejs-plugin-electron@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/vitejs-plugin-electron/-/vitejs-plugin-electron-0.0.5.tgz#4c561f5aaa7dcbe3e49805fd89e45299709a984a"
-  integrity sha512-82fw7iQerT5/pMuLcadFtVVpvkIVPSefHXOkK2ptuCIwsV4Z7zzydwQPJjZ2zYPA7J1flEakHiJeidxyCNgA9Q==
+vitejs-plugin-electron@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/vitejs-plugin-electron/-/vitejs-plugin-electron-0.1.0.tgz#308f603628ffc9a1821ffa9a7f7d4f1dc446796f"
+  integrity sha512-ftoKqmyaK7DsHe7FXPcOomUoZZ9EqpjoWGbRaXdXryE51RwpxI08ld6y/DEc08xErwu4SesTnLLQi8ZCet395A==
   dependencies:
     acorn "^8.2.4"
 
