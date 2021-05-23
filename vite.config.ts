@@ -9,13 +9,11 @@ import electron from 'vitejs-plugin-electron'
 const root = join(__dirname, 'src/render')
 
 export default defineConfig(env => {
-  const isserve = env.command === 'serve'
-
   return {
     plugins: [
       vue(),
-      isserve && electron({}),
-    ].filter(Boolean),
+      electron(),
+    ],
     root,
     base: './', // index.html 中静态资源加载位置
     server: {
@@ -28,11 +26,6 @@ export default defineConfig(env => {
         '@src': join(__dirname, 'src'),
         '@root': __dirname,
       },
-    },
-    optimizeDeps: {
-      exclude: [
-        'electron',
-      ],
     },
     build: {
       outDir: join(__dirname, 'dist/render'),
