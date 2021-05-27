@@ -28,15 +28,15 @@
 - 为此我写了一个 [vitejs-plugin-electron](https://github.com/caoxiemeihao/vitejs-plugins/tree/main/electron) 插件
 
 ## electron-vue-vite-webpack
-- If you're worried, you can consider using this project
-[ https://github.com/caoxiemeihao/electron-vue-vite-webpack ]( https://github.com/caoxiemeihao/electron-vue-vite-webpack)
- The production environment is packaged with 'webpack'
+- If you're worried, you can consider using this project<br>
+  [https://github.com/caoxiemeihao/electron-vue-vite-webpack]( https://github.com/caoxiemeihao/electron-vue-vite-webpack)<br>
+  The production environment is packaged with 'webpack'
 
 - 🚀
 
-- 如果你怕踩坑，可以考虑用这个项目
-  [https://github.com/caoxiemeihao/electron-vue-vite-webpack](https://github.com/caoxiemeihao/electron-vue-vite-webpack)
- 生产环境使用 `webpack` 打包的
+- 如果你怕踩坑，可以考虑用这个项目<br>
+  [https://github.com/caoxiemeihao/electron-vue-vite-webpack](https://github.com/caoxiemeihao/electron-vue-vite-webpack)<br>
+  生产环境使用 `webpack` 打包的
 
 ---
 
