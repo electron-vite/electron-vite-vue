@@ -12,13 +12,35 @@
 - In the development environment, we need to transform the `Electron` related API into commonjs
 - And you can only use ESM
 - So far, I've written an [vitejs-plugin-electron](https://github.com/caoxiemeihao/vitejs-plugins/tree/main/electron) plugin
+
+## Usage
+- vite.config.ts
+
+```ts
+import { defineConfig } from 'vite'
+import vue from '@vitejs/plugin-vue'
+import electron from 'vitejs-plugin-electron'
+
+export default defineConfig((env) => ({
+  plugins: [
+    vue(),
+    electron(),
+  ],
+  // other config...
+}))
+```
+
+> In "src/render/main.ts" file
   ```ts
+  // You code
   import { ipcRenderer } from 'electron'
   import Store from 'electron-store'
-  // Will generate
+  
+  // Will be generate in development mode
   const { ipcRenderer } = require("electron")
   const Store = require("electron-store")
   ```
+
 - It works!
 
 - 🚀
