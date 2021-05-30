@@ -20,3 +20,18 @@
   * `npm` 有个包 `typescript-require`
 - electron-store、conf
   * npm 包会有依赖 `process.cwd()` 的情况，默认 `process.cwd() === '/'` 需要正确指向；补丁 `src/common/patch.ts`
+
+## 21-05-30
+
+- typescript
+
+> strict: true 会在 tsc 期间做严格的类型检查
+
+```json
+{
+  "compilerOptions": {
+    "strict": true
+  }
+}
+
+````
