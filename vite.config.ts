@@ -29,6 +29,7 @@ export default defineConfig({
     outDir: join(__dirname, 'dist/render'),
     sourcemap: true,
     minify: false,
+    assetsDir: '', // 相对路径 加载问题
   },
   esbuild: {
     jsxFactory: 'h',
