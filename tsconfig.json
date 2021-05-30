@@ -9,7 +9,6 @@
     "resolveJsonModule": true,
     "sourceMap": true,
     "baseUrl": "./",
-    "strict": true,
     "paths": {
       "@/*": ["src/render/*"],
       "@src/*": ["src/*"],

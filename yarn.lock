@@ -2575,13 +2575,6 @@ rollup-plugin-esbuild@^3.0.2:
     joycon "^3.0.0"
     jsonc-parser "^3.0.0"
 
-rollup-plugin-node-externals@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/rollup-plugin-node-externals/-/rollup-plugin-node-externals-2.2.0.tgz#23946e8c0fdd0e321cc3f225d4cebc3d819d17c4"
-  integrity sha512-WM7TtQ76GdsLceEGmZzQzn1afj8JgOQT5VLs1Y9RMqowM/8eK2mBj/Lv7hoE833U75QsUZIRirYUtFatu51RJA==
-  dependencies:
-    find-up "^4.1.0"
-
 rollup@^2.38.5:
   version "2.39.0"
   resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.39.0.tgz#be4f98c9e421793a8fec82c854fb567c35e22ab6"
@@ -3015,6 +3008,11 @@ vite@^2.1.2:
     rollup "^2.38.5"
   optionalDependencies:
     fsevents "~2.3.1"
+
+vitejs-plugin-electron@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/vitejs-plugin-electron/-/vitejs-plugin-electron-0.1.2.tgz#e1541843daf266a9b9a16d91c02c15f278164b6c"
+  integrity sha512-2X+bJ/iE7iu+KYtFWWFhgEaNa+BV+nfZOuby0wcOqATq+5xEPtASRyOYLTtUJzc5tUomhHXNs6NAHO/VJLEfSQ==
 
 vue-router@^4.0.5:
   version "4.0.5"

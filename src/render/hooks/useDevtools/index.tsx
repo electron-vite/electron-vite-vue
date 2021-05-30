@@ -1,5 +1,5 @@
 
-const { ipcRenderer } = require('electron')
+import { ipcRenderer } from 'electron'
 import { useRoute, useRouter } from 'vue-router'
 import { Tooltip } from 'ant-design-vue'
 import {

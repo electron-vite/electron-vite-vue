@@ -5,7 +5,7 @@ import commonjs from '@rollup/plugin-commonjs'
 import esbuild from 'rollup-plugin-esbuild'
 import alias from '@rollup/plugin-alias'
 import json from '@rollup/plugin-json'
-import externals from 'rollup-plugin-node-externals'
+import { builtins } from './utils'
 
 export default (env = 'production') => {
   const options: RollupOptions = {
@@ -56,10 +56,12 @@ export default (env = 'production') => {
           '@src': join(__dirname, '../src'),
           '@root': join(__dirname, '..'),
         },
-      }),
-      externals(),
+      }),,
     ],
-    external: ['electron'],
+    external: [
+      ...builtins(),
+      'electron',
+    ],
     onwarn: warning => {
       // https://github.com/rollup/rollup/issues/1089#issuecomment-365395213
       if (warning.code !== 'CIRCULAR_DEPENDENCY') {
