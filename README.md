@@ -66,6 +66,12 @@ export default defineConfig((env) => ({
 
 ---
 
+## 微信讨论
+
+![](https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/main/blog/wx/qrcode.jpg)
+
+---
+
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
