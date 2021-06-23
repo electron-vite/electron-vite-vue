@@ -52,7 +52,7 @@
     }
   },
   "dependencies": {
-    "vue": "^3.0.11"
+    "vue": "^3.1.2"
   },
   "devDependencies": {
     "@rollup/plugin-alias": "^3.1.2",
@@ -61,22 +61,22 @@
     "@rollup/plugin-node-resolve": "^11.2.1",
     "@rollup/plugin-typescript": "^8.2.1",
     "@types/minimist": "^1.2.1",
-    "@vitejs/plugin-vue": "^1.2.2",
-    "@vue/compiler-sfc": "^3.0.11",
+    "@vitejs/plugin-vue": "^1.2.3",
+    "@vue/compiler-sfc": "^3.1.2",
     "acorn": "^8.2.4",
     "chalk": "^4.1.0",
     "concurrently": "^6.0.0",
-    "electron": "12.0.2",
+    "electron": "13.1.4",
     "electron-builder": "^22.10.5",
-    "electron-store": "^7.0.2",
+    "electron-store": "^8.0.0",
     "minimist": "^1.2.5",
     "ora": "^5.4.0",
     "rimraf": "^3.0.2",
-    "rollup-plugin-esbuild": "^4.2.3",
+    "rollup-plugin-esbuild": "^4.5.0",
     "ts-node": "^9.1.1",
-    "typescript": "^4.2.4",
-    "vite": "^2.2.4",
-    "vitejs-plugin-electron": "^0.1.0"
+    "typescript": "^4.3.4",
+    "vite": "^2.3.8",
+    "vitejs-plugin-electron": "^0.1.3"
   },
   "keywords": [
     "vite",
