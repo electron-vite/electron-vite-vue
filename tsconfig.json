@@ -17,8 +17,5 @@
       "@root/*": ["./*"]
     },
     "allowSyntheticDefaultImports": true
-  },
-  "include": [
-    "src"
-  ]
+  }
 }
