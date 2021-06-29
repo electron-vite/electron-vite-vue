@@ -1,10 +1,10 @@
 import { createApp } from 'vue'
 import App from './App'
 import router from './router'
-import fs from 'fs'
 
+import fs from 'fs'
 import { ipcRenderer } from 'electron'
-import Store from 'electron-store'
+// import Store from 'electron-store'
 
 // Will be generate in development mode
 // const { ipcRenderer } = require("electron")
@@ -16,7 +16,7 @@ import './index.less'
 
 console.log('fs', fs)
 console.log('ipcRenderer:', ipcRenderer)
-console.log('electron-store', new Store())
+// console.log('electron-store', new Store())
 
 createApp(App)
   .use(router)
