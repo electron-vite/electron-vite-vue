@@ -21,6 +21,9 @@ function loadingBootstrap() {
   const loadingStyle = document.createElement('style');
   const loadingBox = document.createElement('div');
 
+  loadingStyle.id = 'preload-loading-style';
+  loadingBox.id = 'preload-loading-box';
+
   loadingStyle.textContent += `
   /* https://projects.lukehaas.me/css-loaders/ */
   .loading-box { height: 100vh; width: 100vw; position: fixed; left: 0; top: 0; display: flex; align-items: center; background-color: #242424; z-index: 9; }
@@ -104,8 +107,12 @@ function loadingBootstrap() {
   };
 
   const removeLoading = () => {
-    document.head.removeChild(loadingStyle);
-    document.body.removeChild(loadingBox);
+    const _loadingStyle = document.getElementById('preload-loading-style');
+    const _loadingBox = document.getElementById('preload-loading-box');
+
+    // Ensure the remove child exists. 
+    _loadingStyle && document.head.removeChild(_loadingStyle);
+    _loadingBox && document.body.removeChild(_loadingBox);
   };
 
   return { loadingStyle, loadingBox, removeLoading, appendLoading }
