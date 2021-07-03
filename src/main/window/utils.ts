@@ -7,6 +7,9 @@ export function getLoadURL() {
     : `http://localhost:${process.env.PORT}` // vite 启动的服务器地址
 }
 
+/**
+ * https://www.electronjs.org/docs/breaking-changes
+ */
 export const options: Electron.BrowserWindowConstructorOptions = {
   width: 1024,
   height: 768,

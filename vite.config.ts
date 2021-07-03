@@ -1,7 +1,7 @@
 require('dotenv').config({ path: join(__dirname, '.env') })
 
 import { join } from 'path'
-import { defineConfig } from 'vite'
+import { defineConfig, Plugin } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import vueJsx from '@vitejs/plugin-vue-jsx'
 import electron from 'vitejs-plugin-electron'
@@ -12,6 +12,7 @@ export default defineConfig({
     vue(),
     vueJsx({ /* options are passed on to @vue/babel-plugin-jsx */ }),
     electron(),
+    polyfillExports(),
   ],
   root: join(__dirname, 'src/render'),
   base: './', // index.html 中静态资源加载位置
@@ -37,3 +38,11 @@ export default defineConfig({
     // jsxInject: `import { h } from 'vue'`, 通过 @vitejs/plugin-vue-jsx 解决
   },
 })
+
+function polyfillExports(): Plugin {
+  return {
+    name: 'cxmh:plugin-polyfill-exports',
+    transformIndexHtml: (html) => html.replace('<head>', `<head>
+  <script>const exports = module.exports;</script>`),
+  }
+}

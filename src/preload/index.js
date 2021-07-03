@@ -17,9 +17,12 @@ function domReady(...args) {
 }
 
 /** 插入 loading */
-function insertLoading() {
+function loadingBootstrap() {
   const loadingStyle = document.createElement('style');
   const loadingBox = document.createElement('div');
+
+  loadingStyle.id = 'preload-loading-style';
+  loadingBox.id = 'preload-loading-box';
 
   loadingStyle.textContent += `
   /* https://projects.lukehaas.me/css-loaders/ */
@@ -104,8 +107,12 @@ function insertLoading() {
   };
 
   const removeLoading = () => {
-    document.head.removeChild(loadingStyle);
-    document.body.removeChild(loadingBox);
+    const _loadingStyle = document.getElementById('preload-loading-style');
+    const _loadingBox = document.getElementById('preload-loading-box');
+
+    // Ensure the remove child exists. 
+    _loadingStyle && document.head.removeChild(_loadingStyle);
+    _loadingBox && document.body.removeChild(_loadingBox);
   };
 
   return { loadingStyle, loadingBox, removeLoading, appendLoading }
@@ -114,16 +121,16 @@ function insertLoading() {
 ; (async function () {
   await domReady();
 
-  let _isCallClosePreloadLoading = false;
-  const { removeLoading, appendLoading } = insertLoading();
+  let _isCallRemoveLoading = false;
+  const { removeLoading, appendLoading } = loadingBootstrap();
 
-  window.ClosePreloadLoading = () => {
-    _isCallClosePreloadLoading = true;
+  window.removeLoading = () => {
+    _isCallRemoveLoading = true;
     removeLoading();
   };
 
   // 5 秒超时自动关闭
-  setTimeout(() => !_isCallClosePreloadLoading && removeLoading(), 4999);
+  setTimeout(() => !_isCallRemoveLoading && removeLoading(), 4999);
 
   appendLoading();
 })();
