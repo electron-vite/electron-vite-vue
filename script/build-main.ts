@@ -19,6 +19,7 @@ const argv = minimist(process.argv.slice(2))
 const opts = options(argv.env)
 const TAG = '[build-main.ts]'
 const spinner = ora(`${TAG} Electron build...`)
+process.env.NODE_ENV = argv.env
 
 if (argv.watch) {
   waitOn({ port: process.env.PORT as string }).then(msg => {
