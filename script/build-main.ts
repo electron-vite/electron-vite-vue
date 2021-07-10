@@ -19,7 +19,6 @@ const argv = minimist(process.argv.slice(2))
 const opts = options(argv.env)
 const TAG = '[build-main.ts]'
 const spinner = ora(`${TAG} Electron build...`)
-process.env.NODE_ENV = argv.env
 
 if (argv.watch) {
   waitOn({ port: process.env.PORT as string }).then(msg => {
@@ -32,7 +31,13 @@ if (argv.watch) {
     watcher.on('event', ev => {
       if (ev.code === 'END') {
         if (child) child.kill()
-        child = spawn(electron as any, [join(__dirname, `../${main}`)], { stdio: 'inherit' })
+        child = spawn(
+          electron as any,
+          [join(__dirname, `../${main}`)],
+          {
+            stdio: 'inherit',
+            env: Object.assign(process.env, { NODE_ENV: argv.env }),
+          })
       } else if (ev.code === 'ERROR') {
         console.log(ev.error)
       }
