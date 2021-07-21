@@ -20,9 +20,7 @@ export default (env = 'production') => {
       nodeResolve(),
       commonjs(),
       json(),
-      typescript({
-        module: 'ESNext',
-      }),
+      typescript(),
       alias({
         entries: [
           { find: '@render', replacement: join(__dirname, '../src/render') },
