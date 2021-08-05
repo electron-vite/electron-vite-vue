@@ -1,7 +1,6 @@
 /**
  * electron 主文件
  */
-import '@src/common/patch'
 import { join } from 'path'
 import { app, BrowserWindow } from 'electron'
 import dotenv from 'dotenv'
@@ -18,7 +17,7 @@ function createWin() {
     webPreferences: {
       nodeIntegration: true,
       contextIsolation: false,
-      preload: join(__dirname, '../../src/preload/index.js'),
+      preload: join(__dirname, '../preload/index.js'),
     },
   })
 
