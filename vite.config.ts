@@ -11,7 +11,9 @@ export default defineConfig(env => {
   return {
     plugins: [
       vue(),
-      electron(),
+      electron({
+        excludes: ['electron-store']
+      }),
     ],
     root,
     base: './', // index.html 中静态资源加载位置

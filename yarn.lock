@@ -355,10 +355,20 @@
   resolved "https://registry.yarnpkg.com/@vue/shared/-/shared-3.1.5.tgz#74ee3aad995d0a3996a6bb9533d4d280514ede03"
   integrity sha512-oJ4F3TnvpXaQwZJNF3ZK+kLPHKarDmJjJ6jyzVNDKH9md1dptjC7lWR//jrGuLdek/U6iltWxqAnYOu8gCiOvA==
 
+acorn-walk@^8.x:
+  version "8.1.1"
+  resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-8.1.1.tgz#3ddab7f84e4a7e2313f6c414c5b7dac85f4e3ebc"
+  integrity sha512-FbJdceMlPHEAWJOILDk1fXD8lnTlEIWFkqtfk+MvmL5q/qlHfN7GEHcsFZWt/Tea9jRNPWUZG4G976nqAAmU9w==
+
 acorn@^8.2.4:
   version "8.2.4"
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.2.4.tgz#caba24b08185c3b56e3168e97d15ed17f4d31fd0"
   integrity sha512-Ibt84YwBDDA890eDiDCEqcbwvHlBvzzDkU2cGBBDDI1QWT12jTiXIOn2CIw5KK4i6N5Z2HUxwYjzriDyqaqqZg==
+
+acorn@^8.x.x:
+  version "8.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.4.1.tgz#56c36251fc7cabc7096adc18f05afe814321a28c"
+  integrity sha512-asabaBSkEKosYKMITunzX177CXxQ4Q8BSSzMTKD+FefUhipQC70gfW5SiUDhYQ3vk8G+81HqQk7Fv9OXwwn9KA==
 
 ajv-formats@^2.0.2:
   version "2.1.0"
@@ -2843,10 +2853,13 @@ vite@^2.4.4:
   optionalDependencies:
     fsevents "~2.3.2"
 
-vitejs-plugin-electron@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/vitejs-plugin-electron/-/vitejs-plugin-electron-0.1.3.tgz#a45ff488f6ddf577d6dd1f6a7e52dbee26955f13"
-  integrity sha512-xZBFj1IbycpSOSp27J+kD/0PQ+W5GDdF9nBxuZs75MPl1W37Blh4+WjBXZHNwpuTxEonPlcqUvEP+FGgUzjkpQ==
+vitejs-plugin-electron@^0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/vitejs-plugin-electron/-/vitejs-plugin-electron-0.1.5.tgz#544691ab83a2aa12bd5df2d70850af1b2b4af1a4"
+  integrity sha512-J4CLHEyGMVjmKEYocdZNnJKMTiFpxZ06i9oVaNUxU4sUi2Xf2nvoB/GDPDmGDnI5Qjojwu3NjkXuL+AWZaWDhQ==
+  dependencies:
+    acorn "^8.x.x"
+    acorn-walk "^8.x"
 
 vue@^3.1.5:
   version "3.1.5"
