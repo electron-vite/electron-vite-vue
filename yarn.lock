@@ -3208,11 +3208,6 @@ vite@^2.3.8:
   optionalDependencies:
     fsevents "~2.3.2"
 
-vitejs-plugin-electron@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/vitejs-plugin-electron/-/vitejs-plugin-electron-0.1.3.tgz#a45ff488f6ddf577d6dd1f6a7e52dbee26955f13"
-  integrity sha512-xZBFj1IbycpSOSp27J+kD/0PQ+W5GDdF9nBxuZs75MPl1W37Blh4+WjBXZHNwpuTxEonPlcqUvEP+FGgUzjkpQ==
-
 vue-router@^4.0.10:
   version "4.0.10"
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.0.10.tgz#ec8fda032949b2a31d3273170f8f376e86eb52ac"
