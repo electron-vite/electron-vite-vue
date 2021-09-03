@@ -2,18 +2,24 @@ import { join } from 'path'
 import { RollupOptions } from 'rollup'
 import { nodeResolve } from '@rollup/plugin-node-resolve'
 import commonjs from '@rollup/plugin-commonjs'
-import esbuild from 'rollup-plugin-esbuild'
 import alias from '@rollup/plugin-alias'
 import json from '@rollup/plugin-json'
-import { builtins } from './utils'
+import {
+  builtins,
+  typescript,
+} from './utils'
 
-export default (env = 'production') => {
+export interface ConfigOptions {
+  env?: typeof process.env.NODE_ENV
+  proc: 'main' | 'render' | 'preload'
+}
+
+export default function (opts: ConfigOptions) {
   const options: RollupOptions = {
-    input: join(__dirname, '../src/main/index.ts'),
+    input: join(__dirname, `../src/${opts.proc}/index.ts`),
     output: {
-      file: join(__dirname, '..', process.env.npm_package_main as string),
+      dir: join(__dirname, `../dist/${opts.proc}`),
       format: 'cjs',
-      name: 'ElectronMainBundle',
       sourcemap: false,
     },
     plugins: [
@@ -27,36 +33,13 @@ export default (env = 'production') => {
       }),
       commonjs(),
       json(),
-      esbuild({
-        // All options are optional
-        include: /\.[jt]sx?$/, // default, inferred from `loaders` option
-        exclude: /node_modules/, // default
-        // watch: process.argv.includes('--watch'), // rollup 中有配置
-        sourceMap: false, // default
-        minify: false, // env === 'production',
-        target: 'es2017', // default, or 'es20XX', 'esnext'
-        jsxFactory: 'React.createElement',
-        jsxFragment: 'React.Fragment',
-        // Like @rollup/plugin-replace
-        define: {
-          __VERSION__: '"x.y.z"'
-        },
-        tsconfig: 'tsconfig.json', // default
-        // Add extra loaders
-        loaders: {
-          // Add .json files support
-          // require @rollup/plugin-commonjs
-          '.json': 'json',
-          // Enable JSX in .js files too
-          '.js': 'jsx'
-        },
-      }),
+      typescript(),
       alias({
         entries: {
           '@src': join(__dirname, '../src'),
           '@root': join(__dirname, '..'),
         },
-      }),,
+      }), ,
     ],
     external: [
       ...builtins(),

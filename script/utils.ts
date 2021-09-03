@@ -1,6 +1,7 @@
 import { builtinModules } from 'module'
 import { get } from 'http'
 import { green } from 'chalk'
+import { Plugin } from 'rollup'
 
 /** 轮询监听 vite 启动 */
 export function waitOn(arg0: { port: string | number; interval?: number; }) {
@@ -22,3 +23,10 @@ export function waitOn(arg0: { port: string | number; interval?: number; }) {
 
 /** node.js builtins module */
 export const builtins = () => builtinModules.filter(x => !/^_|^(internal|v8|node-inspect)\/|\//.test(x))
+
+/** typescript with esbuild */
+export function typescript(): Plugin {
+  return {
+    name: 'cxmh:rollup-typescript-esbuild',
+  }
+}
