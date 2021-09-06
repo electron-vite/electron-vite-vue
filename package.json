@@ -5,13 +5,15 @@
   "author": "草鞋没号 <308487730@qq.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "npm run dev:all",
-    "dev:all": "concurrently -n=vue,ele -c=green,blue \"npm run dev:vue\" \"npm run dev:ele\"",
-    "dev:vue": "vite",
-    "dev:ele": "node -r ts-node/register script/build-main --env=development --watch",
-    "build:vue": "vite build",
-    "build:ele": "node -r ts-node/register script/build-main --env=production",
-    "build": "rimraf dist && npm run build:vue && npm run build:ele && electron-builder"
+    "dev": "concurrently -n=R,P,M -c=green,yellow,blue \"npm run dev:render\" \"npm run dev:preload\" \"npm run dev:main\"",
+    "dev:render": "vite",
+    "dev:preload": "node -r ts-node/register script/build-preload --env=development --watch",
+    "dev:main": "node -r ts-node/register script/build-main --env=development --watch",
+    "//": "---------------------------------------------------------------------------------------------------",
+    "build:render": "vite build",
+    "build:preload": "node -r ts-node/register script/build-preload --env=production",
+    "build:main": "node -r ts-node/register script/build-main --env=production",
+    "build": "rimraf dist && npm run build:render && npm run build:preload && npm run build:main && electron-builder"
   },
   "build": {
     "appId": "308487730@qq.com",
@@ -26,10 +28,6 @@
       "!node_modules",
       "dist/**"
     ],
-    "extraResources": {
-      "from": "src/preload",
-      "to": "app/src/preload"
-    },
     "mac": {
       "artifactName": "${productName}_${version}.${ext}",
       "target": [
