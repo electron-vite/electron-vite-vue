@@ -1,6 +1,3 @@
-/**
- * electron 打包
- */
 import { join } from 'path'
 import { spawn, ChildProcess } from 'child_process'
 import { watch, rollup, OutputOptions } from 'rollup'
@@ -16,9 +13,9 @@ import { main } from '../package.json'
 dotenv.config({ path: join(__dirname, '../.env') })
 
 const argv = minimist(process.argv.slice(2))
-const opt = options(argv.env)
-const TAG = '[script/build.ts]'
-const spinner = ora(`${TAG} Electron build...`)
+const opt = options({ proc: 'main', env: argv.env })
+const TAG = '[build-main.ts]'
+const spinner = ora(`${TAG} Electron main build...`)
 
 if (argv.watch) {
   waitOn({ port: process.env.PORT as string }).then(msg => {
@@ -42,7 +39,7 @@ if (argv.watch) {
   rollup(opt)
     .then(build => {
       spinner.stop()
-      console.log(TAG, chalk.green('Electron build successed.'))
+      console.log(TAG, chalk.green('Electron main build successed.'))
       build.write(opt.output as OutputOptions)
     })
     .catch(error => {
