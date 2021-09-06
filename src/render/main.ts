@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-import fs = require('fs')
+// import fs = require('fs')
 import { ipcRenderer } from 'electron'
 import Store from 'electron-store'
 import './index.css'
