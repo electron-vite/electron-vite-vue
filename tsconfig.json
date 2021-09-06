@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
     "target": "ESNext",
-    "module": "CommonJS",
     "moduleResolution": "node",
     "importHelpers": true,
     "jsx": "preserve",
@@ -10,9 +9,8 @@
     "sourceMap": true,
     "baseUrl": "./",
     "paths": {
-      "@/*": ["src/render/*"],
-      "@src/*": ["src/*"],
-      "@root/*": ["./*"]
+      "@root/*": ["./*"],
+      "@/*": ["src/*"],
     },
     "allowSyntheticDefaultImports": true
   }

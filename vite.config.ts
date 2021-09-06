@@ -1,6 +1,6 @@
-require('dotenv').config({ path: join(__dirname, '.env') })
+require('dotenv').config({ path: path.join(__dirname, '.env') })
 
-import { join } from 'path'
+import path from 'path'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import vueJsx from '@vitejs/plugin-vue-jsx'
@@ -9,7 +9,6 @@ import {
   polyfillExports,
 } from './vite-plugins'
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [
     vue(),
@@ -17,20 +16,19 @@ export default defineConfig({
     external(),
     polyfillExports(),
   ],
-  root: join(__dirname, 'src/render'),
+  root: path.join(__dirname, 'src/render'),
   base: './', // index.html 中静态资源加载位置
   server: {
     port: +process.env.PORT,
   },
   resolve: {
     alias: {
-      '@': join(__dirname, 'src/render'),
-      '@src': join(__dirname, 'src'),
       '@root': __dirname,
+      '@': path.join(__dirname, 'src'),
     },
   },
   build: {
-    outDir: join(__dirname, 'dist/render'),
+    outDir: path.join(__dirname, 'dist/render'),
     sourcemap: true,
     minify: false,
     assetsDir: '', // 相对路径 加载问题
