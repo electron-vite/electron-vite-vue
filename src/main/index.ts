@@ -1,60 +1,22 @@
-/**
- * electron 主文件
- */
-import { join } from 'path'
-import { app, BrowserWindow } from 'electron'
-import { Login, Main } from './window'
-import store, { USER_INFO } from '@src/common/utils/store'
-import { event } from '@src/common/constant'
-import { User } from './interfaces/user'
+import path from 'path'
 import dotenv from 'dotenv'
+import { app, BrowserWindow } from 'electron'
 
-dotenv.config({ path: join(__dirname, '../../.env') })
+dotenv.config({ path: path.join(process.cwd(), '.env') })
 
-function devEnvSetting(win: BrowserWindow) {
-  if (app.isPackaged) return
+let win: BrowserWindow = null
 
-  win?.webContents.openDevTools() // 开发环境默认打开控制台
-  win?.maximize() // 最大环窗口
+function getLoadURL() {
+  return app.isPackaged
+    ? `file://${path.join(__dirname, '../render/index.html')}` // vite 构建后的静态文件地址
+    : `http://localhost:${process.env.PORT}` // vite 启动的服务器地址
 }
 
-function init() {
-  const loginWin = new Login()
-  const mainWin = new Main()
-
-  const mainOpen = () => {
-    mainWin.open()
-    const unsubscribeDevtool = mainWin.subscribe(event.TOGGLE_DEVTOOLS, win => {
-      mainWin.win?.webContents.toggleDevTools()
-    })
-    const unsubscribeLogin = mainWin.subscribe(event.LOGOUT, win => {
-      unsubscribeDevtool()
-      unsubscribeLogin()
-      mainWin.close()
-      loginOpen()
-    })
-    mainWin.win && devEnvSetting(mainWin.win)
-  }
-
-  const loginOpen = () => {
-    loginWin.open()
-    const unsubscribeLogin = loginWin.subscribe(event.LOGIN, win => {
-      unsubscribeLogin()
-      loginWin.close()
-      mainOpen()
-    })
-    const unsubscribeClose = loginWin.subscribe(event.LOGIN_CLOSE, win => {
-      unsubscribeClose()
-      loginWin.close()
-      app.exit(0)
-    })
-  }
-
-  const user: User = (store.get(USER_INFO) ?? {}) as User
-
-  // user.token ? mainOpen() : loginOpen()
-  mainOpen()
-
+function bootstrap() {
+  win = new BrowserWindow({})
+  win.loadURL(getLoadURL())
 }
 
-app.whenReady().then(init)
+app.whenReady().then(bootstrap)
+
+app.on('window-all-closed', () => { win = null })
