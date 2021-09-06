@@ -6,15 +6,14 @@ dotenv.config({ path: path.join(process.cwd(), '.env') })
 
 let win: BrowserWindow = null
 
-function getLoadURL() {
-  return app.isPackaged
-    ? `file://${path.join(__dirname, '../render/index.html')}` // vite 构建后的静态文件地址
-    : `http://localhost:${process.env.PORT}` // vite 启动的服务器地址
-}
-
 function bootstrap() {
   win = new BrowserWindow({})
-  win.loadURL(getLoadURL())
+
+  if (app.isPackaged) {
+    win.loadFile(path.join(__dirname, '../render/index.html'))
+  } else {
+    win.loadURL(`http://localhost:${process.env.PORT}`)
+  }
 }
 
 app.whenReady().then(bootstrap)
