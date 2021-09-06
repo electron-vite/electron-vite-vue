@@ -5,7 +5,7 @@ import { Plugin } from 'rollup'
 
 /** 轮询监听 vite 启动 */
 export function waitOn(arg0: { port: string | number; interval?: number; }) {
-  return new Promise(resolve => {
+  return new Promise<number>(resolve => {
     const { port, interval = 149 } = arg0
     const url = `http://localhost:${port}`
     let counter = 0
@@ -24,7 +24,10 @@ export function waitOn(arg0: { port: string | number; interval?: number; }) {
 /** node.js builtins module */
 export const builtins = () => builtinModules.filter(x => !/^_|^(internal|v8|node-inspect)\/|\//.test(x))
 
-/** typescript with esbuild */
+/**
+ * @todo
+ * typescript with esbuild
+ */
 export function typescript(): Plugin {
   return {
     name: 'cxmh:rollup-typescript-esbuild',

@@ -17,8 +17,11 @@ const opt = options({ proc: 'main', env: argv.env })
 const TAG = '[build-main.ts]'
 const spinner = ora(`${TAG} Electron main build...`)
 
-if (argv.watch) {
-  waitOn({ port: process.env.PORT as string }).then(msg => {
+; (async () => {
+  if (argv.watch) {
+    // Wait on vite server launched
+    await waitOn({ port: process.env.PORT as string })
+
     const watcher = watch(opt)
     let child: ChildProcess
     watcher.on('change', filename => {
@@ -33,17 +36,17 @@ if (argv.watch) {
         console.log(ev.error)
       }
     })
-  })
-} else {
-  spinner.start()
-  rollup(opt)
-    .then(build => {
-      spinner.stop()
-      console.log(TAG, chalk.green('Electron main build successed.'))
-      build.write(opt.output as OutputOptions)
-    })
-    .catch(error => {
-      spinner.stop()
+  } else {
+    spinner.start()
+    try {
+      const build = await rollup(opt)
+      await build.write(opt.output as OutputOptions)
+      spinner.succeed()
+    } catch (error) {
       console.log(`\n${TAG} ${chalk.red('构建报错')}\n`, error, '\n')
-    })
-}
+      spinner.fail()
+      process.exit(1)
+    }
+  }
+})();
+
