@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "target": "ESNext",
+    "module": "ESNext",
     "moduleResolution": "node",
     "importHelpers": true,
     "jsx": "preserve",
@@ -8,10 +9,17 @@
     "resolveJsonModule": true,
     "sourceMap": true,
     "baseUrl": "./",
+    "checkJs": false,
     "paths": {
       "@root/*": ["./*"],
       "@/*": ["src/*"],
     },
     "allowSyntheticDefaultImports": true
+  },
+  "include": ["src", "typings"],
+  "ts-node": {
+    "compilerOptions": {
+      "module": "CommonJS"
+    }
   }
 }

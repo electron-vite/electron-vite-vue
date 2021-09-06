@@ -1,6 +1,6 @@
 import { defineComponent } from 'vue'
 import { RouterView, useRoute } from 'vue-router'
-import AppLayout from '@/layout'
+import AppLayout from '@/render/layout'
 
 export default defineComponent({
   setup() {

@@ -13,12 +13,13 @@ export interface ConfigOptions {
 }
 
 export default function (opts: ConfigOptions) {
+  const sourcemap = opts.proc === 'render'
   const options: RollupOptions = {
     input: path.join(__dirname, `../src/${opts.proc}/index.ts`),
     output: {
       dir: path.join(__dirname, `../dist/${opts.proc}`),
       format: 'cjs',
-      sourcemap: opts.proc === 'render',
+      sourcemap,
     },
     plugins: [
       nodeResolve({
@@ -26,7 +27,10 @@ export default function (opts: ConfigOptions) {
       }),
       commonjs(),
       json(),
-      typescript(),
+      typescript({
+        sourceMap: sourcemap,
+        noEmitOnError: true,
+      }),
       alias({
         entries: {
           '@root': path.join(__dirname, '..'),

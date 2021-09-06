@@ -9,7 +9,7 @@ import {
   ArrowRightOutlined,
   ReloadOutlined,
 } from '@ant-design/icons-vue'
-import { event } from '@src/common/constant'
+import { event } from '@/common/constant'
 import { ComponentProps } from './interface'
 import './index.less'
 
@@ -31,7 +31,7 @@ export default () => {
           </Tooltip>
           <ArrowLeftOutlined onClick={() => router.back()} />
           <ArrowRightOutlined onClick={() => history.forward()} />
-          <ReloadOutlined onClick={() => window.location.reload(true)} />
+          <ReloadOutlined onClick={() => window.location.reload()} />
         </div>
       </div>
     )

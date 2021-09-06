@@ -1,5 +1,5 @@
 import { defineComponent } from 'vue'
-import useDevtools from '@/hooks/useDevtools'
+import useDevtools from '@/render/hooks/useDevtools'
 
 export default defineComponent({
   setup() {

@@ -9,23 +9,23 @@ export interface RouteMeta {
 export const routes: RouteRecordRaw[] = [
   {
     path: '/',
-    component: () => import('@/pages/home'),
+    component: () => import('@/render/pages/home'),
     meta: {
       icon: <HomeOutlined />,
       name: '首页',
-    } as RouteMeta,
+    },
   },
   {
     path: '/login',
-    component: () => import('@/pages/login'),
+    component: () => import('@/render/pages/login'),
   },
   {
     path: '/about',
-    component: () => import('@/pages/about'),
+    component: () => import('@/render/pages/about'),
     meta: {
       icon: <UserOutlined />,
       name: '关于作者',
-    } as RouteMeta,
+    },
   },
 ]
 

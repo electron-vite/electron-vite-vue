@@ -1,5 +1,5 @@
 import { defineComponent } from 'vue'
-import App from '@/App.vue'
+import App from '@/render/App.vue'
 
 export default defineComponent({
   setup() {

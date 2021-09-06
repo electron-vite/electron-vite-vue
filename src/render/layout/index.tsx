@@ -2,7 +2,7 @@ import { defineComponent, } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { Layout, Menu } from 'ant-design-vue'
 import Sider from './sider'
-import logo from '@/assets/logo.png'
+import logo from '@/render/assets/logo.png'
 import './index.less'
 
 export default defineComponent({

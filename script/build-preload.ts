@@ -26,6 +26,7 @@ const spinner = ora(`${TAG} Electron preload build...`)
       const build = await rollup(opt)
       await build.write(opt.output as OutputOptions)
       spinner.succeed()
+      process.exit()
     } catch (error) {
       console.log(`\n${TAG} ${chalk.red('构建报错')}\n`, error, '\n')
       spinner.fail()

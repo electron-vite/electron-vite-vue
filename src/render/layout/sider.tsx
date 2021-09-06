@@ -3,9 +3,9 @@ import { defineComponent } from 'vue'
 import { RouterLink, useRoute } from 'vue-router'
 import { Popover } from 'ant-design-vue'
 import { MenuOutlined } from '@ant-design/icons-vue'
-import { routes } from '@/router'
-import { event } from '@src/common/constant'
-import useDevtools from '@/hooks/useDevtools'
+import { routes } from '@/render/router'
+import { event } from '@/common/constant'
+import useDevtools from '@/render/hooks/useDevtools'
 import './sider.less'
 
 export interface SiderMenu {
@@ -23,8 +23,8 @@ export default defineComponent({
     const menus: SiderMenu[] = routes
       .filter(r => r?.meta?.name)
       .map(r => ({
-        title: r?.meta?.name,
-        icon: r?.meta?.icon,
+        title: r?.meta?.name as string,
+        icon: r?.meta?.icon as JSX.Element,
         path: r.path,
       }))
       .concat({
