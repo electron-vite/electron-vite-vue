@@ -1,3 +1,4 @@
+import { IpcRenderer } from 'electron'
 
 declare namespace NodeJS {
   interface ProcessEnv {
@@ -5,7 +6,11 @@ declare namespace NodeJS {
   }
 }
 
-interface Window {
-  /** 关闭预加载动画 */
-  removeLoading: () => void
+declare global {
+  interface Window {
+    /** 关闭预加载动画 */
+    removeLoading: () => void
+    ipcRenderer: IpcRenderer
+  }
 }
+
