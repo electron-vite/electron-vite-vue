@@ -16,10 +16,6 @@ export const routes: RouteRecordRaw[] = [
     },
   },
   {
-    path: '/login',
-    component: () => import('@/render/pages/login'),
-  },
-  {
     path: '/about',
     component: () => import('@/render/pages/about'),
     meta: {

@@ -1,4 +1,3 @@
-import { ipcRenderer } from 'electron'
 import { defineComponent } from 'vue'
 import { RouterLink, useRoute } from 'vue-router'
 import { Popover } from 'ant-design-vue'
@@ -53,7 +52,7 @@ export default defineComponent({
             <Popover placement='rightBottom' content={
               <div class='setting-popover'>
                 <div class='setting-item' onClick={() => {
-                  ipcRenderer.invoke(event.LOGOUT)
+                  window.ipcRenderer.invoke(event.LOGOUT)
                 }}>退出</div>
               </div>
             }>
