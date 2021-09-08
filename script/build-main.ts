@@ -32,7 +32,7 @@ const spinner = ora(`${TAG} Electron main build...`)
         child = spawn(
           electron as unknown as string,
           [path.join(__dirname, `../${main}`)],
-          { stdio: 'inherit', env },
+          { stdio: 'inherit' },
         )
       } else if (ev.code === 'ERROR') {
         console.log(ev.error)

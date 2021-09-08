@@ -1,11 +1,12 @@
 import path from 'path'
 import { RollupOptions } from 'rollup'
 import nodeResolve from '@rollup/plugin-node-resolve'
+import typescript from '@rollup/plugin-typescript'
 import commonjs from '@rollup/plugin-commonjs'
+import replace from '@rollup/plugin-replace'
 import alias from '@rollup/plugin-alias'
 import json from '@rollup/plugin-json'
-import typescript from '@rollup/plugin-typescript'
-import { builtins } from './utils'
+import { builtins, getEnv } from './utils'
 
 export interface ConfigOptions {
   env?: typeof process.env.NODE_ENV
@@ -36,7 +37,16 @@ export default function (opts: ConfigOptions) {
           '@root': path.join(__dirname, '..'),
           '@': path.join(__dirname, '../src'),
         },
-      }), ,
+      }),
+      replace({
+        ...Object
+          .entries({ ...getEnv(), NODE_ENV: opts.env })
+          .reduce(
+            (acc, [k, v]) => Object.assign(acc, { [`process.env.${k}`]: JSON.stringify(v) }),
+            {},
+          ),
+        preventAssignment: true,
+      }),
     ],
     external: [
       ...builtins(),

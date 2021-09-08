@@ -42,7 +42,7 @@ export function getEnv(): Record<string, string> {
     if (getEnv.env) {
       return getEnv.env
     }
-    const env = parseEnv(fs.readFileSync(path.join(__dirname, '../.env')))
+    const env = parseEnv(fs.readFileSync(path.join(process.cwd(), '.env')))
     return getEnv.env = env
   } catch (error) {
     return {}
