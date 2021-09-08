@@ -4,6 +4,7 @@ import path from 'path'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import vueJsx from '@vitejs/plugin-vue-jsx'
+import ViteComponents, { AntDesignVueResolver } from 'vite-plugin-components'
 import {
   external,
 } from './vite-plugins'
@@ -12,6 +13,9 @@ export default defineConfig({
   plugins: [
     vue(),
     vueJsx({/* options are passed on to @vue/babel-plugin-jsx */ }),
+    ViteComponents({
+      customComponentResolvers: [AntDesignVueResolver()],
+    }),
     external(),
   ],
   root: path.join(__dirname, 'src/render'),
@@ -35,5 +39,12 @@ export default defineConfig({
     jsxFactory: 'h',
     jsxFragment: 'Fragment',
     // jsxInject: `import { h } from 'vue'`, 通过 @vitejs/plugin-vue-jsx 解决
+  },
+  css: {
+    preprocessorOptions: {
+      less: {
+        javascriptEnabled: true,
+      },
+    },
   },
 })

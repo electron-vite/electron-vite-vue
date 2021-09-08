@@ -1,8 +1,6 @@
 import path from 'path'
-import dotenv from 'dotenv'
 import { app, BrowserWindow } from 'electron'
-
-dotenv.config({ path: path.join(process.cwd(), '.env') })
+import { register } from './communication'
 
 let win: BrowserWindow = null
 
@@ -12,13 +10,17 @@ function bootstrap() {
       preload: path.join(__dirname, '../preload/index.js'),
     },
   })
-  win.maximize()
 
   if (app.isPackaged) {
     win.loadFile(path.join(__dirname, '../render/index.html'))
   } else {
+    win.maximize()
+    win.webContents.openDevTools()
     win.loadURL(`http://localhost:${process.env.PORT}`)
   }
+
+  // something init setup
+  register(win)
 }
 
 app.whenReady().then(bootstrap)
