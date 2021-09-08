@@ -6,7 +6,6 @@ import vue from '@vitejs/plugin-vue'
 import vueJsx from '@vitejs/plugin-vue-jsx'
 import {
   external,
-  polyfillExports,
 } from './vite-plugins'
 
 export default defineConfig({
@@ -14,7 +13,6 @@ export default defineConfig({
     vue(),
     vueJsx({/* options are passed on to @vue/babel-plugin-jsx */ }),
     external(),
-    polyfillExports(),
   ],
   root: path.join(__dirname, 'src/render'),
   base: './', // index.html 中静态资源加载位置

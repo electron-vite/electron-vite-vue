@@ -7,7 +7,14 @@ dotenv.config({ path: path.join(process.cwd(), '.env') })
 let win: BrowserWindow = null
 
 function bootstrap() {
-  win = new BrowserWindow({})
+  win = new BrowserWindow({
+    webPreferences: {
+      preload: path.join(__dirname, '../preload/index.js'),
+      contextIsolation: false,
+      nodeIntegration: true,
+    },
+  })
+  win.maximize()
 
   if (app.isPackaged) {
     win.loadFile(path.join(__dirname, '../render/index.html'))
