@@ -15,6 +15,10 @@ const spinner = ora(`${TAG} Electron preload build...`)
     watcher.on('change', filename => {
       const log = chalk.yellow(`change -- ${filename}`)
       console.log(TAG, log)
+
+      /**
+       * @todo Hot reload render process !!!
+       */
     })
   } else {
     spinner.start()
