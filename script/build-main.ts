@@ -29,7 +29,11 @@ const spinner = ora(`${TAG} Electron main build...`)
     watcher.on('event', ev => {
       if (ev.code === 'END') {
         if (child) child.kill()
-        child = spawn(electron as any, [path.join(__dirname, `../${main}`)], { stdio: 'inherit' })
+        child = spawn(
+          electron as unknown as string,
+          [path.join(__dirname, `../${main}`)],
+          { stdio: 'inherit', env },
+        )
       } else if (ev.code === 'ERROR') {
         console.log(ev.error)
       }
