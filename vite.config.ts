@@ -4,7 +4,7 @@ import path from 'path'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import vueJsx from '@vitejs/plugin-vue-jsx'
-import ViteComponents, { AntDesignVueResolver } from 'vite-plugin-components'
+import styleImport from "vite-plugin-style-import";
 import {
   external,
 } from './vite-plugins'
@@ -13,8 +13,17 @@ export default defineConfig({
   plugins: [
     vue(),
     vueJsx({/* options are passed on to @vue/babel-plugin-jsx */ }),
-    ViteComponents({
-      customComponentResolvers: [AntDesignVueResolver()],
+    // 按需加载antd style文件
+    styleImport({
+      libs: [
+        {
+          libraryName: "ant-design-vue",
+          esModule: true,
+          resolveStyle: (name) => {
+            return `ant-design-vue/es/${name}/style/index.js`;
+          },
+        },
+      ],
     }),
     external(),
   ],
@@ -43,6 +52,10 @@ export default defineConfig({
   css: {
     preprocessorOptions: {
       less: {
+        // 通过modifyVars定义、覆盖全局less变量可设置ant-design-vue主题相关样式
+        // modifyVars: {
+        //   "primary-color": "#343f4c",
+        // },
         javascriptEnabled: true,
       },
     },

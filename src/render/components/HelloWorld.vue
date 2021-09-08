@@ -39,7 +39,7 @@
     <br />4. Open VSCode command input
     <br />5. Search and run "Select TypeScript version" -> "Use workspace version"
   </p>
-  <button @click="count++">count is: {{ count }}</button>
+  <Button @click="count++">count is: {{ count }}</Button>
   <p>
     Edit
     <code>components/HelloWorld.vue</code> to test hot module replacement.
@@ -53,8 +53,12 @@
 
 <script lang="ts">
 import { ref, defineComponent } from 'vue'
+import { Button } from 'ant-design-vue';
 export default defineComponent({
   name: 'HelloWorld',
+  components:{
+    Button
+  },
   props: {
     msg: {
       type: String,
