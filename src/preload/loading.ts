@@ -1,21 +1,6 @@
+import { contextBridge } from 'electron'
 
-/** docoment 加载完成 */
-export function domReady(condition: DocumentReadyState[] = ['complete', 'interactive']) {
-  return new Promise(resolve => {
-    if (condition.includes(document.readyState)) {
-      resolve(true)
-    } else {
-      document.addEventListener('readystatechange', () => {
-        if (condition.includes(document.readyState)) {
-          resolve(true)
-        }
-      })
-    }
-  })
-}
-
-/** 插入 loading */
-export function loadingBootstrap() {
+function loadingBootstrap() {
   const loadingStyle = document.createElement('style')
   const loadingBox = document.createElement('div')
 
@@ -114,4 +99,20 @@ export function loadingBootstrap() {
   };
 
   return { loadingStyle, loadingBox, removeLoading, appendLoading }
+}
+
+/** 闪屏 loading */
+export function loading() {
+  let _isCallRemoveLoading = false
+  const { removeLoading, appendLoading } = loadingBootstrap();
+
+  contextBridge.exposeInMainWorld('removeLoading', () => {
+    _isCallRemoveLoading = true
+    removeLoading()
+  })
+
+  // 5 秒超时自动关闭
+  setTimeout(() => !_isCallRemoveLoading && removeLoading(), 4999)
+
+  appendLoading()
 }
