@@ -10,11 +10,11 @@ export default defineComponent({
   setup(_, ctx) {
 
     return () => (
-      <Layout class='app-layout h-100'>
+      <Layout class='app-layout h-100 d-flex'>
         <Layout.Sider width={52}>
           <Sider />
         </Layout.Sider>
-        <Layout.Content>
+        <Layout.Content class='flex-fill h-100 overflow-auto'>
           {/* 奇怪的写法: https://github.com/vuejs/composition-api/issues/84 */}
           {ctx?.slots?.default?.()}
         </Layout.Content>

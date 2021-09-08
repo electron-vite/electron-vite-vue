@@ -5,6 +5,7 @@ import { MenuOutlined } from '@ant-design/icons-vue'
 import { routes } from '@/render/router'
 import { event } from '@/common/constant'
 import useDevtools from '@/render/hooks/useDevtools'
+import { classnames } from '@/render/utils'
 import './sider.less'
 
 export interface SiderMenu {
@@ -44,7 +45,7 @@ export default defineComponent({
       })
 
     return () => (
-      <div class='sider-wrap'>
+      <div class='sider-wrap position-relative h-100'>
         {menus.map((menu) => {
           const { title, path, icon, render } = menu
           const setting = path === '/setting'
@@ -59,15 +60,14 @@ export default defineComponent({
               {icon}
             </Popover>
           )
-          const cls = [
-            'menu-item',
-            router.path === path ? 'active' : '',
-            setting ? 'setting' : '',
-          ]
           const node = setting ? settingNode : <RouterLink to={path}>{icon}</RouterLink>
 
           return (
-            <div key={path} title={title} class={cls.join(' ')}>
+            <div
+              key={path}
+              title={title}
+              class={classnames(['menu-item', { active: router.path === path, setting }])}
+            >
               {render ? render(menu, node) : node}
             </div>)
         })}
