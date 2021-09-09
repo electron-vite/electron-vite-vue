@@ -25,4 +25,7 @@ function bootstrap() {
 
 app.whenReady().then(bootstrap)
 
-app.on('window-all-closed', () => { win = null })
+app.on('window-all-closed', () => {
+  win = null
+  app.quit()
+})
