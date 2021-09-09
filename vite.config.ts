@@ -5,9 +5,6 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import vueJsx from '@vitejs/plugin-vue-jsx'
 import ViteComponents, { AntDesignVueResolver } from 'vite-plugin-components'
-import {
-  external,
-} from './vite-plugins'
 
 export default defineConfig({
   plugins: [
@@ -16,7 +13,6 @@ export default defineConfig({
     ViteComponents({
       customComponentResolvers: [AntDesignVueResolver()],
     }),
-    external(),
   ],
   root: path.join(__dirname, 'src/render'),
   base: './', // index.html 中静态资源加载位置
