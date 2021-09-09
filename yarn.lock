@@ -1162,10 +1162,10 @@ electron-store@^8.0.0:
     conf "^10.0.0"
     type-fest "^1.0.2"
 
-electron@13.1.4:
-  version "13.1.4"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-13.1.4.tgz#6d20d932a0651c3cba9f09a3d08cbaf5b69aa84b"
-  integrity sha512-4qhRZbRvGqHmMWsCG/kRVF4X8VIq9Nujgm+gXZLBSpiR6uUtMHy7ViBTQZl1PGf6O9Ppxhpr9Yz+k6Um9WoP3Q==
+electron@15.0.0-beta.3:
+  version "15.0.0-beta.3"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-15.0.0-beta.3.tgz#86d979eccf3d851805a111d0950906032922a49c"
+  integrity sha512-RP4vl6qR6u++ZhZ1PrpbMzdAwZhmmNhDgHexVK+8vKuPXctkkEwPaXiiMfG3H/rprivG0T5AO6U/DfIO8gKi5g==
   dependencies:
     "@electron/get" "^1.0.1"
     "@types/node" "^14.6.2"

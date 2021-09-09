@@ -25,7 +25,6 @@ export default defineConfig(env => {
       emptyOutDir: true,
       minify: false,
       commonjsOptions: {},
-      assetsDir: '', // fix assets loade errors in electron
       sourcemap: true,
     },
   }
