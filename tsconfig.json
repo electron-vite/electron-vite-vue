@@ -11,10 +11,8 @@
     "baseUrl": "./",
     "strict": true,
     "paths": {
-      "@render/*": ["src/render/*"],
-      "@main/*": ["src/main/*"],
-      "@src/*": ["src/*"],
-      "@root/*": ["./*"]
+      "@root/*": ["./*"],
+      "@/*": ["src/*"]
     },
     "allowSyntheticDefaultImports": true
   },

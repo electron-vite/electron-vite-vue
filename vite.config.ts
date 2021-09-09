@@ -1,31 +1,23 @@
 require('dotenv').config({ path: join(__dirname, '.env') })
 
+import { join } from 'path'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
-import { join } from 'path'
-import electron from 'vitejs-plugin-electron'
-
-const root = join(__dirname, 'src/render')
 
 export default defineConfig(env => {
   return {
     plugins: [
       vue(),
-      electron({
-        excludes: ['electron-store']
-      }),
     ],
-    root,
-    base: './', // index.html 中静态资源加载位置
+    root: join(__dirname, 'src/render'),
+    base: './',
     server: {
       port: +process.env.PORT,
     },
     resolve: {
       alias: {
-        '@render': join(__dirname, 'src/render'),
-        '@main': join(__dirname, 'src/main'),
-        '@src': join(__dirname, 'src'),
         '@root': __dirname,
+        '@': join(__dirname, 'src'),
       },
     },
     build: {
@@ -33,7 +25,7 @@ export default defineConfig(env => {
       emptyOutDir: true,
       minify: false,
       commonjsOptions: {},
-      assetsDir: '', // 相对路径 加载问题
+      assetsDir: '', // fix assets loade errors in electron
       sourcemap: true,
     },
   }
