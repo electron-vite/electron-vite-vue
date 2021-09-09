@@ -1,28 +1,11 @@
-// @ts-nocheck
+import { contextBridge } from 'electron'
 
-/** docoment 加载完成 */
-function domReady(...args) {
-  const condition = args.length ? [...args] : ['complete', 'interactive']
-  return new Promise(resolve => {
-    if (condition.includes(document.readyState)) {
-      resolve(true)
-    } else {
-      document.addEventListener('readystatechange', () => {
-        if (condition.includes(document.readyState)) {
-          resolve(true)
-        }
-      })
-    }
-  })
-}
-
-/** 插入 loading */
 function loadingBootstrap() {
-  const loadingStyle = document.createElement('style');
-  const loadingBox = document.createElement('div');
+  const loadingStyle = document.createElement('style')
+  const loadingBox = document.createElement('div')
 
-  loadingStyle.id = 'preload-loading-style';
-  loadingBox.id = 'preload-loading-box';
+  loadingStyle.id = 'preload-loading-style'
+  loadingBox.id = 'preload-loading-box'
 
   loadingStyle.textContent += `
   /* https://projects.lukehaas.me/css-loaders/ */
@@ -96,41 +79,40 @@ function loadingBootstrap() {
       box-shadow: 0 -2em;
       height: 5em;
     }
-  }`;
+  }`
 
-  loadingBox.classList.add('loading-box', 'load1');
-  loadingBox.innerHTML += '<div class="loader"></div>';
+  loadingBox.classList.add('loading-box', 'load1')
+  loadingBox.innerHTML += '<div class="loader"></div>'
 
   const appendLoading = () => {
-    document.head.appendChild(loadingStyle);
-    document.body.appendChild(loadingBox);
-  };
+    document.head.appendChild(loadingStyle)
+    document.body.appendChild(loadingBox)
+  }
 
   const removeLoading = () => {
-    const _loadingStyle = document.getElementById('preload-loading-style');
-    const _loadingBox = document.getElementById('preload-loading-box');
+    const _loadingStyle = document.getElementById('preload-loading-style')
+    const _loadingBox = document.getElementById('preload-loading-box')
 
     // Ensure the remove child exists. 
-    _loadingStyle && document.head.removeChild(_loadingStyle);
-    _loadingBox && document.body.removeChild(_loadingBox);
+    _loadingStyle && document.head.removeChild(_loadingStyle)
+    _loadingBox && document.body.removeChild(_loadingBox)
   };
 
   return { loadingStyle, loadingBox, removeLoading, appendLoading }
 }
 
-; (async function () {
-  await domReady();
-
-  let _isCallRemoveLoading = false;
+/** 闪屏 loading */
+export function loading() {
+  let _isCallRemoveLoading = false
   const { removeLoading, appendLoading } = loadingBootstrap();
 
-  window.removeLoading = () => {
-    _isCallRemoveLoading = true;
-    removeLoading();
-  };
+  contextBridge.exposeInMainWorld('removeLoading', () => {
+    _isCallRemoveLoading = true
+    removeLoading()
+  })
 
   // 5 秒超时自动关闭
-  setTimeout(() => !_isCallRemoveLoading && removeLoading(), 4999);
+  setTimeout(() => !_isCallRemoveLoading && removeLoading(), 4999)
 
-  appendLoading();
-})();
+  appendLoading()
+}
