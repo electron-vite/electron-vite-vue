@@ -14,7 +14,7 @@
 ## Branchs
 - [ant-design-vue](https://github.com/caoxiemeihao/electron-vue-vite/tree/ant-design-vue)
   * [x] Use tsx
-  * [x] Tntegration ant-design-vue
+  * [x] Integration ant-design-vue
 - [with-login](https://github.com/caoxiemeihao/electron-vue-vite/tree/with-login)
   * [x] With multiple BrowserWindow and tsx、ant-design-vue
 
