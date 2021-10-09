@@ -15,12 +15,13 @@
 - [ant-design-vue](https://github.com/caoxiemeihao/electron-vue-vite/tree/ant-design-vue)
   * [x] Use tsx
   * [x] Integration ant-design-vue
-- [with-login](https://github.com/caoxiemeihao/electron-vue-vite/tree/with-login)
-  * [x] With multiple BrowserWindow and tsx、ant-design-vue
+- [with-login](https://github.com/caoxiemeihao/electron-vue-vite/tree/with-login) `登录窗口、element-ui 这个可能很适合你` 🚀
+  * [x] With multiple BrowserWindow
+  * [x] Integration element-plus
 
 ## 微信讨论
 
-![](https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/main/blog/wx/qrcode.jpg)
+<img width="444px" src="https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/main/blog/wx/qrcode.jpg" />
 
 ---
 
