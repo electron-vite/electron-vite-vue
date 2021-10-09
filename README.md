@@ -15,7 +15,7 @@
 - [ant-design-vue](https://github.com/caoxiemeihao/electron-vue-vite/tree/ant-design-vue)
   * [x] Use tsx
   * [x] Integration ant-design-vue
-- [with-login](https://github.com/caoxiemeihao/electron-vue-vite/tree/with-login) `登录窗口、element-ui 这个可能很适合你` 🚀
+- [element-plus](https://github.com/caoxiemeihao/electron-vue-vite/tree/element-plus) `登录窗口、element-ui 这个可能很适合你` 🚀
   * [x] With multiple BrowserWindow
   * [x] Integration element-plus
 
