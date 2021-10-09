@@ -18,7 +18,7 @@ const spinner = ora(`${TAG} Electron main build...`)
 ; (async () => {
   if (argv.watch) {
     // Wait on vite server launched
-    await waitOn({ port: env.PORT as string })
+    const waitOnState = waitOn({ port: env.PORT as string })
 
     const watcher = watch(opt)
     let child: ChildProcess
@@ -26,7 +26,9 @@ const spinner = ora(`${TAG} Electron main build...`)
       const log = chalk.green(`change -- ${filename}`)
       console.log(TAG, log)
     })
-    watcher.on('event', ev => {
+    watcher.on('event', async ev => {
+      await waitOnState
+
       if (ev.code === 'END') {
         if (child) child.kill()
         child = spawn(
@@ -52,4 +54,3 @@ const spinner = ora(`${TAG} Electron main build...`)
     }
   }
 })();
-
