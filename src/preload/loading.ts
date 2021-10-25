@@ -1,4 +1,3 @@
-import { contextBridge } from 'electron'
 
 function loadingBootstrap() {
   const loadingStyle = document.createElement('style')
@@ -102,17 +101,18 @@ function loadingBootstrap() {
 }
 
 /** 闪屏 loading */
-export function loading() {
+export function useLoading() {
   let _isCallRemoveLoading = false
-  const { removeLoading, appendLoading } = loadingBootstrap();
-
-  contextBridge.exposeInMainWorld('removeLoading', () => {
-    _isCallRemoveLoading = true
-    removeLoading()
-  })
+  const { appendLoading, removeLoading } = loadingBootstrap();
 
   // 5 秒超时自动关闭
   setTimeout(() => !_isCallRemoveLoading && removeLoading(), 4999)
 
-  appendLoading()
+  return {
+    appendLoading,
+    removeLoading() {
+      _isCallRemoveLoading = true
+      removeLoading()
+    },
+  }
 }
