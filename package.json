@@ -75,6 +75,11 @@
     "vite": "^2.5.6",
     "ws": "^8.2.3"
   },
+  "env": {
+    "//": "Will be auto inject to main,renderer,preload process.env",
+    "PORT": 3344,
+    "PORT_WS": 3355
+  },
   "keywords": [
     "vite",
     "electron",

@@ -6,7 +6,7 @@ import commonjs from '@rollup/plugin-commonjs'
 import replace from '@rollup/plugin-replace'
 import alias from '@rollup/plugin-alias'
 import json from '@rollup/plugin-json'
-import { builtins, getEnv } from './utils'
+import { builtins } from './utils'
 
 export interface ConfigOptions {
   env?: typeof process.env.NODE_ENV
@@ -40,7 +40,7 @@ export default function (opts: ConfigOptions) {
       }),
       replace({
         ...Object
-          .entries({ ...getEnv(), NODE_ENV: opts.env })
+          .entries({ NODE_ENV: opts.env })
           .reduce(
             (acc, [k, v]) => Object.assign(acc, { [`process.env.${k}`]: JSON.stringify(v) }),
             {},
