@@ -3,7 +3,7 @@
     <img style="height:200px;" src="./assets/electron.png" alt="Electron logo">
     <img alt="Vue logo" src="./assets/logo.png" />
   </div>
-  <HelloWorld msg="Electron@13、Vue@3、Vite@2" />
+  <HelloWorld msg="Electron@15、Vue@3、Vite@2" />
 </template>
 
 <script>
