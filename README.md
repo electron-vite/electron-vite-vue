@@ -1,5 +1,5 @@
 # electron-vue-vite
-🥳 Simpl boilerplate.
+🥳 Simple boilerplate.
 
 `Electron` + `Vue3` + `Vite2` integration
 
