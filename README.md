@@ -3,9 +3,6 @@
 
 `Electron` + `Vue3` + `Vite2` integration
 
-## How and Why
-- `Vite` is the scaffold of the future
-
 ## Feature
 - HRM
 
@@ -21,9 +18,21 @@
 
   <img width="900px" src="https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/main/screenshot/better-log.png" />
 
-## Command
-- npm run dev
-- npm run build
+## Run Setup
+
+  ```bash
+  # clone the project
+  git clone git@github.com:caoxiemeihao/electron-vue-vite.git
+
+  # enter the project directory
+  cd electron-vue-vite
+
+  # install dependency(Recommend use yarn)
+  yarn
+
+  # develop
+  yarn dev
+  ```
 
 ## Communication
 - All NodeJs、Electron API invoke passed `Preload script`
@@ -35,6 +44,9 @@
 - [element-plus](https://github.com/caoxiemeihao/electron-vue-vite/tree/element-plus) `登录窗口、element-ui 这个可能很适合你` 🚀
   * [x] With multiple BrowserWindow
   * [x] Integration element-plus
+
+## Mian window
+<img width="700px" src="https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/main/screenshot/electron-15.png" />
 
 ## 微信讨论
 
