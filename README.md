@@ -37,6 +37,29 @@
 ## Communication
 - All NodeJs、Electron API invoke passed `Preload script`
 
+  * **src/preload/index.ts**
+
+    ```typescript
+    // --------- Expose some API to Renderer process. ---------
+    contextBridge.exposeInMainWorld('fs', fs)
+    contextBridge.exposeInMainWorld('ipcRenderer', ipcRenderer)
+    ```
+
+  * **typings/global.d.ts**
+
+    ```typescript
+    interface Window {
+      fs: typeof import('fs')
+      ipcRenderer: import('electron').IpcRenderer
+    }
+    ```
+
+  * **src/render/main.ts**
+
+    ```typescript
+    console.log('fs', window.fs)
+    console.log('ipcRenderer', window.ipcRenderer)
+    ```
 ## Branchs
 - [ant-design-vue](https://github.com/caoxiemeihao/electron-vue-vite/tree/ant-design-vue)
   * [x] Use tsx
