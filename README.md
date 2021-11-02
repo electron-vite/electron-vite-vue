@@ -1,13 +1,25 @@
 # electron-vue-vite
+🥳 Simpl boilerplate.
+
 `Electron` + `Vue3` + `Vite2` integration
 
 ## How and Why
 - `Vite` is the scaffold of the future
 
 ## Feature
-- `Main process` hot restart
-- `Preload script` hot reload
-- `Renderer process` hot module replacement -- power by Vite
+- HRM
+
+  * `Main process` hot restart
+  * `Preload script` hot reload
+  * `Renderer process` hot module replacement -- power by Vite
+
+- Beautiful log
+
+  * `[R]` means `Renderer process`
+  * `[P]` means `Preload script`
+  * `[M]` means `Main process`
+
+  <img width="900px" src="https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/main/screenshot/better-log.png" />
 
 ## Command
 - npm run dev
