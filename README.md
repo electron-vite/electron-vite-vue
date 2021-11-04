@@ -1,4 +1,10 @@
 # electron-vue-vite
+
+![GitHub stars](https://img.shields.io/github/stars/caoxiemeihao/electron-vue-vite?color=fa6470)
+![GitHub forks](https://img.shields.io/github/forks/caoxiemeihao/electron-vue-vite)
+![GitHub issues](https://img.shields.io/github/issues/caoxiemeihao/electron-vue-vite)
+![GitHub license](https://img.shields.io/github/license/caoxiemeihao/electron-vue-vite)
+
 🥳 Simple boilerplate.
 
 `Electron` + `Vue3` + `Vite2` integration
@@ -74,9 +80,3 @@
 ## 微信讨论
 
 <img width="244px" src="https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/main/blog/wx/qrcode.jpg" />
-
----
-
-## License
-
-[MIT License](https://opensource.org/licenses/MIT)
