@@ -1,9 +1,9 @@
 # electron-vue-vite
 
-![GitHub stars](https://img.shields.io/github/stars/caoxiemeihao/electron-vue-vite?color=fa6470)
-![GitHub forks](https://img.shields.io/github/forks/caoxiemeihao/electron-vue-vite)
-![GitHub issues](https://img.shields.io/github/issues/caoxiemeihao/electron-vue-vite)
-![GitHub license](https://img.shields.io/github/license/caoxiemeihao/electron-vue-vite)
+![GitHub stars](https://img.shields.io/github/stars/caoxiemeihao/electron-vue-vite?color=fa6470&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/caoxiemeihao/electron-vue-vite?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/caoxiemeihao/electron-vue-vite?style=flat)
+![GitHub license](https://img.shields.io/github/license/caoxiemeihao/electron-vue-vite?style=flat)
 
 🥳 Simple boilerplate.
 
