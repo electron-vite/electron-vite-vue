@@ -16,7 +16,7 @@
   * `Preload script` hot reload
   * `Renderer process` hot module replacement -- power by Vite
 
-- Beautiful log
+- Beautiful log -- power by concurrently
 
   * `[R]` means `Renderer process`
   * `[P]` means `Preload script`
