@@ -1,9 +1,12 @@
 <template>
   <div class="logo-box">
     <img style="height:200px;" src="./assets/electron.png" alt="Electron logo">
-    <img alt="Vue logo" src="./assets/logo.png" />
+    <span/>
+    <img style="height:200px;" alt="Vite logo" src="./assets/vite.svg" />
+    <span/>
+    <img style="height:200px;" alt="Vue logo" src="./assets/vue.png" />
   </div>
-  <HelloWorld msg="Electron@15、Vue@3、Vite@2" />
+  <HelloWorld msg="Electron@15 + Vite@2 + Vue@3" />
 </template>
 
 <script>
@@ -23,4 +26,9 @@ export default {
   width: 100%;
   justify-content: center;
 }
+
+.logo-box span {
+  width: 74px;
+}
+
 </style>
