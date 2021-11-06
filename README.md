@@ -77,6 +77,6 @@
 ## Mian window
 <img width="700px" src="https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/main/screenshot/electron-15.png" />
 
-## 微信讨论
+## Wechat group
 
-<img width="244px" src="https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/main/blog/wx/qrcode.jpg" />
+<img width="244px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/assets/wechat/group/qrcode.jpg" />
