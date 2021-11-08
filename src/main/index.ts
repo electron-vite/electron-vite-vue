@@ -43,8 +43,9 @@ app.on('second-instance', () => {
   }
 })
 
+// @TODO
 // auto update
-if (app.isPackaged) {
+/* if (app.isPackaged) {
   app.whenReady()
     .then(() => import('electron-updater'))
     .then(({ autoUpdater }) => autoUpdater.checkForUpdatesAndNotify())
@@ -52,4 +53,4 @@ if (app.isPackaged) {
       // maybe you need to record some log files.
       console.error('Failed check update:', e)
     )
-}
+} */
