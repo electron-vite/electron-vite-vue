@@ -67,7 +67,6 @@
     "concurrently": "^6.0.0",
     "electron": "15.3.0",
     "electron-builder": "^22.10.5",
-    "electron-updater": "^4.3.9",
     "minimist": "^1.2.5",
     "ora": "^5.4.0",
     "rimraf": "^3.0.2",
