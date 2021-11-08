@@ -20,7 +20,7 @@
   * `[P]` means `Preload script`
   * `[M]` means `Main process`
 
-  <img width="900px" src="https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/main/screenshot/better-log.png" />
+  <img width="700px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/better-log.png" />
 
 ## Run Setup
 
@@ -73,7 +73,7 @@
   * [x] Integration element-plus
 
 ## Mian window
-<img width="700px" src="https://raw.githubusercontent.com/caoxiemeihao/electron-vue-vite/main/screenshot/electron-15.png" />
+<img width="700px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />
 
 ## Wechat group
 
