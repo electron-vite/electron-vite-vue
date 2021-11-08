@@ -1,10 +1,6 @@
 import path from 'path'
-import { app, BrowserWindow } from 'electron'
-import { register } from './communication'
+import { app, BrowserWindow, ipcMain } from 'electron'
 
-/**
- * Main Process some code reference https://github.com/cawa-93/vite-electron-builder
- */
 app.disableHardwareAcceleration()
 
 if (!app.requestSingleInstanceLock()) {
@@ -28,9 +24,6 @@ function bootstrap() {
     win.webContents.openDevTools()
     win.loadURL(`http://localhost:${process.env.PORT}`)
   }
-
-  // something init setup
-  register(win)
 }
 
 app.whenReady().then(bootstrap)
