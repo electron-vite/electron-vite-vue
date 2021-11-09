@@ -9,6 +9,22 @@
 
 🥳 基于 `Rollup`、`⚡️Vite` 构建的 `Electron` + `Vue3` + `Vite2` 模板；**简单，容易上手！**
 
+## Run Setup
+
+  ```bash
+  # clone the project
+  git clone git@github.com:caoxiemeihao/electron-vue-vite.git
+
+  # enter the project directory
+  cd electron-vue-vite
+
+  # install dependency(Recommend use yarn)
+  yarn
+
+  # develop
+  yarn dev
+  ```
+
 ## 工作原理
 
 #### `main`、`preload`、`render`
@@ -67,28 +83,13 @@
 
 - 在使用一些路径计算时，尤其是相对路径计算；`dist` 与 `src` 里面保持相同的目录结构能避开好多问题
 
-
-## Run Setup
-
-  ```bash
-  # clone the project
-  git clone git@github.com:caoxiemeihao/electron-vue-vite.git
-
-  # enter the project directory
-  cd electron-vue-vite
-
-  # install dependency(Recommend use yarn)
-  yarn
-
-  # develop
-  yarn dev
-  ```
-
 ## 渲染进程使用 NodeJs API
 
-- 默认情况下，因为安全的原因 Electron 默认不支持在 渲染进程 中使用 NodeJs API (如果你执意要在 渲染进程 中使用 NodeJs API 那请自便)
+- 因为安全的原因 Electron 默认不支持在 渲染进程 中使用 NodeJs API
 
-- 推荐所有的 NodeJs、Electron API 通过 `preload-script` 注入到 渲染进程中；例如：
+  (如果你执意要在 渲染进程 中使用 NodeJs API 那请自便)
+
+- 推荐所有的 NodeJs、Electron API 通过 `preload-script` 注入到 渲染进程中，例如：
 
   * **src/preload/index.ts**
 
@@ -115,7 +116,11 @@
     ```
 ## 关于技术选型
 
-- 最早开始这个项目的时候 `Vite` 还在 1.0 阶段，基本是给实验性的工具；所以 主进程(main-process)、预加载脚本(preload-script) 需要额外用 `Rollup` 打包；选择 `Rollup` 构建主要是两点原因
+- 最早开始这个项目时 `Vite` 还在 1.0 阶段，基本是给个验性的工具；
+
+  所以 主进程(main-process)、预加载脚本(preload-script) 需要额外用 `Rollup` 打包；
+
+  选择 `Rollup` 构建主要是两点原因
 
   * 一来构建出来的代码很清晰尤其是对比 `Webapck`
 
@@ -130,6 +135,6 @@
 ## 运行效果
 <img width="700px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />
 
-## Wechat group
+## 微信群
 
 <img width="244px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/assets/wechat/group/qrcode.jpg" />
