@@ -1,6 +1,7 @@
 import fs from 'fs'
 import { contextBridge, ipcRenderer } from 'electron'
-import { domReady, injectWsCode } from './utils'
+import { domReady } from './utils'
+import { injectWsCode } from './ws'
 import { useLoading } from './loading'
 
 const isDev = process.env.NODE_ENV === 'development'
@@ -9,7 +10,7 @@ const { removeLoading, appendLoading } = useLoading()
 domReady().then(() => {
   appendLoading()
   isDev && injectWsCode({
-    host: '127.0.0.1',
+    host: process.env.HOST, // '127.0.0.1'
     port: process.env.PORT_WS as string, // process.env.npm_package_env_PORT_WS
   })
 })
