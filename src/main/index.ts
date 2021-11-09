@@ -1,5 +1,5 @@
 import path from 'path'
-import { app, BrowserWindow, ipcMain } from 'electron'
+import { app, BrowserWindow } from 'electron'
 
 app.disableHardwareAcceleration()
 
