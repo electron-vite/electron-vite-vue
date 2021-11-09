@@ -21,7 +21,7 @@
 
 #### 顶层只有 `scripts`、`src` 两个目录
 
-* `scripts` 负责 主进程(main-process)、预加载脚本(preload-script) 编译、热更新功能
+* `scripts` 负责 主进程(main-process) 与 预加载脚本(preload-script) 的编译、热更新功能
 
 * `src` 项目目录源码 -- `见名知意`
 
@@ -48,6 +48,24 @@
 * `build` 串联了上述三个命令，之后运行了 `electron-builder`
 
 * ----
+
+#### dist 与 src
+
+- 一旦启动或打包脚本执行过，会在根目录产生 **`dist` 文件夹，里面的文件夹同 `src` 一模一样**
+
+  ```tree
+  ├── dist
+  |   ├── main
+  |   ├── preload
+  |   ├── render
+  ├── src
+  |   ├── main
+  |   ├── preload
+  |   ├── render
+  |
+  ```
+
+- 在使用一些路径计算时，尤其是相对路径计算；`dist` 与 `src` 里面保持相同的目录结构能避开好多问题
 
 
 ## Run Setup
