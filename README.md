@@ -5,6 +5,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/caoxiemeihao/electron-vue-vite?style=flat)
 ![GitHub license](https://img.shields.io/github/license/caoxiemeihao/electron-vue-vite?style=flat)
 
+**English | [简体中文](README.zh-CN.md)**
+
 🥳 Simple `Electron` + `Vue3` + `Vite2` boilerplate. Build based on rollup and ⚡️vite.
 
 ## Feature
