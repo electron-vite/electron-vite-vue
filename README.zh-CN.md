@@ -130,7 +130,7 @@
 
   速度上确实要比这个快很多，顺便还集成了 `React` 🎉
 
-  * 👉 [⚡️ Super-fast electron + vite boilerplate. Support React/Vue template.](https://github.com/caoxiemeihao/electron-vite-template)
+  * 👉 [⚡️ Super-fast vite + electron boilerplate. Support React/Vue template.](https://github.com/caoxiemeihao/vite-electron-boilerplate)
 
 ## 运行效果
 <img width="700px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />
