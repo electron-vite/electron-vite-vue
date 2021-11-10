@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/caoxiemeihao/electron-vue-vite?style=flat)
 ![GitHub license](https://img.shields.io/github/license/caoxiemeihao/electron-vue-vite?style=flat)
 
-**简体中文 | [English](README.zh-CN.md)**
+**[English](README.md) | 简体中文**
 
 🥳 基于 `Rollup`、`⚡️Vite` 构建的 `Electron` + `Vue3` + `Vite2` 模板；**简单，容易上手！**
 
