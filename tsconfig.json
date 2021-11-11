@@ -10,15 +10,7 @@
     "sourceMap": true,
     "baseUrl": "./",
     "strict": true,
-    "paths": {
-      "@root/*": ["./*"],
-      "@/*": ["src/*"]
-    },
+    "paths": {},
     "allowSyntheticDefaultImports": true
-  },
-  "ts-node": {
-    "compilerOptions": {
-      "module": "CommonJS"
-    }
   }
 }

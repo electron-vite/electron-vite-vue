@@ -10,19 +10,22 @@ if (!app.requestSingleInstanceLock()) {
 
 let win: BrowserWindow | null = null
 
-function bootstrap() {
+async function bootstrap() {
   win = new BrowserWindow({
     webPreferences: {
-      preload: path.join(__dirname, '../preload/index.js'),
+      preload: path.join(__dirname, '../preload/index.cjs'),
     },
   })
 
   if (app.isPackaged) {
-    win.loadFile(path.join(__dirname, '../render/index.html'))
+    win.loadFile(path.join(__dirname, '../renderer/index.html'))
   } else {
+    const pkg = await import('../../package.json')
+    const url = `http://${pkg.env.HOST || '127.0.0.1'}:${pkg.env.PORT}`
+
+    win.loadURL(url)
     win.maximize()
     win.webContents.openDevTools()
-    win.loadURL(`http://localhost:${process.env.PORT}`)
   }
 }
 
