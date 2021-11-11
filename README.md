@@ -48,7 +48,7 @@
 
 #### `dist` and `src`
 
-- Once started or packaged, the script is executed. As like as two peas, the `dist` directory structure will be generated as `src`.
+- Once `npm run dev` or `npm run build` is executed. Will be generated `dist`, it is the same as the `src` structure.
 
 - This ensures the accuracy of path calculation.
 
