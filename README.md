@@ -9,21 +9,6 @@
 
 🥳 Simple `Electron` + `Vue3` + `Vite2` boilerplate. Build based on rollup and ⚡️vite.
 
-## Feature
-- HRM
-
-  * `Main process` hot restart
-  * `Preload script` hot reload
-  * `Renderer process` hot module replacement -- power by Vite
-
-- Beautiful log -- power by concurrently
-
-  * `[R]` means `Renderer process`
-  * `[P]` means `Preload script`
-  * `[M]` means `Main process`
-
-  <img width="700px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/better-log.png" />
-
 ## Run Setup
 
   ```bash
@@ -40,42 +25,66 @@
   yarn dev
   ```
 
+## Directory
+
+```tree
+├
+├── configs
+├   ├── vite-main.config.ts          Main-process config file, for -> src/main
+├   ├── vite-preload.config.ts       Preload-script config file, for -> src/preload
+├   ├── vite-renderer.config.ts      Renderer-script config file, for -> src/renderer
+├
+├── scripts
+├   ├── build.mjs                    Build script, for -> npm run build
+├   ├── electron-builder.config.mjs
+├   ├── watch.mjs                    Develop script, for -> npm run dev
+├
+├── src
+├   ├── main                         Main-process source code
+├   ├── preload                      Preload-script source code
+├   ├── renderer                     Renderer-process source code
+├
+```
+
+#### `dist` and `src`
+
+- Once started or packaged, the script is executed. As like as two peas, the `dist` directory structure will be generated as `src`.
+
+- This ensures the accuracy of path calculation.
+
+```tree
+├── dist
+|   ├── main
+|   ├── preload
+|   ├── renderer
+├── src
+|   ├── main
+|   ├── preload
+|   ├── renderer
+|
+```
+
 ## Communication
-- All NodeJs、Electron API invoke passed `Preload script`
 
-  * **src/preload/index.ts**
+**All NodeJs、Electron API invoke passed `Preload-script`**
 
-    ```typescript
-    // --------- Expose some API to Renderer process. ---------
-    contextBridge.exposeInMainWorld('fs', fs)
-    contextBridge.exposeInMainWorld('ipcRenderer', ipcRenderer)
-    ```
+* **src/preload/index.ts**
 
-  * **typings/global.d.ts**
+  ```typescript
+  // --------- Expose some API to Renderer process. ---------
+  contextBridge.exposeInMainWorld('fs', fs)
+  contextBridge.exposeInMainWorld('ipcRenderer', ipcRenderer)
+  ```
 
-    ```typescript
-    interface Window {
-      fs: typeof import('fs')
-      ipcRenderer: import('electron').IpcRenderer
-    }
-    ```
+* **src/renderer/src/main.ts**
 
-  * **src/render/main.ts**
-
-    ```typescript
-    console.log('fs', window.fs)
-    console.log('ipcRenderer', window.ipcRenderer)
-    ```
-## Branchs
-- [ant-design-vue](https://github.com/caoxiemeihao/electron-vue-vite/tree/ant-design-vue)
-  * [x] Use tsx
-  * [x] Integration ant-design-vue
-- [element-plus](https://github.com/caoxiemeihao/electron-vue-vite/tree/element-plus) `登录窗口、element-ui 这个可能很适合你` 🚀
-  * [x] With multiple BrowserWindow
-  * [x] Integration element-plus
+  ```typescript
+  console.log('fs', window.fs)
+  console.log('ipcRenderer', window.ipcRenderer)
+  ```
 
 ## Mian window
-<img width="700px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />
+<img width="400px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />
 
 ## Wechat group
 
