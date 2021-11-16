@@ -1,4 +1,4 @@
-process.env.NODE_ENV = 'production'
+process.env.NODE_ENV = 'development'
 
 import { readFileSync } from 'fs'
 import { join } from 'path'
