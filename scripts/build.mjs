@@ -2,7 +2,7 @@ process.env.NODE_ENV = 'production'
 
 import { build as viteBuild } from 'vite'
 import { build as electronBuild2 } from 'electron-builder'
-import { config as builderConfig } from '../configs/electron-builder.cinfig.mjs'
+import { config as builderConfig } from '../configs/electron-builder.config.mjs'
 import chalk from 'chalk'
 
 const TAG = chalk.bgBlue(' build.mjs ')
