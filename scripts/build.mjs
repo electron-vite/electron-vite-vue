@@ -1,7 +1,7 @@
 process.env.NODE_ENV = 'production'
 
 import { build as viteBuild } from 'vite'
-import { build as electronBuild2 } from 'electron-builder'
+import { build as electronBuild } from 'electron-builder'
 import { config as builderConfig } from '../configs/electron-builder.config.mjs'
 import chalk from 'chalk'
 
@@ -23,9 +23,9 @@ async function buildElectron() {
 }
 
 async function packElectron() {
-  return electronBuild2({ config: builderConfig })
+  return electronBuild({ config: builderConfig })
     .then(result => {
-      console.log(TAG, chalk.green(`electron-builder.build result - ${result}`))
+      console.log(TAG, chalk.green(`[electron-builder.build result]: ${result}`))
     })
 }
 
