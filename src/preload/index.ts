@@ -16,7 +16,7 @@ contextBridge.exposeInMainWorld('fs', fs)
 contextBridge.exposeInMainWorld('removeLoading', removeLoading)
 contextBridge.exposeInMainWorld('ipcRenderer', {
   ...ipcRenderer,
-  on: (name: string, callback: () => {}) => {
-    ipcRenderer.on(name, callback)
+  on(...args: Parameters<IpcRenderer['on']>) {
+    return ipcRenderer.on(...args)
   }
 })
