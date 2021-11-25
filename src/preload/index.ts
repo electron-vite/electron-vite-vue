@@ -13,5 +13,10 @@ domReady().then(() => {
 
 // --------- Expose some API to Renderer process. ---------
 contextBridge.exposeInMainWorld('fs', fs)
-contextBridge.exposeInMainWorld('ipcRenderer', ipcRenderer)
 contextBridge.exposeInMainWorld('removeLoading', removeLoading)
+contextBridge.exposeInMainWorld('ipcRenderer', {
+  ...ipcRenderer,
+  on(...args: Parameters<IpcRenderer['on']>) {
+    return ipcRenderer.on(...args)
+  }
+})
