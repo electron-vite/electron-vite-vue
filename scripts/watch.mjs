@@ -16,7 +16,6 @@ const pkg = JSON.parse(readFileSync(join(process.cwd(), 'package.json'), 'utf8')
  */
 function getWatcher({ name, configFile, writeBundle }) {
   return viteBuild({
-    mode: 'development',
     // Options here precedence over configFile
     build: {
       watch: {},
