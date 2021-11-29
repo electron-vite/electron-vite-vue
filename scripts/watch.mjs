@@ -16,6 +16,8 @@ const pkg = JSON.parse(readFileSync(join(process.cwd(), 'package.json'), 'utf8')
  */
 function getWatcher({ name, configFile, writeBundle }) {
   return viteBuild({
+    // Fix form 'vite-main.config.ts' and 'vite-preload.config.ts'
+    mode: process.env.NODE_ENV,
     // Options here precedence over configFile
     build: {
       watch: {},
