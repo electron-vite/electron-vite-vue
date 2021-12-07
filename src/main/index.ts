@@ -1,5 +1,10 @@
+import os from 'os'
 import path from 'path'
 import { app, BrowserWindow } from 'electron'
+
+// https://stackoverflow.com/questions/42524606/how-to-get-windows-version-using-node-js
+const isWin7 = os.release().startsWith('6.1')
+if (isWin7) app.disableHardwareAcceleration()
 
 if (!app.requestSingleInstanceLock()) {
   app.quit()
