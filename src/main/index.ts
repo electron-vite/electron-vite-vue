@@ -1,8 +1,6 @@
 import path from 'path'
 import { app, BrowserWindow } from 'electron'
 
-app.disableHardwareAcceleration()
-
 if (!app.requestSingleInstanceLock()) {
   app.quit()
   process.exit(0)
