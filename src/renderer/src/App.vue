@@ -13,6 +13,10 @@ import HelloWorld from './components/HelloWorld.vue'
     <img style="height:200px;" alt="Vue logo" src="./assets/vue.png" />
   </div>
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+  <div class="static-public">
+    Place static files into the <code>src/renderer/public</code> folder
+    <img style="width:90px;" :src="'./images/node.png'" />
+  </div>
 </template>
 
 <style>
@@ -33,5 +37,19 @@ import HelloWorld from './components/HelloWorld.vue'
 
 .logo-box span {
   width: 74px;
+}
+
+.static-public {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.static-public code {
+  background-color: #eee;
+  padding: 2px 4px;
+  margin: 0 4px;
+  border-radius: 4px;
+  color: #304455;
 }
 </style>
