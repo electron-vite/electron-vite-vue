@@ -19,11 +19,11 @@
   # enter the project directory
   cd electron-vue-vite
 
-  # install dependency(Recommend use yarn)
-  yarn
+  # install dependency
+  npm install
 
   # develop
-  yarn dev
+  npm run dev
   ```
 
 ## 目录结构
