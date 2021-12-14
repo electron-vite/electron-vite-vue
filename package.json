@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "node scripts/watch.mjs",
-    "build": "node scripts/build.mjs"
+    "build": "node scripts/build.mjs && electron-builder"
   },
   "engines": {
     "node": ">=16.0.0"
