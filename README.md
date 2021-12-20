@@ -67,7 +67,7 @@
 
 ## Use Electron, NodeJs API
 
-> 🚧 By default, Electron don't support the use of API related to Electron and NoeJs in the Renderer-process, but someone still need to use it. If so, you can see the 👉 npm-package **[vitejs-plugin-electron](https://www.npmjs.com/package/vitejs-plugin-electron)** or another template **[vite-webpack-electron](https://github.com/caoxiemeihao/vite-webpack-electron)**
+> 🚧 By default, Electron don't support the use of API related to Electron and NoeJs in the Renderer-process, but someone still need to use it. If so, you can see the 👉 npm-package **[vitejs-plugin-electron](https://www.npmjs.com/package/vitejs-plugin-electron)** or another template **[electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate)**
 
 #### All Electron, NodeJs API invoke passed `Preload-script`
 
