@@ -67,14 +67,17 @@
 
 ## Use Electron, NodeJs API
 
-> 🚨 By default, Electron don't support the use of API related to Electron and NoeJs in the Renderer-process, but someone still need to use it. If so, you can see the 👉 npm-package **[vitejs-plugin-electron](https://www.npmjs.com/package/vitejs-plugin-electron)** or another template **[vite-webpack-electron](https://github.com/caoxiemeihao/vite-webpack-electron)**
+> 🚧 By default, Electron don't support the use of API related to Electron and NoeJs in the Renderer-process, but someone still need to use it. If so, you can see the 👉 npm-package **[vitejs-plugin-electron](https://www.npmjs.com/package/vitejs-plugin-electron)** or another template **[vite-webpack-electron](https://github.com/caoxiemeihao/vite-webpack-electron)**
 
 #### All Electron, NodeJs API invoke passed `Preload-script`
 
 * **src/preload/index.ts**
 
   ```typescript
-  // --------- Expose some API to Renderer process. ---------
+  import fs from 'fs'
+  import { contextBridge, ipcRenderer } from 'electron'
+
+  // --------- Expose some API to Renderer-process. ---------
   contextBridge.exposeInMainWorld('fs', fs)
   contextBridge.exposeInMainWorld('ipcRenderer', ipcRenderer)
   ```

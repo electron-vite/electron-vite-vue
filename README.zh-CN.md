@@ -68,7 +68,7 @@
 
 ## 渲染进程使用 NodeJs API
 
-> 🚨 因为安全的原因 Electron 默认不支持在 渲染进程 中使用 NodeJs API，但是有些小沙雕就是想这么干，拦都拦不住；实在想那么干的话，这里有个 👉 npm 包 **[vitejs-plugin-electron](https://www.npmjs.com/package/vitejs-plugin-electron)** 或者使用另一个模板 **[vite-webpack-electron](https://github.com/caoxiemeihao/vite-webpack-electron)**
+> 🚧 因为安全的原因 Electron 默认不支持在 渲染进程 中使用 NodeJs API，但是有些小沙雕就是想这么干，拦都拦不住；实在想那么干的话，这里有个 👉 npm 包 **[vitejs-plugin-electron](https://www.npmjs.com/package/vitejs-plugin-electron)** 或者使用另一个模板 **[vite-webpack-electron](https://github.com/caoxiemeihao/vite-webpack-electron)**
 
 
 - 推荐所有的 NodeJs、Electron API 通过 `preload-script` 注入到 渲染进程中，例如：
@@ -76,7 +76,10 @@
 * **src/preload/index.ts**
 
   ```typescript
-  // --------- Expose some API to Renderer process. ---------
+  import fs from 'fs'
+  import { contextBridge, ipcRenderer } from 'electron'
+
+  // --------- Expose some API to Renderer-process. ---------
   contextBridge.exposeInMainWorld('fs', fs)
   contextBridge.exposeInMainWorld('ipcRenderer', ipcRenderer)
   ```
