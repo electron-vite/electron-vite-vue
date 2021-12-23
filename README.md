@@ -37,7 +37,6 @@
 ├
 ├── scripts
 ├   ├── build.mjs                    Build script, for -> npm run build
-├   ├── electron-builder.config.mjs
 ├   ├── watch.mjs                    Develop script, for -> npm run dev
 ├
 ├── src
