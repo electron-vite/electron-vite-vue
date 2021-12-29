@@ -28,12 +28,19 @@
 
 ## Directory
 
+Once `dev` or `build` npm-script executed will be generate named `dist` folder. It has children dir of same as `src` folder, the purpose of this design can ensure the correct path calculation.
+
 ```tree
 ├
 ├── configs
 ├   ├── vite-main.config.ts          Main-process config file, for -> src/main
 ├   ├── vite-preload.config.ts       Preload-script config file, for -> src/preload
 ├   ├── vite-renderer.config.ts      Renderer-script config file, for -> src/renderer
+├
+├── dist                             After build, it is generated according to the "src" directory
+├   ├── main
+├   ├── preload
+├   ├── renderer
 ├
 ├── scripts
 ├   ├── build.mjs                    Build script, for -> npm run build
@@ -43,24 +50,6 @@
 ├   ├── main                         Main-process source code
 ├   ├── preload                      Preload-script source code
 ├   ├── renderer                     Renderer-process source code
-├
-```
-
-#### `dist` and `src`
-
-- Once `npm run dev` or `npm run build` is executed. Will be generated `dist`, it is the same as the `src` structure.
-
-- This ensures the accuracy of path calculation.
-
-```tree
-├── dist
-├   ├── main
-├   ├── preload
-├   ├── renderer
-├── src
-├   ├── main
-├   ├── preload
-├   ├── renderer
 ├
 ```
 

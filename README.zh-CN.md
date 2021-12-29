@@ -28,12 +28,19 @@
 
 ## 目录结构
 
+一旦启动或打包脚本执行过，会在根目录产生 **`dist` 文件夹，里面的文件夹同 `src` 一模一样**；在使用一些路径计算时，尤其是相对路径计算；`dist` 与 `src` 里面保持相同的目录结构能避开好多问题
+
 ```tree
 ├
 ├── configs
 ├   ├── vite-main.config.ts          主进程配置文件，编译 src/main
 ├   ├── vite-preload.config.ts       预加载脚本配置文件，编译 src/preload
 ├   ├── vite-renderer.config.ts      渲染进程配置文件，编译 src/renderer
+├
+├── dist                             构建后，根据 src 目录生成
+├   ├── main
+├   ├── preload
+├   ├── renderer
 ├
 ├── scripts
 ├   ├── build.mjs                    项目构建脚本，对应 npm run build
@@ -45,25 +52,6 @@
 ├   ├── renderer                     渲染进程源码
 ├
 ```
-
-#### `dist` 与 `src`
-
-- 一旦启动或打包脚本执行过，会在根目录产生 **`dist` 文件夹，里面的文件夹同 `src` 一模一样**
-
-- 在使用一些路径计算时，尤其是相对路径计算；`dist` 与 `src` 里面保持相同的目录结构能避开好多问题
-
-```tree
-├── dist
-├   ├── main
-├   ├── preload
-├   ├── renderer
-├── src
-├   ├── main
-├   ├── preload
-├   ├── renderer
-├
-```
-
 
 ## 渲染进程使用 NodeJs API
 
