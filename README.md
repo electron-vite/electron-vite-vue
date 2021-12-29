@@ -37,7 +37,7 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
 ├   ├── vite-preload.config.ts       Preload-script config file, for -> src/preload
 ├   ├── vite-renderer.config.ts      Renderer-script config file, for -> src/renderer
 ├
-├── dist                             After build, it is generated according to the "src" directory
+├── dist                             After build, it's generated according to the "src" directory
 ├   ├── main
 ├   ├── preload
 ├   ├── renderer
