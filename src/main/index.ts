@@ -13,7 +13,7 @@ if (!app.requestSingleInstanceLock()) {
 
 let win: BrowserWindow | null = null
 
-async function bootstrap() {
+async function createWindow() {
   win = new BrowserWindow({
     webPreferences: {
       preload: path.join(__dirname, '../preload/index.cjs'),
@@ -27,12 +27,11 @@ async function bootstrap() {
     const url = `http://${pkg.env.HOST || '127.0.0.1'}:${pkg.env.PORT}`
 
     win.loadURL(url)
-    win.maximize()
     win.webContents.openDevTools()
   }
 }
 
-app.whenReady().then(bootstrap)
+app.whenReady().then(createWindow)
 
 app.on('window-all-closed', () => {
   win = null
@@ -46,6 +45,15 @@ app.on('second-instance', () => {
     // someone tried to run a second instance, we should focus our window.
     if (win.isMinimized()) win.restore()
     win.focus()
+  }
+})
+
+app.on('activate', () => {
+  const allWindows = BrowserWindow.getAllWindows()
+  if (allWindows.length) {
+    allWindows[0].focus()
+  } else {
+    createWindow()
   }
 })
 
