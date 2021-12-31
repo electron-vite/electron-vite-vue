@@ -11,16 +11,15 @@
   "engines": {
     "node": ">=16.0.0"
   },
-  "dependencies": {
-    "vue": "^3.2.22"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.9.4",
     "chalk": "^4.1.2",
     "electron": "16.0.0",
     "electron-builder": "^22.13.1",
     "typescript": "^4.4.4",
-    "vite": "^2.6.14"
+    "vite": "^2.6.14",
+    "vue": "^3.2.22"
   },
   "env": {
     "//": "Used in build scripts",
