@@ -5,8 +5,7 @@
     "output": "release/${version}"
   },
   "files": [
-    "dist",
-    "package.json"
+    "dist"
   ],
   "mac": {
     "artifactName": "${productName}_${version}.${ext}",
