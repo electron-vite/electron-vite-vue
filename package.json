@@ -6,12 +6,11 @@
   "license": "MIT",
   "scripts": {
     "dev": "node scripts/watch.mjs",
-    "build": "node scripts/build.mjs && electron-builder"
+    "build": "vue-tsc --noEmit && node scripts/build.mjs && electron-builder"
   },
   "engines": {
     "node": ">=16.0.0"
   },
-  "dependencies": {},
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.9.4",
     "chalk": "^4.1.2",
@@ -19,7 +18,8 @@
     "electron-builder": "^22.13.1",
     "typescript": "^4.4.4",
     "vite": "^2.6.14",
-    "vue": "^3.2.22"
+    "vue": "^3.2.22",
+    "vue-tsc": "^0.30.1"
   },
   "env": {
     "//": "Used in build scripts",
