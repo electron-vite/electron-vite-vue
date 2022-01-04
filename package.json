@@ -12,13 +12,13 @@
     "node": ">=16.0.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^1.9.4",
-    "chalk": "^4.1.2",
-    "electron": "16.0.0",
-    "electron-builder": "^22.13.1",
-    "typescript": "^4.4.4",
-    "vite": "^2.6.14",
-    "vue": "^3.2.22",
+    "@vitejs/plugin-vue": "^2.0.1",
+    "chalk": "^5.0.0",
+    "electron": "16.0.6",
+    "electron-builder": "^22.14.5",
+    "typescript": "^4.5.4",
+    "vite": "^2.7.10",
+    "vue": "^3.2.26",
     "vue-tsc": "^0.30.1"
   },
   "env": {
