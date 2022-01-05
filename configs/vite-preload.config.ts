@@ -1,6 +1,7 @@
 import { join } from 'path'
 import { builtinModules } from 'module'
 import { defineConfig } from 'vite'
+import pkg from '../package.json'
 
 export default defineConfig({
   mode: process.env.NODE_ENV,
@@ -15,8 +16,9 @@ export default defineConfig({
     emptyOutDir: true,
     rollupOptions: {
       external: [
-        ...builtinModules,
         'electron',
+        ...builtinModules,
+        ...Object.keys((pkg as Record<string, any>).dependencies || {}),
       ],
       output: {
         entryFileNames: '[name].cjs',
