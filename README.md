@@ -70,9 +70,20 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
   contextBridge.exposeInMainWorld('ipcRenderer', ipcRenderer)
   ```
 
+* **src/renderer/src/global.d.ts**
+
+  ```typescript
+  // Defined on the window
+  interface Window {
+    fs: typeof import('fs')
+    ipcRenderer: import('electron').IpcRenderer
+  }
+  ```
+
 * **src/renderer/src/main.ts**
 
   ```typescript
+  // Use Electron, NodeJs API in Renderer-process
   console.log('fs', window.fs)
   console.log('ipcRenderer', window.ipcRenderer)
   ```
