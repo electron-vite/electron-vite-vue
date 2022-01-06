@@ -96,7 +96,7 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
   console.log('ipcRenderer', window.ipcRenderer)
   ```
 
-## Mian window
+## Main window
 <img width="400px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />
 
 ## Wechat
