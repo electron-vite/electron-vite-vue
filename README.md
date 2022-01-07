@@ -12,11 +12,11 @@
 
 ## Overview
 
-This is an `Electron` class integration template that pursues simplification, maintaining only the most basic files, the most basic dependencies and the most basic functions; Instead of large and complex design. The purpose of this is to ensure that the template is flexible enough.
+This is an `Electron` category integration template that pursues simplification, maintaining only the most basic files, the most basic dependencies and the most basic functions; Instead of large and complex design. The purpose of this is to ensure that the template is flexible enough.
 
-For all that, I still hope that you have a basic understanding for `Electron` `Vite`. Because in addition to the simple structure of the project, the `README` also appears to be "streamlined".
+For all that, I still hope that you have a basic understanding for `Electron` `Vite`. Because in addition to the simple structure of the project, the `README` also appears too simplify.
 
-But trust me, this project is the simplest. 😋
+You can learn more details by looking at the source code. Trust me, this template is the simple enough. 😋
 
 ## Run Setup
 
