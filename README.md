@@ -12,7 +12,9 @@
 
 ## Overview
 
-This is an `Electron` category integration template that pursues simplification, maintaining only the most basic files, the most basic dependencies and the most basic functions; Instead of large and complex design. The purpose of this is to ensure that the template is flexible enough.
+This is an `Electron` category integration template that pursues simplification.  
+This contains only the most basic files, the most basic dependencies, and the most basic functions. Instead of large and complex design.  
+The purpose of this is to ensure that the template is flexible enough.
 
 For all that, I still hope that you have a basic understanding for `Electron` `Vite`. Because in addition to the simple structure of the project, the `README` also appears too simplify.
 
@@ -63,7 +65,7 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
 
 ## Use Electron, NodeJs API
 
-> 🚧 By default, Electron don't support the use of API related to Electron and NoeJs in the Renderer-process, but someone still need to use it. If so, you can see the 👉 npm-package **[vitejs-plugin-electron](https://www.npmjs.com/package/vitejs-plugin-electron)** or another template **[electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate)**
+> 🚧 By default, Electron don't support the use of API related to Electron and NodeJs in the Renderer-process, but someone still need to use it. If so, you can see the 👉 npm-package **[vitejs-plugin-electron](https://www.npmjs.com/package/vitejs-plugin-electron)** or another template **[electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate)**
 
 #### All Electron, NodeJs API invoke passed `Preload-script`
 
