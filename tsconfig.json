@@ -11,6 +11,7 @@
     "baseUrl": "./",
     "strict": true,
     "paths": {},
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck": true
   }
 }
