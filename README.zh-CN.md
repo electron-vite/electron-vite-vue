@@ -99,6 +99,34 @@
   console.log('ipcRenderer', window.ipcRenderer)
   ```
 
+## 小白问题
+
+```
+小白直接使用(别墨迹): https://github.com/caoxiemeihao/electron-vite-boilerplate
+
+一、经典报错: __dirname is not defined
+  众所周知 - electron 共有三种环境/三种状态即: NodeJs、Electron-Main、Electron-Renderer。
+
+  1. 使用 vite 启动 electron 时候，为 NodeJs 运行环境，node_modules/electron 包导出的只是一个 electron.exe 的文件路径。
+当使用 vite 且在 Electron-Renderer 中使用且 Electron-Renderer 中未开启 node.js 集成；
+那么此时 import/require(‘electron’) 会使用 NodeJs 环境下的 electron —— 遂报错
+
+  2. 所以 Electron-Main、Electron-Renderer 中要使用 electron 必须保障能正确加载到对应的 electron-main、electron-renderer 版本。
+vite build 与 build.lib 模式下只需要 build.rollupOptions.external 配置中加入 electron 即可
+vite serve 下比较麻烦，需要对 import(‘electron’) 进行拦截，可以使用 vitejs-plugin-electron 处理
+
+二、dependencies 与 devDependencies
+  对待 Electron-Main、Preload-Script 时 vite 会以 lib 形式打包 commonjs 格式代码；
+如果碰 node 环境的包可以直接放到 dependencies 中，vite 会解析为 require('xxxx')；
+electron-builder 打包时候会将 dependencies 中的包打包到 app.asar 里面
+
+  对待 Electron-Renderer 时 vite 会以 ESM 格式解析代码；
+像 vue、react 这种前端用的包可以直接被 vite 构建，所以不需要 vue、react 源码；
+现实情况 vue、react 放到 dependencies 或 devDependencies 中都可以被正确构建；
+但是放到 dependencies 会被 electron-builder 打包到 app.asar 里面导致包体变大；
+所以放到 devDependencies 既能被正确构建还可以减小 app.asar 体积，一举两得
+```
+
 ## 运行效果
 <img width="400px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />
 
