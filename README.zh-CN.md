@@ -126,6 +126,7 @@ electron-builder 打包时候会将 dependencies 中的包打包到 app.asar 里
 但是放到 dependencies 会被 electron-builder 打包到 app.asar 里面导致包体变大；
 所以放到 devDependencies 既能被正确构建还可以减小 app.asar 体积，一举两得
 ```
+这里有个值得看的 issues [请教一下vite-renderer.config中的resolveElectron函数](https://github.com/caoxiemeihao/electron-vue-vite/issues/52)
 
 ## 运行效果
 <img width="400px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />
