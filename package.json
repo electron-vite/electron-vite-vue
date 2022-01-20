@@ -9,7 +9,7 @@
     "build": "vue-tsc --noEmit && node scripts/build.mjs && electron-builder"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=14.17.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.0.1",
