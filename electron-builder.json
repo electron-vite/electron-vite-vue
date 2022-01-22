@@ -1,5 +1,5 @@
 {
-  "appId": "308487730@qq.com",
+  "appId": "YouAppID@qq.com",
   "asar": true,
   "directories": {
     "output": "release/${version}"
