@@ -35,7 +35,7 @@ export default defineConfig({
 
 // ------- For use Electron, NodeJs in Renderer-process -------
 // https://github.com/caoxiemeihao/electron-vue-vite/issues/52
-export function resolveElectron(dict: Parameters<typeof resolve>[0] = {}): Plugin[] {
+export function resolveElectron(resolves: Parameters<typeof resolve>[0] = {}): Plugin[] {
   const builtins = builtinModules.filter(t => !t.startsWith('_'))
 
   return [
@@ -52,7 +52,7 @@ export function resolveElectron(dict: Parameters<typeof resolve>[0] = {}): Plugi
     resolve({
       electron: electronExport(),
       ...builtinModulesExport(builtins),
-      ...dict,
+      ...resolves,
     })
   ]
 
