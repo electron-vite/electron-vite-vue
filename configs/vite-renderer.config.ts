@@ -92,11 +92,11 @@ export function resolveElectron(dict: Parameters<typeof resolve>[0] = {}): Plugi
   function builtinModulesExport(modules: string[]) {
     return modules.map((moduleId) => {
       const nodeModule = require(moduleId)
-      const requireTpl = `const __builtinModule = require("${moduleId}");`
+      const requireModule = `const __builtinModule = require("${moduleId}");`
       const exportDefault = `export default __builtinModule`
       const exportMembers = Object.keys(nodeModule).map(attr => `export const ${attr} = __builtinModule.${attr}`).join(';\n') + ';'
       const nodeModuleCode = `
-${requireTpl}
+${requireModule}
 
 ${exportDefault}
 
