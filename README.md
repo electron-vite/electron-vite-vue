@@ -42,24 +42,21 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
 
 ```tree
 ├
-├── configs
-├   ├── vite-main.config.ts          Main-process config file, for -> src/main
-├   ├── vite-preload.config.ts       Preload-script config file, for -> src/preload
-├   ├── vite-renderer.config.ts      Renderer-script config file, for -> src/renderer
-├
-├── dist                             After build, it's generated according to the "src" directory
+├── dist                      After build, it's generated according to the "src" directory
 ├   ├── main
 ├   ├── preload
 ├   ├── renderer
 ├
 ├── scripts
-├   ├── build.mjs                    Build script, for -> npm run build
-├   ├── watch.mjs                    Develop script, for -> npm run dev
+├   ├── build.mjs             Build script, for -> npm run build
+├   ├── vite.config.mjs       Marin-process, Preload-script vite-config
+├   ├── watch.mjs             Develop script, for -> npm run dev
 ├
 ├── src
-├   ├── main                         Main-process source code
-├   ├── preload                      Preload-script source code
-├   ├── renderer                     Renderer-process source code
+├   ├── main                  Main-process source code
+├   ├── preload               Preload-script source code
+├   ├── renderer              Renderer-process source code
+├       ├── vite.config.ts    Renderer-process vite-config
 ├
 ```
 

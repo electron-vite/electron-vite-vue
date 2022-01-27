@@ -42,24 +42,21 @@
 
 ```tree
 ├
-├── configs
-├   ├── vite-main.config.ts          主进程配置文件，编译 src/main
-├   ├── vite-preload.config.ts       预加载脚本配置文件，编译 src/preload
-├   ├── vite-renderer.config.ts      渲染进程配置文件，编译 src/renderer
-├
-├── dist                             构建后，根据 src 目录生成
+├── dist                      构建后，根据 src 目录生成
 ├   ├── main
 ├   ├── preload
 ├   ├── renderer
 ├
 ├── scripts
-├   ├── build.mjs                    项目构建脚本，对应 npm run build
-├   ├── watch.mjs                    项目开发脚本，对应 npm run dev
+├   ├── build.mjs             项目构建脚本，对应 npm run build
+├   ├── vite.config.mjs       主进程, 预加载脚本源码 vite 配置
+├   ├── watch.mjs             项目开发脚本，对应 npm run dev
 ├
 ├── src
-├   ├── main                         主进程源码
-├   ├── preload                      预加载脚本源码
-├   ├── renderer                     渲染进程源码
+├   ├── main                  主进程源码
+├   ├── preload               预加载脚本源码
+├   ├── renderer              渲染进程源码
+├       ├── vite.config.ts    渲染进程 vite 配置
 ├
 ```
 
