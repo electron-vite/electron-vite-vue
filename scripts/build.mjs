@@ -2,7 +2,7 @@ process.env.NODE_ENV = 'production'
 
 import { dirname, join } from 'path'
 import { fileURLToPath } from 'url'
-import { build as viteBuild } from 'vite'
+import { build } from 'vite'
 import chalk from 'chalk'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -34,7 +34,7 @@ const viteConfigs = {
 async function buildElectron() {
   for (const [name, config] of Object.entries(viteConfigs)) {
     console.log(TAG, name)
-    await viteBuild(config)
+    await build(config)
     console.log() // for beautiful log.
   }
 }
