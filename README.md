@@ -97,8 +97,10 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
 
 ## Use SerialPort, SQLite3 or other node-native addons in Main-process
 
-Main-process, Preload-script are also built with Vite, and they are just built as [build.lib](https://vitejs.dev/config/#build-lib).  
-So they just need to configure Rollup.  
+- First, yout need to make sure the deps in "dependencies". Because the project still needs it after packaged.
+
+- Main-process, Preload-script are also built with Vite, and they are just built as [build.lib](https://vitejs.dev/config/#build-lib).  
+So they just need to configure Rollup.
 
 **Click to view more** 👉 [scripts/vite.config.mjs](https://github.com/caoxiemeihao/electron-vue-vite/blob/main/scripts/vite.config.mjs)
 
@@ -124,11 +126,11 @@ export default {
 
 ## `dependencies` vs `devDependencies`
 
-- First, you need to know if deps(npm package) are still needed after packaged.  
+- First, you need to know if deps(npm package) are still needed after packaged.
 
-- Like [serialport](https://www.npmjs.com/package/serialport), [sqlite3](https://www.npmjs.com/package/sqlite3) they are node-native module and should be placed in `dependencies`.  
+- Like [serialport](https://www.npmjs.com/package/serialport), [sqlite3](https://www.npmjs.com/package/sqlite3) they are node-native module and should be placed in `dependencies`. In addition, Vite will not build them, but treat them as external modules.
 
-- Like [vue](https://www.npmjs.com/package/vue), [react](https://www.npmjs.com/package/react) they are pure javascript module and can be built with Vite, so they can be placed in `devDependencies`. This reduces the volume of the built project.  
+- Like [vue](https://www.npmjs.com/package/vue), [react](https://www.npmjs.com/package/react) they are pure javascript module and can be built with Vite, so they can be placed in `devDependencies`. This reduces the volume of the built project.
 
 ## Main window
 <img width="400px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />
