@@ -95,6 +95,14 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
   console.log('ipcRenderer', window.ipcRenderer)
   ```
 
+## `dependencies` vs `devDependencies`
+
+- First, you need to know if deps(npm package) are still needed after packaged.  
+
+- Like [serialport](https://www.npmjs.com/package/serialport), [sqlite3](https://www.npmjs.com/package/sqlite3) they are node-native module and should be placed in `dependencies`.  
+
+- Like [vue](https://www.npmjs.com/package/vue), [react](https://www.npmjs.com/package/react) they are pure javascript module and can be built with Vite, so they can be placed in `devDependencies`. This reduces the volume of the built project.  
+
 ## Main window
 <img width="400px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />
 
