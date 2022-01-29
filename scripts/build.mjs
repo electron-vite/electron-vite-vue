@@ -3,10 +3,8 @@ process.env.NODE_ENV = 'production'
 import { dirname, join } from 'path'
 import { fileURLToPath } from 'url'
 import { build } from 'vite'
-import chalk from 'chalk'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
-const TAG = chalk.bgBlue(' build.mjs ')
 
 /**
  * @type {Record<string, import('vite').InlineConfig>}
@@ -32,8 +30,7 @@ const viteConfigs = {
 }
 
 async function buildElectron() {
-  for (const [name, config] of Object.entries(viteConfigs)) {
-    console.log(TAG, name)
+  for (const [, config] of Object.entries(viteConfigs)) {
     await build(config)
     console.log() // for beautiful log.
   }
