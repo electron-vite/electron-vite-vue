@@ -81,9 +81,9 @@ export function resolveElectron(resolves: Parameters<typeof resolve>[0] = {}): P
   function builtinModulesExport(modules: string[]) {
     return modules.map((moduleId) => {
       const nodeModule = require(moduleId)
-      const requireModule = `const __builtinModule = require("${moduleId}");`
-      const exportDefault = `export default __builtinModule`
-      const exportMembers = Object.keys(nodeModule).map(attr => `export const ${attr} = __builtinModule.${attr}`).join(';\n') + ';'
+      const requireModule = `const M = require("${moduleId}");`
+      const exportDefault = `export default M;`
+      const exportMembers = Object.keys(nodeModule).map(attr => `export const ${attr} = M.${attr}`).join(';\n') + ';'
       const nodeModuleCode = `
 ${requireModule}
 
