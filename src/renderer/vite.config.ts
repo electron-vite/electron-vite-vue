@@ -35,26 +35,15 @@ export default defineConfig({
 
 // ------- For use Electron, NodeJs in Renderer-process -------
 // https://github.com/caoxiemeihao/electron-vue-vite/issues/52
-export function resolveElectron(resolves: Parameters<typeof resolve>[0] = {}): Plugin[] {
+export function resolveElectron(resolves: Parameters<typeof resolve>[0] = {}): Plugin {
   const builtins = builtinModules.filter(t => !t.startsWith('_'))
 
-  return [
-    {
-      name: 'vite-plugin-electron-config',
-      config(config) {
-        if (!config.optimizeDeps) config.optimizeDeps = {}
-        if (!config.optimizeDeps.exclude) config.optimizeDeps.exclude = []
-
-        config.optimizeDeps.exclude.push('electron', ...builtins)
-      },
-    },
-    // https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/resolve#readme
-    resolve({
-      electron: electronExport(),
-      ...builtinModulesExport(builtins),
-      ...resolves,
-    })
-  ]
+  // https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/resolve#readme
+  return resolve({
+    electron: electronExport(),
+    ...builtinModulesExport(builtins),
+    ...resolves,
+  })
 
   function electronExport() {
     return `
