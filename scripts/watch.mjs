@@ -25,6 +25,7 @@ function watchMain() {
     root: join(__dirname, '../src/main'),
     build: {
       outDir: '../../dist/main',
+      watch: true,
     },
     plugins: [{
       name: 'electron-main-watcher',
@@ -48,6 +49,7 @@ function watchPreload(server) {
     root: join(__dirname, '../src/preload'),
     build: {
       outDir: '../../dist/preload',
+      watch: true,
     },
     plugins: [{
       name: 'electron-preload-watcher',
