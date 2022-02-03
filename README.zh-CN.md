@@ -24,7 +24,7 @@
 
   ```bash
   # clone the project
-  git clone git@github.com:caoxiemeihao/electron-vue-vite.git
+  git clone https://github.com/caoxiemeihao/electron-vue-vite.git
 
   # enter the project directory
   cd electron-vue-vite
