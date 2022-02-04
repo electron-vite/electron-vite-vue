@@ -102,7 +102,7 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
 - Main-process, Preload-script are also built with Vite, and they are just built as [build.lib](https://vitejs.dev/config/#build-lib).  
 So they just need to configure Rollup.
 
-**Click to view more** 👉 [scripts/vite.config.mjs](https://github.com/caoxiemeihao/electron-vue-vite/blob/main/scripts/vite.config.mjs)
+**Click to see more** 👉 [scripts/vite.config.mjs](https://github.com/caoxiemeihao/electron-vue-vite/blob/main/scripts/vite.config.mjs)
 
 ```js
 export default {
