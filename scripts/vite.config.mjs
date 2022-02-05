@@ -25,3 +25,8 @@ export default defineConfig({
     },
   },
 })
+
+/**
+ * 2202-02-05
+ * @todo process.env.NODE_ENV always return true, need to submit PR to vite and improvement vite:define plugin.
+ */
