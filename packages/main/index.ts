@@ -1,10 +1,12 @@
-import os from 'os'
-import path from 'path'
-import { app, BrowserWindow } from 'electron'
+import { app, BrowserWindow, shell } from 'electron'
+import { release } from 'os'
+import { join } from 'path'
 
-// https://stackoverflow.com/questions/42524606/how-to-get-windows-version-using-node-js
-const isWin7 = os.release().startsWith('6.1')
-if (isWin7) app.disableHardwareAcceleration()
+// Disable GPU Acceleration for Windows 7
+if (release().startsWith('6.1')) app.disableHardwareAcceleration()
+
+// Set application name for Windows 10+ notifications
+if (process.platform === 'win32') app.setAppUserModelId(app.getName())
 
 if (!app.requestSingleInstanceLock()) {
   app.quit()
@@ -15,34 +17,44 @@ let win: BrowserWindow | null = null
 
 async function createWindow() {
   win = new BrowserWindow({
+    title: 'Main window',
     webPreferences: {
-      preload: path.join(__dirname, '../preload/index.cjs'),
+      preload: join(__dirname, '../preload/index.cjs')
     },
   })
 
   if (app.isPackaged) {
-    win.loadFile(path.join(__dirname, '../renderer/index.html'))
+    win.loadFile(join(__dirname, '../renderer/index.html'))
   } else {
-    const pkg = await import('../../package.json')
-    const url = `http://${pkg.env.HOST || '127.0.0.1'}:${pkg.env.PORT}`
+    // 🚧 Use ['ENV_NAME'] avoid vite:define plugin
+    const url = `http://${process.env['VITE_DEV_SERVER_HOST']}:${process.env['VITE_DEV_SERVER_PORT']}`
 
     win.loadURL(url)
     win.webContents.openDevTools()
   }
+
+  // Test active push message to Renderer-process
+  win.webContents.on('did-finish-load', () => {
+    win?.webContents.send('main-process-message', (new Date).toLocaleString())
+  })
+
+  // Make all links open with the browser, not with the application
+  win.webContents.setWindowOpenHandler(({ url }) => {
+    if (url.startsWith('https:')) shell.openExternal(url)
+    return { action: 'deny' }
+  })
 }
 
 app.whenReady().then(createWindow)
 
 app.on('window-all-closed', () => {
   win = null
-  if (process.platform !== 'darwin') {
-    app.quit()
-  }
+  if (process.platform !== 'darwin') app.quit()
 })
 
 app.on('second-instance', () => {
   if (win) {
-    // someone tried to run a second instance, we should focus our window.
+    // Focus on the main window if the user tried to open another
     if (win.isMinimized()) win.restore()
     win.focus()
   }
@@ -56,15 +68,3 @@ app.on('activate', () => {
     createWindow()
   }
 })
-
-// @TODO
-// auto update
-/* if (app.isPackaged) {
-  app.whenReady()
-    .then(() => import('electron-updater'))
-    .then(({ autoUpdater }) => autoUpdater.checkForUpdatesAndNotify())
-    .catch((e) =>
-      // maybe you need to record some log files.
-      console.error('Failed check update:', e)
-    )
-} */

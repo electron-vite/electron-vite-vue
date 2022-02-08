@@ -14,6 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
   </div>
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
   <div class="static-public">
+    asjdfljasldfjasldfjlsdjflskjdf-----------
     Place static files into the <code>src/renderer/public</code> folder
     <img style="width:90px;" :src="'./images/node.png'" />
   </div>

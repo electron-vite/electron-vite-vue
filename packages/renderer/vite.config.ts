@@ -1,4 +1,3 @@
-import { join } from 'path'
 import { builtinModules } from 'module'
 import { defineConfig, Plugin } from 'vite'
 import vue from '@vitejs/plugin-vue'
@@ -13,11 +12,12 @@ export default defineConfig({
     vue(),
     resolveElectron(
       /**
-       * you can custom other module in here
-       * 🚧 need to make sure custom-resolve-module in `dependencies`, that will ensure that the electron-builder can package them correctly
+       * Here you can specify other modules
+       * 🚧 You have to make sure that your module is in `dependencies` and not in the` devDependencies`,
+       *    which will ensure that the electron-builder can package it correctly
        * @example
        * {
-       *   'electron-store': 'const Store = require("electron-store"); export defalut Store;',
+       *   'electron-store': 'const Store = require("electron-store"); export default Store;',
        * }
        */
     ),
@@ -28,17 +28,22 @@ export default defineConfig({
     outDir: '../../dist/renderer',
   },
   server: {
-    host: pkg.env.HOST,
     port: pkg.env.PORT,
   },
 })
 
-// ------- For use Electron, NodeJs in Renderer-process -------
-// https://github.com/caoxiemeihao/electron-vue-vite/issues/52
-export function resolveElectron(resolves: Parameters<typeof resolve>[0] = {}): Plugin {
-  const builtins = builtinModules.filter(t => !t.startsWith('_'))
+/**
+ * For usage of Electron and NodeJS APIs in the Renderer process
+ * @see https://github.com/caoxiemeihao/electron-vue-vite/issues/52
+ */
+export function resolveElectron(
+  resolves: Parameters<typeof resolve>[0] = {}
+): Plugin {
+  const builtins = builtinModules.filter((t) => !t.startsWith('_'))
 
-  // https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/resolve#readme
+  /**
+   * @see https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/resolve#readme
+   */
   return resolve({
     electron: electronExport(),
     ...builtinModulesExport(builtins),
@@ -48,7 +53,7 @@ export function resolveElectron(resolves: Parameters<typeof resolve>[0] = {}): P
   function electronExport() {
     return `
   /**
-   * All exports module see https://www.electronjs.org -> API -> Renderer Process Modules
+   * For all exported modules see https://www.electronjs.org/docs/latest/api/clipboard -> Renderer Process Modules
    */
   const electron = require("electron");
   const {
@@ -62,7 +67,7 @@ export function resolveElectron(resolves: Parameters<typeof resolve>[0] = {}): P
     desktopCapturer,
     deprecate,
   } = electron;
-  
+
   export {
     electron as default,
     clipboard,
@@ -75,24 +80,29 @@ export function resolveElectron(resolves: Parameters<typeof resolve>[0] = {}): P
     desktopCapturer,
     deprecate,
   }
-  `
+`
   }
 
   function builtinModulesExport(modules: string[]) {
-    return modules.map((moduleId) => {
-      const nodeModule = require(moduleId)
-      const requireModule = `const M = require("${moduleId}");`
-      const exportDefault = `export default M;`
-      const exportMembers = Object.keys(nodeModule).map(attr => `export const ${attr} = M.${attr}`).join(';\n') + ';'
-      const nodeModuleCode = `
+    return modules
+      .map((moduleId) => {
+        const nodeModule = require(moduleId)
+        const requireModule = `const M = require("${moduleId}");`
+        const exportDefault = `export default M;`
+        const exportMembers =
+          Object.keys(nodeModule)
+            .map((attr) => `export const ${attr} = M.${attr}`)
+            .join(';\n') + ';'
+        const nodeModuleCode = `
 ${requireModule}
 
 ${exportDefault}
 
 ${exportMembers}
-  `
+`
 
-      return { [moduleId]: nodeModuleCode }
-    }).reduce((memo, item) => Object.assign(memo, item), {})
+        return { [moduleId]: nodeModuleCode }
+      })
+      .reduce((memo, item) => Object.assign(memo, item), {})
   }
 }
