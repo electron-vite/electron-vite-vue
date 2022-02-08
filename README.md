@@ -38,11 +38,11 @@ You can learn more details by looking at the source code. Trust me, this templat
 
 ## Directory
 
-Once `dev` or `build` npm-script executed will be generate named `dist` folder. It has children dir of same as `src` folder, the purpose of this design can ensure the correct path calculation.
+Once `dev` or `build` npm-script executed will be generate named `dist` folder. It has children dir of same as `packages` folder, the purpose of this design can ensure the correct path calculation.
 
 ```tree
 ├
-├── dist                      After build, it's generated according to the "src" directory
+├── dist                      After build, it's generated according to the "packages" directory
 ├   ├── main
 ├   ├── preload
 ├   ├── renderer
@@ -52,7 +52,7 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
 ├   ├── vite.config.mjs       Marin-process, Preload-script vite-config
 ├   ├── watch.mjs             Develop script, for -> npm run dev
 ├
-├── src
+├── packages
 ├   ├── main                  Main-process source code
 ├   ├── preload               Preload-script source code
 ├   ├── renderer              Renderer-process source code
@@ -66,7 +66,7 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
 
 #### All Electron, NodeJs API invoke passed `Preload-script`
 
-* **src/preload/index.ts**
+* **packages/preload/index.ts**
 
   ```typescript
   import fs from 'fs'
@@ -77,7 +77,7 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
   contextBridge.exposeInMainWorld('ipcRenderer', ipcRenderer)
   ```
 
-* **src/renderer/src/global.d.ts**
+* **packages/renderer/src/global.d.ts**
 
   ```typescript
   // Defined on the window
@@ -87,7 +87,7 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
   }
   ```
 
-* **src/renderer/src/main.ts**
+* **packages/renderer/src/main.ts**
 
   ```typescript
   // Use Electron, NodeJs API in Renderer-process

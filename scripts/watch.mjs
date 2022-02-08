@@ -22,7 +22,7 @@ function watchMain() {
 
   return build({
     configFile: 'scripts/vite.config.mjs',
-    root: join(__dirname, '../src/main'),
+    root: join(__dirname, '../packages/main'),
     build: {
       outDir: '../../dist/main',
       watch: true,
@@ -46,7 +46,7 @@ function watchMain() {
 function watchPreload(server) {
   return build({
     configFile: 'scripts/vite.config.mjs',
-    root: join(__dirname, '../src/preload'),
+    root: join(__dirname, '../packages/preload'),
     build: {
       outDir: '../../dist/preload',
       watch: true,
@@ -61,7 +61,7 @@ function watchPreload(server) {
 }
 
 // bootstrap
-const server = await createServer({ configFile: 'src/renderer/vite.config.ts' })
+const server = await createServer({ configFile: 'packages/renderer/vite.config.ts' })
 
 await server.listen()
 await watchPreload(server)

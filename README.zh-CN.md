@@ -38,11 +38,11 @@
 
 ## 目录结构
 
-&emsp;&emsp;一旦启动或打包脚本执行过，会在根目录产生 **`dist` 文件夹，里面的文件夹同 `src` 一模一样**；在使用一些路径计算时，尤其是相对路径计算；`dist` 与 `src` 里面保持相同的目录结构能避开好多问题
+&emsp;&emsp;一旦启动或打包脚本执行过，会在根目录产生 **`dist` 文件夹，里面的文件夹同 `packages` 一模一样**；在使用一些路径计算时，尤其是相对路径计算；`dist` 与 `packages` 里面保持相同的目录结构能避开好多问题
 
 ```tree
 ├
-├── dist                      构建后，根据 src 目录生成
+├── dist                      构建后，根据 packages 目录生成
 ├   ├── main
 ├   ├── preload
 ├   ├── renderer
@@ -52,7 +52,7 @@
 ├   ├── vite.config.mjs       主进程, 预加载脚本源码 vite 配置
 ├   ├── watch.mjs             项目开发脚本，对应 npm run dev
 ├
-├── src
+├── packages
 ├   ├── main                  主进程源码
 ├   ├── preload               预加载脚本源码
 ├   ├── renderer              渲染进程源码
@@ -78,7 +78,7 @@ electron-builder 打包时候会将 dependencies 中的包打包到 app.asar 里
 
 **推荐所有的 NodeJs、Electron API 通过 `Preload-script` 注入到 渲染进程中，例如：**
 
-* **src/preload/index.ts**
+* **packages/preload/index.ts**
 
   ```typescript
   import fs from 'fs'
@@ -89,7 +89,7 @@ electron-builder 打包时候会将 dependencies 中的包打包到 app.asar 里
   contextBridge.exposeInMainWorld('ipcRenderer', ipcRenderer)
   ```
 
-* **src/renderer/src/global.d.ts**
+* **packages/renderer/src/global.d.ts**
 
   ```typescript
   // Defined on the window
@@ -99,7 +99,13 @@ electron-builder 打包时候会将 dependencies 中的包打包到 app.asar 里
   }
   ```
 
-* **src/renderer/main.ts**
+* **packages/renderer/src/main.ts**
+
+  ```typescript
+  // Use Electron, NodeJs API in Renderer-process
+  console.log('fs', window.fs)
+  console.log('ipcRenderer', window.ipcRenderer)
+  ```
 
   ```typescript
   // Use Electron, NodeJs API in Renderer-process
