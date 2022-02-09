@@ -48,15 +48,16 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
 ├   ├── renderer
 ├
 ├── scripts
-├   ├── build.mjs             Build script, for -> npm run build
-├   ├── vite.config.mjs       Marin-process, Preload-script vite-config
-├   ├── watch.mjs             Develop script, for -> npm run dev
+├   ├── build.mjs             Develop script -> npm run build
+├   ├── watch.mjs             Develop script -> npm run dev
 ├
 ├── packages
 ├   ├── main                  Main-process source code
+├       ├── vite.config.ts
 ├   ├── preload               Preload-script source code
+├       ├── vite.config.ts
 ├   ├── renderer              Renderer-process source code
-├       ├── vite.config.ts    Renderer-process vite-config
+├       ├── vite.config.ts
 ├
 ```
 
@@ -102,7 +103,7 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
 - Main-process, Preload-script are also built with Vite, and they are just built as [build.lib](https://vitejs.dev/config/#build-lib).  
 So they just need to configure Rollup.
 
-**Click to see more** 👉 [scripts/vite.config.mjs](https://github.com/caoxiemeihao/electron-vue-vite/blob/main/scripts/vite.config.mjs)
+**Click to see more** 👉 [packages/main/vite.config.ts](https://github.com/caoxiemeihao/electron-vue-vite/blob/main/packages/main/vite.config.ts)
 
 ```js
 export default {

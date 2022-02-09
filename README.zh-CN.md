@@ -48,15 +48,16 @@
 ├   ├── renderer
 ├
 ├── scripts
-├   ├── build.mjs             项目构建脚本，对应 npm run build
-├   ├── vite.config.mjs       主进程, 预加载脚本源码 vite 配置
-├   ├── watch.mjs             项目开发脚本，对应 npm run dev
+├   ├── build.mjs             项目开发脚本 npm run build
+├   ├── watch.mjs             项目开发脚本 npm run dev
 ├
 ├── packages
 ├   ├── main                  主进程源码
+├       ├── vite.config.ts
 ├   ├── preload               预加载脚本源码
+├       ├── vite.config.ts
 ├   ├── renderer              渲染进程源码
-├       ├── vite.config.ts    渲染进程 vite 配置
+├       ├── vite.config.ts
 ├
 ```
 
