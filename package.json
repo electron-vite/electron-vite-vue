@@ -6,7 +6,9 @@
   "license": "MIT",
   "scripts": {
     "dev": "node scripts/watch.mjs",
-    "build": "vue-tsc --project packages/renderer/tsconfig.json --noEmit && node scripts/build.mjs && electron-builder"
+    "prebuild": "vue-tsc --project packages/renderer/tsconfig.json --noEmit && node scripts/build.mjs",
+    "build": "npm run prebuild && electron-builder",
+    "debug": "npm run prebuild && vite ./packages/renderer"
   },
   "engines": {
     "node": ">=14.17.0"
