@@ -11,7 +11,7 @@ export default defineConfig({
       formats: ['cjs'],
       fileName: () => '[name].cjs',
     },
-    minify: false,
+    minify: process.env./* from mode option */NODE_ENV === 'production',
     sourcemap: true,
     emptyOutDir: true,
     rollupOptions: {

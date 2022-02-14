@@ -1,23 +1,17 @@
-
-
 {
   "version": "0.2.0",
   "configurations": [
     {
       "type": "node",
       "request": "launch",
-      "name": "Main",
+      "name": "Main(inspector)",
       "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/electron",
-      // "program": "${workspaceRoot}/packages/main/index.ts",
-      // "outFiles": [
-      //   "${workspaceRoot}/dist/main/index.cjs"
-      // ],
       "runtimeArgs": [
-        "./dist/main/index.cjs",
+        "--remote-debugging-port=9222",
+        "${workspaceFolder}/dist/main/index.cjs",
       ],
       "env": {
-        "VITE_DEV_SERVER_HOST": "127.0.0.1",
-        "VITE_DEV_SERVER_PORT": "3344"
+        "DEBUG": "true",
       },
       "windows": {
         "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/electron.cmd"
@@ -27,18 +21,51 @@
     {
       "type": "chrome",
       "request": "launch",
-      "name": "Renderer",
+      "name": "Renderer(inspector)",
+      "url": "http://localhost:9222",
+      "webRoot": "${workspaceFolder}/dist/packages/renderer",
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Main(vite)",
+      "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/electron",
+      "runtimeArgs": [
+        "${workspaceFolder}/dist/main/index.cjs",
+      ],
+      "env": {
+        "VITE_DEV_SERVER_HOST": "127.0.0.1",
+        "VITE_DEV_SERVER_PORT": "3344",
+      },
+      "windows": {
+        "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/electron.cmd"
+      },
+      "sourceMaps": true
+    },
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Renderer(vite)",
       "url": "http://localhost:3344",
       "webRoot": "${workspaceFolder}/packages/renderer",
     },
   ],
   "compounds": [
     {
-      "name": "All",
+      "name": "All(inspector)",
       "configurations": [
-        "Renderer",
-        "Main",
-      ]
+        "Renderer(inspector)",
+        "Main(inspector)",
+      ],
+      "preLaunchTask": "npm: prebuild"
+    },
+    {
+      "name": "All(vite serve)",
+      "configurations": [
+        "Renderer(vite)",
+        "Main(vite)",
+      ],
+      "preLaunchTask": "npm: debug"
     }
   ]
 }
