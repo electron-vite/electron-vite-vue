@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "node scripts/watch.mjs",
     "prebuild": "vue-tsc --project packages/renderer/tsconfig.json --noEmit && node scripts/build.mjs",
-    "build": "npm run prebuild && electron-builder",
+    "build": "electron-builder",
     "debug": "npm run prebuild && vite ./packages/renderer"
   },
   "engines": {
