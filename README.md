@@ -8,7 +8,7 @@
 
 **English | [简体中文](README.zh-CN.md)**
 
-🥳 Very simple `Electron` + `Vue3` + `Vite2` boilerplate.
+🥳 Real simple `Electron` + `Vue3` + `Vite2` boilerplate.
 
 ## Overview
 
