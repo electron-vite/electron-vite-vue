@@ -12,7 +12,7 @@
 
 ## Overview
 
-This is an `Vite`-integrated `Electron` template built with simplification in mind.
+This is a `Vite`-integrated `Electron` template built with simplification in mind.
 
 The repo contains only the most basic files, dependencies and functionalities to ensure flexibility for various scenarios. 
 
@@ -61,11 +61,11 @@ A `dist` folder will be generated everytime when `dev` or `build` command is exe
 
 ## Use Electron, NodeJs API
 
-> 🚧 By default, using Electron or NodeJS API in the rederer process is discouraged. For anyone who needs to bypass this security constrain, take a look at this template 👉 **[electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate)**
+> 🚧 By default, using Electron or NodeJS API in the rederer process is strongly discouraged.  For anyone who needs to bypass the security constraints, take a look at this template 👉 **[electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate)**
 
 As electron suggested, if you need access to the Electron and NodeJS API in the renderer process, you need to create a context bridge and expose the APIs you need to the renderer process.
 
-Note that if your project uses typescript, you also need to add type declearations to `Window` interface.
+Note that if your project uses typescript, you also need to add type declarations to the `Window` interface.
 
 * **packages/preload/index.ts**
 
@@ -98,9 +98,9 @@ Note that if your project uses typescript, you also need to add type declearatio
 
 ## Use SerialPort, SQLite3 or other node-native addons in Main-process
 
-- First you need to make sure the packages are listed in the "dependencies", since they are still needed during runtime after the project is bundled.
+- First, you need to make sure the packages are listed in the "dependencies" since they are still needed at runtime after the project is packed.
 
-- Source code of main process and preload scripts are also bundled with Vite[build.lib](https://vitejs.dev/config/#build-lib). Rollup configurations are needed.
+- Source code of main process and preload scripts are also bundled with Vite[build.lib](https://vitejs.dev/config/#build-lib). Rollup configurations needed.
 
 **More:** 👉 [packages/main/vite.config.ts](https://github.com/caoxiemeihao/electron-vue-vite/blob/main/packages/main/vite.config.ts)
 
@@ -126,7 +126,7 @@ export default {
 
 ## `dependencies` vs `devDependencies`
 
-- First, you need to know if the package is still needed during runtime after packaged.
+- First, you need to know if the package is still needed at runtime after packed.
 
 - Packages like [serialport](https://www.npmjs.com/package/serialport), [sqlite3](https://www.npmjs.com/package/sqlite3) are node-native modules and should be placed in `dependencies`. Vite will not build them and will treat them as externals.
 
