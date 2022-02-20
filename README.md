@@ -16,7 +16,7 @@ This is a `Vite`-integrated `Electron` template built with simplification in min
 
 The repo contains only the most basic files, dependencies and functionalities to ensure flexibility for various scenarios. 
 
-You need a basic understanding of `Electron` and `Vite` to get started. But that's not mandatory - you can learn almost all the details by reading through the souce code. Trust me, this repo is not that complex. 😋
+You need a basic understanding of `Electron` and `Vite` to get started. But that's not mandatory - you can learn almost all the details by reading through the source code. Trust me, this repo is not that complex. 😋
 
 ## Run Setup
 
