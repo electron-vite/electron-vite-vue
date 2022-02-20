@@ -12,13 +12,11 @@
 
 ## Overview
 
-This is an `Electron` category integration template that pursues simplification.  
-This contains only the most basic files, the most basic dependencies, and the most basic functions. Instead of large and complex design.  
-The purpose of this is to ensure that the template is flexible enough.
+This is a `Vite`-integrated `Electron` template built with simplification in mind.
 
-For all that, I still hope that you have a basic understanding for `Electron` `Vite`. Because in addition to the simple structure of the project, the `README` also appears too simplify.
+The repo contains only the most basic files, dependencies and functionalities to ensure flexibility for various scenarios. 
 
-You can learn more details by looking at the source code. Trust me, this template is the simple enough. 😋
+You need a basic understanding of `Electron` and `Vite` to get started. But that's not mandatory - you can learn almost all the details by reading through the souce code. Trust me, this repo is not that complex. 😋
 
 ## Run Setup
 
@@ -38,17 +36,17 @@ You can learn more details by looking at the source code. Trust me, this templat
 
 ## Directory
 
-Once `dev` or `build` npm-script executed will be generate named `dist` folder. It has children dir of same as `packages` folder, the purpose of this design can ensure the correct path calculation.
+A `dist` folder will be generated everytime when `dev` or `build` command is executed. File structure of `dist` is identical to the `packages` directory to avoid any potential path calculation errors.
 
 ```tree
 ├
-├── dist                      After build, it's generated according to the "packages" directory
+├── dist                      Will be generated following the structure of "packages" directory
 ├   ├── main
 ├   ├── preload
 ├   ├── renderer
 ├
 ├── scripts
-├   ├── build.mjs             Develop script -> npm run build
+├   ├── build.mjs             Build script -> npm run build
 ├   ├── watch.mjs             Develop script -> npm run dev
 ├
 ├── packages
@@ -63,9 +61,11 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
 
 ## Use Electron, NodeJs API
 
-> 🚧 By default, Electron don't support the use of API related to Electron and NodeJs in the Renderer-process, but someone still need to use it. If so, you can see the template 👉 **[electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate)**
+> 🚧 By default, using Electron or NodeJS API in the rederer process is strongly discouraged.  For anyone who needs to bypass the security constraints, take a look at this template 👉 **[electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate)**
 
-#### All Electron, NodeJs API invoke passed `Preload-script`
+As electron suggested, if you need access to the Electron and NodeJS API in the renderer process, you need to create a context bridge and expose the APIs you need to the renderer process.
+
+Note that if your project uses typescript, you also need to add type declarations to the `Window` interface.
 
 * **packages/preload/index.ts**
 
@@ -98,12 +98,11 @@ Once `dev` or `build` npm-script executed will be generate named `dist` folder. 
 
 ## Use SerialPort, SQLite3 or other node-native addons in Main-process
 
-- First, yout need to make sure the deps in "dependencies". Because the project still needs it after packaged.
+- First, you need to make sure the packages are listed in the "dependencies" since they are still needed at runtime after the project is packed.
 
-- Main-process, Preload-script are also built with Vite, and they are just built as [build.lib](https://vitejs.dev/config/#build-lib).  
-So they just need to configure Rollup.
+- Source code of main process and preload scripts are also bundled with Vite[build.lib](https://vitejs.dev/config/#build-lib). Rollup configurations needed.
 
-**Click to see more** 👉 [packages/main/vite.config.ts](https://github.com/caoxiemeihao/electron-vue-vite/blob/main/packages/main/vite.config.ts)
+**More:** 👉 [packages/main/vite.config.ts](https://github.com/caoxiemeihao/electron-vue-vite/blob/main/packages/main/vite.config.ts)
 
 ```js
 export default {
@@ -127,11 +126,11 @@ export default {
 
 ## `dependencies` vs `devDependencies`
 
-- First, you need to know if deps(npm package) are still needed after packaged.
+- First, you need to know if the package is still needed at runtime after packed.
 
-- Like [serialport](https://www.npmjs.com/package/serialport), [sqlite3](https://www.npmjs.com/package/sqlite3) they are node-native module and should be placed in `dependencies`. In addition, Vite will not build them, but treat them as external modules.
+- Packages like [serialport](https://www.npmjs.com/package/serialport), [sqlite3](https://www.npmjs.com/package/sqlite3) are node-native modules and should be placed in `dependencies`. Vite will not build them and will treat them as externals.
 
-- Like [vue](https://www.npmjs.com/package/vue), [react](https://www.npmjs.com/package/react) they are pure javascript module and can be built with Vite, so they can be placed in `devDependencies`. This reduces the volume of the built project.
+- Packages like [vue](https://www.npmjs.com/package/vue), [react](https://www.npmjs.com/package/react) are pure javascript modules and can be built with Vite. They can be listed in `devDependencies` which helps reducing the size of bundled product.
 
 ## Main window
 <img width="400px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />
