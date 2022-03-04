@@ -11,9 +11,9 @@ export default defineConfig({
       formats: ['cjs'],
       fileName: () => '[name].cjs',
     },
-    sourcemap: true,
     minify: process.env./* from mode option */NODE_ENV === 'production',
-    emptyOutDir: true,
+    // https://github.com/caoxiemeihao/electron-vue-vite/issues/61
+    sourcemap: 'inline',
     rollupOptions: {
       external: [
         'electron',
