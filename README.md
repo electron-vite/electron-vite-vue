@@ -18,7 +18,7 @@ The repo contains only the most basic files, dependencies and functionalities to
 
 You need a basic understanding of `Electron` and `Vite` to get started. But that's not mandatory - you can learn almost all the details by reading through the source code. Trust me, this repo is not that complex. 😋
 
-## Run Setup
+## Quick Start
 
   ```bash
   # clone the project
@@ -33,6 +33,8 @@ You need a basic understanding of `Electron` and `Vite` to get started. But that
   # develop
   npm run dev
   ```
+
+![quick-start](packages/renderer/public/images/quick-start.gif)
 
 ## Directory
 

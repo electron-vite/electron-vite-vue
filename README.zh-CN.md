@@ -20,7 +20,7 @@
 
 模板的具体实现细节我相信你看两遍源码就能把它吃透了 😋
 
-## 运行项目
+## 快速开始
 
   ```bash
   # clone the project
@@ -35,6 +35,8 @@
   # develop
   npm run dev
   ```
+
+![quick-start](packages/renderer/public/images/quick-start.gif)
 
 ## 目录结构
 
