@@ -1,6 +1,6 @@
 # electron-vue-vite
 
-![awesome-vite](https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
+[![awesome-vite](https://awesome.re/mentioned-badge.svg)](https://github.com/vitejs/awesome-vite)
 ![GitHub license](https://img.shields.io/github/license/caoxiemeihao/electron-vue-vite?style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/caoxiemeihao/electron-vue-vite?color=fa6470&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/caoxiemeihao/electron-vue-vite?style=flat)
@@ -9,16 +9,6 @@
 **[English](README.md) | 简体中文**
 
 🥳 `Electron` + `Vue3` + `Vite2` 整合模板 -- **结构简单，容易上手！**
-
-## 概述
-
-&emsp;&emsp;这是一个追求精简的`Electron`类整合模板，只保持最基本的文件、最基本的依赖、最基本的功能；而不是大而全的、臃肿的设计。这样做的目的是能确保模板足够灵活。
-
-所以说如果你是对 -- 工程模板追求精简的 Coder，或者刚入世的小白想弄明白`Electron`整合类模板最基础的工作原理，亦或者你是大神只是想偷懒少干点活；那么这个模板最合适你不过了。
-
-尽管如此，我还是希望你对`Electron` `Vite`有一定的基础；因为除了项目结构简单外，这份`README`也显得 “精简” 。
-
-模板的具体实现细节我相信你看两遍源码就能把它吃透了 😋
 
 ## 快速开始
 
@@ -37,6 +27,16 @@
   ```
 
 ![quick-start](packages/renderer/public/images/quick-start.gif)
+
+## 概述
+
+&emsp;&emsp;这是一个追求精简的`Electron`类整合模板，只保持最基本的文件、最基本的依赖、最基本的功能；而不是大而全的、臃肿的设计。这样做的目的是能确保模板足够灵活。
+
+所以说如果你是对 -- 工程模板追求精简的 Coder，或者刚入世的小白想弄明白`Electron`整合类模板最基础的工作原理，亦或者你是大神只是想偷懒少干点活；那么这个模板最合适你不过了。
+
+尽管如此，我还是希望你对`Electron` `Vite`有一定的基础；因为除了项目结构简单外，这份`README`也显得 “精简” 。
+
+模板的具体实现细节我相信你看两遍源码就能把它吃透了 😋
 
 ## 目录结构
 
