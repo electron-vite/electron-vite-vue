@@ -8,12 +8,15 @@
     "dev": "node scripts/watch.mjs",
     "prebuild": "vue-tsc --project packages/renderer/tsconfig.json --noEmit && node scripts/build.mjs",
     "build": "electron-builder",
-    "debug": "npm run prebuild && vite ./packages/renderer"
+    "debug": "npm run prebuild && vite ./packages/renderer",
+    "test:e2e": "npx playwright test",
+    "test:e2e:headless": "npx playwright test --headed"
   },
   "engines": {
     "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
   },
   "devDependencies": {
+    "@playwright/test": "^1.19.2",
     "@vitejs/plugin-vue": "^2.1.0",
     "electron": "16.0.8",
     "electron-builder": "^22.14.5",
