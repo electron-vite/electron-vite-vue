@@ -10,27 +10,27 @@ export default defineConfig({
   root: __dirname,
   plugins: [
     vue(),
-    resolveElectron(
-      /**
-       * Here you can specify other modules
-       * 🚧 You have to make sure that your module is in `dependencies` and not in the` devDependencies`,
-       *    which will ensure that the electron-builder can package it correctly
-       * @example
-       * {
-       *   'electron-store': 'const Store = require("electron-store"); export default Store;',
-       * }
-       */
-    ),
+    resolveElectron(),
+    /**
+     * Here you can specify other modules
+     * 🚧 You have to make sure that your module is in `dependencies` and not in the` devDependencies`,
+     *    which will ensure that the electron-builder can package it correctly
+     * @example
+     * {
+     *   'electron-store': 'const Store = require("electron-store"); export default Store;',
+     * }
+     */
   ],
-  base: './',
+  base: "./",
   build: {
     sourcemap: true,
-    outDir: '../../dist/renderer',
+    outDir: "../../dist/renderer",
+    target: ["edge90", "chrome90", "firefox90", "safari15"],
   },
   server: {
     port: pkg.env.PORT,
   },
-})
+});
 
 /**
  * For usage of Electron and NodeJS APIs in the Renderer process
