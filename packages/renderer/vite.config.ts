@@ -20,6 +20,9 @@ export default defineConfig({
        *   'electron-store': 'const Store = require("electron-store"); export default Store;',
        * }
        */
+      {
+        sqlite3: 'const sqlite3 = require("sqlite3"); export default sqlite3;',
+      },
     ),
   ],
   base: './',
@@ -40,7 +43,6 @@ export function resolveElectron(
   resolves: Parameters<typeof resolve>[0] = {}
 ): Plugin {
   const builtins = builtinModules.filter((t) => !t.startsWith('_'))
-
   /**
    * @see https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/resolve#readme
    */

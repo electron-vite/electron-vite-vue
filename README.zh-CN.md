@@ -77,9 +77,20 @@ electron-builder 打包时候会将 dependencies 中的包打包到 app.asar 里
 
 ## 渲染进程使用 NodeJs API
 
-> 🚧 因为安全的原因 Electron 默认不支持在 渲染进程 中使用 NodeJs API，但是有些小沙雕就是想这么干，拦都拦不住；实在想那么干的话，用另一个模板更方便 👉 **[electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate)**
+> 🚧 因为 [electron 安全约束的原因](https://www.electronjs.org/docs/latest/tutorial/security/) Electron 默认不支持在 渲染进程 中使用 NodeJs API。
 
-**推荐所有的 NodeJs、Electron API 通过 `Preload-script` 注入到 渲染进程中，例如：**
+在渲染进程中使用 NodeJs API 的方式，本模版提供了两种方案：
+
+1. 忽视安全约束(**默认**)，位于[main](https://github.com/caoxiemeihao/electron-vue-vite/tree/main) 分支。默认开启了 `nodeIntegration`，开箱即用使用简便:tada:，但是有一定 XSS 攻击风险 🚧。
+
+2. 通过 preload 方式向 Render 注入，位于 [withoutNodeIntegration](https://github.com/caoxiemeihao/electron-vue-vite/tree/withoutNodeIntegration) 分支。默认关闭了 `nodeIntegration`，electron 官方推荐的方式，更加安全:lock:。
+
+**对于[方案 1](https://github.com/caoxiemeihao/electron-vue-vite/tree/main)，所有的 NodeJs、Electron API 可以直接在 渲染进程 中使用。**
+
+
+**对于[方案 2](https://github.com/caoxiemeihao/electron-vue-vite/tree/withoutNodeIntegration)，所有的 NodeJs、Electron API 通过 `Preload-script` 注入到 渲染进程中**
+
+您需要创建一个 context bridge，并向渲染进程暴露所需的 API。请注意，如果您的项目使用 typescript，则还需要将类型声明添加到 `Window` interface，例如：
 
 * **packages/preload/index.ts**
 
@@ -116,18 +127,36 @@ electron-builder 打包时候会将 dependencies 中的包打包到 app.asar 里
   console.log('ipcRenderer', window.ipcRenderer)
   ```
 
-**如果你真的在这个模板中开启了 `nodeIntegration: true` `contextIsolation: false` 我不拦着  
-🚧 但是要提醒你做两件事儿**
-
-1. `preload/index.ts` 中的 `exposeInMainWorld` 删掉，已经没有用了
-
-  ```diff
-  - contextBridge.exposeInMainWorld('fs', fs)
-  - contextBridge.exposeInMainWorld('ipcRenderer', ipcRenderer)
-  ```
-
-2. `configs/vite-renderer.config` 中有个 `resolveElectron` **最好了解下**  
+最后，不管是哪种方式，对于第三方 NodeJs API (例如 `sqlite3`) 你还需要在 `packages/renderer/vite.config.ts` 的 `defineConfig.plugins` 中声明它的导入方式，从而让模版能够正确识别它们。关于原理 `resolveElectron` **最好了解下**  
 👉 这里有个 `issues` [请教一下vite-renderer.config中的resolveElectron函数](https://github.com/caoxiemeihao/electron-vue-vite/issues/52)
+
+## 在主进程中使用 SerialPort，SQLite3 等 node-native addons
+
+- 首先，您需要确保这些第三方 node-native addons 被放到了 "dependencies" 中，以二进制文件确保能够被打包。
+
+- main 进程和 preload 脚本也需要对应在 vite [build.lib](https://vitejs.dev/config/#build-lib) 中配置打包，需要配置 rollup 选项。
+
+**查看更多：** 👉 [packages/main/vite.config.ts](https://github.com/caoxiemeihao/electron-vue-vite/blob/main/packages/main/vite.config.ts)
+
+```js
+export default {
+  build: {
+    // built lib for Main-process, Preload-script
+    lib: {
+      entry: 'index.ts',
+      formats: ['cjs'],
+      fileName: () => '[name].js',
+    },
+    rollupOptions: {
+      // configuration here
+      external: [
+        'serialport',
+        'sqlite3',
+      ],
+    },
+  },
+}
+```
 
 ## 运行效果
 <img width="400px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />

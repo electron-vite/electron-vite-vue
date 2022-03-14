@@ -12,6 +12,7 @@ if (!app.requestSingleInstanceLock()) {
   app.quit()
   process.exit(0)
 }
+process.env['ELECTRON_DISABLE_SECURITY_WARNINGS'] = 'true'
 
 let win: BrowserWindow | null = null
 
@@ -19,11 +20,14 @@ async function createWindow() {
   win = new BrowserWindow({
     title: 'Main window',
     webPreferences: {
-      preload: join(__dirname, '../preload/index.cjs')
+      preload: join(__dirname, '../preload/index.cjs'),
+      nodeIntegration: true,
+      contextIsolation: false,
     },
   })
 
-  if (app.isPackaged || process.env["DEBUG"]) {
+  if (app.isPackaged || process.env['DEBUG']) {
+    // Load built files in the debug mode instead of reading from vite server
     win.loadFile(join(__dirname, '../renderer/index.html'))
   } else {
     // 🚧 Use ['ENV_NAME'] avoid vite:define plugin
@@ -33,9 +37,20 @@ async function createWindow() {
     win.webContents.openDevTools()
   }
 
+  // Communicate with the Renderer-process.
+  win.webContents.on('ipc-message', (_, channel, ...args) => {
+    switch (channel) {
+      case 'app.getPath':
+        win?.webContents.send('app.getPath', app.getPath(args[0]))
+        break
+      default:
+        break
+    }
+  })
+
   // Test active push message to Renderer-process
   win.webContents.on('did-finish-load', () => {
-    win?.webContents.send('main-process-message', (new Date).toLocaleString())
+    win?.webContents.send('main-process-message', new Date().toLocaleString())
   })
 
   // Make all links open with the browser, not with the application
