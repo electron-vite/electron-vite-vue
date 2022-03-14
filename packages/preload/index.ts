@@ -4,8 +4,4 @@ import { useLoading } from './loading'
 const { appendLoading, removeLoading } = useLoading()
 window.removeLoading = removeLoading;
 
-;(async () => {
-  await domReady()
-
-  appendLoading()
-})()
+domReady().then(appendLoading)
