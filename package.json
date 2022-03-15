@@ -6,16 +6,13 @@
   "license": "MIT",
   "scripts": {
     "dev": "node scripts/watch.mjs",
-    "typecheck": "vue-tsc --project packages/renderer/tsconfig.json --noEmit",
-    "prebuild": "npm run typecheck && node scripts/build.mjs",
+    "build": "vue-tsc --noEmit --p packages/renderer/tsconfig.json && electron-builder",
     "init": "git config core.hooksPath .git/hooks/ && rm -rf .git/hooks && npx simple-git-hooks",
-    "build": "electron-builder",
-    "debug": "npm run prebuild && vite ./packages/renderer",
     "test:e2e": "npx playwright test",
     "test:e2e:headless": "npx playwright test --headed"
   },
   "engines": {
-    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+    "node": ">=14.17.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.19.2",
@@ -32,8 +29,8 @@
     "vue-tsc": "^0.31.1"
   },
   "env": {
-    "//": "Used in build scripts",
-    "PORT": 3344
+    "VITE_DEV_SERVER_HOST": "127.0.0.1",
+    "VITE_DEV_SERVER_PORT": 3344
   },
   "keywords": [
     "vite",
