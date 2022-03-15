@@ -31,7 +31,8 @@ export default defineConfig({
     outDir: '../../dist/renderer',
   },
   server: {
-    port: pkg.env.PORT,
+    host: pkg.env.VITE_DEV_SERVER_HOST,
+    port: pkg.env.VITE_DEV_SERVER_PORT,
   },
 })
 
