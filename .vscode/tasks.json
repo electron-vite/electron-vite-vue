@@ -1,21 +1,14 @@
 {
-	"version": "2.0.0",
-	"tasks": [
-		{
-			"type": "npm",
-			"script": "prebuild",
-			"group": "build",
-			"problemMatcher": [],
-			"label": "npm: prebuild",
-			"detail": "vue-tsc --project packages/renderer/tsconfig.json --noEmit && node scripts/build.mjs"
-		},
-		{
-			"type": "npm",
-			"script": "debug",
-			"problemMatcher": [],
-			"label": "npm: debug",
-			"detail": "npm run prebuild && vite ./packages/renderer",
-			"group": "build"
-		},
-	]
+  // See https://go.microsoft.com/fwlink/?LinkId=733558 
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "start .debug.script.mjs",
+      "type": "shell",
+      "command": "node .vscode/.debug.script.mjs",
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
 }

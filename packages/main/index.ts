@@ -26,8 +26,7 @@ async function createWindow() {
     },
   })
 
-  if (app.isPackaged || process.env['DEBUG']) {
-    // Load built files in the debug mode instead of reading from vite server
+  if (app.isPackaged) {
     win.loadFile(join(__dirname, '../renderer/index.html'))
   } else {
     // 🚧 Use ['ENV_NAME'] avoid vite:define plugin

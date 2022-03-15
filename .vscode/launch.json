@@ -1,71 +1,44 @@
 {
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
   "version": "0.2.0",
-  "configurations": [
-    {
-      "type": "node",
-      "request": "launch",
-      "name": "Main(inspector)",
-      "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/electron",
-      "runtimeArgs": [
-        "--remote-debugging-port=9222",
-        "${workspaceFolder}/dist/main/index.cjs",
-      ],
-      "env": {
-        "DEBUG": "true",
-      },
-      "windows": {
-        "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/electron.cmd"
-      },
-      "sourceMaps": true
-    },
-    {
-      "type": "chrome",
-      "request": "launch",
-      "name": "Renderer(inspector)",
-      "url": "http://localhost:9222",
-      "webRoot": "${workspaceFolder}/dist/packages/renderer",
-    },
-    {
-      "type": "node",
-      "request": "launch",
-      "name": "Main(vite)",
-      "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/electron",
-      "runtimeArgs": [
-        "${workspaceFolder}/dist/main/index.cjs",
-      ],
-      "env": {
-        "VITE_DEV_SERVER_HOST": "127.0.0.1",
-        "VITE_DEV_SERVER_PORT": "3344",
-      },
-      "windows": {
-        "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/electron.cmd"
-      },
-      "sourceMaps": true
-    },
-    {
-      "type": "chrome",
-      "request": "launch",
-      "name": "Renderer(vite)",
-      "url": "http://localhost:3344",
-      "webRoot": "${workspaceFolder}/packages/renderer",
-    },
-  ],
   "compounds": [
     {
-      "name": "All(inspector)",
+      "name": "Debug App",
+      "preLaunchTask": "start .debug.script.mjs",
       "configurations": [
-        "Renderer(inspector)",
-        "Main(inspector)",
+        "Debug Main Process",
+        "Debug Renderer Process"
       ],
-      "preLaunchTask": "npm: prebuild"
+      "presentation": {
+        "hidden": false,
+        "group": "",
+        "order": 1
+      },
+      "stopAll": true
+    }
+  ],
+  "configurations": [
+    {
+      "name": "Debug Main Process",
+      "type": "pwa-node",
+      "request": "launch",
+      "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/electron",
+      "windows": {
+        "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/electron.cmd"
+      },
+      "runtimeArgs": [
+        "--remote-debugging-port=9229",
+        "${workspaceRoot}/dist/main/index.cjs"
+      ],
+      "envFile": "${workspaceFolder}/.vscode/.debug.env"
     },
     {
-      "name": "All(vite serve)",
-      "configurations": [
-        "Renderer(vite)",
-        "Main(vite)",
-      ],
-      "preLaunchTask": "npm: debug"
-    }
+      "name": "Debug Renderer Process",
+      "port": 9229,
+      "request": "attach",
+      "type": "pwa-chrome"
+    },
   ]
 }
