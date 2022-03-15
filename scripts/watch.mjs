@@ -2,6 +2,9 @@ import { spawn } from 'child_process'
 import { createServer, build } from 'vite'
 import electron from 'electron'
 
+const query = new URLSearchParams(import.meta.url.split('?')[1])
+const debug = query.has('debug')
+
 /**
  * @type {(server: import('vite').ViteDevServer) => Promise<import('rollup').RollupWatcher>}
  */
@@ -15,17 +18,21 @@ function watchMain(server) {
     VITE_DEV_SERVER_HOST: address.address,
     VITE_DEV_SERVER_PORT: address.port,
   })
+  /**
+   * @type {import('vite').Plugin}
+   */
+  const startElectron = {
+    name: 'electron-main-watcher',
+    writeBundle() {
+      electronProcess && electronProcess.kill()
+      electronProcess = spawn(electron, ['.'], { stdio: 'inherit', env })
+    },
+  }
 
   return build({
     configFile: 'packages/main/vite.config.ts',
     mode: 'development',
-    plugins: [{
-      name: 'electron-main-watcher',
-      writeBundle() {
-        electronProcess && electronProcess.kill()
-        electronProcess = spawn(electron, ['.'], { stdio: 'inherit', env })
-      },
-    }],
+    plugins: [!debug && startElectron].filter(Boolean),
     build: {
       watch: true,
     },
