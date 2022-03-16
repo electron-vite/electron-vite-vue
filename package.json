@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "node scripts/watch.mjs",
-    "build": "vue-tsc --noEmit --p packages/renderer/tsconfig.json && electron-builder",
+    "prebuild": "vue-tsc --noEmit --p packages/renderer/tsconfig.json && node scripts/build.mjs",
+    "build": "electron-builder",
     "init": "git config core.hooksPath .git/hooks/ && rm -rf .git/hooks && npx simple-git-hooks",
     "test:e2e": "npx playwright test",
     "test:e2e:headless": "npx playwright test --headed"

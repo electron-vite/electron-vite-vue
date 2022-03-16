@@ -48,10 +48,10 @@ jobs:
           node-version: ${{ matrix.node }}
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
-      - name: Run tests
-        run: npm run test
+      # - name: Run tests
+      #   run: npm run test
 
       # - name: Build dependencies
       #   run: npm run build
@@ -74,4 +74,4 @@ jobs:
           args: --config electron-builder.json
           github_token: ${{ secrets.GITHUB_TOKEN }}
           release: ${{ startsWith(github.ref, 'refs/tags/v') && github.event_name == 'push' && needs.get_metadata.outputs.branch == 'main'}}
-          max_attempts: 5
+          max_attempts: 3
