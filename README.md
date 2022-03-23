@@ -28,6 +28,12 @@
 
 ![quick-start](packages/renderer/public/images/quick-start.gif)
 
+## Another way is by scaffolding started
+
+```
+npm create electron-vite
+```
+
 ## Overview
 
 This is a `Vite`-integrated `Electron` template built with simplification in mind.
@@ -153,8 +159,8 @@ export default {
 ## Wechat | | 请我喝杯下午茶 🥳
 
 <div style="display:flex;">
-  <img width="244px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/assets/wechat/group/qrcode.jpg" />
+  <img height="333px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/assets/wechat/group/qrcode.jpg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="244px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/assets/wechat/%24qrcode/%24.png" />
+  <img height="333px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/assets/wechat/%24qrcode/%24.png" />
 </div>
 
