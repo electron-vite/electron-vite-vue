@@ -1,12 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-import ipcRendererSample from './mainModules/ipcRendererSample'
-import fsExample from './mainModules/builtinModuleSample'
+import './samples/node-api'
 
 createApp(App)
   .mount('#app')
-  .$nextTick(() => {
-    window.removeLoading()
-    ipcRendererSample()
-    fsExample()
-  })
+  .$nextTick(window.removeLoading)
