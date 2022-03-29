@@ -1,23 +1,23 @@
-# electron-vue-vite
+# electron-vite-vue
 
 [![awesome-vite](https://awesome.re/mentioned-badge.svg)](https://github.com/vitejs/awesome-vite)
-![GitHub license](https://img.shields.io/github/license/caoxiemeihao/electron-vue-vite?style=flat)
-![GitHub stars](https://img.shields.io/github/stars/caoxiemeihao/electron-vue-vite?color=fa6470&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/caoxiemeihao/electron-vue-vite?style=flat)
+![GitHub license](https://img.shields.io/github/license/caoxiemeihao/electron-vite-vue?style=flat)
+![GitHub stars](https://img.shields.io/github/stars/caoxiemeihao/electron-vite-vue?color=fa6470&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/caoxiemeihao/electron-vite-vue?style=flat)
 
 
 **English | [简体中文](README.zh-CN.md)**
 
-🥳 Real simple `Electron` + `Vue3` + `Vite2` boilerplate.
+🥳 Real simple `Electron` + `Vue` + `Vite` boilerplate.
 
 ## Quick Start
 
   ```bash
   # clone the project
-  git clone https://github.com/caoxiemeihao/electron-vue-vite.git
+  git clone https://github.com/caoxiemeihao/electron-vite-vue.git
 
   # enter the project directory
-  cd electron-vue-vite
+  cd electron-vite-vue
 
   # install dependency
   npm install
