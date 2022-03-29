@@ -36,17 +36,6 @@ async function createWindow() {
     win.webContents.openDevTools()
   }
 
-  // Communicate with the Renderer-process.
-  win.webContents.on('ipc-message', (_, channel, ...args) => {
-    switch (channel) {
-      case 'app.getPath':
-        win?.webContents.send('app.getPath', app.getPath(args[0]))
-        break
-      default:
-        break
-    }
-  })
-
   // Test active push message to Renderer-process
   win.webContents.on('did-finish-load', () => {
     win?.webContents.send('main-process-message', new Date().toLocaleString())
