@@ -156,11 +156,11 @@ export default {
 ## Main window
 <img width="400px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />
 
-## Wechat | | 请我喝杯下午茶 🥳
+## <!-- Wechat | | -->请我喝杯下午茶 🥳
 
 <div style="display:flex;">
-  <img height="333px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/assets/wechat/group/qrcode.jpg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <img height="333px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/assets/wechat/group/qrcode.jpg" />
+  &nbsp;&nbsp;&nbsp;&nbsp; -->
   <img height="333px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/assets/wechat/%24qrcode/%24.png" />
 </div>
 
