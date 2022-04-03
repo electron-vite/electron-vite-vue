@@ -12,7 +12,7 @@
 
 ## 快速开始
 
-![quick-start](packages/renderer/public/images/quick-start.gif)
+[![quick-start](https://asciinema.org/a/483731.svg)](https://asciinema.org/a/483731)
 
 ## 概述
 

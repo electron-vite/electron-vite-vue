@@ -12,27 +12,7 @@
 
 ## Quick Start
 
-  ```bash
-  # clone the project
-  git clone https://github.com/caoxiemeihao/electron-vite-vue.git
-
-  # enter the project directory
-  cd electron-vite-vue
-
-  # install dependency
-  npm install
-
-  # develop
-  npm run dev
-  ```
-
-![quick-start](packages/renderer/public/images/quick-start.gif)
-
-## Another way is by scaffolding started
-
-```
-npm create electron-vite
-```
+[![quick-start](https://asciinema.org/a/483731.svg)](https://asciinema.org/a/483731)
 
 ## Overview
 
@@ -67,91 +47,22 @@ A `dist` folder will be generated everytime when `dev` or `build` command is exe
 ├
 ```
 
-## `dependencies` vs `devDependencies`
+## Learn About Electron-vue-vite
 
-- First, you need to know if the package is still needed at runtime after packed.
+Used in main-process 👉 [electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate)
 
-- Packages like [serialport](https://www.npmjs.com/package/serialport), [sqlite3](https://www.npmjs.com/package/sqlite3) are node-native modules and should be placed in `dependencies`. Vite will not build them and will treat them as externals.
+Used in Renderer-process 👉 [electron-vite-boilerplate/tree/nodeIntegration](https://github.com/caoxiemeihao/electron-vite-boilerplate/tree/nodeIntegration)
 
-- Packages like [vue](https://www.npmjs.com/package/vue), [react](https://www.npmjs.com/package/react) are pure javascript modules and can be built with Vite. They can be listed in `devDependencies` which helps reducing the size of bundled product.
+**ES Modules**
 
-## Use Electron, NodeJs API
+- [execa](https://www.npmjs.com/package/execa)
+- [node-fetch](https://www.npmjs.com/package/node-fetch)
+- [file-type](https://www.npmjs.com/package/file-type)
 
-> 🚧 Due to [electron security](https://www.electronjs.org/docs/latest/tutorial/security/) constraints, using Electron or NodeJS API in the rederer process is strongly discouraged.
+**Native Addons**
 
-The template provides two methods for using the NodeJs API in the rendering process:
-
-1. Bypass the security constraints (**default**), located in the [main](https://github.com/caoxiemeihao/electron-vue-vite/tree/main) branch. `nodeIntegration` is enabled by default, making it easy to use.:tada:, but there are certain security risks 🚧.
-2. Inject Render by preload script, located in the [withoutNodeIntegration](https://github.com/caoxiemeihao/electron-vue-vite/tree/withoutNodeIntegration) branch. `nodeIntegration` is turned off by default, the official recommended way of electron, more secure:lock:.
-
-
-**For [1](https://github.com/caoxiemeihao/electron-vue-vite/tree/main), all NodeJs and Electron APIs can be used directly in the rendering process.**
-
-
-**For [2](https://github.com/caoxiemeihao/electron-vue-vite/tree/withoutNodeIntegration), all NodeJs, Electron APIs injected into the rendering process via `Preload-script`**
-
-you need to create a context bridge and expose the APIs you need to the renderer process.
-
-Note that if your project uses typescript, you also need to add type declarations to the `Window` interface, for example:
-
-* **packages/preload/index.ts**
-
-  ```typescript
-  import fs from 'fs'
-  import { contextBridge, ipcRenderer } from 'electron'
-
-  // --------- Expose some API to Renderer-process. ---------
-  contextBridge.exposeInMainWorld('fs', fs)
-  contextBridge.exposeInMainWorld('ipcRenderer', ipcRenderer)
-  ```
-
-* **packages/renderer/src/global.d.ts**
-
-  ```typescript
-  // Defined on the window
-  interface Window {
-    fs: typeof import('fs')
-    ipcRenderer: import('electron').IpcRenderer
-  }
-  ```
-
-* **packages/renderer/src/main.ts**
-
-  ```typescript
-  // Use Electron, NodeJs API in Renderer-process
-  console.log('fs', window.fs)
-  console.log('ipcRenderer', window.ipcRenderer)
-  ```
-
-Finally, either way, for third-party NodeJs APIs (e.g. `sqlite3`), You'll also need to declare how it was imported in `packages/renderer/vite.config.ts` `defineConfig.plugins` so that the template can recognize them correctly. 👉 reference `issues` [resolveElectron](https://github.com/caoxiemeihao/electron-vue-vite/issues/52)
-
-## Use SerialPort, SQLite3 or other node-native addons in Main-process
-
-- First, you need to make sure the packages are listed in the "dependencies" since they are still needed at runtime after the project is packed.
-
-- Source code of main process and preload scripts are also bundled with Vite[build.lib](https://vitejs.dev/config/#build-lib). Rollup configurations needed.
-
-**More:** 👉 [packages/main/vite.config.ts](https://github.com/caoxiemeihao/electron-vue-vite/blob/main/packages/main/vite.config.ts)
-
-```js
-export default {
-  build: {
-    // built lib for Main-process, Preload-script
-    lib: {
-      entry: 'index.ts',
-      formats: ['cjs'],
-      fileName: () => '[name].js',
-    },
-    rollupOptions: {
-      // configuration here
-      external: [
-        'serialport',
-        'sqlite3',
-      ],
-    },
-  },
-}
-```
+- [sqlite3](https://www.npmjs.com/package/sqlite3)
+- [serialport](https://www.npmjs.com/package/serialport)
 
 ## Main window
 <img width="400px" src="https://raw.githubusercontent.com/caoxiemeihao/blog/main/electron-vue-vite/screenshot/electron-15.png" />
