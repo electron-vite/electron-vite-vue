@@ -18,6 +18,7 @@ export default defineConfig({
       external: [
         'electron',
         ...builtinModules,
+        // @ts-ignore
         ...Object.keys(pkg.dependencies || {}),
       ],
     },
