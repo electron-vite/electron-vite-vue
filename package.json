@@ -27,7 +27,7 @@
     "vite-plugin-electron": "^0.2.0",
     "vite-plugin-resolve": "^2.0.1",
     "vue": "^3.2.31",
-    "vue-tsc": "^0.31.1"
+    "vue-tsc": "^0.33.9"
   },
   "env": {
     "VITE_DEV_SERVER_HOST": "127.0.0.1",
