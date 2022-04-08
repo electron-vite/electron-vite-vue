@@ -47,9 +47,9 @@ A `dist` folder will be generated everytime when `dev` or `build` command is exe
 ├
 ```
 
-## Learn About Electron-vue-vite
+## List the modules you may use as far as possible
 
-Used in main-process 👉 [electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate)
+Used in Main-process 👉 [electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate)
 
 Used in Renderer-process 👉 [electron-vite-boilerplate/tree/nodeIntegration](https://github.com/caoxiemeihao/electron-vite-boilerplate/tree/nodeIntegration)
 
