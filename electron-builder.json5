@@ -1,5 +1,8 @@
+/**
+ * @see https://www.electron.build/configuration/configuration
+ */
 {
-  "appId": "YouAppID",
+  "appId": "YourAppID",
   "asar": true,
   "directories": {
     "output": "release/${version}"
