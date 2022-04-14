@@ -25,8 +25,9 @@ export default defineConfig({
   ],
   base: './',
   build: {
-    sourcemap: true,
     outDir: '../../dist/renderer',
+    emptyOutDir: true,
+    sourcemap: true,
   },
   server: {
     host: pkg.env.VITE_DEV_SERVER_HOST,
