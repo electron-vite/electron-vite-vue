@@ -71,7 +71,7 @@ jobs:
         uses: samuelmeuli/action-electron-builder@v1
         with:
           build_script_name: prebuild
-          args: --config electron-builder.json
+          args: --config electron-builder.json5
           github_token: ${{ secrets.GITHUB_TOKEN }}
           release: ${{ startsWith(github.ref, 'refs/tags/v') && github.event_name == 'push' && needs.get_metadata.outputs.branch == 'main'}}
           max_attempts: 3

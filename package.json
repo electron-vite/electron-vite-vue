@@ -19,7 +19,7 @@
     "@playwright/test": "^1.20.2",
     "@vitejs/plugin-vue": "^2.1.0",
     "electron": "18.0.2",
-    "electron-builder": "^22.14.5",
+    "electron-builder": "^23.0.3",
     "nano-staged": "^0.6.0",
     "simple-git-hooks": "^2.7.0",
     "typescript": "^4.6.3",
