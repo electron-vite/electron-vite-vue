@@ -17,17 +17,17 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.21.1",
-    "@vitejs/plugin-vue": "^2.1.0",
+    "@vitejs/plugin-vue": "^2.3.2",
     "electron": "18.2.0",
     "electron-builder": "^23.0.3",
     "nano-staged": "^0.8.0",
     "simple-git-hooks": "^2.7.0",
-    "typescript": "^4.6.3",
-    "vite": "^2.9.1",
+    "typescript": "^4.6.4",
+    "vite": "^2.9.8",
     "vite-plugin-electron": "^0.4.3",
-    "vite-plugin-resolve": "^2.0.1",
-    "vue": "^3.2.31",
-    "vue-tsc": "^0.31.1"
+    "vite-plugin-resolve": "^2.0.8",
+    "vue": "^3.2.33",
+    "vue-tsc": "^0.34.11"
   },
   "env": {
     "VITE_DEV_SERVER_HOST": "127.0.0.1",
