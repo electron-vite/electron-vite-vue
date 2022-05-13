@@ -59,7 +59,7 @@ function watchPreload(server) {
   })
 }
 
-// block CTRL + C to exit the application directly without displaying the query in Windows
+// Block the CTRL + C shortcut on a Windows terminal and exit the application without displaying a query
 if (process.platform === 'win32') {
   readline.createInterface({ input: process.stdin, output: process.stdout }).on('SIGINT', process.exit)
 }
