@@ -1,6 +1,7 @@
 import { spawn } from 'child_process'
 import { createServer, build } from 'vite'
 import electron from 'electron'
+import readline from 'readline'
 
 const query = new URLSearchParams(import.meta.url.split('?')[1])
 const debug = query.has('debug')
@@ -56,6 +57,11 @@ function watchPreload(server) {
       watch: {},
     },
   })
+}
+
+// block CTRL + C to exit the application directly without displaying the query in Windows
+if (process.platform === 'win32') {
+  readline.createInterface({ input: process.stdin, output: process.stdout }).on('SIGINT', process.exit)
 }
 
 // bootstrap
