@@ -27,6 +27,7 @@ function watchMain(server) {
     VITE_DEV_SERVER_HOST: address.address,
     VITE_DEV_SERVER_PORT: address.port,
   })
+
   /**
    * @type {import('vite').Plugin}
    */
@@ -34,8 +35,15 @@ function watchMain(server) {
     name: 'electron-main-watcher',
     writeBundle() {
       clearConsole()
-      electronProcess && electronProcess.kill()
+
+      if (electronProcess) {
+        electronProcess.removeAllListeners()
+        electronProcess.kill()
+        electronProcess = null
+      }
+
       electronProcess = spawn(electron, ['.'], { stdio: 'inherit', env })
+      electronProcess.on('exit', process.exit)
     },
   }
 
