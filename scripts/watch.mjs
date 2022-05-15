@@ -6,6 +6,14 @@ import readline from 'readline'
 const query = new URLSearchParams(import.meta.url.split('?')[1])
 const debug = query.has('debug')
 
+/** The log will display on the next screen */
+function clearConsole() {
+  const blank = '\n'.repeat(process.stdout.rows)
+  console.log(blank)
+  readline.cursorTo(process.stdout, 0, 0)
+  readline.clearScreenDown(process.stdout)
+}
+
 /**
  * @type {(server: import('vite').ViteDevServer) => Promise<import('rollup').RollupWatcher>}
  */
@@ -19,14 +27,23 @@ function watchMain(server) {
     VITE_DEV_SERVER_HOST: address.address,
     VITE_DEV_SERVER_PORT: address.port,
   })
+
   /**
    * @type {import('vite').Plugin}
    */
   const startElectron = {
     name: 'electron-main-watcher',
     writeBundle() {
-      electronProcess && electronProcess.kill()
+      clearConsole()
+
+      if (electronProcess) {
+        electronProcess.removeAllListeners()
+        electronProcess.kill()
+        electronProcess = null
+      }
+
       electronProcess = spawn(electron, ['.'], { stdio: 'inherit', env })
+      electronProcess.on('exit', process.exit)
     },
   }
 
@@ -50,6 +67,7 @@ function watchPreload(server) {
     plugins: [{
       name: 'electron-preload-watcher',
       writeBundle() {
+        clearConsole()
         server.ws.send({ type: 'full-reload' })
       },
     }],
