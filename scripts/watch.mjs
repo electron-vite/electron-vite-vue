@@ -43,6 +43,7 @@ function watchMain(server) {
       }
 
       electronProcess = spawn(electron, ['.'], { env })
+      // https://github.com/electron-vite/electron-vite-vue/pull/129
       electronProcess.on('exit', process.exit)
       electronProcess.stdout.on('data', (data) => {
         const str = data.toString().trim()
