@@ -42,8 +42,16 @@ function watchMain(server) {
         electronProcess = null
       }
 
-      electronProcess = spawn(electron, ['.'], { stdio: 'inherit', env })
+      electronProcess = spawn(electron, ['.'], { env })
       electronProcess.on('exit', process.exit)
+      electronProcess.stdout.on('data', (data) => {
+        const str = data.toString().trim()
+        str && console.log(str)
+      })
+      electronProcess.stderr.on('data', (data) => {
+        const str = data.toString().trim()
+        str && console.error(str)
+      })
     },
   }
 
