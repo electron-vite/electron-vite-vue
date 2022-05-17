@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
-import resolve from 'vite-plugin-resolve'
+import resolve, { lib2esm } from 'vite-plugin-resolve'
 import electron from 'vite-plugin-electron/renderer'
 import pkg from '../../package.json'
 
@@ -18,8 +18,23 @@ export default defineConfig({
        *    which will ensure that the electron-builder can package it correctly
        */
       {
-        // If you use electron-store, this will work - ESM format code snippets
-        'electron-store': 'const Store = require("electron-store"); export default Store;',
+        // If you use the following modules, the following configuration will work
+        // What they have in common is that they will return - ESM format code snippets
+
+        // ESM format string
+        'electron-store': 'export default require("electron-store");',
+        // Use lib2esm() to easy to convert ESM
+        sqlite3: lib2esm('sqlite3', { format: 'cjs' }),
+        serialport: lib2esm(
+          // CJS lib name
+          'serialport',
+          // export memebers
+          [
+            'SerialPort',
+            'SerialPortMock',
+          ],
+          { format: 'cjs' },
+        ),
       }
     ),
   ],
