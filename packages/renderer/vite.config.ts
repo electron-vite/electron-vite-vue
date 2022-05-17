@@ -24,6 +24,14 @@ export default defineConfig({
         // ESM format string
         'electron-store': 'export default require("electron-store");',
         // Use lib2esm() to easy to convert ESM
+        // Equivalent to
+        /**
+         * sqlite3: () => `
+         * const _M_ = require('sqlite3');
+         * const _D_ = _M_.default || _M_;
+         * export { _D_ as default }
+         * `
+         */
         sqlite3: lib2esm('sqlite3', { format: 'cjs' }),
         serialport: lib2esm(
           // CJS lib name
