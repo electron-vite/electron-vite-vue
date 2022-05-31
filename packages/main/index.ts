@@ -83,8 +83,8 @@ ipcMain.handle("open-win", (event, arg) => {
     })
   } else {
     // 🚧 Use ['ENV_NAME'] avoid vite:define plugin
-    const url = `http://${process.env["VITE_DEV_SERVER_HOST"]}:${process.env["VITE_DEV_SERVER_PORT"]}/#${arg.url}`
+    const url = `http://${process.env["VITE_DEV_SERVER_HOST"]}:${process.env["VITE_DEV_SERVER_PORT"]}/#${arg}`
     childWindow.loadURL(url);
-    childWindow.webContents.openDevTools({ mode: "undocked", activate: true })
+    // childWindow.webContents.openDevTools({ mode: "undocked", activate: true })
   }
 });
