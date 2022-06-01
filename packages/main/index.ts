@@ -1,4 +1,4 @@
-import { app, BrowserWindow, shell } from 'electron'
+import { app, BrowserWindow, shell,ipcMain } from 'electron'
 import { release } from 'os'
 import { join } from 'path'
 
@@ -71,3 +71,23 @@ app.on('activate', () => {
     createWindow()
   }
 })
+
+// new window example arg: new windows url
+ipcMain.handle("open-win", (event, arg) => {
+  const childWindow = new BrowserWindow({
+    webPreferences: {
+      preload: join(__dirname, "../preload/index.cjs"),
+    },
+  });
+
+  if (app.isPackaged) {
+    childWindow.loadFile(join(__dirname, `../renderer/index.html`), {
+      hash: `${arg}`,
+    })
+  } else {
+    // 🚧 Use ['ENV_NAME'] avoid vite:define plugin
+    const url = `http://${process.env["VITE_DEV_SERVER_HOST"]}:${process.env["VITE_DEV_SERVER_PORT"]}/#${arg}`
+    childWindow.loadURL(url);
+    // childWindow.webContents.openDevTools({ mode: "undocked", activate: true })
+  }
+});
