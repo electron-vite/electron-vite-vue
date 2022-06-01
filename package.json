@@ -16,7 +16,7 @@
     "node": ">=14.17.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.21.1",
+    "@playwright/test": "^1.22.2",
     "@vitejs/plugin-vue": "^2.3.2",
     "electron": "19.0.1",
     "electron-builder": "^23.0.3",
