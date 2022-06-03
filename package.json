@@ -1,33 +1,27 @@
 {
   "name": "electron-vue-vite",
   "version": "1.0.0",
-  "main": "dist/main/index.cjs",
+  "main": "dist/electron-main/index.cjs",
   "author": "草鞋没号 <308487730@qq.com>",
   "license": "MIT",
+  "private": true,
   "scripts": {
-    "dev": "node scripts/watch.mjs",
-    "prebuild": "vue-tsc --noEmit --p packages/renderer/tsconfig.json && node scripts/build.mjs",
-    "build": "electron-builder",
-    "init": "git config core.hooksPath .git/hooks/ && rm -rf .git/hooks && npx simple-git-hooks",
-    "test:e2e": "npx playwright test",
-    "test:e2e:headless": "npx playwright test --headed"
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build && electron-builder"
   },
   "engines": {
     "node": ">=14.17.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.22.2",
-    "@vitejs/plugin-vue": "^2.3.2",
-    "electron": "19.0.1",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "electron": "^19.0.3",
     "electron-builder": "^23.0.3",
-    "nano-staged": "^0.8.0",
-    "simple-git-hooks": "^2.8.0",
-    "typescript": "^4.7.2",
-    "vite": "^2.9.8",
+    "typescript": "^4.7.3",
+    "vite": "^2.9.9",
     "vite-plugin-electron": "^0.4.5",
     "vite-plugin-resolve": "^2.1.2",
     "vue": "^3.2.36",
-    "vue-tsc": "^0.35.2"
+    "vue-tsc": "^0.36.0"
   },
   "env": {
     "VITE_DEV_SERVER_HOST": "127.0.0.1",
