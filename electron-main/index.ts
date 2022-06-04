@@ -1,4 +1,4 @@
-import { app, BrowserWindow, shell,ipcMain } from 'electron'
+import { app, BrowserWindow, shell, ipcMain } from 'electron'
 import { release } from 'os'
 import { join } from 'path'
 
@@ -15,23 +15,24 @@ if (!app.requestSingleInstanceLock()) {
 process.env['ELECTRON_DISABLE_SECURITY_WARNINGS'] = 'true'
 
 let win: BrowserWindow | null = null
+// Here, you can also use other preload
+const splash = join(__dirname, '../electron-preload/splash.js')
+// 🚧 Use ['ENV_NAME'] avoid vite:define plugin
+const url = `http://${process.env['VITE_DEV_SERVER_HOST']}:${process.env['VITE_DEV_SERVER_PORT']}`
 
 async function createWindow() {
   win = new BrowserWindow({
     title: 'Main window',
     webPreferences: {
-      preload: join(__dirname, '../electron-preload/p1.js'),
+      preload: splash,
       nodeIntegration: true,
       contextIsolation: false,
     },
   })
 
   if (app.isPackaged) {
-    win.loadFile(join(__dirname, '../renderer/index.html'))
+    win.loadFile(join(__dirname, '../index.html'))
   } else {
-    // 🚧 Use ['ENV_NAME'] avoid vite:define plugin
-    const url = `http://${process.env['VITE_DEV_SERVER_HOST']}:${process.env['VITE_DEV_SERVER_PORT']}`
-
     win.loadURL(url)
     // win.webContents.openDevTools()
   }
@@ -76,18 +77,16 @@ app.on('activate', () => {
 ipcMain.handle("open-win", (event, arg) => {
   const childWindow = new BrowserWindow({
     webPreferences: {
-      preload: join(__dirname, "../preload/index.cjs"),
+      preload: splash,
     },
-  });
+  })
 
   if (app.isPackaged) {
     childWindow.loadFile(join(__dirname, `../renderer/index.html`), {
       hash: `${arg}`,
     })
   } else {
-    // 🚧 Use ['ENV_NAME'] avoid vite:define plugin
-    const url = `http://${process.env["VITE_DEV_SERVER_HOST"]}:${process.env["VITE_DEV_SERVER_PORT"]}/#${arg}`
-    childWindow.loadURL(url);
+    childWindow.loadURL(`${url}/#${arg}`)
     // childWindow.webContents.openDevTools({ mode: "undocked", activate: true })
   }
-});
+})
