@@ -12,11 +12,22 @@ export default defineConfig({
     electron({
       main: {
         entry: 'electron-main/index.ts',
+        vite: {
+          build: {
+            sourcemap: false,
+          },
+        },
       },
       preload: {
         input: {
           // You can configure multiple preload here
-          p1: join(__dirname, 'electron-preload'),
+          splash: join(__dirname, 'electron-preload/splash.ts'),
+        },
+        vite: {
+          build: {
+            // For debug
+            sourcemap: 'inline',
+          }
         },
       },
     }),
@@ -25,4 +36,8 @@ export default defineConfig({
     // TODO: integrate into 'vite-plugin-electron' by default
     polyfillExports(),
   ],
+  build: {
+    // TODO: integrate into 'vite-plugin-electron' by default
+    emptyOutDir: false,
+  },
 })
