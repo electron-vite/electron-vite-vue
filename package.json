@@ -1,7 +1,7 @@
 {
   "name": "electron-vue-vite",
   "version": "1.0.0",
-  "main": "dist/electron-main/index.cjs",
+  "main": "dist/electron-main/index.js",
   "author": "草鞋没号 <308487730@qq.com>",
   "license": "MIT",
   "private": true,
