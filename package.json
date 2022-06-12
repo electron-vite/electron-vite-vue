@@ -16,18 +16,18 @@
     "node": ">=14.17.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.21.1",
-    "@vitejs/plugin-vue": "^2.3.2",
-    "electron": "18.2.0",
+    "@playwright/test": "^1.22.2",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "electron": "19.0.4",
     "electron-builder": "^23.0.3",
     "nano-staged": "^0.8.0",
-    "simple-git-hooks": "^2.7.0",
-    "typescript": "^4.6.4",
-    "vite": "^2.9.8",
-    "vite-plugin-electron": "^0.4.4",
-    "vite-plugin-resolve": "^2.1.1",
-    "vue": "^3.2.33",
-    "vue-tsc": "^0.34.11"
+    "simple-git-hooks": "^2.8.0",
+    "typescript": "^4.7.3",
+    "vite": "^2.9.12",
+    "vite-plugin-electron": "^0.4.8",
+    "vite-plugin-resolve": "^2.1.2",
+    "vue": "^3.2.37",
+    "vue-tsc": "^0.37.3"
   },
   "env": {
     "VITE_DEV_SERVER_HOST": "127.0.0.1",
