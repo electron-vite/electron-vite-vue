@@ -13,5 +13,8 @@
     "paths": {},
     "allowSyntheticDefaultImports": true,
     "skipLibCheck": true
-  }
+  },
+  "references": [
+    { "path": "./tsconfig.node.json" }
+  ]
 }

@@ -11,3 +11,18 @@
 ```bash
 Error: @vitejs/plugin-vue requires vue (>=3.2.13) or @vue/compiler-sfc to be present in the dependency tree.
 ```
+
+
+## 22-01-30
+
+[v1.0.0](https://github.com/electron-vite/electron-vite-vue/releases/tag/v1.0.0)
+
+- ⚡️ Main、Renderer、preload, all built with vite
+
+
+## 21-06-04
+
+v2.0.0
+
+- 🖖 Based on the `vue-ts` template created by `npm create vite`, integrate `vite-plugin-electron`
+- ⚡️ More simplify, is in line with Vite project structure
