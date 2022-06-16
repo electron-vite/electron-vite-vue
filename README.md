@@ -9,14 +9,15 @@
 
 **English | [简体中文](README.zh-CN.md)**
 
-🥳 Real simple `Electron` + `Vue` + `Vite` boilerplate.
+🥳 Really simple `Electron` + `Vue` + `Vite` boilerplate.
 
 ## Overview
 
 📦 Out of the box  
-💪 Support C/C++ addons  
-🔩 Support Use Electron、Node.js API in Renderer-process  
+🎯 Based on [vue-ts](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-vue-ts) template, less invasive  
 🌱 Simple directory structure，real flexible  
+💪 Support Use Electron、Node.js API and in Renderer-process  
+🔩 Support C/C++ native addons  
 🖥 It's easy to implement multiple windows  
 
 ## Quick Start
@@ -27,33 +28,25 @@ npm create electron-vite
 
 <!-- [![quick-start](https://asciinema.org/a/483731.svg)](https://asciinema.org/a/483731) -->
 
-![electron-vite-vue.gif](https://github.com/electron-vite/electron-vite-vue/blob/main/packages/renderer/public/electron-vite-vue.gif?raw=true)
+![electron-vite-vue.gif](https://github.com/electron-vite/electron-vite-vue/blob/main/public/electron-vite-vue.gif?raw=true)
 
 ## Debug
 
-![electron-vite-react-debug.gif](https://github.com/electron-vite/electron-vite-react/blob/main/packages/renderer/public/electron-vite-react-debug.gif?raw=true)
+![electron-vite-react-debug.gif](https://github.com/electron-vite/electron-vite-react/blob/main/public/electron-vite-react-debug.gif?raw=true)
 
 ## Directory
 
-A `dist` folder will be generated everytime when `dev` or `build` command is executed. File structure of `dist` is identical to the `packages` directory to avoid any potential path calculation errors.
-
-```tree
-├── dist                      Will be generated following the structure of "packages" directory
-|   ├── main
-|   ├── preload
-|   └── renderer
-|
-├── scripts
-|   ├── build.mjs             Build script -> npm run build
-|   └── watch.mjs             Develop script -> npm run dev
-|
-├── packages
-|   ├── main                  Main-process source code
-|   |   └── vite.config.ts
-|   ├── preload               Preload-script source code
-|   |   └── vite.config.ts
-|   └── renderer              Renderer-process source code
-|       └── vite.config.ts
+```diff
++ ├─┬ electron
++ │ ├─┬ main
++ │ │ └── index.ts    entry of Electron-main
++ │ └─┬ preload
++ │   └── index.ts    entry of Electron-preload
+  ├─┬ src
+  │ └── main.ts       entry of Electron-renderer
+  ├── index.html
+  ├── package.json
+  └── vite.config.ts
 ```
 
 ## List the modules you may use as far as possible
