@@ -15,7 +15,7 @@ English | [简体中文](README.zh-CN.md)
 📦 Out of the box  
 🎯 Based on [vue-ts](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-vue-ts) template, less invasive  
 🌱 Extensible, really simple directory structure  
-💪 Support Use Electron、Node.js API and in Renderer-process  
+💪 Support using Node.js API in Renderer-process  
 🔩 Support C/C++ native addons  
 🖥 It's easy to implement multiple windows  
 
