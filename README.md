@@ -8,8 +8,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/caoxiemeihao/electron-vite-vue?color=fa6470&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/caoxiemeihao/electron-vite-vue?style=flat)
 
-English | [简体中文](README.zh-CN.md)
-
 ## Features
 
 📦 Out of the box  
