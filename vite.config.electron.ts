@@ -1,5 +1,15 @@
 import { join } from 'path'
+import { builtinModules } from 'module'
 import { defineConfig } from 'vite-plugin-electron'
+import pkg from './package.json'
+
+const external = [
+  'electron',
+  ...builtinModules,
+  // @ts-ignore
+  // For use Node.js package in Electron-main, Preload-script
+  ...Object.keys(pkg.dependencies || {}),
+]
 
 export default defineConfig({
   main: {
@@ -8,6 +18,9 @@ export default defineConfig({
       build: {
         sourcemap: false,
         outDir: 'dist/electron/main',
+        rollupOptions: {
+          external,
+        },
       },
     },
   },
@@ -21,6 +34,9 @@ export default defineConfig({
         // For debug
         sourcemap: 'inline',
         outDir: 'dist/electron/preload',
+        rollupOptions: {
+          external,
+        },
       }
     }
   },
