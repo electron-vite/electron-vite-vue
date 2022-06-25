@@ -2,6 +2,7 @@
   "name": "electron-vue-vite",
   "version": "2.0.0",
   "main": "dist/electron/main/index.js",
+  "description": "Really simple Electron + Vue + Vite boilerplate.",
   "author": "草鞋没号 <308487730@qq.com>",
   "license": "MIT",
   "private": true,
