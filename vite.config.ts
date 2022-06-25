@@ -3,7 +3,7 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import electron from 'vite-plugin-electron'
 import renderer from 'vite-plugin-electron/renderer'
-import electronConfig from './vite.config.electron'
+import electronConfig, { useNodeJsInElectronRenderer } from './vite.config.electron'
 
 rmSync('dist', { recursive: true, force: true }) // v14.14.0
 
@@ -14,5 +14,6 @@ export default defineConfig({
     electron(electronConfig),
     // Enable use Electron, Node.js API in Renderer-process
     renderer(),
+    useNodeJsInElectronRenderer(),
   ],
 })
