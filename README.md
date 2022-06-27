@@ -46,20 +46,11 @@ npm create electron-vite
   └── vite.config.ts
 ```
 
-## Examples
+## `dependencies` vs `devDependencies`
 
-Used in Main-process 👉 [electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate)
+The easiest way
 
-Used in Renderer-process 👉 [electron-vite-boilerplate/tree/nodeIntegration](https://github.com/caoxiemeihao/electron-vite-boilerplate/tree/nodeIntegration)
+- Put Node.js packages in `dependencies`
+- Put web packages in `devDependencies`
 
-> List the modules you may use as far as possible
-###### ES Modules
-
-- [execa](https://www.npmjs.com/package/execa)
-- [node-fetch](https://www.npmjs.com/package/node-fetch)
-- [file-type](https://www.npmjs.com/package/file-type)
-
-###### Native Addons(C/C++)
-
-- [sqlite3](https://www.npmjs.com/package/sqlite3)
-- [serialport](https://www.npmjs.com/package/serialport)
+See more 👉 [dependencies vs devDependencies](https://github.com/electron-vite/vite-plugin-electron-renderer#dependencies-vs-devdependencies)
