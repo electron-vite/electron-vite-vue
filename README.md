@@ -38,7 +38,7 @@ npm create electron-vite
 + │ ├─┬ main
 + │ │ └── index.ts    entry of Electron-main
 + │ └─┬ preload
-+ │   └── index.ts    entry of Electron-preload
++ │   └── splash.ts    entry of Electron-preload
   ├─┬ src
   │ └── main.ts       entry of Electron-renderer
   ├── index.html
