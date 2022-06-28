@@ -16,7 +16,7 @@ process.env['ELECTRON_DISABLE_SECURITY_WARNINGS'] = 'true'
 
 let win: BrowserWindow | null = null
 // Here, you can also use other preload
-const index = join(__dirname, '../preload/index.js')
+const preload = join(__dirname, '../preload/index.js')
 // 🚧 Use ['ENV_NAME'] avoid vite:define plugin
 const url = `http://${process.env['VITE_DEV_SERVER_HOST']}:${process.env['VITE_DEV_SERVER_PORT']}`
 
@@ -24,7 +24,7 @@ async function createWindow() {
   win = new BrowserWindow({
     title: 'Main window',
     webPreferences: {
-      preload: index,
+      preload,
       nodeIntegration: true,
       contextIsolation: false,
     },
@@ -77,7 +77,7 @@ app.on('activate', () => {
 ipcMain.handle("open-win", (event, arg) => {
   const childWindow = new BrowserWindow({
     webPreferences: {
-      preload: index,
+      preload,
     },
   })
 
