@@ -13,7 +13,7 @@
 📦 Out of the box  
 🎯 Based on [vue-ts](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-vue-ts) template, less invasive  
 🌱 Extensible, really simple directory structure  
-💪 Support using Node.js API in Renderer-process  
+💪 Support using Node.js API in Electron-Renderer  
 🔩 Support C/C++ native addons  
 🖥 It's easy to implement multiple windows  
 
@@ -46,11 +46,35 @@ npm create electron-vite
   └── vite.config.ts
 ```
 
-## `dependencies` vs `devDependencies`
+## 🚨 `dependencies` vs `devDependencies`
 
-The easiest way
+**Put Node.js packages in `dependencies`**
 
-- Put Node.js packages in `dependencies`
-- Put web packages in `devDependencies`
+🚨 e.g.
+
+- `electron-store`
+- `sqlite3`
+- `serilaport`
+- `mongodb`
+- ...others Node.js packages
+
+**Put Web packages in `devDependencies`**
+
+🚨 e.g.
+
+- `vue`
+- `vue-router`
+- `vuex`
+- `pinia`
+- `element-plus`
+- `ant-design-vue`
+- `axios`
+- ...others Web packages
+
+**TODO: ESM packages**
+
+- `node-fetch`
+- `execa`
+- ...others ESM packages
 
 See more 👉 [dependencies vs devDependencies](https://github.com/electron-vite/vite-plugin-electron-renderer#dependencies-vs-devdependencies)
