@@ -23,7 +23,7 @@ export default defineConfig({
       preload: {
         input: {
           // You can configure multiple preload here
-          splash: join(__dirname, 'electron/preload/splash.ts'),
+          index: join(__dirname, 'electron/preload/index.ts'),
         },
         vite: {
           build: {
