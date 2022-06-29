@@ -1,7 +1,9 @@
 import { createApp } from 'vue'
 import App from './App.vue'
-import './samples/node-api'
+// import './samples/node-api'
 
 createApp(App)
   .mount('#app')
-  .$nextTick(window.removeLoading)
+  .$nextTick(() => {
+    postMessage({ payload: 'removeLoading' }, '*')
+  })
