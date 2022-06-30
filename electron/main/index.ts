@@ -12,7 +12,15 @@ if (!app.requestSingleInstanceLock()) {
   app.quit()
   process.exit(0)
 }
+
 process.env['ELECTRON_DISABLE_SECURITY_WARNINGS'] = 'true'
+
+export const ROOT_PATH = {
+  // /dist
+  dist: join(__dirname, '../..'),
+  // /dist or /public
+  public: join(__dirname, app.isPackaged ? '../..' : '../../../public'),
+}
 
 let win: BrowserWindow | null = null
 // Here, you can also use other preload
@@ -22,6 +30,7 @@ const url = `http://${process.env.VITE_DEV_SERVER_HOST}:${process.env.VITE_DEV_S
 async function createWindow() {
   win = new BrowserWindow({
     title: 'Main window',
+    icon: join(ROOT_PATH.public, 'favicon.ico'),
     webPreferences: {
       preload,
       nodeIntegration: true,
@@ -30,13 +39,13 @@ async function createWindow() {
   })
 
   if (app.isPackaged) {
-    win.loadFile(join(__dirname, '../../index.html'))
+    win.loadFile(indexHtml)
   } else {
     win.loadURL(url)
     // win.webContents.openDevTools()
   }
 
-  // Test active push message to Renderer-process
+  // Test actively push message to the Electron-Renderer
   win.webContents.on('did-finish-load', () => {
     win?.webContents.send('main-process-message', new Date().toLocaleString())
   })
@@ -73,7 +82,7 @@ app.on('activate', () => {
 })
 
 // new window example arg: new windows url
-ipcMain.handle("open-win", (event, arg) => {
+ipcMain.handle('open-win', (event, arg) => {
   const childWindow = new BrowserWindow({
     webPreferences: {
       preload,
@@ -81,9 +90,7 @@ ipcMain.handle("open-win", (event, arg) => {
   })
 
   if (app.isPackaged) {
-    childWindow.loadFile(join(__dirname, `../renderer/index.html`), {
-      hash: `${arg}`,
-    })
+    childWindow.loadFile(indexHtml, { hash: arg })
   } else {
     childWindow.loadURL(`${url}/#${arg}`)
     // childWindow.webContents.openDevTools({ mode: "undocked", activate: true })
