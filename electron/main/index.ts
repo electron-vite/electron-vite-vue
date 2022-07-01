@@ -26,6 +26,7 @@ let win: BrowserWindow | null = null
 // Here, you can also use other preload
 const preload = join(__dirname, '../preload/index.js')
 const url = `http://${process.env.VITE_DEV_SERVER_HOST}:${process.env.VITE_DEV_SERVER_PORT}`
+const indexHtml = 'dist/index.html'
 
 async function createWindow() {
   win = new BrowserWindow({
