@@ -16,7 +16,6 @@ export default defineConfig({
         entry: 'electron/main/index.ts',
         vite: {
           build: {
-            sourcemap: false,
             outDir: 'dist/electron/main',
           },
         },
