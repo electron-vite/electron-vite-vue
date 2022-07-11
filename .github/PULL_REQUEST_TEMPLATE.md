@@ -1,25 +1,12 @@
-### PR Checklist
+<!-- Thank you for contributing! -->
 
-#### What is the current behavior?
+### Description
 
-Please describe the current behavior and link to a relevant issue.
+<!-- Please insert your description here and provide especially info about the "what" this PR is solving -->
 
-#### Issue Number
+### What is the purpose of this pull request? <!-- (put an "X" next to an item) -->
 
-Example: \#123
-
-#### What is the new behavior?
-
-Please describe the new behavior or provide screenshots.
-
-#### Does this PR introduce a breaking change?
-<!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. -->
-
-- [ ] Yes
-- [ ] No
-
-#### Specific Instructions
-
-Are there any specific instructions or things that should be known prior to review?
-
-#### Other information
+- [ ] Bug fix
+- [ ] New Feature
+- [ ] Documentation update
+- [ ] Other
