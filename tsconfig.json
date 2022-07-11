@@ -16,5 +16,6 @@
   },
   "references": [
     { "path": "./tsconfig.node.json" }
-  ]
+  ],
+  "exclude": ["dist"]
 }
