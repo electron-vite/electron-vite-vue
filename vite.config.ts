@@ -30,8 +30,8 @@ export default defineConfig({
             // For debug
             sourcemap: 'inline',
             outDir: 'dist/electron/preload',
-          }
-        }
+          },
+        },
       },
       // Enables use of Node.js API in the Renderer-process
       renderer: {},
