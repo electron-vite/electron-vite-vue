@@ -1,8 +1,10 @@
 {
   "compilerOptions": {
+    "target": "es2017",
     "composite": true,
     "module": "ESNext",
     "moduleResolution": "Node",
+    "jsx": "preserve",
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true
   },
