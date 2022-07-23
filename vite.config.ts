@@ -1,4 +1,4 @@
-import { existsSync, rmSync } from 'fs'
+import { rmSync } from 'fs'
 import { join } from 'path'
 import { defineConfig, Plugin, UserConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
@@ -44,20 +44,16 @@ export default defineConfig({
 })
 
 function withDebug(config: UserConfig): UserConfig {
-  const DebugFile = join(__dirname, 'node_modules/.electron-vite-debug')
-  const isDebug = existsSync(DebugFile)
-
-  if (isDebug) {
+  if (process.env.VSCODE_DEBUG) {
     config.build.sourcemap = true
     config.plugins = (config.plugins || []).concat({
       name: 'electron-vite-debug',
       configResolved(config) {
         const index = config.plugins.findIndex(p => p.name === 'electron-main-watcher');
+        // At present, Vite can only modify plugins in configResolved hook.
         (config.plugins as Plugin[]).splice(index, 1)
-        rmSync(DebugFile)
       },
     })
   }
-
   return config
 }
