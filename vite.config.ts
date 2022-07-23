@@ -1,4 +1,4 @@
-feat(🌱): support Debug in VSCodeimport { existsSync, rmSync } from 'fs'
+import { existsSync, rmSync } from 'fs'
 import { join } from 'path'
 import { defineConfig, Plugin, UserConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
