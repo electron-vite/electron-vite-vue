@@ -6,7 +6,7 @@
   "compounds": [
     {
       "name": "Debug App",
-      "preLaunchTask": "start .debug.script.mjs",
+      "preLaunchTask": "Before Debug",
       "configurations": [
         "Debug Main Process",
         "Debug Renderer Process"
@@ -30,7 +30,7 @@
       },
       "runtimeArgs": [
         "--remote-debugging-port=9229",
-        "${workspaceRoot}/dist/main/index.cjs"
+        "."
       ],
       "envFile": "${workspaceFolder}/.vscode/.debug.env"
     },
