@@ -1,6 +1,6 @@
-import { rmSync } from 'fs'
+feat(🌱): support Debug in VSCodeimport { existsSync, rmSync } from 'fs'
 import { join } from 'path'
-import { defineConfig } from 'vite'
+import { defineConfig, Plugin, UserConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import electron from 'vite-plugin-electron'
 import pkg from './package.json'
@@ -14,11 +14,11 @@ export default defineConfig({
     electron({
       main: {
         entry: 'electron/main/index.ts',
-        vite: {
+        vite: withDebug({
           build: {
             outDir: 'dist/electron/main',
           },
-        },
+        }),
       },
       preload: {
         input: {
@@ -27,7 +27,7 @@ export default defineConfig({
         },
         vite: {
           build: {
-            // For debug
+            // For Debug
             sourcemap: 'inline',
             outDir: 'dist/electron/preload',
           },
@@ -42,3 +42,22 @@ export default defineConfig({
     port: pkg.env.VITE_DEV_SERVER_PORT,
   },
 })
+
+function withDebug(config: UserConfig): UserConfig {
+  const DebugFile = join(__dirname, 'node_modules/.electron-vite-debug')
+  const isDebug = existsSync(DebugFile)
+
+  if (isDebug) {
+    config.build.sourcemap = true
+    config.plugins = (config.plugins || []).concat({
+      name: 'electron-vite-debug',
+      configResolved(config) {
+        const index = config.plugins.findIndex(p => p.name === 'electron-main-watcher');
+        (config.plugins as Plugin[]).splice(index, 1)
+        rmSync(DebugFile)
+      },
+    })
+  }
+
+  return config
+}
