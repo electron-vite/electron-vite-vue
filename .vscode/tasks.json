@@ -8,7 +8,23 @@
       "type": "shell",
       "command": "node .vscode/.debug.script.mjs",
       "isBackground": true,
-      "problemMatcher": []
+      "problemMatcher": {
+        "owner": "typescript",
+        "fileLocation": "relative",
+        "pattern": {
+          "regexp": "^([a-zA-Z]\\:\/?([\\w\\-]\/?)+\\.\\w+):(\\d+):(\\d+): (ERROR|WARNING)\\: (.*)$",
+          "file": 1,
+          "line": 3,
+          "column": 4,
+          "code": 5,
+          "message": 6
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "^.*building for development.*$",
+          "endsPattern": "built in [0-9]*ms.*$",
+        }
+      }
     }
   ]
 }
