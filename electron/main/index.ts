@@ -13,7 +13,10 @@ if (!app.requestSingleInstanceLock()) {
   process.exit(0)
 }
 
-process.env['ELECTRON_DISABLE_SECURITY_WARNINGS'] = 'true'
+// Remove electron security warnings
+// This warning only shows in development mode
+// Read more on https://www.electronjs.org/docs/latest/tutorial/security
+// process.env['ELECTRON_DISABLE_SECURITY_WARNINGS'] = 'true'
 
 export const ROOT_PATH = {
   // /dist
@@ -35,6 +38,9 @@ async function createWindow() {
     icon: join(ROOT_PATH.public, 'favicon.ico'),
     webPreferences: {
       preload,
+      // Warning: Enable nodeIntegration and disable contextIsolation is not secure in production
+      // Consider using contextBridge.exposeInMainWorld
+      // Read more on https://www.electronjs.org/docs/latest/tutorial/context-isolation
       nodeIntegration: true,
       contextIsolation: false,
     },
