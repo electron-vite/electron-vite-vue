@@ -2,8 +2,6 @@ import { app, BrowserWindow, shell, ipcMain } from 'electron'
 import { release } from 'os'
 import { join } from 'path'
 
-const { isPackaged } = app
-
 // Disable GPU Acceleration for Windows 7
 if (release().startsWith('6.1')) app.disableHardwareAcceleration()
 
@@ -48,7 +46,7 @@ async function createWindow() {
     },
   })
 
-  if (isPackaged) {
+  if (app.isPackaged) {
     win.loadFile(indexHtml)
   } else {
     win.loadURL(url)
