@@ -25,7 +25,7 @@ jobs:
           filters: |
             change:
               - 'package-lock.json'
-              - 'yarn-lock.json'
+              - 'yarn.lock'
               - 'pnpm-lock.yaml'
 
       # ref: https://github.com/github/docs/blob/main/.github/workflows/triage-unallowed-contributions.yml
@@ -38,7 +38,7 @@ jobs:
             try {
               const badFilesArr = [
                 'package-lock.json',
-                'yarn-lock.json',
+                'yarn.lock',
                 'pnpm-lock.yaml',
               ]
               const badFiles = badFilesArr.join('\n')
