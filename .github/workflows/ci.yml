@@ -30,7 +30,7 @@ jobs:
 
       # ref: https://github.com/github/docs/blob/main/.github/workflows/triage-unallowed-contributions.yml
       - name: Comment About Changes We Can't Accept
-        if: ${{ steps.filter_not_allowed.outputs.change }}
+        if: ${{ steps.filter_not_allowed.outputs.change == 'true' }}
         uses: actions/github-script@v6
         with:
           script: |
