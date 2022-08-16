@@ -11,7 +11,7 @@
     "build": "vue-tsc --noEmit && vite build && electron-builder"
   },
   "engines": {
-    "node": ">=14.17.0"
+    "node": "^14.18.0 || >=16.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.1",
