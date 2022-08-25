@@ -23,9 +23,12 @@
     "vue": "^3.2.37",
     "vue-tsc": "^0.40.1"
   },
-  "env": {
-    "VITE_DEV_SERVER_HOST": "127.0.0.1",
-    "VITE_DEV_SERVER_PORT": 3344
+  "debug": {
+    "env": {
+      "VITE_DEV_SERVER_HOST": "127.0.0.1",
+      "VITE_DEV_SERVER_PORT": 3344,
+      "VITE_DEV_SERVER_URL": "http://127.0.0.1:3344"
+    }
   },
   "keywords": [
     "electron",
