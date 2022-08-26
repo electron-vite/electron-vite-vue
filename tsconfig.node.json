@@ -6,7 +6,9 @@
     "moduleResolution": "Node",
     "jsx": "preserve",
     "resolveJsonModule": true,
-    "allowSyntheticDefaultImports": true
-  },
-  "include": ["vite.config.ts", "package.json"]
+    "allowSyntheticDefaultImports": true,
+    "types": [
+      "vite-plugin-electron/electron-env"
+    ]
+  }
 }
