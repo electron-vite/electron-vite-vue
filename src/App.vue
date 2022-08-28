@@ -6,11 +6,9 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div class="logo-box">
-    <img style="height:140px;" src="./assets/electron.png" >
-    <span/>
-    <img style="height:140px;" src="./assets/vite.svg" >
-    <span/>
-    <img style="height:140px;" src="./assets/vue.png" >
+    <img class="logo vite" src="./assets/vite.svg" >
+    <img class="logo electron" src="./assets/electron.svg" >
+    <img class="logo vue" src="./assets/vue.svg" >
   </div>
   <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
   <div class="static-public">
@@ -34,19 +32,37 @@ import HelloWorld from './components/HelloWorld.vue'
   width: 100%;
   justify-content: center;
 }
-.logo-box span {
-  width: 74px;
-}
+
 .static-public {
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
 .static-public code {
   background-color: #eee;
   padding: 2px 4px;
   margin: 0 4px;
   border-radius: 4px;
   color: #304455;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: 0.75s;
+}
+
+.logo.vite:hover {
+  filter: drop-shadow(0 0 2em #747bff);
+}
+
+.logo.electron:hover {
+  filter: drop-shadow(0 0 2em #9FEAF9);
+}
+
+.logo.vue:hover {
+  filter: drop-shadow(0 0 2em #249b73);
 }
 </style>
