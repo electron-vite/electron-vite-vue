@@ -10,5 +10,6 @@
     "types": [
       "vite-plugin-electron/electron-env"
     ]
-  }
+  },
+  "include": ["package.json", "electron", "src"]
 }
