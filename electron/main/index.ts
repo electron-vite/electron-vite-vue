@@ -18,23 +18,19 @@ if (!app.requestSingleInstanceLock()) {
 // Read more on https://www.electronjs.org/docs/latest/tutorial/security
 // process.env['ELECTRON_DISABLE_SECURITY_WARNINGS'] = 'true'
 
-export const ROOT_PATH = {
-  // /dist
-  dist: join(__dirname, '../..'),
-  // /dist or /public
-  public: join(__dirname, app.isPackaged ? '../..' : '../../../public'),
-}
+process.env.DIST = join(__dirname, '../..')
+process.env.PUBLIC = app.isPackaged ? process.env.DIST : join(process.env.DIST, '../public')
 
 let win: BrowserWindow | null = null
 // Here, you can also use other preload
 const preload = join(__dirname, '../preload/index.js')
 const url = process.env.VITE_DEV_SERVER_URL as string
-const indexHtml = join(ROOT_PATH.dist, 'index.html')
+const indexHtml = join(process.env.DIST, 'index.html')
 
 async function createWindow() {
   win = new BrowserWindow({
     title: 'Main window',
-    icon: join(ROOT_PATH.public, 'favicon.ico'),
+    icon: join(process.env.PUBLIC, 'favicon.ico'),
     webPreferences: {
       preload,
       // Warning: Enable nodeIntegration and disable contextIsolation is not secure in production
