@@ -32,7 +32,8 @@
         "--remote-debugging-port=9229",
         "."
       ],
-      "envFile": "${workspaceFolder}/.vscode/.debug.env"
+      "envFile": "${workspaceFolder}/.vscode/.debug.env",
+      "console": "integratedTerminal"
     },
     {
       "name": "Debug Renderer Process",

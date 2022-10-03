@@ -1,7 +1,7 @@
 {
   "name": "electron-vue-vite",
-  "version": "2.0.0",
-  "main": "dist/electron/main/index.js",
+  "version": "2.1.0",
+  "main": "dist-electron/main/index.js",
   "description": "Really simple Electron + Vue + Vite boilerplate.",
   "author": "草鞋没号 <308487730@qq.com>",
   "license": "MIT",
@@ -19,14 +19,12 @@
     "electron-builder": "^23.3.3",
     "typescript": "^4.7.4",
     "vite": "^3.0.8",
-    "vite-plugin-electron": "^0.9.3",
+    "vite-electron-plugin": "^0.4.1",
     "vue": "^3.2.37",
     "vue-tsc": "^0.40.1"
   },
   "debug": {
     "env": {
-      "VITE_DEV_SERVER_HOSTNAME": "127.0.0.1",
-      "VITE_DEV_SERVER_PORT": 3344,
       "VITE_DEV_SERVER_URL": "http://127.0.0.1:3344"
     }
   },
