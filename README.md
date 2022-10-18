@@ -54,9 +54,14 @@ npm create electron-vite
 ```diff
 # vite.config.ts
 
-electron({
-- renderer: {}
-})
+export default {
+  plugins: [
+-   // Use Node.js API in the Renderer-process
+-   renderer({
+-     nodeIntegration: true,
+-   }),
+  ],
+}
 ```
 
 ## FAQ
