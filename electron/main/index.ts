@@ -101,13 +101,15 @@ ipcMain.handle('open-win', (event, arg) => {
   const childWindow = new BrowserWindow({
     webPreferences: {
       preload,
+      nodeIntegration: true,
+      contextIsolation: false,
     },
   })
 
   if (app.isPackaged) {
     childWindow.loadFile(indexHtml, { hash: arg })
   } else {
-    childWindow.loadURL(`${url}/#${arg}`)
+    childWindow.loadURL(`${url}#${arg}`)
     // childWindow.webContents.openDevTools({ mode: "undocked", activate: true })
   }
 })
