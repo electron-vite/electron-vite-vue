@@ -35,6 +35,9 @@ export default defineConfig({
     }
   })() : undefined,
   clearScreen: false,
+  build: {
+    assetsDir: '', // #287
+  },
 })
 
 function debounce<Fn extends (...args: any[]) => void>(fn: Fn, delay = 299) {
