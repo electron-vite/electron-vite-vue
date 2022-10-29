@@ -22,7 +22,8 @@
         },
         "background": {
           "activeOnStart": true,
-          "endsPattern": "^.*[startup] Electron App.*$",
+          "beginsPattern": "^.*VITE v.*  ready in \\d* ms.*$",
+          "endsPattern": "^.*\\[startup\\] Electron App.*$"
         }
       }
     }
