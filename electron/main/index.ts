@@ -52,12 +52,12 @@ async function createWindow() {
     },
   })
 
-  if (app.isPackaged) {
-    win.loadFile(indexHtml)
-  } else {
+  if (process.env.VITE_DEV_SERVER_URL) { // #298
     win.loadURL(url)
     // Open devTool if the app is not packaged
     win.webContents.openDevTools()
+  } else {
+    win.loadFile(indexHtml)
   }
 
   // Test actively push message to the Electron-Renderer
