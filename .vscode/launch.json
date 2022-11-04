@@ -40,7 +40,14 @@
       "port": 9229,
       "request": "attach",
       "type": "pwa-chrome",
-      "timeout": 60000
+      "timeout": 60000,
+      "skipFiles": [
+        "<node_internals>/**",
+        "${workspaceRoot}/node_modules/**",
+        "${workspaceRoot}/dist-electron/**",
+        // Skip files in host(VITE_DEV_SERVER_URL)
+        "http://127.0.0.1:3344/**"
+      ]
     },
   ]
 }
