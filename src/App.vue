@@ -55,7 +55,7 @@ import HelloWorld from './components/HelloWorld.vue'
 }
 
 .logo.vite:hover {
-  filter: drop-shadow(0 0 2em #747bff);
+  filter: drop-shadow(0 0 2em #646cffaa);
 }
 
 .logo.electron:hover {
@@ -63,6 +63,6 @@ import HelloWorld from './components/HelloWorld.vue'
 }
 
 .logo.vue:hover {
-  filter: drop-shadow(0 0 2em #249b73);
+  filter: drop-shadow(0 0 2em #42b883aa);
 }
 </style>
