@@ -57,12 +57,6 @@ export default defineConfig({
     // Use Node.js API in the Renderer-process
     renderer({
       nodeIntegration: true,
-      optimizeDeps: {
-        include: [
-          'fs/promises',
-          'process',
-        ],
-      },
     }),
   ],
   server: process.env.VSCODE_DEBUG ? (() => {
@@ -73,7 +67,4 @@ export default defineConfig({
     }
   })() : undefined,
   clearScreen: false,
-  build: {
-    assetsDir: '', // #287
-  },
 })
