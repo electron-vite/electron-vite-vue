@@ -1,33 +1,59 @@
 import { rmSync } from 'fs'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
-import electron from 'vite-electron-plugin'
-import { customStart, loadViteEnv } from 'vite-electron-plugin/plugin'
+import electron from 'vite-plugin-electron'
 import renderer from 'vite-plugin-electron-renderer'
 import pkg from './package.json'
 
 rmSync('dist-electron', { recursive: true, force: true })
+const sourcemap = !!process.env.VSCODE_DEBUG
+const isBuild = process.argv.slice(2).includes('build')
 
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [
     vue(),
-    electron({
-      include: ['electron'],
-      transformOptions: {
-        sourcemap: !!process.env.VSCODE_DEBUG,
+    electron([
+      {
+        // Main-Process entry file of the Electron App.
+        entry: 'electron/main/index.ts',
+        onstart(options) {
+          if (process.env.VSCODE_DEBUG) {
+            console.log(/* For `.vscode/.debug.script.mjs` */'[startup] Electron App')
+          } else {
+            options.startup()
+          }
+        },
+        vite: {
+          build: {
+            sourcemap,
+            minify: isBuild,
+            outDir: 'dist-electron/main',
+            rollupOptions: {
+              external: Object.keys(pkg.dependencies),
+            },
+          },
+        },
       },
-      plugins: [
-        ...(process.env.VSCODE_DEBUG
-          ? [
-            // Will start Electron via VSCode Debug
-            customStart(debounce(() => console.log(/* For `.vscode/.debug.script.mjs` */'[startup] Electron App'))),
-          ]
-          : []),
-          // Allow use `import.meta.env.VITE_SOME_KEY` in Electron-Main
-        loadViteEnv(),
-      ],
-    }),
+      {
+        entry: 'electron/preload/index.ts',
+        onstart(options) {
+          // Notify the Renderer-Process to reload the page when the Preload-Scripts build is complete, 
+          // instead of restarting the entire Electron App.
+          options.reload()
+        },
+        vite: {
+          build: {
+            sourcemap,
+            minify: isBuild,
+            outDir: 'dist-electron/preload',
+            rollupOptions: {
+              external: Object.keys(pkg.dependencies),
+            },
+          },
+        },
+      }
+    ]),
     // Use Node.js API in the Renderer-process
     renderer({
       nodeIntegration: true,
@@ -51,11 +77,3 @@ export default defineConfig({
     assetsDir: '', // #287
   },
 })
-
-function debounce<Fn extends (...args: any[]) => void>(fn: Fn, delay = 299) {
-  let t: NodeJS.Timeout
-  return ((...args) => {
-    clearTimeout(t)
-    t = setTimeout(() => fn(...args), delay)
-  }) as Fn
-}
