@@ -1,12 +1,10 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
     "composite": true,
     "module": "ESNext",
     "moduleResolution": "Node",
-    "jsx": "preserve",
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true
   },
-  "include": ["package.json", "electron"]
+  "include": ["vite.config.ts", "package.json", "electron"]
 }

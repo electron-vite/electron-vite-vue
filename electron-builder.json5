@@ -4,6 +4,7 @@
 {
   "appId": "YourAppID",
   "asar": true,
+  "icon": "public/favicon.ico",
   "directories": {
     "output": "release/${version}"
   },

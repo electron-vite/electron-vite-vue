@@ -1,17 +1,14 @@
-import { rmSync } from 'fs'
-import {
-  type Plugin,
-  defineConfig,
-  loadEnv,
-} from 'vite'
+import { rmSync } from 'node:fs'
+import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import electron from 'vite-plugin-electron'
 import renderer from 'vite-plugin-electron-renderer'
 import pkg from './package.json'
 
 rmSync('dist-electron', { recursive: true, force: true })
-const sourcemap = !!process.env.VSCODE_DEBUG
-const isBuild = process.argv.slice(2).includes('build')
+
+const isDevelopment = process.env.NODE_ENV === "development" || !!process.env.VSCODE_DEBUG
+const isProduction = process.env.NODE_ENV === "production"
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -30,11 +27,11 @@ export default defineConfig({
         },
         vite: {
           build: {
-            sourcemap,
-            minify: isBuild,
+            sourcemap: isDevelopment,
+            minify: isProduction,
             outDir: 'dist-electron/main',
             rollupOptions: {
-              external: Object.keys(pkg.dependencies),
+              external: Object.keys("dependencies" in pkg ? pkg.dependencies : {}),
             },
           },
         },
@@ -48,11 +45,11 @@ export default defineConfig({
         },
         vite: {
           build: {
-            sourcemap,
-            minify: isBuild,
+            sourcemap: isDevelopment,
+            minify: isProduction,
             outDir: 'dist-electron/preload',
             rollupOptions: {
-              external: Object.keys(pkg.dependencies),
+              external: Object.keys("dependencies" in pkg ? pkg.dependencies : {}),
             },
           },
         },
@@ -63,7 +60,7 @@ export default defineConfig({
       nodeIntegration: true,
     }),
   ],
-  server: process.env.VSCODE_DEBUG ? (() => {
+  server: !!process.env.VSCODE_DEBUG ? (() => {
     const url = new URL(pkg.debug.env.VITE_DEV_SERVER_URL)
     return {
       host: url.hostname,
