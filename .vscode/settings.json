@@ -1,10 +1,11 @@
 {
   "typescript.tsdk": "node_modules/typescript/lib",
-  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.tsc.autoDetect": "off",
   "json.schemas": [
     {
       "fileMatch": [
-        "/*electron-builder.json5"
+        "/*electron-builder.json5",
+        "/*electron-builder.json"
       ],
       "url": "https://json.schemastore.org/electron-builder"
     }

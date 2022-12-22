@@ -22,7 +22,7 @@
   "configurations": [
     {
       "name": "Debug Main Process",
-      "type": "pwa-node",
+      "type": "node",
       "request": "launch",
       "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/electron",
       "windows": {
@@ -39,7 +39,7 @@
       "name": "Debug Renderer Process",
       "port": 9229,
       "request": "attach",
-      "type": "pwa-chrome",
+      "type": "chrome",
       "timeout": 60000,
       "skipFiles": [
         "<node_internals>/**",
