@@ -68,8 +68,8 @@ async function createWindow() {
   })
 
   // Make all links open with the browser, not with the application
-  win.webContents.on('will-navigate', (evt, url) => {
-    evt.preventDefault()
+  win.webContents.on('will-navigate', (event, url) => {
+    event.preventDefault()
     shell.openExternal(url)
   })
 }
