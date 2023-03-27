@@ -10,7 +10,8 @@
   },
   "files": [
     "dist-electron",
-    "dist"
+    "dist",
+    "!node_modules/**/*"
   ],
   "mac": {
     "artifactName": "${productName}_${version}.${ext}",
