@@ -2,9 +2,9 @@
  * @see https://www.electron.build/configuration/configuration
  */
 {
+  "$schema": "https://raw.githubusercontent.com/electron-userland/electron-builder/master/packages/app-builder-lib/scheme.json",
   "appId": "YourAppID",
   "asar": true,
-  "icon": "public/favicon.ico",
   "directories": {
     "output": "release/${version}"
   },
@@ -12,13 +12,18 @@
     "dist-electron",
     "dist"
   ],
+  "linux": {
+    "icon": "public/icon.png",
+  },
   "mac": {
     "artifactName": "${productName}_${version}.${ext}",
+    "icon": "public/icon.icns",
     "target": [
       "dmg"
     ]
   },
   "win": {
+    "icon": "public/icon.ico",
     "target": [
       {
         "target": "nsis",
