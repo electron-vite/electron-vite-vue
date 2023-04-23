@@ -10,7 +10,7 @@ console.log("[App.vue]", `Hello world from Electron ${process.versions.electron}
       <img src="./assets/electron.svg" class="logo electron" alt="Electron logo" />
     </a>
     <a href="https://vitejs.dev/" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
+      <img src="./assets/vite.svg" class="logo" alt="Vite logo" />
     </a>
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
@@ -19,7 +19,7 @@ console.log("[App.vue]", `Hello world from Electron ${process.versions.electron}
   <HelloWorld msg="Electron + Vite + Vue" />
   <div class="flex-center">
     Place static files into the <code>/public</code> folder
-    <img style="width:5em;" src="/node.svg" alt="Node logo">
+    <img style="width: 2.4em; margin-left: .4em;" src="/logo.svg" alt="Logo">
   </div>
 </template>
 

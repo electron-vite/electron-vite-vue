@@ -12,18 +12,13 @@
     "dist-electron",
     "dist"
   ],
-  "linux": {
-    "icon": "public/icon.png",
-  },
   "mac": {
     "artifactName": "${productName}_${version}.${ext}",
-    "icon": "public/icon.icns",
     "target": [
       "dmg"
     ]
   },
   "win": {
-    "icon": "public/icon.ico",
     "target": [
       {
         "target": "nsis",
