@@ -27,8 +27,6 @@ npm create electron-vite
 
 <!-- [![quick-start](https://asciinema.org/a/483731.svg)](https://asciinema.org/a/483731) -->
 
-![electron-vite-vue.gif](/electron-vite-vue.gif)
-
 ## Debug
 
 ![electron-vite-react-debug.gif](https://github.com/electron-vite/electron-vite-react/blob/main/electron-vite-react-debug.gif?raw=true)
