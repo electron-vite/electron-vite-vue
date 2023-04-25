@@ -1,17 +1,8 @@
 import { app, BrowserWindow, shell, ipcMain } from 'electron'
 import { release } from 'node:os'
 import { join } from 'node:path'
+import { initProgram, exitProgram } from './lifeCycle';
 
-// The built directory structure
-//
-// ├─┬ dist-electron
-// │ ├─┬ main
-// │ │ └── index.js    > Electron-Main
-// │ └─┬ preload
-// │   └── index.js    > Preload-Scripts
-// ├─┬ dist
-// │ └── index.html    > Electron-Renderer
-//
 process.env.DIST_ELECTRON = join(__dirname, '..')
 process.env.DIST = join(process.env.DIST_ELECTRON, '../dist')
 process.env.PUBLIC = process.env.VITE_DEV_SERVER_URL
@@ -56,8 +47,6 @@ async function createWindow() {
 
   if (process.env.VITE_DEV_SERVER_URL) { // electron-vite-vue#298
     win.loadURL(url)
-    // Open devTool if the app is not packaged
-    win.webContents.openDevTools()
   } else {
     win.loadFile(indexHtml)
   }
@@ -73,9 +62,14 @@ async function createWindow() {
     return { action: 'deny' }
   })
   // win.webContents.on('will-navigate', (event, url) => { }) #344
+  // Menu.setApplicationMenu(null);
+  win.on('close', (event) => exitProgram(event, win));
 }
 
-app.whenReady().then(createWindow)
+app.whenReady().then(() => {
+  createWindow();
+  initProgram();
+})
 
 app.on('window-all-closed', () => {
   win = null

@@ -1,0 +1,3 @@
+interface TestType {
+	nickname: string;
+}
