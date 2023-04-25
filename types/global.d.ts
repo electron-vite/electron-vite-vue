@@ -1,3 +1,4 @@
-interface TestType {
-	nickname: string;
+interface setStoreSchema {
+	key: string;
+	value: any;
 }

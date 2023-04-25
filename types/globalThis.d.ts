@@ -1,7 +1,7 @@
 /* eslint-disable no-var */
 
 declare global {
-	var TestTypes: TestType[];
+	var TestTypes: setStoreSchema[];
 }
 
-export {};
+export { };
