@@ -15,6 +15,7 @@ const count = ref(0);
       Edit
       <code>components/HelloWorld.vue</code> to test HMR
     </p>
+    <p class="text">test less</p>
   </div>
 
   <p>
@@ -28,11 +29,14 @@ const count = ref(0);
     <a href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>
     in your IDE for a better DX
   </p>
-  <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
 </template>
 
-<style scoped>
-.read-the-docs {
-  color: #888;
+<style lang="less" scoped>
+.card {
+  text-align: center;
+  width: 100vw;
+  .text{
+    color: red;
+  }
 }
 </style>
