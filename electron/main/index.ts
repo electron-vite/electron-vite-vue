@@ -1,4 +1,4 @@
-import { app, BrowserWindow, shell, ipcMain } from 'electron'
+import { app, BrowserWindow, shell, ipcMain, ipcRenderer } from 'electron'
 import { release } from 'node:os'
 import { join } from 'node:path'
 
@@ -114,4 +114,9 @@ ipcMain.handle('open-win', (_, arg) => {
   } else {
     childWindow.loadFile(indexHtml, { hash: arg })
   }
+})
+
+const addon = require('./hello.node')
+ipcMain.on('render-process-message', (_event, ...args) => {
+  win?.webContents.send('main-process-message', addon.hello())
 })

@@ -1,0 +1,8 @@
+{
+    "name": "hello",
+    "devDependencies": {
+      "@electron/rebuild": "^3.2.13",
+      "electron": "^24.1.3"
+    }
+  }
+  

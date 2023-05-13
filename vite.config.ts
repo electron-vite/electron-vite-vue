@@ -1,4 +1,4 @@
-import { rmSync } from 'node:fs'
+import { rmSync, copyFile, mkdirSync } from 'node:fs'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import electron from 'vite-plugin-electron'
@@ -8,6 +8,11 @@ import pkg from './package.json'
 // https://vitejs.dev/config/
 export default defineConfig(({ command }) => {
   rmSync('dist-electron', { recursive: true, force: true })
+
+  mkdirSync('dist-electron/main', { recursive: true });
+  copyFile('cpp/hello.node', 'dist-electron/main/hello.node', (err) => {
+    if (err) { throw err; }
+  });
 
   const isServe = command === 'serve'
   const isBuild = command === 'build'

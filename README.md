@@ -29,6 +29,10 @@ npm create electron-vite
 
 ![electron-vite-vue.gif](/electron-vite-vue.gif)
 
+## C/C++ addons
+
+see [C/C++ addon README](/cpp/README.md)
+
 ## Debug
 
 ![electron-vite-react-debug.gif](https://github.com/electron-vite/electron-vite-react/blob/main/electron-vite-react-debug.gif?raw=true)
