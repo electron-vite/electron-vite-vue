@@ -2,8 +2,13 @@ import { rmSync } from 'node:fs'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import electron from 'vite-plugin-electron'
+import Components from 'unplugin-vue-components/vite'
+import { NaiveUiResolver } from 'unplugin-vue-components/resolvers'
 import renderer from 'vite-plugin-electron-renderer'
 import pkg from './package.json'
+import Unocss from 'unocss/vite'
+import AutoImport from 'unplugin-auto-import/vite'
+import vueJsx from '@vitejs/plugin-vue-jsx'
 
 // https://vitejs.dev/config/
 export default defineConfig(({ command }) => {
@@ -16,6 +21,27 @@ export default defineConfig(({ command }) => {
   return {
     plugins: [
       vue(),
+      vueJsx(),
+      Unocss(),
+      AutoImport({
+        imports: [
+          'vue',
+        ],
+        dts: 'src/auto-imports.d.ts',
+        dirs: [],
+        vueTemplate: true,
+      }),
+      // https://github.com/antfu/unplugin-vue-components
+      Components({
+        resolvers: [NaiveUiResolver()],
+        // allow auto load markdown components under `./src/components/`
+        extensions: ['vue', 'md'],
+        // allow auto import and register components used in markdown
+        include: [/\.vue$/, /\.vue\?vue/, /\.md$/],
+        dts: 'src/components.d.ts',
+      }),
+      
+
       electron([
         {
           // Main-Process entry file of the Electron App.
