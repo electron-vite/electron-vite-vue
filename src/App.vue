@@ -2,99 +2,100 @@
 import { ipcRenderer } from 'electron'
 import { NButton } from 'naive-ui'
 import { useClipboard } from '@vueuse/core'
-const input = ref('upperside79@mail.com----Hellowpo!')
+const input = ref('126vdsjmgyanpgqrvb@ddmvp.icu----EOJ2NgPfS')
+// const input = ref('traceetakashi6274@gmail.com----kedaraditi0214----kedaraditi4760@hotmail.com')
 
 const result = ref('')
 
 const list = ref<any[]>([
-  {
-    "user": "jannettamoses5977@gmail.com",
-    "pass": "kenyatearle7610",
-    "auxiliary": "kenyatearle8223@outlook.com",
-    "index": 0,
-    "id": "jannettamoses5977@gmail.com",
-    "info": "成功😘",
-    "ident": "poe-link",
-    "type": "success",
-    "result": "成功😘"
-  },
-  {
-    "user": "tylanindea7687@gmail.com",
-    "pass": "adalbertokanisha4845",
-    "auxiliary": "adalbertokanisha8803@yandex.com",
-    "index": 1,
-    "id": "tylanindea7687@gmail.com",
-    "info": "成功😘",
-    "ident": "poe-validate",
-    "type": "success",
-    "result": "成功😘"
-  },
-  {
-    "user": "bayanjae8652@gmail.com",
-    "pass": "lorenarosamond4075",
-    "auxiliary": "lorenarosamond8958@outlook.com",
-    "index": 2,
-    "id": "bayanjae8652@gmail.com",
-    "info": "成功😘",
-    "ident": "poe-validate",
-    "type": "fail",
-    "result": "成功😘"
-  },
-  {
-    "user": "geneviashametra1019@gmail.com",
-    "pass": "sheypervis2156",
-    "auxiliary": "sheypervis0163@qq.com",
-    "index": 3,
-    "id": "geneviashametra1019@gmail.com",
-    "info": "成功😘",
-    "ident": "poe-validate",
-    "type": "success",
-    "result": "成功😘"
-  },
-  {
-    "user": "marikamelindasue5911@gmail.com",
-    "pass": "ambrbreeann4103",
-    "auxiliary": "ambrbreeann5643@icloud.com",
-    "index": 4,
-    "id": "marikamelindasue5911@gmail.com",
-    "info": "成功😘",
-    "ident": "poe-validate",
-    "type": "success",
-    "result": "成功😘"
-  },
-  {
-    "user": "caterinereba2981@gmail.com",
-    "pass": "arvisleo0563",
-    "auxiliary": "arvisleo1265@zoho.com",
-    "index": 5,
-    "id": "caterinereba2981@gmail.com",
-    "info": "成功😘",
-    "ident": "poe-validate",
-    "type": "success",
-    "result": "成功😘"
-  },
-  {
-    "user": "adairaderrell9992@gmail.com",
-    "pass": "adairaderrell8698",
-    "auxiliary": "adairaderrell1859@hotmail.com",
-    "index": 6,
-    "id": "adairaderrell9992@gmail.com",
-    "info": "成功😘",
-    "ident": "poe-validate",
-    "type": "success",
-    "result": "成功😘"
-  },
-  {
-    "user": "nishadarrow0444@gmail.com",
-    "pass": "cliftontiffani7462",
-    "auxiliary": "cliftontiffani2263@hotmail.com",
-    "index": 7,
-    "id": "nishadarrow0444@gmail.com",
-    "info": "成功😘",
-    "ident": "poe-validate",
-    "type": "success",
-    "result": "成功😘"
-  }
+  // {
+  //   "user": "jannettamoses5977@gmail.com",
+  //   "pass": "kenyatearle7610",
+  //   "auxiliary": "kenyatearle8223@outlook.com",
+  //   "index": 0,
+  //   "id": "jannettamoses5977@gmail.com",
+  //   "info": "成功😘",
+  //   "ident": "poe-link",
+  //   "type": "success",
+  //   "result": "成功😘"
+  // },
+  // {
+  //   "user": "tylanindea7687@gmail.com",
+  //   "pass": "adalbertokanisha4845",
+  //   "auxiliary": "adalbertokanisha8803@yandex.com",
+  //   "index": 1,
+  //   "id": "tylanindea7687@gmail.com",
+  //   "info": "成功😘",
+  //   "ident": "poe-validate",
+  //   "type": "success",
+  //   "result": "成功😘"
+  // },
+  // {
+  //   "user": "bayanjae8652@gmail.com",
+  //   "pass": "lorenarosamond4075",
+  //   "auxiliary": "lorenarosamond8958@outlook.com",
+  //   "index": 2,
+  //   "id": "bayanjae8652@gmail.com",
+  //   "info": "成功😘",
+  //   "ident": "poe-validate",
+  //   "type": "fail",
+  //   "result": "成功😘"
+  // },
+  // {
+  //   "user": "geneviashametra1019@gmail.com",
+  //   "pass": "sheypervis2156",
+  //   "auxiliary": "sheypervis0163@qq.com",
+  //   "index": 3,
+  //   "id": "geneviashametra1019@gmail.com",
+  //   "info": "成功😘",
+  //   "ident": "poe-validate",
+  //   "type": "success",
+  //   "result": "成功😘"
+  // },
+  // {
+  //   "user": "marikamelindasue5911@gmail.com",
+  //   "pass": "ambrbreeann4103",
+  //   "auxiliary": "ambrbreeann5643@icloud.com",
+  //   "index": 4,
+  //   "id": "marikamelindasue5911@gmail.com",
+  //   "info": "成功😘",
+  //   "ident": "poe-validate",
+  //   "type": "success",
+  //   "result": "成功😘"
+  // },
+  // {
+  //   "user": "caterinereba2981@gmail.com",
+  //   "pass": "arvisleo0563",
+  //   "auxiliary": "arvisleo1265@zoho.com",
+  //   "index": 5,
+  //   "id": "caterinereba2981@gmail.com",
+  //   "info": "成功😘",
+  //   "ident": "poe-validate",
+  //   "type": "success",
+  //   "result": "成功😘"
+  // },
+  // {
+  //   "user": "adairaderrell9992@gmail.com",
+  //   "pass": "adairaderrell8698",
+  //   "auxiliary": "adairaderrell1859@hotmail.com",
+  //   "index": 6,
+  //   "id": "adairaderrell9992@gmail.com",
+  //   "info": "成功😘",
+  //   "ident": "poe-validate",
+  //   "type": "success",
+  //   "result": "成功😘"
+  // },
+  // {
+  //   "user": "nishadarrow0444@gmail.com",
+  //   "pass": "cliftontiffani7462",
+  //   "auxiliary": "cliftontiffani2263@hotmail.com",
+  //   "index": 7,
+  //   "id": "nishadarrow0444@gmail.com",
+  //   "info": "成功😘",
+  //   "ident": "poe-validate",
+  //   "type": "success",
+  //   "result": "成功😘"
+  // }
 ])
 
 ipcRenderer.on('progress', (event, args) => {
@@ -142,8 +143,8 @@ const listFail = computed(() => {
 })
 
 const { copy } = useClipboard()
-function copyText(item: any) {
-  copy(item.user + '----' + (item.result || ''))
+function copyText(text: any) {
+  copy(text)
 }
 function copyAccount(item: any) {
   copy(item.user + '----' + item.pass + '----' + item.auxiliary)

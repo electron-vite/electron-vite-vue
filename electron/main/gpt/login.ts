@@ -38,7 +38,7 @@ export async function login(options, tryCount = 1): Promise<Page> {
 
 	// log('准备进入 google 登录页')
 	const [response] = await Promise.all([
-		page.waitForNavigation(() => location.href.startsWith('https://auth0.openai.com/u/login/identifier')),
+		page.waitForNavigation({ timeout: 10000 }),
 		page.click('button')
 	])
 	// log('已进入 google 登录页')

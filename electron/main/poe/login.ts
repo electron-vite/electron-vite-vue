@@ -1,13 +1,13 @@
+import type { Browser, Page } from 'puppeteer'
 import puppeteer from 'puppeteer-extra'
 import StealthPlugin from 'puppeteer-extra-plugin-stealth'
-import { randomNum } from '../tools'
+import { randomNum, awaitWrap } from '../tools'
 import { win } from '../index'
 puppeteer.use(StealthPlugin())
 
 
-
 let id
-export let browser
+export let browser: Browser
 /**
  * 登录google
  */
@@ -38,10 +38,13 @@ export async function loginGoogle(options, tryCount = 1) {
 	await page.waitForTimeout(randomNum(1000, 2600))
 
 	log('准备进入 google 登录页')
-	const [response] = await Promise.all([
-		page.waitForNavigation(() => location.href.startsWith('https://accounts.google.com')),
-		page.click('.ContinueWithGoogleButton_buttonContentWrapper__Mrp0W')
-	])
+
+	page.click('.ContinueWithGoogleButton_buttonContentWrapper__Mrp0W')
+	const [err, response] = await awaitWrap(page.waitForNavigation({ timeout: 10000 }))
+	if (err) {
+		reject({ text: '登录报错', try: true })
+		return p
+	}
 	log('已进入 google 登录页')
 
 	if (response.ok()) {
@@ -53,6 +56,11 @@ export async function loginGoogle(options, tryCount = 1) {
 			await page.keyboard.press('Enter')
 		])
 		log('已输入账号，准备输入密码')
+		if (await isError(page)) {
+			reject({ text: '登录报错', try: true })
+			return p
+		}
+
 		await page.waitForSelector('input[type="password"]', { visible: true })
 		await page.type('input[type="password"]', env.GPASS)
 		log('已输入密码，开始登录')
@@ -60,6 +68,10 @@ export async function loginGoogle(options, tryCount = 1) {
 			page.waitForFunction(() => location.href === 'https://poe.com/'),
 			await page.keyboard.press('Enter')
 		])
+		if (await isError(page)) {
+			reject({ text: '登录报错', try: true })
+			return p
+		}
 
 		log('登录成功，准备进入 poe')
 
@@ -79,11 +91,17 @@ export async function loginGoogle(options, tryCount = 1) {
 	// return Promise.reject('google 登录失败')
 }
 
+async function isError(page: Page) {
+	const text = await page.evaluate(() => (document.querySelector('p')?.textContent || ''));
+	// const text = await page.evaluate('p', element => element.textContent);
+	return text && text.includes('error')
+}
+
 
 export function clog(options) {
 	return (info, data = {}) => {
 		if (win) {
-			win.webContents.send('progress', {...options, info, ...data})
+			win.webContents.send('progress', { ...options, info, ...data })
 		}
 	}
 }
