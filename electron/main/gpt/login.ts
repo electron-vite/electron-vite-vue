@@ -58,7 +58,7 @@ export async function login(options, tryCount = 1): Promise<Page> {
 	log('已输入密码，开始登录')
 
 	await Promise.all([
-		page.waitForNavigation(() => location.href === 'https://chat.openai.com/'),
+		page.waitForNavigation({ timeout: 10000 }),
 		page.keyboard.press('Enter')
 	])
 	log('登录成功')

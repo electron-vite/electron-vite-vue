@@ -41,11 +41,14 @@
   },
   "dependencies": {
     "@vueuse/core": "^10.1.2",
+    "axios": "^1.4.0",
+    "mockjs": "^1.1.0",
     "naive-ui": "^2.34.4",
     "puppeteer": "^13.3.2",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "sass": "^1.62.1",
+    "socks-proxy-agent": "^8.0.1",
     "unocss": "^0.52.7"
   }
 }

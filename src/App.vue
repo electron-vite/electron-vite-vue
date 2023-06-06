@@ -2,7 +2,8 @@
 import { ipcRenderer } from 'electron'
 import { NButton } from 'naive-ui'
 import { useClipboard } from '@vueuse/core'
-const input = ref('126vdsjmgyanpgqrvb@ddmvp.icu----EOJ2NgPfS')
+const input = ref('r0tg74y71ophdadi2r@newgmail.icu----7rtupH27r')
+// const input = ref('126vdsjmgyanpgqrvb@ddmvp.icu----EOJ2NgPfS')
 // const input = ref('traceetakashi6274@gmail.com----kedaraditi0214----kedaraditi4760@hotmail.com')
 
 const result = ref('')
@@ -149,6 +150,11 @@ function copyText(text: any) {
 function copyAccount(item: any) {
   copy(item.user + '----' + item.pass + '----' + item.auxiliary)
 }
+
+function application () {
+  ipcRenderer.invoke('gpt-batch-4.0', { text: input.value })
+}
+
 const columns = [
   {
     title: '序列',
@@ -227,6 +233,7 @@ const columns = [
           <span w-15>poe：</span>
           <NButton type="primary" dashed @click="getLink()">提取链接</NButton>
           <NButton type="primary" dashed @click="getResult()">充值结果</NButton>
+          <!-- <NButton type="primary" dashed @click="application()">申请4.0</NButton> -->
         </div>
         <div flex gap-3 mt-3 items-center>
           <span w-15>gpt：</span>
