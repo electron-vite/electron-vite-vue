@@ -15,7 +15,7 @@
   ],
   "debug": {
     "env": {
-      "VITE_DEV_SERVER_URL": "http://127.0.0.1:3344/"
+      "VITE_DEV_SERVER_URL": "http://127.0.0.1:3200/"
     }
   },
   "scripts": {
@@ -44,6 +44,7 @@
     "axios": "^1.4.0",
     "mockjs": "^1.1.0",
     "naive-ui": "^2.34.4",
+    "proxy-chain": "^2.3.0",
     "puppeteer": "^13.3.2",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",

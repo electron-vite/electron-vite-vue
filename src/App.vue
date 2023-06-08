@@ -233,7 +233,7 @@ const columns = [
           <span w-15>poe：</span>
           <NButton type="primary" dashed @click="getLink()">提取链接</NButton>
           <NButton type="primary" dashed @click="getResult()">充值结果</NButton>
-          <!-- <NButton type="primary" dashed @click="application()">申请4.0</NButton> -->
+          <NButton type="primary" dashed @click="application()">申请4.0</NButton>
         </div>
         <div flex gap-3 mt-3 items-center>
           <span w-15>gpt：</span>

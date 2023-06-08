@@ -56,7 +56,3 @@ ipcMain.handle('poe-result', async (event, arg) => {
 	browser && browser.close()
 	return links
 })
-ipcMain.handle('stop', async (event, arg) => {
-	browser && browser.close()
-	return true
-})

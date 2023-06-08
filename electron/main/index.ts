@@ -3,6 +3,9 @@ import { release } from 'node:os'
 import { join } from 'node:path'
 import './poe/index'
 import './gpt/index'
+import { browser as poeBrowser } from './poe/login'
+import { browser as gptBrowser } from './gpt/login'
+import { browsers } from './gpt/batchApplication'
 
 // The built directory structure
 //
@@ -60,6 +63,8 @@ async function createWindow() {
 
   if (process.env.VITE_DEV_SERVER_URL) { // electron-vite-vue#298
     win.loadURL(url)
+    console.log('process.env.VITE_DEV_SERVER_URL', process.env.VITE_DEV_SERVER_URL);
+    
     // Open devTool if the app is not packaged
     win.webContents.openDevTools()
   } else {
@@ -119,3 +124,11 @@ ipcMain.handle('open-win', (_, arg) => {
     childWindow.loadFile(indexHtml, { hash: arg })
   }
 })
+
+ipcMain.handle('stop', async (event, arg) => {
+	poeBrowser && poeBrowser.close()
+  gptBrowser && gptBrowser.close()
+  browsers.forEach(browser => browser.close())
+	return true
+})
+
