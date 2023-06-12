@@ -61,5 +61,30 @@ ipcMain.handle('gpt-batch-4.0', async (event, arg) => {
 		})
 		console.log('process', i, user, link)
 	}
-	browsers.forEach(browser => browser.close())
+	// browsers.forEach(browser => browser.close())
 })
+
+
+const actions = {
+	'gpt-link': getLink,
+	'gpt-result': validate,
+	'gpt-batch-4.0': batchApplication
+}
+
+export async function runActions(action: keyof typeof actions, options: any) {
+	const { text } = options
+	const accounts = parseAccount(text)
+
+	const links = []
+	for(let i = 0; i < accounts.length; i++) {
+		const [user, pass] = accounts[i]
+		const link = await batchApplication({ user, pass, index: i, id: user })
+		links.push({
+			i,
+			user,
+			link
+		})
+		console.log('process', i, user, link)
+	}
+	browsers.forEach(browser => browser.close())
+}

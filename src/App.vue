@@ -100,8 +100,6 @@ const list = ref<any[]>([
 ])
 
 ipcRenderer.on('progress', (event, args) => {
-  console.log('progress', args);
-
   const { user } = args
   const target = list.value.find((item) => item.user === user)
 
@@ -114,6 +112,12 @@ ipcRenderer.on('progress', (event, args) => {
 
 function getLink(val?: string) {
   ipcRenderer.invoke('getLink', { text: val || input.value }).then((res) => {
+    console.log(res);
+  })
+}
+
+function  getLink_7day (val?: string) {
+  ipcRenderer.invoke('get-poe-link-7day', { text: val || input.value }).then((res) => {
     console.log(res);
   })
 }
@@ -153,6 +157,11 @@ function copyAccount(item: any) {
 
 function application () {
   ipcRenderer.invoke('gpt-batch-4.0', { text: input.value })
+}
+
+// 申请结果
+function applicationResult () {
+  ipcRenderer.invoke('gpt-batch-4.0-result', { text: input.value })
 }
 
 const columns = [
@@ -233,7 +242,12 @@ const columns = [
           <span w-15>poe：</span>
           <NButton type="primary" dashed @click="getLink()">提取链接</NButton>
           <NButton type="primary" dashed @click="getResult()">充值结果</NButton>
+          <NButton type="primary" dashed @click="getLink_7day()">提取链接-7天</NButton>
+        </div>
+        <div flex gap-3 mt-3 items-center>
+          <span w-15>gpt4.0：</span>
           <NButton type="primary" dashed @click="application()">申请4.0</NButton>
+          <NButton type="primary" dashed @click="applicationResult()">检查申请结果(mail邮箱)</NButton>
         </div>
         <div flex gap-3 mt-3 items-center>
           <span w-15>gpt：</span>

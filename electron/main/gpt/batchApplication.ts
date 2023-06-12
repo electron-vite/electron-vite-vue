@@ -15,19 +15,20 @@ puppeteer.use(StealthPlugin())
 function getProxy(options = {} as any) {
   const log = clog(options)
   log('开始获取代理ip')
-  // return axios.get('https://tq.lunaproxy.com/getflowip?neek=1037914&num=1&type=1&sep=1&regions=us&ip_si=1&level=1&sb=', {
-  // // return axios.get('https://www.miyaip.com/api/ProxyGenerage/PublicGenerateProxy?country=us&city=jaffrey®ion=nh&num=1&apiSwitch=0&mealType=2&genType=2&username=nmfk549724@163.com&secret=E3BCBmiyaipC23358C250F5', {
-  //   // return axios.get('http://api.tianqiip.com/getip?secret=loy0r7fpmnlshm8l&num=1&type=json&port=3&time=3&mr=1&sign=5f73ab58ad7ab40346311014bef59b79', {
-  //   timeout: 10 * 1000,
-  // }).then(res => {
-  //   // const [user, pass] = res.data.split(':')
-  //   // return { user, pass, ip, port }
-  //   // // return axios.get('https://www.miyaip.com/api/ProxyGenerage/PublicGenerateProxy?country=us&city=cairo®ion=ny&num=1&apiSwitch=0&mealType=2&genType=2&username=nmfk549724@163.com&secret=E3BCBmiyaipC23358C250F5').then(res => {
-  //   const [ip, port] = res.data.replace(/(\n|\r\s)/g, '').split(':')
-  //   console.log({ ip, port, })
-  //   // const [ip, pory, user, pass] = res.data.split(':')
-  //   return { ip, port, }
-  // })
+  return axios.get('http://api.proxy.ipidea.io/getBalanceProxyIp?num=1&return_type=json&lb=1&sb=0&flow=1&regions=&protocol=socks5', {
+  // return axios.get('https://www.miyaip.com/api/ProxyGenerage/PublicGenerateProxy?country=us&city=jaffrey®ion=nh&num=1&apiSwitch=0&mealType=2&genType=2&username=nmfk549724@163.com&secret=E3BCBmiyaipC23358C250F5', {
+    // return axios.get('http://api.tianqiip.com/getip?secret=loy0r7fpmnlshm8l&num=1&type=json&port=3&time=3&mr=1&sign=5f73ab58ad7ab40346311014bef59b79', {
+    timeout: 10 * 1000,
+  }).then(res => {
+    
+    // // const [user, pass] = res.data.split(':')
+    // // return { user, pass, ip, port }
+    // // // return axios.get('https://www.miyaip.com/api/ProxyGenerage/PublicGenerateProxy?country=us&city=cairo®ion=ny&num=1&apiSwitch=0&mealType=2&genType=2&username=nmfk549724@163.com&secret=E3BCBmiyaipC23358C250F5').then(res => {
+    // const [ip, port] = res.data.replace(/(\n|\r\s)/g, '').split(':')
+    // console.log({ ip, port, })
+    // // const [ip, pory, user, pass] = res.data.split(':')
+    return res.data.data[0]
+  })
   return Promise.resolve({
     ip: '43.130.10.70',
     port: '22993',
@@ -48,16 +49,17 @@ async function login(options = {} as any): Promise<Page> {
 
   // const [pErr, proxy] = await awaitWrap(getProxy(options))
   // if (pErr) {
-  //   console.log('获取代理失败', pErr)
+  //   log('获取代理失败')
   //   return
   // }
-  // console.log('获取代理成功', proxy)
-  // // const proxyUrl = await proxyChain.anonymizeProxy(`socks5://${proxy.ip}:${proxy.port}`);
+  // // console.log('获取代理成功', proxy)
+  // // // const proxyUrl = await proxyChain.anonymizeProxy(`socks5://${proxy.ip}:${proxy.port}`);
   // const proxyUrl = `socks5://${proxy.ip}:${proxy.port}`
   // console.log('proxyUrl', proxyUrl)
-  // // const agent = new SocksProxyAgent(`socks5://${proxy.user}:${proxy.pass}@${proxy.ip}:${proxy.port}`);
+  // console.log(`curl --socks5 ${proxy.ip}:${proxy.port} https://jd.com`)
+  // // // const agent = new SocksProxyAgent(`socks5://${proxy.user}:${proxy.pass}@${proxy.ip}:${proxy.port}`);
 
-  // // console.log('proxy', proxy)
+  // // // console.log('proxy', proxy)
 
   log('启动浏览器')
 
@@ -66,6 +68,7 @@ async function login(options = {} as any): Promise<Page> {
     args: [
       '--no-sandbox',
       '--disable-setuid-sandbox',
+      // `--proxy-server=${proxyUrl}`,
     ]
   })
   log('创建新页面')

@@ -132,3 +132,31 @@ ipcMain.handle('stop', async (event, arg) => {
 	return true
 })
 
+
+fetch("https://poe.com/api/gql_POST", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "zh-CN,zh;q=0.9",
+    "content-type": "application/json",
+    "poe-formkey": "520a133912dc68714f36a5bcf4848e59",
+    "poe-tag-id": "0bc8018cd51c5229e87987cf31f8f89c",
+    "poe-tchannel": "poe-chan49-8888-qcbwsgypbumznmwlcfwi",
+    "sec-ch-ua": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "Cookie": "p-b=l9xRB8cUvzqnE5Wu0JoLCQ%3D%3D",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin"
+  },
+  "referrer": "https://poe.com/zhenjie",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": "{\"queryName\":\"chatHelpers_sendMessageMutation_Mutation\",\"variables\":{\"chatId\":15454343,\"bot\":\"zhenjie\",\"query\":\"hi\",\"source\":null,\"withChatBreak\":false,\"clientNonce\":\"eBAHfmO3h41BlXK0\",\"sdid\":\"36988d7a-8ed4-4eaa-bbf8-24782e5b5461\"},\"query\":\"mutation chatHelpers_sendMessageMutation_Mutation(\\n  $chatId: BigInt!\\n  $bot: String!\\n  $query: String!\\n  $source: MessageSource\\n  $withChatBreak: Boolean!\\n  $clientNonce: String\\n  $sdid: String\\n) {\\n  messageEdgeCreate(chatId: $chatId, bot: $bot, query: $query, source: $source, withChatBreak: $withChatBreak, clientNonce: $clientNonce, sdid: $sdid) {\\n    chatBreak {\\n      cursor\\n      node {\\n        id\\n        messageId\\n        text\\n        author\\n        suggestedReplies\\n        creationTime\\n        state\\n      }\\n      id\\n    }\\n    message {\\n      cursor\\n      node {\\n        id\\n        messageId\\n        text\\n        author\\n        suggestedReplies\\n        creationTime\\n        state\\n        clientNonce\\n        contentType\\n        chat {\\n          shouldShowDisclaimer\\n          id\\n        }\\n      }\\n      id\\n    }\\n    bot {\\n      id\\n      messageLimit {\\n        dailySent\\n      }\\n    }\\n    status\\n  }\\n}\\n\"}",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+}).then(res => {
+  console.log('ok', res)
+}).catch(err=> {
+  console.log('err', err)
+})
