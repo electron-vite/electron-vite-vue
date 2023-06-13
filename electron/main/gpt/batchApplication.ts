@@ -1,8 +1,9 @@
 import type { Browser, Page } from 'puppeteer'
 import puppeteer from 'puppeteer-extra'
 import StealthPlugin from 'puppeteer-extra-plugin-stealth'
-import { clog } from "../poe/login";
+import { clog } from "../tools";
 import { awaitWrap, randomNum } from '../tools';
+import login from '../login'
 import Mock from 'mockjs'
 import axios from 'axios'
 import { SocksProxyAgent } from 'socks-proxy-agent'
@@ -35,98 +36,6 @@ function getProxy(options = {} as any) {
     // user: '1E783B07miyaip489C251B3FA7',
     // pass: '1g7E3M4U5w03vO'
   })
-}
-
-// getProxy()//.then(res => console.log(res.data))
-
-
-export const browsers = new Map<string, Browser>()
-// 登录
-async function login(options = {} as any): Promise<Page> {
-  const { user, pass } = options
-
-  const log = clog(options)
-
-  // const [pErr, proxy] = await awaitWrap(getProxy(options))
-  // if (pErr) {
-  //   log('获取代理失败')
-  //   return
-  // }
-  // // console.log('获取代理成功', proxy)
-  // // // const proxyUrl = await proxyChain.anonymizeProxy(`socks5://${proxy.ip}:${proxy.port}`);
-  // const proxyUrl = `socks5://${proxy.ip}:${proxy.port}`
-  // console.log('proxyUrl', proxyUrl)
-  // console.log(`curl --socks5 ${proxy.ip}:${proxy.port} https://jd.com`)
-  // // // const agent = new SocksProxyAgent(`socks5://${proxy.user}:${proxy.pass}@${proxy.ip}:${proxy.port}`);
-
-  // // // console.log('proxy', proxy)
-
-  log('启动浏览器')
-
-  const browser = await puppeteer.launch({
-    headless: false,
-    args: [
-      '--no-sandbox',
-      '--disable-setuid-sandbox',
-      // `--proxy-server=${proxyUrl}`,
-    ]
-  })
-  log('创建新页面')
-  const page = await browser.newPage()
-  // await page.authenticate({
-  //   username: proxy.user,
-  //   password: proxy.pass
-  // })
-  browsers.set(user, browser)
-
-  // await page.setRequestInterception(true);
-  // page.on('request', (request) => {
-  //   request.continue({
-  //     agent
-  //   });
-  // });
-
-  await page.setExtraHTTPHeaders({
-    'accept-language': 'en-US,en;q=0.9,hy;q=0.8'
-  })
-
-  // page.goto('https://ip.900cha.com/')
-
-  // return
-
-  // 进入
-  log('准备进入 gpt 登录')
-  await page.goto('https://platform.openai.com')
-
-  // const [err, res] = await awaitWrap(page.waitForNavigation({ timeout: 10000 }))
-  // if (err) throw err
-
-  log('等待出现输入框')
-  await page.waitForSelector('#username', { visible: true, timeout: 10000 })
-
-  // 输入账号
-  log('输入账号')
-  await page.type('#username', user)
-  await Promise.all([
-    page.waitForNavigation(),
-    page.keyboard.press('Enter')
-  ])
-
-  log('等待出现密码输入框')
-  await page.waitForSelector('#password', { visible: true })
-  log('输入密码')
-  await page.type('#password', pass)
-
-
-  log('准备登录')
-  await Promise.all([
-    page.waitForNavigation({ timeout: 10000 }),
-    page.keyboard.press('Enter')
-  ])
-
-  log('登录成功')
-
-  return page
 }
 
 // 获取组织id
@@ -228,7 +137,7 @@ export async function batchApplication(options) {
   const log = clog(options)
   log('开始', { ident: 'gpt-batch-4.0' })
 
-  const [error, page] = await awaitWrap(login(options))
+  const [error, [page, browser]] = await awaitWrap(login.openai(options))
   if (error) return log('登录失败', { error, ident: 'gpt-batch-4.0' })
 
   await page.waitForSelector('.ovr-section')
@@ -238,4 +147,6 @@ export async function batchApplication(options) {
   console.log('orgId', orgId)
 
   await application(page, options)
+
+  browser.close()
 }

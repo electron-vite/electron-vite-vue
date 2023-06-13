@@ -1,8 +1,7 @@
-import { clog, loginGoogle } from './login'
-import type { Browser, Page } from 'puppeteer'
-import { readFileSync, writeFileSync } from 'fs'
+import { clog } from '../tools'
+import type { Page } from 'puppeteer'
 import path from 'path'
-import { EOL } from 'os'
+import login from '../login'
 
 function existDialog(page: Page) {
 	return page.evaluate((selector, searchText) => {
@@ -17,7 +16,7 @@ function existDialog(page: Page) {
 export async function getLink(options) {
 	const log = clog(options)
 	log('开始', { ident: 'poe-link' })
-	return loginGoogle(options).then(async (page: Page) => {
+	return login.poe_google(options).then(async ([page, browser]) => {
 		await page.waitForTimeout(1000)
 		const isExistDialog = await existDialog(page)
 
@@ -51,14 +50,10 @@ export async function getLink(options) {
 		if (response.ok()) {
 			const url = response._request._frame._url
 			log('获取链接成功', { result: url, type: 'success' })
+			browser.close()
 			return url
-
-			// if (options.index === 0) {
-			// 	writeFileSync(resolve('./hao.txt'), '', 'utf8')
-			// }
-			// const fileContent = readFileSync(resolve('./hao.txt'), 'utf8')
-			// writeFileSync(resolve('./hao.txt'), fileContent + `${EOL}${options.index + 1} ${options.user}${EOL}${url}`, 'utf8')
 		}
+		browser.close()
 	}).catch(error => {
 		console.log('error ->', error.try, error.text, error)
 		if (error?.try) {

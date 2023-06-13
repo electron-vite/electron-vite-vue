@@ -3,9 +3,7 @@ import { release } from 'node:os'
 import { join } from 'node:path'
 import './poe/index'
 import './gpt/index'
-import { browser as poeBrowser } from './poe/login'
-import { browser as gptBrowser } from './gpt/login'
-import { browsers } from './gpt/batchApplication'
+import { browsers } from './tools'
 
 // The built directory structure
 //
@@ -126,8 +124,6 @@ ipcMain.handle('open-win', (_, arg) => {
 })
 
 ipcMain.handle('stop', async (event, arg) => {
-	poeBrowser && poeBrowser.close()
-  gptBrowser && gptBrowser.close()
   browsers.forEach(browser => browser.close())
 	return true
 })

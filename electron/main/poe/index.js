@@ -1,7 +1,6 @@
 import { getLink } from './getLink'
 import { validate } from './validate'
 import { ipcMain } from 'electron'
-import { browser } from './login'
 import { link_7day } from './link_7day'
 
 // import './openBrowser'
@@ -32,7 +31,6 @@ ipcMain.handle('getLink', async (event, arg) => {
 		})
 		console.log('process', i, user, link)
 	}
-	browser && browser.close()
 	return links
 })
 
@@ -54,7 +52,6 @@ ipcMain.handle('get-poe-link-7day', async (event, arg) => {
 		})
 		console.log('process', i, user, link)
 	}
-	// browser && browser.close()
 	return links
 })
 
@@ -77,6 +74,5 @@ ipcMain.handle('poe-result', async (event, arg) => {
 		})
 		console.log('process', i, user, link)
 	}
-	browser && browser.close()
 	return links
 })

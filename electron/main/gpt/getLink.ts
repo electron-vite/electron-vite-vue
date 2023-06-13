@@ -1,10 +1,10 @@
-import { clog } from "../poe/login";
-import { login } from "./login";
+import { clog } from "../tools";
+import login from "../login";
 
 export async function getLink(options) {
 	const log = clog(options)
 	log('开始', { ident: 'gpt-link' })
-	const page = await login(options)
+	const [page, browser] = await login.chatgpt(options)
 
 	// await page.waitForTimeout(500)
 
@@ -36,6 +36,8 @@ export async function getLink(options) {
 	if (response.ok()) {
 		const url = response._request._frame._url
 		log('获取链接成功', { result: url, type: 'success' })
+		browser.close()
 		return url
 	}
+	browser.close()
 }

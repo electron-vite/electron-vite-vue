@@ -42,6 +42,7 @@
   "dependencies": {
     "@vueuse/core": "^10.1.2",
     "axios": "^1.4.0",
+    "chrome-launcher": "^0.15.2",
     "mockjs": "^1.1.0",
     "naive-ui": "^2.34.4",
     "proxy-chain": "^2.3.0",

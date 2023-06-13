@@ -1,10 +1,10 @@
-import { clog } from "../poe/login";
-import { login } from "./login";
+import { clog } from "../tools";
+import login from "../login";
 
 export async function validate(options) {
   const log = clog(options)
   log('开始', { ident: 'gpt-validate' })
-  const page = await login(options)
+  const [page, browser] = await login.chatgpt(options)
 
   await page.waitForSelector('body > div.absolute.inset-0')
   await page.evaluate(() => {
@@ -24,4 +24,5 @@ export async function validate(options) {
   log('获取链接成功', { result: isSuccess ? '充值成功😘' : '充值失败😭', type: isSuccess ? 'success' : 'fail' })
 
   console.log(isSuccess)
+  browser.close()
 }

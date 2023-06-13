@@ -2,7 +2,7 @@
 import { ipcRenderer } from 'electron'
 import { NButton } from 'naive-ui'
 import { useClipboard } from '@vueuse/core'
-const input = ref('r0tg74y71ophdadi2r@newgmail.icu----7rtupH27r')
+const input = ref('pollcribracacom@mail.com-----XAxeEgy34j')
 // const input = ref('126vdsjmgyanpgqrvb@ddmvp.icu----EOJ2NgPfS')
 // const input = ref('traceetakashi6274@gmail.com----kedaraditi0214----kedaraditi4760@hotmail.com')
 

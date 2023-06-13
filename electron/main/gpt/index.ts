@@ -1,8 +1,7 @@
 import { ipcMain } from 'electron'
 import { getLink } from './getLink'
 import { validate } from './validate'
-import { browser } from './login'
-import { batchApplication, browsers } from './batchApplication'
+import { batchApplication } from './batchApplication'
 
 const parseAccount = text => text.split('\n').filter(Boolean).map(v => {
 	v = v.split(/(——|-)+/).filter(v => !['-', '——'].includes(v))
@@ -24,7 +23,6 @@ ipcMain.handle('gpt-link', async (event, arg) => {
 		})
 		console.log('process', i, user, link)
 	}
-	browser && browser.close()
 })
 
 ipcMain.handle('gpt-result', async (event, arg) => {
@@ -86,5 +84,4 @@ export async function runActions(action: keyof typeof actions, options: any) {
 		})
 		console.log('process', i, user, link)
 	}
-	browsers.forEach(browser => browser.close())
 }
