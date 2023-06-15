@@ -1,16 +1,21 @@
-import { Page } from 'puppeteer'
-import { browsers, clog, elCheck } from './tools'
+import type { Page, Browser } from 'puppeteer'
+import { browsers, clog, statusCheck } from './tools'
 import { awaitWrap, browserAndPage, randomNum } from './tools'
-import { Browser } from 'puppeteer'
 
 const login = {
   // poe 邮箱登录
-  async poe_email(options, getCodeFn: Function): Promise<[Page, Browser]> {
+  async poe_email(options, getCodeFn: Function, tryCount = 1): Promise<[Page, Browser]> {
     const log = clog(options)
+
+    if (tryCount > 2) {
+      log('重试次数已达上限')
+      throw '重试次数已达上限'
+      return
+    }
 
     log('启动浏览器')
 
-    const { browser, page } = await browserAndPage(options)
+    const { browser, page } = await browserAndPage({ ...options, proxy: true })
 
     log('正在进入登录页面')
     await page.goto('https://poe.com/login')
@@ -30,11 +35,37 @@ const login = {
     await page.waitForSelector('input[type="email"]')
     await page.type('input[type="email"]', options.user)
     await page.waitForTimeout(1000)
-    // elCheck()
-    await page.keyboard.press('Enter')
+    await statusCheck(
+      async () => await page.keyboard.press('Enter'),
+      async () => await page.$('.LoadingDots_wrapper__lXyQd'), // LoadingDots_wrapper__lXyQd
+    )
+
+    // 检查是否有错误
+    const isOk = await Promise.race([
+      page.waitForSelector('.InfoText_error__OQwmg').then(() => false),
+      page.waitForSelector('input[class^="VerificationCodeInput_verificationCodeInput"]').then(() => true)
+    ])
+
+    console.log('isOk', isOk)
+    if (!isOk) {
+      const reason = await page.$eval('.InfoText_error__OQwmg', (el: HTMLElement) => el.textContent.trim())
+      if (reason.startsWith('Something')) {
+        await page.waitForTimeout(3482)
+        await statusCheck(
+          async () => await page.keyboard.press('Enter'),
+          async () => await page.$('.LoadingDots_wrapper__lXyQd'), // LoadingDots_wrapper__lXyQd
+        )
+      } else {
+        log('', { result: `登录失败: ${reason}` })
+        browser.close()
+        throw '登录失败'
+      }
+      // return login.poe_email(options, getCodeFn, tryCount + 1)
+    }
+
+    // await page.keyboard.press('Enter')
     log('开始输入密码')
 
-    await page.waitForSelector('input[class^="VerificationCodeInput_verificationCodeInput"]')
     const code = await getCodeFn(options, { page, browser })
 
     await page.type('input[class^=VerificationCodeInput_verificationCodeInput]', code)
@@ -185,15 +216,45 @@ const login = {
     await page.keyboard.press('Enter')
     log('开始登录')
 
+    /**
+     * 
+     * @param reload 是否点击刷新验证码按钮
+     */
     async function validateCode() {
       log('开始获取code')
       let $iframe = await page.$('#thirdPartyFrame_home')
       let frame = await $iframe?.contentFrame()
 
       if (!frame) {
+        log('未找到页面，刷新重试中...')
         await page.reload()
         return await validateCode()
       }
+
+      const [err] = await awaitWrap(frame.waitForSelector('ul.inbox-container li', { timeout: 4000 }))
+      if (err) {
+        console.log(err)
+        console.log('有报错')
+        await frame.waitForSelector('.ico.sync')
+        const sync = await page.$('.ico.sync')
+        if (!sync) {
+          console.log('未找到刷新按钮')
+          log('未找到刷新按钮')
+          return ''
+        }
+        await frame.click('.ico.sync')
+        await frame.waitForTimeout(4000)
+        return await validate()
+      }
+
+      return await validate()
+
+
+      // console.log('type', type)
+      // if (type === 'list') {
+      //   return await validate()
+      // }
+
 
       await frame.waitForSelector('.ico.sync')
       await frame.click('.ico.sync')
@@ -201,36 +262,39 @@ const login = {
 
       await frame.waitForSelector('ul.inbox-container li')
       log('查找邮箱')
-      const $li = await frame.evaluate((emailText) => {
-        const $li: any = Array.from(document.querySelectorAll('ul.inbox-container li')).find($li => {
-          let sender = $li.querySelector('.sender')?.textContent || ''
-          return sender.includes(emailText)
-        })
 
-        if ($li) $li.click()
-        return $li
-      }, emailText)
+      async function validate() {
+        const $li = await frame.evaluate((emailText) => {
+          const $li: any = Array.from(document.querySelectorAll('ul.inbox-container li')).find($li => {
+            let sender = $li.querySelector('.sender')?.textContent || ''
+            return sender.includes(emailText)
+          })
 
-      if (!$li) {
-        log('未找到邮箱')
-        return ''
-      } else {
-        log('等待出现验证码 iframe')
-        await page.waitForSelector('#thirdPartyFrame_mail')
-        log('出现了验证码 iframe,寻找他的 iframe')
-        $iframe = await page.$('#thirdPartyFrame_mail')
-        frame = await $iframe?.contentFrame()
+          if ($li) $li.click()
+          return $li
+        }, emailText)
 
-        await frame.waitForSelector('iframe#mail-detail')
-        log('出现验证码 iframe')
+        if (!$li) {
+          log('未找到邮箱')
+          return ''
+        } else {
+          log('等待出现验证码 iframe')
+          await page.waitForSelector('#thirdPartyFrame_mail')
+          log('出现了验证码 iframe,寻找他的 iframe')
+          $iframe = await page.$('#thirdPartyFrame_mail')
+          frame = await $iframe?.contentFrame()
 
-        $iframe = await frame.$('iframe#mail-detail')
-        frame = await $iframe?.contentFrame()
+          await frame.waitForSelector('iframe#mail-detail')
+          log('出现验证码 iframe')
 
-        log('等待验证码')
-        await frame.waitForSelector('table table table ')
-        const code = (await frame.$eval('table table table tr:nth-of-type(5)', el => el.textContent)) || ''
-        return code.trim()
+          $iframe = await frame.$('iframe#mail-detail')
+          frame = await $iframe?.contentFrame()
+
+          log('等待验证码')
+          await frame.waitForSelector('table table table ')
+          const code = (await frame.$eval('table table table tr:nth-of-type(5)', el => el.textContent)) || ''
+          return code.trim()
+        }
       }
     }
 
@@ -286,7 +350,7 @@ const login = {
     log('已输入密码，开始登录')
 
     await Promise.all([
-      page.waitForNavigation({ timeout: 10000 }),
+      page.waitForNavigation({ timeout: 10000, waitUntil: 'domcontentloaded' }),
       page.keyboard.press('Enter')
     ])
     log('登录成功')

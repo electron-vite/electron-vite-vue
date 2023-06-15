@@ -1,103 +1,31 @@
 <script setup lang="tsx">
 import { ipcRenderer } from 'electron'
 import { NButton } from 'naive-ui'
-import { useClipboard } from '@vueuse/core'
-const input = ref('pollcribracacom@mail.com-----XAxeEgy34j')
+import { useClipboard, useLocalStorage } from '@vueuse/core'
+
+const input = useLocalStorage('accountInput', 'pollcribracacom@mail.com-----XAxeEgy34j')
 // const input = ref('126vdsjmgyanpgqrvb@ddmvp.icu----EOJ2NgPfS')
 // const input = ref('traceetakashi6274@gmail.com----kedaraditi0214----kedaraditi4760@hotmail.com')
 
 const result = ref('')
+const liao = useLocalStorage('result', '')
 
-const list = ref<any[]>([
-  // {
-  //   "user": "jannettamoses5977@gmail.com",
-  //   "pass": "kenyatearle7610",
-  //   "auxiliary": "kenyatearle8223@outlook.com",
-  //   "index": 0,
-  //   "id": "jannettamoses5977@gmail.com",
-  //   "info": "成功😘",
-  //   "ident": "poe-link",
-  //   "type": "success",
-  //   "result": "成功😘"
-  // },
-  // {
-  //   "user": "tylanindea7687@gmail.com",
-  //   "pass": "adalbertokanisha4845",
-  //   "auxiliary": "adalbertokanisha8803@yandex.com",
-  //   "index": 1,
-  //   "id": "tylanindea7687@gmail.com",
-  //   "info": "成功😘",
-  //   "ident": "poe-validate",
-  //   "type": "success",
-  //   "result": "成功😘"
-  // },
-  // {
-  //   "user": "bayanjae8652@gmail.com",
-  //   "pass": "lorenarosamond4075",
-  //   "auxiliary": "lorenarosamond8958@outlook.com",
-  //   "index": 2,
-  //   "id": "bayanjae8652@gmail.com",
-  //   "info": "成功😘",
-  //   "ident": "poe-validate",
-  //   "type": "fail",
-  //   "result": "成功😘"
-  // },
-  // {
-  //   "user": "geneviashametra1019@gmail.com",
-  //   "pass": "sheypervis2156",
-  //   "auxiliary": "sheypervis0163@qq.com",
-  //   "index": 3,
-  //   "id": "geneviashametra1019@gmail.com",
-  //   "info": "成功😘",
-  //   "ident": "poe-validate",
-  //   "type": "success",
-  //   "result": "成功😘"
-  // },
-  // {
-  //   "user": "marikamelindasue5911@gmail.com",
-  //   "pass": "ambrbreeann4103",
-  //   "auxiliary": "ambrbreeann5643@icloud.com",
-  //   "index": 4,
-  //   "id": "marikamelindasue5911@gmail.com",
-  //   "info": "成功😘",
-  //   "ident": "poe-validate",
-  //   "type": "success",
-  //   "result": "成功😘"
-  // },
-  // {
-  //   "user": "caterinereba2981@gmail.com",
-  //   "pass": "arvisleo0563",
-  //   "auxiliary": "arvisleo1265@zoho.com",
-  //   "index": 5,
-  //   "id": "caterinereba2981@gmail.com",
-  //   "info": "成功😘",
-  //   "ident": "poe-validate",
-  //   "type": "success",
-  //   "result": "成功😘"
-  // },
-  // {
-  //   "user": "adairaderrell9992@gmail.com",
-  //   "pass": "adairaderrell8698",
-  //   "auxiliary": "adairaderrell1859@hotmail.com",
-  //   "index": 6,
-  //   "id": "adairaderrell9992@gmail.com",
-  //   "info": "成功😘",
-  //   "ident": "poe-validate",
-  //   "type": "success",
-  //   "result": "成功😘"
-  // },
-  // {
-  //   "user": "nishadarrow0444@gmail.com",
-  //   "pass": "cliftontiffani7462",
-  //   "auxiliary": "cliftontiffani2263@hotmail.com",
-  //   "index": 7,
-  //   "id": "nishadarrow0444@gmail.com",
-  //   "info": "成功😘",
-  //   "ident": "poe-validate",
-  //   "type": "success",
-  //   "result": "成功😘"
-  // }
-])
+const list = ref<any[]>([])
+const localLis = useLocalStorage('list', list)
+list.value = localLis.value
+
+const renderList = computed(() => {
+  // 成功的排在前面
+  return list.value.sort((a, b) => {
+    if (a.type === 'success' && b.type !== 'success') {
+      return -1
+    } else if (a.type !== 'success' && b.type === 'success') {
+      return 1
+    } else {
+      return 0
+    }
+  })
+})
 
 ipcRenderer.on('progress', (event, args) => {
   const { user } = args
@@ -110,14 +38,27 @@ ipcRenderer.on('progress', (event, args) => {
   }
 })
 
+// function handler () {
+//   const data = {
+//     'getLink'
+//   }
+// }
+
 function getLink(val?: string) {
   ipcRenderer.invoke('getLink', { text: val || input.value }).then((res) => {
     console.log(res);
   })
 }
 
-function  getLink_7day (val?: string) {
-  ipcRenderer.invoke('get-poe-link-7day', { text: val || input.value }).then((res) => {
+function getLink_7day(val?: string) {
+  let liaoObj
+  if (liao.value) {
+    const [_1, bank, cvc, cardExpiry, name, address, city, _2, postalCode, nation] = liao.value.split('|').map(v => v.trim())
+    liaoObj = { bank, cvc, date: cardExpiry, name, address, city, postalCode, nation }
+  }
+
+  console.log(liaoObj)
+  ipcRenderer.invoke('get-poe-link-7day', { text: val || input.value, liao: liaoObj }).then((res) => {
     console.log(res);
   })
 }
@@ -131,6 +72,9 @@ function getResult(val?: string) {
 function stopHandler() {
   ipcRenderer.invoke('stop')
 }
+function startOneChromHandler() {
+  ipcRenderer.invoke('start-one-chrom')
+}
 
 function gptLinkHandler() {
   ipcRenderer.invoke('gpt-link', { text: input.value })
@@ -143,9 +87,25 @@ function gptResultHandler() {
 const listSuccess = computed(() => {
   return list.value.filter((item) => item.type === 'success')
 })
+
+function copyAllSuccess() {
+  const text = listSuccess.value.map((item) => `${item.user}\n${item.result}`).join('\n\n')
+  copyText(text)
+}
+
 const listFail = computed(() => {
   return list.value.filter((item) => item.type !== 'success')
 })
+
+function copyFailHandler() {
+  const text = listFail.value.map((item) => `${item.user}----${item.pass}`).join('\n\n')
+  copyText(text)
+}
+
+function clearLocalHandler() {
+  list.value = []
+  localLis.value = []
+}
 
 const { copy } = useClipboard()
 function copyText(text: any) {
@@ -155,12 +115,12 @@ function copyAccount(item: any) {
   copy(item.user + '----' + item.pass + '----' + item.auxiliary)
 }
 
-function application () {
+function application() {
   ipcRenderer.invoke('gpt-batch-4.0', { text: input.value })
 }
 
 // 申请结果
-function applicationResult () {
+function applicationResult() {
   ipcRenderer.invoke('gpt-batch-4.0-result', { text: input.value })
 }
 
@@ -229,34 +189,44 @@ const columns = [
     }
   }
 ]
+
+const keys = ['getLink', 'poe-result', 'gpt-link', 'gpt-result', 'gpt-batch-4.0', 'gpt-batch-4.0-result']
+function handler () {
+
+}
+
 </script>
 
 <template>
   <div>
     <div class="left" flex-1>
       <p>帐密</p>
-      <textarea class="textarea w-full" v-model="input" rows="10" />
+      <textarea class="textarea w-full min-w-100 max-w-94vw" v-model="input" rows="20" />
+
+      <p>liao：</p>
+      <NInput class="textarea w-full min-w-100 max-w-94vw" v-model:value="liao" />
 
       <div>
         <div flex gap-3 mt-3 items-center>
           <span w-15>poe：</span>
-          <NButton type="primary" dashed @click="getLink()">提取链接</NButton>
-          <NButton type="primary" dashed @click="getResult()">充值结果</NButton>
-          <NButton type="primary" dashed @click="getLink_7day()">提取链接-7天</NButton>
+          <TheButton type="primary" dashed @click="getLink()">提取链接</TheButton>
+          <TheButton type="primary" dashed @click="getResult()">充值结果</TheButton>
+          <TheButton type="warning" dashed @click="getLink_7day()">提取链接-7天</TheButton>
         </div>
         <div flex gap-3 mt-3 items-center>
           <span w-15>gpt4.0：</span>
-          <NButton type="primary" dashed @click="application()">申请4.0</NButton>
-          <NButton type="primary" dashed @click="applicationResult()">检查申请结果(mail邮箱)</NButton>
+          <TheButton type="primary" dashed @click="application()">申请4.0</TheButton>
+          <TheButton type="primary" dashed @click="applicationResult()">检查申请结果(mail邮箱)</TheButton>
         </div>
         <div flex gap-3 mt-3 items-center>
-          <span w-15>gpt：</span>
+          <span w-15>gpt plus：</span>
           <NButton type="primary" dashed @click="gptLinkHandler">gpt提链</NButton>
           <NButton type="primary" dashed @click="gptResultHandler">充值结果</NButton>
         </div>
         <div flex gap-3 mt-3 items-center>
           <span w-15>操作：</span>
-          <NButton type="primary" dashed @click="stopHandler">停止</NButton>
+          <NButton type="error" dashed @click="stopHandler">关闭所有浏览器</NButton>
+          <NButton type="primary" dashed @click="startOneChromHandler">开一个浏览器测试</NButton>
         </div>
       </div>
     </div>
@@ -264,8 +234,9 @@ const columns = [
       <p>结果</p>
 
       <n-space mb-3>
-        <n-button type="primary" dashed>复制全部成功 {{ listSuccess.length }}个</n-button>
-        <n-button type="error" dashed>复制全部失败 {{ listFail.length }}个</n-button>
+        <n-button type="primary" dashed @click="copyAllSuccess">复制全部成功 {{ listSuccess.length }}个</n-button>
+        <n-button type="error" dashed @click="copyFailHandler">复制全部失败 {{ listFail.length }}个</n-button>
+        <n-button type="error" dashed @dblclick="clearLocalHandler">清除记录(双击)</n-button>
       </n-space>
       <NDataTable :data="list" :columns="columns" :scroll-x="1000">
       </NDataTable>
@@ -273,7 +244,7 @@ const columns = [
       <div w-full h-40></div>
     </div>
 
-    <pre>{{ list }}</pre>
+    <pre>{{ renderList }}</pre>
   </div>
 </template>
 

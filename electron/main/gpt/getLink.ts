@@ -4,11 +4,11 @@ import login from "../login";
 export async function getLink(options) {
 	const log = clog(options)
 	log('开始', { ident: 'gpt-link' })
-	const [page, browser] = await login.chatgpt(options)
+	const [page, browser] = await login.chatgpt({ ...options, changeUS: false })
 
 	// await page.waitForTimeout(500)
 
-	await page.waitForSelector('body > div.absolute.inset-0')
+	await page.waitForSelector('body > div.absolute.inset-0', { timeout: 0 })
 	await page.evaluate(() => {
 		const $mark = document.querySelector("body > div.absolute.inset-0")
 		if ($mark) $mark.hidden = true
