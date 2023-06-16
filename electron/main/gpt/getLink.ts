@@ -3,7 +3,7 @@ import login from "../login";
 
 export async function getLink(options) {
 	const log = clog(options)
-	log('开始', { ident: 'gpt-link' })
+	log('开始', { ident: 'gpt-link', ...options })
 	const [page, browser] = await login.chatgpt({ ...options, changeUS: false })
 
 	// await page.waitForTimeout(500)
@@ -25,7 +25,7 @@ export async function getLink(options) {
 	await page.click('.gold-new-button')
 
 	const [response] = await Promise.all([
-		page.waitForNavigation({ waitUntil: 'domcontentloaded' }),
+		page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 0 }),
 		page.evaluate((selector, searchText) => {
 			const elements = Array.from(document.querySelectorAll(selector));
 			const target = elements.find(el => el.textContent.trim() === searchText);

@@ -5,7 +5,7 @@ const options = [
     key: 'notProxy',
   },
   {
-    label: '加代理',
+    label: '加代理(port: 40000)',
     key: "proxy"
   },
 ]
@@ -13,7 +13,7 @@ const options = [
 const emits = defineEmits(['select'])
 
 const handler = (key: string) => {
-  console.log(key);
+
   emits('select', key)
 }
 

@@ -156,7 +156,7 @@ const login = {
 
     log('启动浏览器')
 
-    const { browser, page } = await browserAndPage(options)
+    const { browser, page } = await browserAndPage({ ...options, changeUS: false })
 
     log('准备进入 gpt 登录')
     await page.goto('https://platform.openai.com')
@@ -319,7 +319,7 @@ const login = {
       GPASS: options.pass
     }
 
-    const { browser, page } = await browserAndPage(options)
+    const { browser, page } = await browserAndPage({ ...options, changeUS: false })
     log('开始访问 gpt')
     await page.goto('https://chat.openai.com/auth/login')
     await page.waitForSelector('button')

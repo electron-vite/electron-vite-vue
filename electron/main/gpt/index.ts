@@ -15,7 +15,7 @@ ipcMain.handle('gpt-link', async (event, arg) => {
 	const links = []
 	for(let i = 0; i < accounts.length; i++) {
 		const [user, pass] = accounts[i]
-		const link = await getLink({ user, pass, index: i, id: user })
+		const link = await getLink({ user, pass, index: i, id: user, ...arg })
 		links.push({
 			i,
 			user,

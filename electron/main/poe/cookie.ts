@@ -1,11 +1,11 @@
 import type { Browser, Page } from 'puppeteer'
 import puppeteer from 'puppeteer-extra'
 import StealthPlugin from 'puppeteer-extra-plugin-stealth'
-import { awaitWrap, browserAndPage, browsers, clog, createPromise, statusCheck } from "../tools"
+import { browserAndPage, browsers, clog, createPromise, statusCheck } from "../tools"
 import login from '../login'
 puppeteer.use(StealthPlugin())
 
-export async function link_7day(options) {
+export async function getCookie(options) {
   console.log('options', options);
   const log = clog(options)
   log('开始', { ident: 'link_7day' })
@@ -45,30 +45,16 @@ export async function link_7day(options) {
     return
   }
 
-  const url = await getLink(options, [page, browser])
+  const cookies = await page.cookies()
+  const token = cookies.find(v => v.name === 'p-b')?.value
 
-  return url
-  if (url && options.liao) {
-    await recharge({ ...options, page, browser })
-  }
-
+  log('获取token', { result: token })
+  console.log('cookies', cookies)
   // browser.close()
   // await page.waitForTimeout(2000)
-  // browser.close()
+  browser.close()
   // const { page } = await login.poe_email(options)
 }
-
-async function test() {
-  const url = 'https://checkout.stripe.com/c/pay/cs_live_a1MXhrEYuI3qJEjw85zmuIxjFsgswafv0xlcxUGAOIeyiGJBGLA56mvRto#fidkdWxOYHwnPyd1blppbHNgWjxITDJsdEROY3Y1NjZpNTc8Q1RMU3ZTNicpJ2N3amhWYHdzYHcnP3F3cGApJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl'
-  const liao = {"bank":"4833160230060672","cvc":"04/26","date":"722","name":"Zackary Wais","address":"1200LakeshoreaveApt8G","city":"Oakland","postalCode":"94606","nation":"US"}
-  const user = 'neletegcongder@mail.com'
-
-  const { page, browser } = await browserAndPage()
-  await page.goto(url)
-  await recharge({ browser, page, user, liao })
-}
-
-// test()
 
 async function recharge(options: {
   browser: Browser,
@@ -86,12 +72,10 @@ async function recharge(options: {
     if (btn) btn.click()
   })
 
-  const isEmail = await page.evaluate((email: string) => {
+  await page.evaluate((email: string) => {
     const el: HTMLInputElement = document.querySelector('#email')
-    return !!el
+    if (el) el.value = email
   }, options.user)
-  if (isEmail) await page.type('#email', options.user)
-
 
   await page.type('#cardNumber', liao.bank)
   await page.type('#cardExpiry', liao.date)
@@ -104,15 +88,7 @@ async function recharge(options: {
   await page.waitForTimeout(1000)
   await page.click('.SubmitButton-IconContainer')
 
-  // await page.waitForTimeout(8000)
-
-  // const [error, config] = await awaitWrap(page.solveRecaptchas())
-  // if (error) {
-  //   log('充值失败', { result: '充值失败', })
-  // } else {
-  //   console.log(config)
-  //   log('充值成功', { result: '充值成功', })
-  // }
+  // await page.waitForTimeout(9000)
 
   // await page.waitForSelector('iframe')
   // let $frame = await page.$('iframe')
@@ -120,7 +96,7 @@ async function recharge(options: {
 
   // console.log('$frame', $frame)
   // // console.log('frame', frame)
-  // await frame.waitForSelector('iframe')
+  // await $frame.waitForSelector('iframe')
   // $frame = await frame.$('iframe')
   // frame = await $frame.contentFrame()
   // await frame.waitForSelector('iframe')
@@ -129,7 +105,7 @@ async function recharge(options: {
 
   // await frame.waitForSelector('#checkbox', { timeout: 0 })
   // await frame.click('#checkbox')
-  await page.waitForNavigation()
+  // await page.waitForNavigation()
   console.log('充值成功')
   log('充值成功')
 }

@@ -100,10 +100,12 @@ export async function browserAndPage (options: any = {}) {
 	const args = [
 		'--no-sandbox',
 		'--disable-setuid-sandbox',
+		'--disable-web-security',
+    '--disable-features=IsolateOrigins,site-per-process,SitePerProcess',
+    '--flag-switches-begin --disable-site-isolation-trials --flag-switches-end'
 	]
 
-	// proxy ? args.push(await proxyCommand()) : null
-	console.log(args, proxy);
+	proxy ? args.push(await proxyCommand()) : null
 	
 	// proxy ? args.push(await proxyCommand()) : ''
 

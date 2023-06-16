@@ -89,7 +89,7 @@ const listSuccess = computed(() => {
 })
 
 function copyAllSuccess() {
-  const text = listSuccess.value.map((item) => `${item.user}\n${item.result}`).join('\n\n')
+  const text = listSuccess.value.map((item, i) => `${i + 1}. ${item.user}----${item.result}`).join('\n')
   copyText(text)
 }
 
@@ -190,9 +190,26 @@ const columns = [
   }
 ]
 
-const keys = ['getLink', 'poe-result', 'gpt-link', 'gpt-result', 'gpt-batch-4.0', 'gpt-batch-4.0-result']
-function handler () {
+function getLiao() {
+  let liaoObj
+  if (liao.value) {
+    const [_1, bank, cvc, cardExpiry, name, address, city, _2, postalCode, nation] = liao.value.split('|').map(v => v.trim())
+    liaoObj = { bank, cvc, date: cardExpiry, name, address, city, postalCode, nation }
+    copy(JSON.stringify(liaoObj))
+  }
+  return liaoObj
+}
 
+function handler(proxyType, name) {
+  const isProxy = proxyType === 'proxy'
+  console.log(proxyType, name, isProxy)
+  let liaoObj
+  // if (liao.value) {
+  //   const [_1, bank, cvc, cardExpiry, name, address, city, _2, postalCode, nation] = liao.value.split('|').map(v => v.trim())
+  //   liaoObj = { bank, cvc, date: cardExpiry, name, address, city, postalCode, nation }
+  // }
+
+  ipcRenderer.invoke(name, { text: input.value, liao: liaoObj, proxy: isProxy })
 }
 
 </script>
@@ -204,24 +221,29 @@ function handler () {
       <textarea class="textarea w-full min-w-100 max-w-94vw" v-model="input" rows="20" />
 
       <p>liao：</p>
-      <NInput class="textarea w-full min-w-100 max-w-94vw" v-model:value="liao" />
+      <NSpace>
+        <NInput class="textarea w-full min-w-100 max-w-94vw" v-model:value="liao" />
+        <NButton @click="getLiao">复制</NButton>
+      </NSpace>
 
       <div>
         <div flex gap-3 mt-3 items-center>
           <span w-15>poe：</span>
-          <TheButton type="primary" dashed @click="getLink()">提取链接</TheButton>
-          <TheButton type="primary" dashed @click="getResult()">充值结果</TheButton>
-          <TheButton type="warning" dashed @click="getLink_7day()">提取链接-7天</TheButton>
+          <TheButton type="primary" dashed @select="key => handler(key, 'getLink')">提取链接</TheButton>
+          <TheButton type="primary" dashed @select="key => handler(key, 'poe-result')">充值结果</TheButton>
+          <TheButton type="warning" dashed @select="key => handler(key, 'get-poe-link-7day')">提取链接-7天</TheButton>
+          <TheButton type="warning" dashed @select="key => handler(key, 'get-poe-cookie')">获取cookie</TheButton>
         </div>
         <div flex gap-3 mt-3 items-center>
           <span w-15>gpt4.0：</span>
-          <TheButton type="primary" dashed @click="application()">申请4.0</TheButton>
-          <TheButton type="primary" dashed @click="applicationResult()">检查申请结果(mail邮箱)</TheButton>
+          <TheButton type="primary" dashed @select="key => handler(key, 'gpt-batch-4.0')">申请4.0</TheButton>
+          <TheButton type="primary" dashed @select="key => handler(key, 'gpt-batch-4.0-result')">检查申请结果(mail邮箱)
+          </TheButton>
         </div>
         <div flex gap-3 mt-3 items-center>
-          <span w-15>gpt plus：</span>
-          <NButton type="primary" dashed @click="gptLinkHandler">gpt提链</NButton>
-          <NButton type="primary" dashed @click="gptResultHandler">充值结果</NButton>
+          <span w-15 class="whitespace-nowrap">gpt plus：</span>
+          <TheButton type="primary" dashed @select="key => handler(key, 'gpt-link')">gpt提链</TheButton>
+          <TheButton type="primary" dashed @select="key => handler(key, 'gpt-result')">充值结果</TheButton>
         </div>
         <div flex gap-3 mt-3 items-center>
           <span w-15>操作：</span>
