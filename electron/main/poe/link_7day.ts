@@ -60,11 +60,11 @@ export async function link_7day(options) {
 
 async function test() {
   const url = 'https://checkout.stripe.com/c/pay/cs_live_a1MXhrEYuI3qJEjw85zmuIxjFsgswafv0xlcxUGAOIeyiGJBGLA56mvRto#fidkdWxOYHwnPyd1blppbHNgWjxITDJsdEROY3Y1NjZpNTc8Q1RMU3ZTNicpJ2N3amhWYHdzYHcnP3F3cGApJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl'
-  const liao = {"bank":"4833160230060672","cvc":"04/26","date":"722","name":"Zackary Wais","address":"1200LakeshoreaveApt8G","city":"Oakland","postalCode":"94606","nation":"US"}
+  const liao = {"bank":"4833160230060672","cvc":"727","date":"04/26","name":"Zackary Wais","address":"1200LakeshoreaveApt8G","city":"Oakland","postalCode":"94606","nation":"US"}
   const user = 'neletegcongder@mail.com'
 
   const { page, browser } = await browserAndPage()
-  await page.goto(url)
+  await page.goto(url, { waitUntil: 'domcontentloaded' })
   await recharge({ browser, page, user, liao })
 }
 

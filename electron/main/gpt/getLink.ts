@@ -21,6 +21,11 @@ export async function getLink(options) {
 	log('等待升级plus按钮出现')
 	await page.waitForTimeout(500)
 
+	await page.evaluate(() => {
+		const $mark = document.querySelector("body > div.absolute.inset-0")
+		if ($mark) $mark.remove()
+	})
+
 	log('开始点击升级plus按钮')
 	await page.click('.gold-new-button')
 

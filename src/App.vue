@@ -2,21 +2,31 @@
 import { ipcRenderer } from 'electron'
 import { NButton } from 'naive-ui'
 import { useClipboard, useLocalStorage } from '@vueuse/core'
+import Business from './Business.vue'
 
 const input = useLocalStorage('accountInput', 'pollcribracacom@mail.com-----XAxeEgy34j')
 // const input = ref('126vdsjmgyanpgqrvb@ddmvp.icu----EOJ2NgPfS')
 // const input = ref('traceetakashi6274@gmail.com----kedaraditi0214----kedaraditi4760@hotmail.com')
 
+const accountArr = computed(() => {
+  const text = input.value.split('\n').filter(Boolean).map(v => {
+    return v.split(/(——|-)+/).filter(v => !['-', '——'].includes(v))
+  })
+  return text
+})
+
 const result = ref('')
 const liao = useLocalStorage('result', '')
 
-const list = ref<any[]>([])
-const localLis = useLocalStorage('list', list)
-list.value = localLis.value
+const list = useLocalStorage('list', [] as any[])
+const listInstock = ref([] as any[])
+listInstock.value = list.value.filter(v => v.instock === true)
+
+const filterInput = ref('')
 
 const renderList = computed(() => {
   // 成功的排在前面
-  return list.value.sort((a, b) => {
+  let data = list.value.sort((a, b) => {
     if (a.type === 'success' && b.type !== 'success') {
       return -1
     } else if (a.type !== 'success' && b.type === 'success') {
@@ -24,8 +34,50 @@ const renderList = computed(() => {
     } else {
       return 0
     }
+  }).filter(v => v.instock !== true)
+
+  if (filterInput.value) {
+    data = data.filter(v => {
+      return v.user.startsWith(filterInput.value)
+    })
+  }
+
+  return data
+})
+
+
+const remainingData = computed(() => {
+  return accountArr.value.filter((item, i) => {
+    const user = item[0]
+    const target = list.value.find((v) => v.user === user)
+    if (target && target.type === 'success') {
+      return false
+    }
+    return true
   })
 })
+
+function copyRemaining() {
+  const text = remainingData.value.map(v => `${v[0]}----${v[1]}`).join('\n')
+  copyText(text)
+}
+
+const remainingColumns = [{
+  title: '序列',
+  render: (row, index) => h('span', undefined, index + 1),
+  width: 60
+},
+{
+  title: '邮箱',
+  key: '0',
+  width: 300
+},
+{
+  title: '密码',
+  key: '1',
+  width: 220
+},
+]
 
 ipcRenderer.on('progress', (event, args) => {
   const { user } = args
@@ -85,7 +137,7 @@ function gptResultHandler() {
 }
 
 const listSuccess = computed(() => {
-  return list.value.filter((item) => item.type === 'success')
+  return list.value.filter((item) => item.instock !== true && item.type === 'success')
 })
 
 function copyAllSuccess() {
@@ -103,8 +155,7 @@ function copyFailHandler() {
 }
 
 function clearLocalHandler() {
-  list.value = []
-  localLis.value = []
+  list.value = list.value.filter(v => v.instock === true)
 }
 
 const { copy } = useClipboard()
@@ -123,6 +174,8 @@ function application() {
 function applicationResult() {
   ipcRenderer.invoke('gpt-batch-4.0-result', { text: input.value })
 }
+
+const showBusiness = ref(false)
 
 const columns = [
   {
@@ -173,6 +226,12 @@ const columns = [
           ? <NButton text type="primary" onClick={() => copyText(`${row.user}\n${row.result}`)}>复制链接</NButton>
           : null
         }
+
+        {row.type === 'success'
+          ? <NButton text type="primary" onClick={() => row.instock = true}>标记入库</NButton>
+          : null
+        }
+
         {row.ident === 'poe-link' && row.type !== 'success' && !row.loading
           ? <NButton text type="primary" onClick={() => getLink(`${row.user}----${row.pass}----${row.auxiliary}`)}>再次提链</NButton>
           : null
@@ -190,13 +249,52 @@ const columns = [
   }
 ]
 
-function getLiao() {
-  let liaoObj
+const liaoColumns = [
+  {
+    key: 'bank',
+    title: '银行'
+  },
+  {
+    key: 'cvc',
+    title: 'cvc'
+  },
+  {
+    key: 'date',
+    title: '日期'
+  },
+  {
+    key: 'name',
+    title: '名字'
+  },
+  {
+    key: 'address',
+    title: '地址'
+  },
+  {
+    key: 'city',
+    title: '城市'
+  },
+  {
+    key: 'postalCode',
+    title: '邮政编码'
+  },
+  {
+    key: 'nation',
+    title: '国家'
+  }
+]
+
+const liaoData = computed(() => {
   if (liao.value) {
     const [_1, bank, cvc, cardExpiry, name, address, city, _2, postalCode, nation] = liao.value.split('|').map(v => v.trim())
-    liaoObj = { bank, cvc, date: cardExpiry, name, address, city, postalCode, nation }
-    copy(JSON.stringify(liaoObj))
+    return { bank, cvc, date: cardExpiry, name, address, city, postalCode, nation }
   }
+  return {}
+})
+
+function getLiao() {
+  let liaoObj = liaoData.value
+  copy(JSON.stringify(liaoObj))
   return liaoObj
 }
 
@@ -217,14 +315,16 @@ function handler(proxyType, name) {
 <template>
   <div>
     <div class="left" flex-1>
-      <p>帐密</p>
+      <p>帐密: {{ accountArr.length }}</p>
       <textarea class="textarea w-full min-w-100 max-w-94vw" v-model="input" rows="20" />
 
-      <p>liao：</p>
-      <NSpace>
-        <NInput class="textarea w-full min-w-100 max-w-94vw" v-model:value="liao" />
+      <div flex items-center>
+        <p>liao：</p>
+        <NInput class="textarea w-full min-w-100 max-w-94vw flex-1 mr-3" v-model:value="liao" />
         <NButton @click="getLiao">复制</NButton>
-      </NSpace>
+      </div>
+
+      <NDataTable v-if="liaoData.bank" :data="[liaoData]" :scroll-x="1000" :columns="liaoColumns" />
 
       <div>
         <div flex gap-3 mt-3 items-center>
@@ -259,14 +359,21 @@ function handler(proxyType, name) {
         <n-button type="primary" dashed @click="copyAllSuccess">复制全部成功 {{ listSuccess.length }}个</n-button>
         <n-button type="error" dashed @click="copyFailHandler">复制全部失败 {{ listFail.length }}个</n-button>
         <n-button type="error" dashed @dblclick="clearLocalHandler">清除记录(双击)</n-button>
-      </n-space>
-      <NDataTable :data="list" :columns="columns" :scroll-x="1000">
-      </NDataTable>
+        <n-button type="info" dashed @click="showBusiness = true">库存</n-button>
 
-      <div w-full h-40></div>
+        <n-input v-model:value="filterInput" clearable />
+      </n-space>
+      <NDataTable :data="renderList" :columns="columns" :scroll-x="1000" />
     </div>
 
-    <pre>{{ renderList }}</pre>
+    <div flex items-center gap-4>
+      <p>剩余：{{ remainingData.length }}</p>
+      <NButton type="primary" @click="copyRemaining">复制</NButton>
+    </div>
+    <NDataTable :data="remainingData" :columns="remainingColumns"></NDataTable>
+
+    <Business v-if="showBusiness" @close="showBusiness = false" :data="list"/>
+    <div h-10></div>
   </div>
 </template>
 

@@ -2,6 +2,8 @@ import { ipcMain } from 'electron'
 import { getLink } from './getLink'
 import { validate } from './validate'
 import { batchApplication } from './batchApplication'
+import { chunk } from 'lodash'
+import { sleep } from '../tools'
 
 const parseAccount = text => text.split('\n').filter(Boolean).map(v => {
 	v = v.split(/(——|-)+/).filter(v => !['-', '——'].includes(v))
@@ -10,18 +12,22 @@ const parseAccount = text => text.split('\n').filter(Boolean).map(v => {
 
 ipcMain.handle('gpt-link', async (event, arg) => {
   const { text } = arg
-	const accounts = parseAccount(text)
+	// 进程数
+	const processNum = 2
+	const totalArr = parseAccount(text)
+	const accounts = chunk(totalArr, Math.ceil(totalArr.length / processNum))
 
+	async function run (accounts) {
+		for(let i = 0; i < accounts.length; i++) {
+			const [user, pass] = accounts[i]
+			const link = await getLink({ user, pass, index: i, id: user, ...arg })
+			console.log('process', i, user, link)
+		}	
+	}
 	const links = []
 	for(let i = 0; i < accounts.length; i++) {
-		const [user, pass] = accounts[i]
-		const link = await getLink({ user, pass, index: i, id: user, ...arg })
-		links.push({
-			i,
-			user,
-			link
-		})
-		console.log('process', i, user, link)
+		if (i !== 0) await sleep(2000)
+		run(accounts[i])
 	}
 })
 

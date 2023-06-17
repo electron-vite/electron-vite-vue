@@ -117,7 +117,7 @@ export async function generateDescription(desIndex = 0): Promise<string> {
     url: 'https://api.openai-proxy.com/v1/chat/completions',
     method: 'post',
     headers: {
-      Authorization: `Bearer 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`
+      Authorization: `Bearer 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`
     },
     data: {
       max_tokens: 1024,

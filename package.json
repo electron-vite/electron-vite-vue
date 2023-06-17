@@ -44,6 +44,7 @@
     "axios": "^1.4.0",
     "chrome-launcher": "^0.15.2",
     "fake-useragent": "^1.0.1",
+    "lodash": "^4.17.21",
     "mockjs": "^1.1.0",
     "naive-ui": "^2.34.4",
     "proxy-chain": "^2.3.0",

@@ -326,7 +326,7 @@ const login = {
 
     // log('准备进入 google 登录页')
     const [response] = await Promise.all([
-      page.waitForNavigation({ timeout: 10000 }),
+      page.waitForNavigation({ timeout: 0 }),
       page.click('button')
     ])
     // log('已进入 google 登录页')
@@ -340,7 +340,7 @@ const login = {
     log('准备输入账号')
     await page.type('#username', env.GUSER)
     await Promise.all([
-      page.waitForNavigation(),
+      page.waitForNavigation({ timeout: 0 }),
       page.keyboard.press('Enter')
     ])
 
