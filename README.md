@@ -19,15 +19,21 @@
 🔩 Support C/C++ native addons  
 🖥 It's easy to implement multiple windows  
 
-## Quick Start
+## Quick Setup
 
 ```sh
-npm create electron-vite
+# clone the project
+git clone https://github.com/electron-vite/electron-vite-vue.git
+
+# enter the project directory
+cd electron-vite-vue
+
+# install dependency
+npm install
+
+# develop
+npm run dev
 ```
-
-<!-- [![quick-start](https://asciinema.org/a/483731.svg)](https://asciinema.org/a/483731) -->
-
-![electron-vite-vue.gif](/electron-vite-vue.gif)
 
 ## Debug
 
