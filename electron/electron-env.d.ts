@@ -6,6 +6,6 @@ declare namespace NodeJS {
     DIST_ELECTRON: string
     DIST: string
     /** /dist/ or /public/ */
-    PUBLIC: string
+    VITE_PUBLIC: string
   }
 }
