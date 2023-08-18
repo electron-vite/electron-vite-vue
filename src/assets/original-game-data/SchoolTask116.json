@@ -1,0 +1,722 @@
+[
+  {
+    "id": "10411",
+    "mapEventID": "90060",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "10412",
+    "mapEventID": "90061",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "10413",
+    "mapEventID": "90062",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "10414",
+    "mapEventID": "90063",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "10415",
+    "mapEventID": "90064",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "10416",
+    "mapEventID": "90070",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "10417",
+    "mapEventID": "90071",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "10418",
+    "mapEventID": "90072",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "10419",
+    "mapEventID": "90073",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "10420",
+    "mapEventID": "90074",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11450",
+    "mapEventID": "90080",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11451",
+    "mapEventID": "90081",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11452",
+    "mapEventID": "90082",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11453",
+    "mapEventID": "90083",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11454",
+    "mapEventID": "90084",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11350",
+    "mapEventID": "90090",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11351",
+    "mapEventID": "90091",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11352",
+    "mapEventID": "90092",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11353",
+    "mapEventID": "90093",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11354",
+    "mapEventID": "90094",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11355",
+    "mapEventID": "90100",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11356",
+    "mapEventID": "90101",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11357",
+    "mapEventID": "90102",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11358",
+    "mapEventID": "90103",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11359",
+    "mapEventID": "90104",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11360",
+    "mapEventID": "90110",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11361",
+    "mapEventID": "90111",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11362",
+    "mapEventID": "90112",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11363",
+    "mapEventID": "90113",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11364",
+    "mapEventID": "90114",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11365",
+    "mapEventID": "90120",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11366",
+    "mapEventID": "90121",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11367",
+    "mapEventID": "90122",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11368",
+    "mapEventID": "90123",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11369",
+    "mapEventID": "90124",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11370",
+    "mapEventID": "90130",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11371",
+    "mapEventID": "90131",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11372",
+    "mapEventID": "90132",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11373",
+    "mapEventID": "90133",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11374",
+    "mapEventID": "90134",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11375",
+    "mapEventID": "90140",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11376",
+    "mapEventID": "90141",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11377",
+    "mapEventID": "90142",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11378",
+    "mapEventID": "90143",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11379",
+    "mapEventID": "90144",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11380",
+    "mapEventID": "90180",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11381",
+    "mapEventID": "90180",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11382",
+    "mapEventID": "90180",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11383",
+    "mapEventID": "90180",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11384",
+    "mapEventID": "90180",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11390",
+    "mapEventID": "90170",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11391",
+    "mapEventID": "90171",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11392",
+    "mapEventID": "90172",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11393",
+    "mapEventID": "90173",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11394",
+    "mapEventID": "90174",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11395",
+    "mapEventID": "90160",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11396",
+    "mapEventID": "90161",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11397",
+    "mapEventID": "90162",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11398",
+    "mapEventID": "90163",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11399",
+    "mapEventID": "90164",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11601",
+    "mapEventID": "100131",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11602",
+    "mapEventID": "100132",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11603",
+    "mapEventID": "100133",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11604",
+    "mapEventID": "100134",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11605",
+    "mapEventID": "100135",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11606",
+    "mapEventID": "100141",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11607",
+    "mapEventID": "100142",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11608",
+    "mapEventID": "100143",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11609",
+    "mapEventID": "100144",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11610",
+    "mapEventID": "100145",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11611",
+    "mapEventID": "100151",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11612",
+    "mapEventID": "100152",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11613",
+    "mapEventID": "100153",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11614",
+    "mapEventID": "100154",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11615",
+    "mapEventID": "100155",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11616",
+    "mapEventID": "100161",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11617",
+    "mapEventID": "100162",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11618",
+    "mapEventID": "100163",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11619",
+    "mapEventID": "100164",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11620",
+    "mapEventID": "100165",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11621",
+    "mapEventID": "100171",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11622",
+    "mapEventID": "100172",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11623",
+    "mapEventID": "100173",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11624",
+    "mapEventID": "100174",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11625",
+    "mapEventID": "100175",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11626",
+    "mapEventID": "100181",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11627",
+    "mapEventID": "100182",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11628",
+    "mapEventID": "100183",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11629",
+    "mapEventID": "100184",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11630",
+    "mapEventID": "100185",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11631",
+    "mapEventID": "100191",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11632",
+    "mapEventID": "100192",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11633",
+    "mapEventID": "100193",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11634",
+    "mapEventID": "100194",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11635",
+    "mapEventID": "100195",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11636",
+    "mapEventID": "100201",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11637",
+    "mapEventID": "100202",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11638",
+    "mapEventID": "100203",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11639",
+    "mapEventID": "100204",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11640",
+    "mapEventID": "100205",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11641",
+    "mapEventID": "100211",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11642",
+    "mapEventID": "100212",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11643",
+    "mapEventID": "100213",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11644",
+    "mapEventID": "100214",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11645",
+    "mapEventID": "100215",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11646",
+    "mapEventID": "100221",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11647",
+    "mapEventID": "100222",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11648",
+    "mapEventID": "100223",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11649",
+    "mapEventID": "100224",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11650",
+    "mapEventID": "100225",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11651",
+    "mapEventID": "100231",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11652",
+    "mapEventID": "100232",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11653",
+    "mapEventID": "100233",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11654",
+    "mapEventID": "100234",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11655",
+    "mapEventID": "100235",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11656",
+    "mapEventID": "100241",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11657",
+    "mapEventID": "100242",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11658",
+    "mapEventID": "100243",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11659",
+    "mapEventID": "100244",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11660",
+    "mapEventID": "100245",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "32001",
+    "lastType": "0",
+    "startType": "1",
+    "endType": "1",
+    "interval": "250",
+    "lerp": "1",
+    "mulUseSkill": "1"
+  },
+  {
+    "id": "32002",
+    "lastType": "0",
+    "startType": "1",
+    "endType": "1",
+    "interval": "250",
+    "lerp": "1",
+    "mulUseSkill": "0"
+  },
+  {
+    "id": "32003",
+    "lastType": "0",
+    "startType": "1",
+    "endType": "1",
+    "interval": "200",
+    "lerp": "0",
+    "mulUseSkill": "0"
+  },
+  {
+    "id": "32004",
+    "lastType": "0",
+    "startType": "1",
+    "endType": "1",
+    "interval": "700",
+    "lerp": "1",
+    "mulUseSkill": "0"
+  },
+  {
+    "id": "32005",
+    "lastType": "0",
+    "startType": "1",
+    "endType": "1",
+    "interval": "500",
+    "lerp": "1",
+    "mulUseSkill": "0"
+  },
+  {
+    "id": "32006",
+    "lastType": "0",
+    "startType": "1",
+    "endType": "1",
+    "interval": "100",
+    "lerp": "4",
+    "mulUseSkill": "0"
+  },
+  {
+    "id": "32007",
+    "lastType": "0",
+    "startType": "1",
+    "endType": "1",
+    "interval": "500",
+    "lerp": "1.5",
+    "mulUseSkill": "0"
+  },
+  {
+    "id": "32008",
+    "lastType": "0",
+    "startType": "1",
+    "endType": "1",
+    "interval": "500",
+    "lerp": "1",
+    "mulUseSkill": "0"
+  },
+  {
+    "id": "32009",
+    "lastType": "1",
+    "startType": "1",
+    "endType": "1",
+    "interval": "&72141_shjg",
+    "lerp": "0",
+    "mulUseSkill": "0"
+  },
+  {
+    "id": "32010",
+    "lastType": "1",
+    "startType": "0",
+    "endType": "1",
+    "interval": "500",
+    "lerp": "1",
+    "mulUseSkill": "0"
+  },
+  {
+    "id": "32011",
+    "lastType": "0",
+    "startType": "1",
+    "endType": "1",
+    "interval": "&int_1000|/710006_qccs|f0",
+    "lerp": "0",
+    "mulUseSkill": "1"
+  },
+  {
+    "id": "32012",
+    "lastType": "1",
+    "startType": "1",
+    "endType": "1",
+    "interval": "250",
+    "lerp": "0",
+    "mulUseSkill": "0"
+  }
+]

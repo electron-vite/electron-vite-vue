@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "npcId": "6091",
+    "skillBaseID": "24113",
+    "phycicalDmg": "&24113_zjwl",
+    "weaponType": "-99",
+    "magicDmg": "-99",
+    "magicType": "-99",
+    "missileID": "241131",
+    "shotCD": "-99",
+    "skillEffect": "-99",
+    "offsetPosi": "-99",
+    "skillSub": "241131"
+  },
+  {
+    "id": "2",
+    "npcId": "6089",
+    "skillBaseID": "56111",
+    "phycicalDmg": "-99",
+    "weaponType": "-99",
+    "magicDmg": "-99",
+    "magicType": "-99",
+    "missileID": "561112",
+    "shotCD": "-99",
+    "skillEffect": "3561111|3561114",
+    "offsetPosi": "-99",
+    "skillSub": "561112|561113"
+  },
+  {
+    "id": "3",
+    "npcId": "6097",
+    "skillBaseID": "51111",
+    "phycicalDmg": "-99",
+    "weaponType": "-99",
+    "magicDmg": "&51111_hfwl",
+    "magicType": "-99",
+    "missileID": "511111",
+    "shotCD": "-99",
+    "skillEffect": "-99",
+    "offsetPosi": "-99",
+    "skillSub": "511111"
+  },
+  {
+    "id": "4",
+    "npcId": "6090",
+    "skillBaseID": "55115",
+    "phycicalDmg": "-99",
+    "weaponType": "-99",
+    "magicDmg": "-99",
+    "magicType": "-99",
+    "missileID": "551151",
+    "shotCD": "-99",
+    "skillEffect": "-99",
+    "offsetPosi": "-99",
+    "skillSub": "0"
+  }
+]

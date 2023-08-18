@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "key": "searchRange",
+    "value": "5"
+  },
+  {
+    "id": "2",
+    "key": "basAddRange",
+    "value": "1000000"
+  }
+]

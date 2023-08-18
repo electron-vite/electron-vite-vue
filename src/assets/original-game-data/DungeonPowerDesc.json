@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "powerTimes": "0",
+    "desc": "dungeon_power_desc1"
+  },
+  {
+    "id": "2",
+    "powerTimes": "3",
+    "desc": "dungeon_power_desc2"
+  },
+  {
+    "id": "3",
+    "powerTimes": "5",
+    "desc": "dungeon_power_desc3"
+  },
+  {
+    "id": "4",
+    "powerTimes": "7",
+    "desc": "dungeon_power_desc4"
+  },
+  {
+    "id": "5",
+    "powerTimes": "10",
+    "desc": "dungeon_power_desc5"
+  }
+]

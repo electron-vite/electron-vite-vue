@@ -1,0 +1,74 @@
+[
+  {
+    "id": "901001",
+    "degree": "15",
+    "bulletNum": "36",
+    "shotCD": "25",
+    "wave": "1",
+    "interval": "0"
+  },
+  {
+    "id": "901002",
+    "degree": "25",
+    "bulletNum": "36",
+    "shotCD": "25",
+    "wave": "1",
+    "interval": "0"
+  },
+  {
+    "id": "901003",
+    "degree": "25",
+    "bulletNum": "9",
+    "shotCD": "20",
+    "wave": "1",
+    "interval": "0"
+  },
+  {
+    "id": "901004",
+    "degree": "0",
+    "bulletNum": "5",
+    "shotCD": "120",
+    "wave": "1",
+    "interval": "0"
+  },
+  {
+    "id": "901005",
+    "degree": "&22115_ddjd",
+    "bulletNum": "&22115_ddsl",
+    "shotCD": "20",
+    "wave": "1",
+    "interval": "0"
+  },
+  {
+    "id": "901006",
+    "degree": "&22116_ddjd",
+    "bulletNum": "&22116_ddsl",
+    "shotCD": "20",
+    "wave": "1",
+    "interval": "0"
+  },
+  {
+    "id": "901007",
+    "degree": "&26111_ddjd",
+    "bulletNum": "&26111_ddsl",
+    "shotCD": "&26111_fsjg",
+    "wave": "1",
+    "interval": "0"
+  },
+  {
+    "id": "901008",
+    "degree": "120",
+    "bulletNum": "25",
+    "shotCD": "10",
+    "wave": "1",
+    "interval": "0"
+  },
+  {
+    "id": "901009",
+    "degree": "45",
+    "bulletNum": "25",
+    "shotCD": "40",
+    "wave": "1",
+    "interval": "0"
+  }
+]

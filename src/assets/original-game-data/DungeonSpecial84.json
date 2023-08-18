@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "key": "fixedMoveSpeed",
+    "value": "500"
+  },
+  {
+    "id": "2",
+    "key": "bossFocusDelay",
+    "value": "1000"
+  },
+  {
+    "id": "3",
+    "key": "bossFocusSpeed",
+    "value": "10"
+  },
+  {
+    "id": "4",
+    "key": "drama1",
+    "value": "2230001"
+  },
+  {
+    "id": "5",
+    "key": "drama1Delay",
+    "value": "1000"
+  },
+  {
+    "id": "6",
+    "key": "drama2",
+    "value": "2230061"
+  },
+  {
+    "id": "7",
+    "key": "drama2Delay",
+    "value": "1000"
+  },
+  {
+    "id": "8",
+    "key": "bossEnterAnimDuration",
+    "value": "6500"
+  },
+  {
+    "id": "9",
+    "key": "createExitPassDelay",
+    "value": "1000"
+  },
+  {
+    "id": "10",
+    "key": "drama3Condition",
+    "value": "dialogue_2210231_0"
+  },
+  {
+    "id": "11",
+    "key": "drama3Function",
+    "value": "callDrama_2270000"
+  },
+  {
+    "id": "12",
+    "key": "drama4",
+    "value": "2230004"
+  },
+  {
+    "id": "13",
+    "key": "drama4Delay",
+    "value": "500"
+  }
+]

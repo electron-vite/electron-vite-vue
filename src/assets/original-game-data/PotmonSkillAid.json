@@ -1,0 +1,1132 @@
+[
+  {
+    "id": "100011",
+    "aidSkill": "10001|10002|10004",
+    "triggerRate": "9500",
+    "addRate": "1000",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "100012",
+    "aidSkill": "10001|10002|10004",
+    "triggerRate": "9500",
+    "addRate": "2000",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "100013",
+    "aidSkill": "10001|10002|10004",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100014",
+    "aidSkill": "10001|10002|10004",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "40",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100111",
+    "aidSkill": "10011|10012|10014",
+    "triggerRate": "9500",
+    "addRate": "1000",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "100112",
+    "aidSkill": "10011|10012|10014",
+    "triggerRate": "9500",
+    "addRate": "2000",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "100113",
+    "aidSkill": "10011|10012|10014",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100114",
+    "aidSkill": "10011|10012|10014",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "40",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100115",
+    "aidSkill": "10011|10012|10014",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "1",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100116",
+    "aidSkill": "10011|10012|10014",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "2",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100211",
+    "aidSkill": "10021|10022|10023",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "100212",
+    "aidSkill": "10021|10022|10023",
+    "triggerRate": "9500",
+    "addRate": "300",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "100213",
+    "aidSkill": "10021|10022|10023",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100214",
+    "aidSkill": "10021|10022|10023",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "40",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100311",
+    "aidSkill": "10031|10032|10033|10034",
+    "triggerRate": "9500",
+    "addRate": "500",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "100312",
+    "aidSkill": "10031|10032|10033|10034",
+    "triggerRate": "9500",
+    "addRate": "1000",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "100313",
+    "aidSkill": "10031|10032|10033|10034",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100314",
+    "aidSkill": "10031|10032|10033|10034",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "40",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100411",
+    "aidSkill": "10041|10042|10043|10044|10045",
+    "triggerRate": "9500",
+    "addRate": "800",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "100412",
+    "aidSkill": "10041|10042|10043|10044|10045",
+    "triggerRate": "9500",
+    "addRate": "1500",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "100413",
+    "aidSkill": "10041|10042|10043|10044|10045",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100414",
+    "aidSkill": "10041|10042|10043|10044|10045",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "40",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100511",
+    "aidSkill": "10051|10052|10053|10054|10055",
+    "triggerRate": "9500",
+    "addRate": "800",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "100512",
+    "aidSkill": "10051|10052|10053|10054|10055",
+    "triggerRate": "9500",
+    "addRate": "1500",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "100513",
+    "aidSkill": "10051|10052|10053|10054|10055",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100514",
+    "aidSkill": "10051|10052|10053|10054|10055",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "40",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100611",
+    "aidSkill": "10061",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "100612",
+    "aidSkill": "10061",
+    "triggerRate": "9500",
+    "addRate": "300",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "100613",
+    "aidSkill": "10061",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100614",
+    "aidSkill": "10061",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "40",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100711",
+    "aidSkill": "10071",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "100712",
+    "aidSkill": "10071",
+    "triggerRate": "9500",
+    "addRate": "300",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "100713",
+    "aidSkill": "10071",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100714",
+    "aidSkill": "10071",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "40",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100811",
+    "aidSkill": "10081",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "100812",
+    "aidSkill": "10081",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "100911",
+    "aidSkill": "10091",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "100912",
+    "aidSkill": "10091",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "101011",
+    "aidSkill": "10101",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "101012",
+    "aidSkill": "10101",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "101111",
+    "aidSkill": "10111",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "101112",
+    "aidSkill": "10111",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "101211",
+    "aidSkill": "10121",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "101212",
+    "aidSkill": "10121",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "101311",
+    "aidSkill": "10131|10132|10133",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "101312",
+    "aidSkill": "10131|10132|10133",
+    "triggerRate": "9500",
+    "addRate": "300",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "101313",
+    "aidSkill": "10131|10132|10133",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "101314",
+    "aidSkill": "10131|10132|10133",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "40",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "101411",
+    "aidSkill": "10141",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "101511",
+    "aidSkill": "10151|10152|10153|10154|10155",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "101512",
+    "aidSkill": "10151|10152|10153|10154|10155",
+    "triggerRate": "9500",
+    "addRate": "200",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "101513",
+    "aidSkill": "10151|10152|10153|10154|10155",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "101514",
+    "aidSkill": "10151|10152|10153|10154|10155",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "40",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "101611",
+    "aidSkill": "10161|10162|10163|10164|10165",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "101612",
+    "aidSkill": "10161|10162|10163|10164|10165",
+    "triggerRate": "9500",
+    "addRate": "200",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "101613",
+    "aidSkill": "10161|10162|10163|10164|10165",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "101614",
+    "aidSkill": "10161|10162|10163|10164|10165",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "40",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "101711",
+    "aidSkill": "10171|10172|10173|10174|10175",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "101712",
+    "aidSkill": "10171|10172|10173|10174|10175",
+    "triggerRate": "9500",
+    "addRate": "200",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "101713",
+    "aidSkill": "10171|10172|10173|10174|10175",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "101714",
+    "aidSkill": "10171|10172|10173|10174|10175",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "40",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "101811",
+    "aidSkill": "10181|10182|10183|10184|10185",
+    "triggerRate": "9500",
+    "addRate": "100",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "101812",
+    "aidSkill": "10181|10182|10183|10184|10185",
+    "triggerRate": "9500",
+    "addRate": "200",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "101813",
+    "aidSkill": "10181|10182|10183|10184|10185",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "20",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "101814",
+    "aidSkill": "10181|10182|10183|10184|10185",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "40",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102011",
+    "aidSkill": "10201|10202|10203",
+    "triggerRate": "9500",
+    "addRate": "10",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "102012",
+    "aidSkill": "10201|10202|10203",
+    "triggerRate": "9500",
+    "addRate": "20",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "102013",
+    "aidSkill": "10201|10202|10203",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "2",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102014",
+    "aidSkill": "10201|10202|10203",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "1",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102111",
+    "aidSkill": "10211|10212|10213",
+    "triggerRate": "9500",
+    "addRate": "10",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "102112",
+    "aidSkill": "10211|10212|10213",
+    "triggerRate": "9500",
+    "addRate": "20",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "102113",
+    "aidSkill": "10211|10212|10213",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "2",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102114",
+    "aidSkill": "10211|10212|10213",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "1",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102211",
+    "aidSkill": "10221|10222|10223",
+    "triggerRate": "9500",
+    "addRate": "10",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "102212",
+    "aidSkill": "10221|10222|10223",
+    "triggerRate": "9500",
+    "addRate": "20",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "102213",
+    "aidSkill": "10221|10222|10223",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "2",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102214",
+    "aidSkill": "10221|10222|10223",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "1",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102311",
+    "aidSkill": "10231|10232|10233",
+    "triggerRate": "9500",
+    "addRate": "10",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "102312",
+    "aidSkill": "10231|10232|10233",
+    "triggerRate": "9500",
+    "addRate": "20",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "102313",
+    "aidSkill": "10231|10232|10233",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "2",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102314",
+    "aidSkill": "10231|10232|10233",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "1",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102411",
+    "aidSkill": "10241|10242|10243",
+    "triggerRate": "9500",
+    "addRate": "10",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "102412",
+    "aidSkill": "10241|10242|10243",
+    "triggerRate": "9500",
+    "addRate": "20",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "102413",
+    "aidSkill": "10241|10242|10243",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "2",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102414",
+    "aidSkill": "10241|10242|10243",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "1",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102511",
+    "aidSkill": "10251|10252|10253",
+    "triggerRate": "9500",
+    "addRate": "10",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "102512",
+    "aidSkill": "10251|10252|10253",
+    "triggerRate": "9500",
+    "addRate": "20",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "102513",
+    "aidSkill": "10251|10252|10253",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "2",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102514",
+    "aidSkill": "10251|10252|10253",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "1",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102611",
+    "aidSkill": "10261|10262|10263",
+    "triggerRate": "9500",
+    "addRate": "10",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "102612",
+    "aidSkill": "10261|10262|10263",
+    "triggerRate": "9500",
+    "addRate": "20",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "102613",
+    "aidSkill": "10261|10262|10263",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "2",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102614",
+    "aidSkill": "10261|10262|10263",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "1",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102711",
+    "aidSkill": "10271|10272|10273",
+    "triggerRate": "9500",
+    "addRate": "10",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "102712",
+    "aidSkill": "10271|10272|10273",
+    "triggerRate": "9500",
+    "addRate": "20",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "102713",
+    "aidSkill": "10271|10272|10273",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "2",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102714",
+    "aidSkill": "10271|10272|10273",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "1",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102811",
+    "aidSkill": "10281|10282|10283",
+    "triggerRate": "9500",
+    "addRate": "10",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "102812",
+    "aidSkill": "10281|10282|10283",
+    "triggerRate": "9500",
+    "addRate": "20",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "102813",
+    "aidSkill": "10281|10282|10283",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "2",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102814",
+    "aidSkill": "10281|10282|10283",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "1",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102911",
+    "aidSkill": "10291|10292|10293",
+    "triggerRate": "9500",
+    "addRate": "10",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "102912",
+    "aidSkill": "10291|10292|10293",
+    "triggerRate": "9500",
+    "addRate": "20",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "102913",
+    "aidSkill": "10291|10292|10293",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "2",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "102914",
+    "aidSkill": "10291|10292|10293",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "1",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "103011",
+    "aidSkill": "10301|10302|10303",
+    "triggerRate": "9500",
+    "addRate": "10",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "103012",
+    "aidSkill": "10301|10302|10303",
+    "triggerRate": "9500",
+    "addRate": "20",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "103013",
+    "aidSkill": "10301|10302|10303",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "2",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "103014",
+    "aidSkill": "10301|10302|10303",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "1",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "103111",
+    "aidSkill": "10311|10312|10313",
+    "triggerRate": "9500",
+    "addRate": "10",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "1"
+  },
+  {
+    "id": "103112",
+    "aidSkill": "10311|10312|10313",
+    "triggerRate": "9500",
+    "addRate": "20",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "0",
+    "decreaseSkillCD": "2"
+  },
+  {
+    "id": "103113",
+    "aidSkill": "10311|10312|10313",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "2",
+    "decreaseSkillCD": "0"
+  },
+  {
+    "id": "103114",
+    "aidSkill": "10311|10312|10313",
+    "triggerRate": "9500",
+    "addRate": "0",
+    "addCountRate": "0",
+    "fixOutputLevel": "0",
+    "fixMartialColor": "1",
+    "decreaseSkillCD": "0"
+  }
+]

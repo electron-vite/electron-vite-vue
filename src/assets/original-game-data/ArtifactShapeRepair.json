@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "key": "costDurable",
+    "value": "2"
+  },
+  {
+    "id": "2",
+    "key": "breakDurableMin",
+    "value": "15"
+  },
+  {
+    "id": "3",
+    "key": "breakDurableMax",
+    "value": "20"
+  }
+]

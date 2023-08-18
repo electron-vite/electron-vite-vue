@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "materialNum": "10",
+    "mixedRequire": "300",
+    "repairItem": "5201101",
+    "repairNum": "1",
+    "costMoney": "500"
+  },
+  {
+    "id": "2",
+    "materialNum": "15",
+    "mixedRequire": "300",
+    "repairItem": "5201101",
+    "repairNum": "2",
+    "costMoney": "800"
+  },
+  {
+    "id": "3",
+    "materialNum": "20",
+    "mixedRequire": "400",
+    "repairItem": "5201101",
+    "repairNum": "3",
+    "costMoney": "1200"
+  },
+  {
+    "id": "4",
+    "materialNum": "25",
+    "mixedRequire": "400",
+    "repairItem": "5201101",
+    "repairNum": "4",
+    "costMoney": "2000"
+  },
+  {
+    "id": "5",
+    "materialNum": "30",
+    "mixedRequire": "400",
+    "repairItem": "5201101",
+    "repairNum": "5",
+    "costMoney": "3500"
+  },
+  {
+    "id": "6",
+    "materialNum": "40",
+    "mixedRequire": "500",
+    "repairItem": "5201101",
+    "repairNum": "6",
+    "costMoney": "6500"
+  },
+  {
+    "id": "7",
+    "materialNum": "50",
+    "mixedRequire": "500",
+    "repairItem": "5201101",
+    "repairNum": "7",
+    "costMoney": "12500"
+  },
+  {
+    "id": "8",
+    "materialNum": "60",
+    "mixedRequire": "500",
+    "repairItem": "5201101",
+    "repairNum": "8",
+    "costMoney": "25000"
+  },
+  {
+    "id": "9",
+    "materialNum": "70",
+    "mixedRequire": "600",
+    "repairItem": "5201101",
+    "repairNum": "9",
+    "costMoney": "50000"
+  },
+  {
+    "id": "10",
+    "materialNum": "80",
+    "mixedRequire": "600",
+    "repairItem": "5201101",
+    "repairNum": "10",
+    "costMoney": "100000"
+  }
+]

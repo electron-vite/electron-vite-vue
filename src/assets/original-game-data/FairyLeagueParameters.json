@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "key": "fairyLeagueCreatePoint",
+    "value": "30150"
+  },
+  {
+    "id": "2",
+    "key": "school1CreatePos",
+    "value": "23143"
+  },
+  {
+    "id": "3",
+    "key": "school2CreatePos",
+    "value": "12147"
+  },
+  {
+    "id": "4",
+    "key": "school3CreatePos",
+    "value": "17155"
+  },
+  {
+    "id": "5",
+    "key": "school4CreatePos",
+    "value": "18168"
+  },
+  {
+    "id": "6",
+    "key": "school5CreatePos",
+    "value": "30164"
+  },
+  {
+    "id": "7",
+    "key": "school6CreatePos",
+    "value": "46155"
+  },
+  {
+    "id": "8",
+    "key": "fairyLeagueMovePoint",
+    "value": "50130"
+  },
+  {
+    "id": "9",
+    "key": "school1MovePos",
+    "value": "60135"
+  },
+  {
+    "id": "10",
+    "key": "school2MovePos",
+    "value": "55145"
+  },
+  {
+    "id": "11",
+    "key": "school3MovePos",
+    "value": "37122"
+  },
+  {
+    "id": "12",
+    "key": "school4MovePos",
+    "value": "10128"
+  },
+  {
+    "id": "13",
+    "key": "school5MovePos",
+    "value": "21116"
+  },
+  {
+    "id": "14",
+    "key": "school6MovePos",
+    "value": "29118"
+  },
+  {
+    "id": "15",
+    "key": "fairyLeagueWeight",
+    "value": "5"
+  },
+  {
+    "id": "16",
+    "key": "fairyLeagueHight",
+    "value": "5"
+  },
+  {
+    "id": "17",
+    "key": "schoolWeight",
+    "value": "5"
+  },
+  {
+    "id": "18",
+    "key": "schoolHight",
+    "value": "5"
+  },
+  {
+    "id": "19",
+    "key": "buildMinDis",
+    "value": "5"
+  },
+  {
+    "id": "20",
+    "key": "xingtianFieldCondition",
+    "value": "grade_0_10_10"
+  },
+  {
+    "id": "21",
+    "key": "xingtianFieldDrama",
+    "value": "2021230"
+  },
+  {
+    "id": "22",
+    "key": "firstDefenseLineCondition",
+    "value": "dialogue_2115452_1"
+  },
+  {
+    "id": "23",
+    "key": "firstDefenseLineDrama",
+    "value": "2021200"
+  },
+  {
+    "id": "24",
+    "key": "secondDefenseLineCondition",
+    "value": "dialogue_2117418_1"
+  },
+  {
+    "id": "25",
+    "key": "secondDefenseLineDrama",
+    "value": "2021210"
+  },
+  {
+    "id": "26",
+    "key": "firstMeetFirstDefense",
+    "value": "9012041"
+  }
+]

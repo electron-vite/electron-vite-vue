@@ -1,0 +1,156 @@
+[
+  {
+    "id": "36001",
+    "bulletNum": "1",
+    "bulletDistance": "50",
+    "targetType": "0",
+    "targetOffsetPosi": "0",
+    "destroyType": "1",
+    "rangeMin": "100",
+    "warnEffect": "0",
+    "warnSize": "0"
+  },
+  {
+    "id": "36002",
+    "bulletNum": "&17112_ddsl",
+    "bulletDistance": "80",
+    "targetType": "0",
+    "targetOffsetPosi": "0",
+    "destroyType": "0",
+    "rangeMin": "100",
+    "warnEffect": "0",
+    "warnSize": "0"
+  },
+  {
+    "id": "36003",
+    "bulletNum": "1",
+    "bulletDistance": "0",
+    "targetType": "0",
+    "targetOffsetPosi": "0",
+    "destroyType": "1",
+    "rangeMin": "100",
+    "warnEffect": "0",
+    "warnSize": "0"
+  },
+  {
+    "id": "36004",
+    "bulletNum": "1",
+    "bulletDistance": "0",
+    "targetType": "0",
+    "targetOffsetPosi": "0",
+    "destroyType": "2",
+    "rangeMin": "100",
+    "warnEffect": "0",
+    "warnSize": "0"
+  },
+  {
+    "id": "36005",
+    "bulletNum": "1",
+    "bulletDistance": "30",
+    "targetType": "0",
+    "targetOffsetPosi": "0",
+    "destroyType": "1",
+    "rangeMin": "100",
+    "warnEffect": "0",
+    "warnSize": "0"
+  },
+  {
+    "id": "36006",
+    "bulletNum": "1",
+    "bulletDistance": "30",
+    "targetType": "0",
+    "targetOffsetPosi": "0",
+    "destroyType": "2",
+    "rangeMin": "100",
+    "warnEffect": "0",
+    "warnSize": "0"
+  },
+  {
+    "id": "36007",
+    "bulletNum": "1",
+    "bulletDistance": "30",
+    "targetType": "0",
+    "targetOffsetPosi": "0",
+    "destroyType": "1",
+    "rangeMin": "100",
+    "warnEffect": "0",
+    "warnSize": "0"
+  },
+  {
+    "id": "36008",
+    "bulletNum": "&14113_ddsl",
+    "bulletDistance": "&14113_ddjg",
+    "targetType": "1",
+    "targetOffsetPosi": "0",
+    "destroyType": "0",
+    "rangeMin": "100",
+    "warnEffect": "0",
+    "warnSize": "0"
+  },
+  {
+    "id": "36009",
+    "bulletNum": "1",
+    "bulletDistance": "0",
+    "targetType": "0",
+    "targetOffsetPosi": "0",
+    "destroyType": "1",
+    "rangeMin": "100",
+    "warnEffect": "0",
+    "warnSize": "0"
+  },
+  {
+    "id": "36010",
+    "bulletNum": "1",
+    "bulletDistance": "0",
+    "targetType": "0",
+    "targetOffsetPosi": "250",
+    "destroyType": "1",
+    "rangeMin": "0",
+    "warnEffect": "yujingyuan",
+    "warnSize": "200"
+  },
+  {
+    "id": "36011",
+    "bulletNum": "1",
+    "bulletDistance": "0",
+    "targetType": "0",
+    "targetOffsetPosi": "100",
+    "destroyType": "1",
+    "rangeMin": "0",
+    "warnEffect": "yujingyuan",
+    "warnSize": "100"
+  },
+  {
+    "id": "36012",
+    "bulletNum": "1",
+    "bulletDistance": "10",
+    "targetType": "0",
+    "targetOffsetPosi": "150",
+    "destroyType": "2",
+    "rangeMin": "100",
+    "warnEffect": "0",
+    "warnSize": "0"
+  },
+  {
+    "id": "36013",
+    "bulletNum": "&8110121_ybsl",
+    "bulletDistance": "&8110121_ybjj",
+    "targetType": "0",
+    "targetOffsetPosi": "0",
+    "destroyType": "2",
+    "rangeMin": "0",
+    "warnEffect": "0",
+    "warnSize": "0"
+  },
+  {
+    "id": "36014",
+    "bulletNum": "6",
+    "bulletDistance": "0",
+    "targetType": "0",
+    "targetOffsetPosi": "100",
+    "destroyType": "1",
+    "rangeMin": "0",
+    "warnEffect": "yujingyuan",
+    "warnSize": "100"
+  }
+]

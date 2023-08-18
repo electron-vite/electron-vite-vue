@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "key": "fixedMoveSpeed",
+    "value": "500"
+  },
+  {
+    "id": "2",
+    "key": "createBossDelay",
+    "value": "1000"
+  },
+  {
+    "id": "3",
+    "key": "drama1",
+    "value": "2220001"
+  },
+  {
+    "id": "4",
+    "key": "drama1Delay",
+    "value": "1000"
+  },
+  {
+    "id": "5",
+    "key": "drama2",
+    "value": "2220041"
+  },
+  {
+    "id": "6",
+    "key": "drama2Delay",
+    "value": "1000"
+  },
+  {
+    "id": "7",
+    "key": "enterFocusCamSpd",
+    "value": "40"
+  },
+  {
+    "id": "8",
+    "key": "enterFocusDuration",
+    "value": "2000"
+  },
+  {
+    "id": "9",
+    "key": "bossEnterAnimDuration",
+    "value": "3500"
+  }
+]

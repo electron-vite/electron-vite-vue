@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "item": "5181101",
+    "num": "300",
+    "upgradeItem": "5211101",
+    "upgradeNum": "6",
+    "costMoney": "2500",
+    "attrReduce": "95",
+    "materialArea": "4"
+  },
+  {
+    "id": "2",
+    "item": "5181101",
+    "num": "300",
+    "upgradeItem": "5211101",
+    "upgradeNum": "9",
+    "costMoney": "3500",
+    "attrReduce": "95",
+    "materialArea": "4"
+  },
+  {
+    "id": "3",
+    "item": "5181101",
+    "num": "300",
+    "upgradeItem": "5211101",
+    "upgradeNum": "12",
+    "costMoney": "6000",
+    "attrReduce": "95",
+    "materialArea": "4"
+  },
+  {
+    "id": "4",
+    "item": "5181201",
+    "num": "300",
+    "upgradeItem": "5211101",
+    "upgradeNum": "15",
+    "costMoney": "10000",
+    "attrReduce": "95",
+    "materialArea": "6"
+  },
+  {
+    "id": "5",
+    "item": "5181201",
+    "num": "300",
+    "upgradeItem": "5211101",
+    "upgradeNum": "18",
+    "costMoney": "20000",
+    "attrReduce": "95",
+    "materialArea": "6"
+  },
+  {
+    "id": "6",
+    "item": "5181301",
+    "num": "300",
+    "upgradeItem": "5211101",
+    "upgradeNum": "21",
+    "costMoney": "40000",
+    "attrReduce": "95",
+    "materialArea": "8"
+  },
+  {
+    "id": "7",
+    "item": "5181301",
+    "num": "300",
+    "upgradeItem": "5211101",
+    "upgradeNum": "24",
+    "costMoney": "80000",
+    "attrReduce": "95",
+    "materialArea": "8"
+  },
+  {
+    "id": "8",
+    "item": "5181401",
+    "num": "300",
+    "upgradeItem": "5211101",
+    "upgradeNum": "27",
+    "costMoney": "150000",
+    "attrReduce": "95",
+    "materialArea": "10"
+  },
+  {
+    "id": "9",
+    "item": "5181401",
+    "num": "300",
+    "upgradeItem": "5211101",
+    "upgradeNum": "30",
+    "costMoney": "300000",
+    "attrReduce": "95",
+    "materialArea": "10"
+  },
+  {
+    "id": "10",
+    "item": "5181401",
+    "num": "300",
+    "upgradeItem": "5211101",
+    "upgradeNum": "30",
+    "costMoney": "300000",
+    "attrReduce": "95",
+    "materialArea": "10"
+  }
+]

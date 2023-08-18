@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "npcId": "6091",
+    "skillAttackID": "24113",
+    "name": "SpecificSkillAttackName6091",
+    "icon": "zhudongxf_48",
+    "desc": "SpecificSkillAttackDesc6091"
+  },
+  {
+    "id": "2",
+    "npcId": "6089",
+    "skillAttackID": "56111",
+    "name": "SpecificSkillAttackName6089",
+    "icon": "haotianyan_85",
+    "desc": "SpecificSkillAttackDesc6089"
+  },
+  {
+    "id": "3",
+    "npcId": "6097",
+    "skillAttackID": "51111",
+    "name": "SpecificSkillAttackName6097",
+    "icon": "zhudongxf_31",
+    "desc": "SpecificSkillAttackDesc6097"
+  },
+  {
+    "id": "4",
+    "npcId": "6090",
+    "skillAttackID": "55115",
+    "name": "SpecificSkillAttackName6090",
+    "icon": "zhudongxf_31",
+    "desc": "SpecificSkillAttackDesc6090"
+  }
+]

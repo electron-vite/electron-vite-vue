@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1",
+    "grade": "1",
+    "phase": "1",
+    "gradeId": "1",
+    "monstLevel": "3",
+    "exp": "0",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "2",
+    "grade": "1",
+    "phase": "2",
+    "gradeId": "2",
+    "monstLevel": "4",
+    "exp": "3000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "3",
+    "grade": "1",
+    "phase": "3",
+    "gradeId": "3",
+    "monstLevel": "5",
+    "exp": "5000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "4",
+    "grade": "2",
+    "phase": "1",
+    "gradeId": "6",
+    "monstLevel": "8",
+    "exp": "8000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "5",
+    "grade": "2",
+    "phase": "2",
+    "gradeId": "7",
+    "monstLevel": "9",
+    "exp": "11000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "6",
+    "grade": "2",
+    "phase": "3",
+    "gradeId": "8",
+    "monstLevel": "10",
+    "exp": "14000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "7",
+    "grade": "3",
+    "phase": "1",
+    "gradeId": "9",
+    "monstLevel": "13",
+    "exp": "18000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "8",
+    "grade": "3",
+    "phase": "2",
+    "gradeId": "10",
+    "monstLevel": "14",
+    "exp": "22000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "9",
+    "grade": "3",
+    "phase": "3",
+    "gradeId": "11",
+    "monstLevel": "15",
+    "exp": "26000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "10",
+    "grade": "4",
+    "phase": "1",
+    "gradeId": "16",
+    "monstLevel": "18",
+    "exp": "30000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "11",
+    "grade": "4",
+    "phase": "2",
+    "gradeId": "17",
+    "monstLevel": "19",
+    "exp": "35000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "12",
+    "grade": "4",
+    "phase": "3",
+    "gradeId": "18",
+    "monstLevel": "20",
+    "exp": "40000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "13",
+    "grade": "5",
+    "phase": "1",
+    "gradeId": "19",
+    "monstLevel": "23",
+    "exp": "45000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "14",
+    "grade": "5",
+    "phase": "2",
+    "gradeId": "20",
+    "monstLevel": "24",
+    "exp": "51000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "15",
+    "grade": "5",
+    "phase": "3",
+    "gradeId": "21",
+    "monstLevel": "25",
+    "exp": "57000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "16",
+    "grade": "6",
+    "phase": "1",
+    "gradeId": "24",
+    "monstLevel": "28",
+    "exp": "63000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "17",
+    "grade": "6",
+    "phase": "2",
+    "gradeId": "25",
+    "monstLevel": "29",
+    "exp": "71000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "18",
+    "grade": "6",
+    "phase": "3",
+    "gradeId": "26",
+    "monstLevel": "30",
+    "exp": "79000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "19",
+    "grade": "7",
+    "phase": "1",
+    "gradeId": "27",
+    "monstLevel": "33",
+    "exp": "88000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "20",
+    "grade": "7",
+    "phase": "2",
+    "gradeId": "28",
+    "monstLevel": "34",
+    "exp": "98000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "21",
+    "grade": "7",
+    "phase": "3",
+    "gradeId": "29",
+    "monstLevel": "35",
+    "exp": "108000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "22",
+    "grade": "8",
+    "phase": "1",
+    "gradeId": "33",
+    "monstLevel": "38",
+    "exp": "118000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "23",
+    "grade": "8",
+    "phase": "2",
+    "gradeId": "34",
+    "monstLevel": "39",
+    "exp": "129000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "24",
+    "grade": "8",
+    "phase": "3",
+    "gradeId": "35",
+    "monstLevel": "40",
+    "exp": "141000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "25",
+    "grade": "9",
+    "phase": "1",
+    "gradeId": "36",
+    "monstLevel": "43",
+    "exp": "153000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "26",
+    "grade": "9",
+    "phase": "2",
+    "gradeId": "37",
+    "monstLevel": "44",
+    "exp": "169000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "27",
+    "grade": "9",
+    "phase": "3",
+    "gradeId": "38",
+    "monstLevel": "45",
+    "exp": "186000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "28",
+    "grade": "10",
+    "phase": "1",
+    "gradeId": "42",
+    "monstLevel": "48",
+    "exp": "203000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "29",
+    "grade": "10",
+    "phase": "2",
+    "gradeId": "43",
+    "monstLevel": "49",
+    "exp": "223000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "30",
+    "grade": "10",
+    "phase": "3",
+    "gradeId": "44",
+    "monstLevel": "50",
+    "exp": "253000",
+    "upgradeProp": "100999"
+  }
+]

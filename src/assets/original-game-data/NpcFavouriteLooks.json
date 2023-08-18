@@ -1,0 +1,97 @@
+[
+  {
+    "id": "1",
+    "key": "looksParaSumMin",
+    "value": "1000"
+  },
+  {
+    "id": "2",
+    "key": "looksParaSumMax",
+    "value": "2500"
+  },
+  {
+    "id": "3",
+    "key": "biziWeight",
+    "value": "100"
+  },
+  {
+    "id": "4",
+    "key": "lianWeight",
+    "value": "100"
+  },
+  {
+    "id": "5",
+    "key": "meimaoWeight",
+    "value": "100"
+  },
+  {
+    "id": "6",
+    "key": "meixinWeight",
+    "value": "50"
+  },
+  {
+    "id": "7",
+    "key": "quanlianWeight",
+    "value": "50"
+  },
+  {
+    "id": "8",
+    "key": "toufaWeight",
+    "value": "100"
+  },
+  {
+    "id": "9",
+    "key": "toufaqianWeight",
+    "value": "100"
+  },
+  {
+    "id": "10",
+    "key": "yanjingWeight",
+    "value": "100"
+  },
+  {
+    "id": "11",
+    "key": "yifuWeight",
+    "value": "100"
+  },
+  {
+    "id": "12",
+    "key": "zuibaWeight",
+    "value": "100"
+  },
+  {
+    "id": "13",
+    "key": "zuolianWeight",
+    "value": "50"
+  },
+  {
+    "id": "14",
+    "key": "youlianWeight",
+    "value": "50"
+  },
+  {
+    "id": "15",
+    "key": "houbeiWeight",
+    "value": "50"
+  },
+  {
+    "id": "16",
+    "key": "maoziWeight",
+    "value": "50"
+  },
+  {
+    "id": "17",
+    "key": "attachItemCountMax",
+    "value": "1"
+  },
+  {
+    "id": "18",
+    "key": "looksParaItemMin",
+    "value": "100"
+  },
+  {
+    "id": "19",
+    "key": "looksParaItemMax",
+    "value": "800"
+  }
+]

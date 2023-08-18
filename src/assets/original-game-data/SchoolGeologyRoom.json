@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "level  ": "1",
+    "geologyOutput": "10"
+  },
+  {
+    "id": "2",
+    "level  ": "2",
+    "geologyOutput": "20"
+  },
+  {
+    "id": "3",
+    "level  ": "3",
+    "geologyOutput": "30"
+  },
+  {
+    "id": "4",
+    "level  ": "4",
+    "geologyOutput": "40"
+  },
+  {
+    "id": "5",
+    "level  ": "5",
+    "geologyOutput": "50"
+  },
+  {
+    "id": "6",
+    "level  ": "6",
+    "geologyOutput": "60"
+  },
+  {
+    "id": "7",
+    "level  ": "7",
+    "geologyOutput": "70"
+  },
+  {
+    "id": "8",
+    "level  ": "8",
+    "geologyOutput": "80"
+  },
+  {
+    "id": "9",
+    "level  ": "9",
+    "geologyOutput": "90"
+  },
+  {
+    "id": "10",
+    "level  ": "10",
+    "geologyOutput": "100"
+  },
+  {
+    "id": "11",
+    "level  ": "11",
+    "geologyOutput": "110"
+  },
+  {
+    "id": "12",
+    "level  ": "12",
+    "geologyOutput": "120"
+  },
+  {
+    "id": "13",
+    "level  ": "13",
+    "geologyOutput": "130"
+  },
+  {
+    "id": "14",
+    "level  ": "14",
+    "geologyOutput": "140"
+  },
+  {
+    "id": "15",
+    "level  ": "15",
+    "geologyOutput": "150"
+  }
+]

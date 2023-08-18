@@ -1,0 +1,5897 @@
+[
+  {
+    "id": "10101",
+    "type": "1",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "10201",
+    "type": "2",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "10301",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "10302",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "10303",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "10311",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "10312",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "10313",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "10321",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1|1,2|2,2",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "316"
+  },
+  {
+    "id": "10322",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1|1,2|2,2",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "316"
+  },
+  {
+    "id": "10401",
+    "type": "4",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "10402",
+    "type": "4",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "10403",
+    "type": "4",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "10404",
+    "type": "4",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "10405",
+    "type": "4",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|0,1|1,1|2,1|3,1|4,1|5,1|0,2|1,2|2,2|3,2|4,2|5,2|0,3|1,3|2,3|3,3|4,3|0,4|1,4|2,4|3,4|4,4",
+    "openBuildPoint": "1,1|2,1|3,1|4,1|1,2|2,2|3,2|1,3|2,3|3,3",
+    "condition": "0",
+    "weight": "529"
+  },
+  {
+    "id": "10501",
+    "type": "5",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0|8,0|0,1|1,1|2,1|3,1|4,1|5,1|6,1|7,1|8,1|0,2|1,2|2,2|3,2|4,2|5,2|6,2|7,2|8,2|0,3|1,3|2,3|3,3|4,3|5,3|6,3|7,3|8,3|0,4|1,4|2,4|3,4|4,4|5,4|6,4|7,4|8,4|0,5|1,5|2,5|3,5|4,5|5,5|6,5|7,5|8,5|0,6|1,6|2,6|3,6|4,6|5,6|6,6|7,6|8,6|0,7|1,7|2,7|3,7|4,7|5,7|6,7|7,7|8,7",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "848"
+  },
+  {
+    "id": "10502",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "block_movebukeyidong",
+    "weight": "100"
+  },
+  {
+    "id": "10503",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,1|1,1|0,1|-1,1|-1,2|0,2|-2,2|-2,1|-3,2|-3,3|-4,3|-4,2|-1,3|-2,3|0,3|1,3|2,3|1,4|2,2|3,3|1,2|-2,4|-1,4|0,5|0,4|-2,9|0,10|-1,9|1,9|2,8|3,7|3,9|5,7|5,8|2,7|0,7|1,7|-4,7|-3,8|-2,8|-2,7|-3,7|-1,8|-1,7|0,8|1,8|0,9|2,9|2,10|2,12|1,11|2,11|1,10|1,12|0,11|-1,11|0,12|-1,10|-1,12|-2,10|-2,13|0,14|-1,14|0,13|-1,13|1,13|2,13|3,13|4,14|3,14|5,14|6,14|7,14|5,13|4,13|3,12|3,11|4,11|4,10|5,10|5,11|3,10|5,12|4,12|6,13|7,13|6,12|6,11|7,12|8,12|8,11|8,10|8,9|8,8|7,11|7,10|7,9|7,8|7,7|7,6|6,7|6,8|6,9|6,10|5,9|4,9|4,8|3,8|4,7|4,6|5,6|6,6|3,6|2,6|1,6|0,6|-1,6|-2,6|-3,6|-4,6|-3,5|-4,5|-1,5|1,5|-2,5|2,5|3,5|5,5|7,5|8,14|8,13|9,13|9,12|10,12|11,13|10,13|11,12|10,11|9,11|12,11|11,11|13,11|13,10|12,10|11,10|10,10|9,10|9,9|11,9|10,9|12,9|13,9|14,9|11,8|10,8|9,8|13,8|12,8|9,7|11,7|8,7|13,7|12,7|10,7|13,6|12,6|11,6|10,6|9,6|8,6|12,5|9,5|10,5|11,5|13,5|14,6|14,7|15,6|15,7|15,5|15,4|14,5|14,4|13,4|12,4|11,4|10,4|9,4|8,4|8,5|6,5|6,4|7,4|5,4|4,4|4,5|3,4|2,4|6,3|-3,4|-4,4|-5,6|-5,5|-2,12|-2,11|-3,9|-3,10|-4,8|4,3|5,3|3,2|4,2|7,3|6,2|5,2|7,2|8,2|8,3|9,3|10,3|11,3|12,3|13,3|14,3|12,2|11,2|10,2|13,2|14,2|9,2|12,1|11,1|10,1|9,1|8,1|4,1|3,1|9,0|10,0|-3,13|5,1|7,1|6,1|14,8|13,12|12,12|1,14|2,14|-2,14|-5,2|-3,1",
+    "openBuildPoint": "0",
+    "condition": "block_movebukeyidong",
+    "weight": "100"
+  },
+  {
+    "id": "10601",
+    "type": "6",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "10701",
+    "type": "10002",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "11301",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "11302",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "11303",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "11304",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1|0,2|1,2|2,2|3,2",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "346"
+  },
+  {
+    "id": "11311",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "11312",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "11313",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "11314",
+    "type": "3",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1|0,2|1,2|2,2|3,2",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "346"
+  },
+  {
+    "id": "101",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "102",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "103",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "104",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "105",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "106",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "107",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "108",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "109",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "110",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "111",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "112",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "113",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "70"
+  },
+  {
+    "id": "114",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "70"
+  },
+  {
+    "id": "115",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "116",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "70"
+  },
+  {
+    "id": "117",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "70"
+  },
+  {
+    "id": "118",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "119",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "30"
+  },
+  {
+    "id": "120",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "70"
+  },
+  {
+    "id": "121",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "30"
+  },
+  {
+    "id": "122",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "86"
+  },
+  {
+    "id": "123",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "86"
+  },
+  {
+    "id": "124",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "86"
+  },
+  {
+    "id": "125",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "35"
+  },
+  {
+    "id": "126",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "86"
+  },
+  {
+    "id": "127",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "86"
+  },
+  {
+    "id": "128",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "86"
+  },
+  {
+    "id": "129",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "25"
+  },
+  {
+    "id": "130",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "25"
+  },
+  {
+    "id": "131",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "25"
+  },
+  {
+    "id": "132",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "25"
+  },
+  {
+    "id": "134",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "35"
+  },
+  {
+    "id": "135",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "35"
+  },
+  {
+    "id": "136",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "35"
+  },
+  {
+    "id": "201",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "202",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "203",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "204",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "205",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "206",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "207",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "208",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "301",
+    "type": "103",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "302",
+    "type": "103",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "303",
+    "type": "103",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "304",
+    "type": "103",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "305",
+    "type": "103",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "306",
+    "type": "103",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "307",
+    "type": "103",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "308",
+    "type": "103",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "309",
+    "type": "103",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "310",
+    "type": "103",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "401",
+    "type": "104",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "402",
+    "type": "104",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "403",
+    "type": "104",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "404",
+    "type": "104",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "405",
+    "type": "104",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "406",
+    "type": "104",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "407",
+    "type": "104",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "408",
+    "type": "104",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "409",
+    "type": "104",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "501",
+    "type": "105",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "502",
+    "type": "105",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "503",
+    "type": "105",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "504",
+    "type": "105",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "505",
+    "type": "105",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "506",
+    "type": "105",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "507",
+    "type": "105",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "508",
+    "type": "105",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "509",
+    "type": "105",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "510",
+    "type": "105",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "511",
+    "type": "105",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "512",
+    "type": "105",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "513",
+    "type": "105",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "514",
+    "type": "105",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "515",
+    "type": "105",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "516",
+    "type": "105",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "601",
+    "type": "106",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "602",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "603",
+    "type": "106",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "604",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "605",
+    "type": "106",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "606",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "607",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "608",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "609",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "610",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "611",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "612",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "613",
+    "type": "106",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "614",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "615",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "616",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "617",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "618",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "619",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "620",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "621",
+    "type": "106",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "622",
+    "type": "106",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "623",
+    "type": "106",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "701",
+    "type": "107",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "702",
+    "type": "107",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "703",
+    "type": "107",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "704",
+    "type": "107",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "705",
+    "type": "107",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "706",
+    "type": "107",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "707",
+    "type": "107",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1|0,2|1,2|2,2|3,2|0,3|1,3|2,3|3,3",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "400"
+  },
+  {
+    "id": "801",
+    "type": "108",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "802",
+    "type": "108",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "803",
+    "type": "108",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "804",
+    "type": "108",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "805",
+    "type": "108",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "806",
+    "type": "108",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "807",
+    "type": "108",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "808",
+    "type": "108",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "809",
+    "type": "108",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "901",
+    "type": "109",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "902",
+    "type": "109",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "903",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "904",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "905",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "906",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1|0,2|1,2|2,2",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "300"
+  },
+  {
+    "id": "907",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "908",
+    "type": "109",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "909",
+    "type": "109",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "910",
+    "type": "109",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "911",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "912",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "913",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "914",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "915",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "916",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "917",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "918",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "919",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "920",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "921",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "922",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "923",
+    "type": "109",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "1001",
+    "type": "110",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1002",
+    "type": "110",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1003",
+    "type": "110",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1004",
+    "type": "110",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "1005",
+    "type": "110",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1006",
+    "type": "110",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1007",
+    "type": "110",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "1008",
+    "type": "110",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "1009",
+    "type": "110",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "1010",
+    "type": "110",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "1011",
+    "type": "110",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|0,1|1,1|2,1|3,1|4,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "316"
+  },
+  {
+    "id": "1101",
+    "type": "10001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "1102",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1103",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1201",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "141"
+  },
+  {
+    "id": "1202",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "100"
+  },
+  {
+    "id": "1203",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "141"
+  },
+  {
+    "id": "1204",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "100"
+  },
+  {
+    "id": "1205",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "173"
+  },
+  {
+    "id": "1206",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "244"
+  },
+  {
+    "id": "1207",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "300"
+  },
+  {
+    "id": "1208",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "282"
+  },
+  {
+    "id": "1209",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|0,1|1,1|2,1|3,1|4,1|5,1|0,2|1,2|2,2|3,2|4,2|5,2",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "424"
+  },
+  {
+    "id": "1210",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|0,1|1,1|2,1|3,1|4,1|5,1|0,2|1,2|2,2|3,2|4,2|5,2|0,3|1,3|2,3|3,3|4,3|5,3",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "489"
+  },
+  {
+    "id": "1213",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "100"
+  },
+  {
+    "id": "1214",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "141"
+  },
+  {
+    "id": "1215",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "141"
+  },
+  {
+    "id": "1216",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "141"
+  },
+  {
+    "id": "1217",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "141"
+  },
+  {
+    "id": "1218",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "141"
+  },
+  {
+    "id": "1219",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "141"
+  },
+  {
+    "id": "1220",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "141"
+  },
+  {
+    "id": "1221",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapmingshantishi",
+    "weight": "173"
+  },
+  {
+    "id": "1301",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "141"
+  },
+  {
+    "id": "1302",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "141"
+  },
+  {
+    "id": "1303",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "100"
+  },
+  {
+    "id": "1304",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "100"
+  },
+  {
+    "id": "1305",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "200"
+  },
+  {
+    "id": "1306",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "282"
+  },
+  {
+    "id": "1307",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "141"
+  },
+  {
+    "id": "1308",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0|2,0|3,0|4,0|0,1|1,1|2,1|3,1|4,1",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "316"
+  },
+  {
+    "id": "1401",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|0,1|1,1|2,1|3,1|4,1|5,1|0,2|1,2|2,2|3,2|4,2|5,2|0,3|1,3|2,3|3,3|4,3|5,3",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "489"
+  },
+  {
+    "id": "1402",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0|2,0|3,0|4,0|0,1|1,1|2,1|3,1|4,1|0,2|1,2|2,2|3,2|4,2|0,3|1,3|2,3|3,3|4,3",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "447"
+  },
+  {
+    "id": "1403",
+    "type": "10003",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1501",
+    "type": "10004",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1601",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "1602",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1611",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1612",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1621",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1622",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1623",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1631",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1632",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1641",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1642",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1651",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1652",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1661",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1662",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1671",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1672",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1681",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1682",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1691",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1692",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1701",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "1702",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1703",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1711",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1712",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1713",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1721",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1722",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1731",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "1741",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "1742",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3201",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "3202",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "3203",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3204",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "3205",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3206",
+    "type": "10005",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1751",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "1752",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1753",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1754",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "1755",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1756",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "1757",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1758",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1761",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "1762",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "1763",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "1764",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1765",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1766",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1767",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "1768",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "1769",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "1771",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "1772",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "1773",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "1774",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1775",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "1776",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1777",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "1778",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1779",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "1781",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "1782",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "1783",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "1784",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1785",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1786",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "1787",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1788",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1791",
+    "type": "10007",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1801",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "1802",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "1803",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1804",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1805",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1806",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1807",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1808",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "1809",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1901",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "1902",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "1903",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "1904",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "1905",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1906",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1907",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "1908",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2001",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "2002",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "2003",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2004",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "2005",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2006",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2007",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "2008",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2009",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "2010",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2011",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2012",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2101",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "2102",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "2103",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2104",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2105",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|0,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2106",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|0,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2107",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2108",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2201",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "2202",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|0,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2203",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|0,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2204",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2205",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2206",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2207",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2208",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2301",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2302",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2303",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2304",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2305",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "2306",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "2307",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2308",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2309",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "2310",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2401",
+    "type": "102",
+    "className": "1001",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2402",
+    "type": "102",
+    "className": "1001",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2403",
+    "type": "102",
+    "className": "1001",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2404",
+    "type": "102",
+    "className": "1001",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2405",
+    "type": "102",
+    "className": "1001",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2501",
+    "type": "1001",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "100"
+  },
+  {
+    "id": "2502",
+    "type": "1001",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "100"
+  },
+  {
+    "id": "2503",
+    "type": "1001",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "100"
+  },
+  {
+    "id": "2504",
+    "type": "1001",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "100"
+  },
+  {
+    "id": "2601",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2602",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2603",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2604",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2701",
+    "type": "1001",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "100"
+  },
+  {
+    "id": "2702",
+    "type": "1001",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "100"
+  },
+  {
+    "id": "2703",
+    "type": "1001",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "100"
+  },
+  {
+    "id": "2704",
+    "type": "1001",
+    "className": "101",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "200"
+  },
+  {
+    "id": "2705",
+    "type": "1001",
+    "className": "101",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1|0,2|1,2|2,2",
+    "openBuildPoint": "0",
+    "condition": "block_mapxinshouquyudashan",
+    "weight": "300"
+  },
+  {
+    "id": "2801",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2802",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2803",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "2804",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "2805",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1|0,2|1,2|2,2",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "300"
+  },
+  {
+    "id": "2901",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0|8,0|9,0|10,0|0,1|1,1|2,1|3,1|4,1|5,1|6,1|7,1|8,1|9,1|10,1|0,2|1,2|2,2|3,2|4,2|5,2|6,2|7,2|8,2|9,2|10,2|1,3|2,3|3,3|4,3|5,3|6,3|7,3|8,3|9,3|10,3|1,4|2,4|3,4|4,4|5,4|6,4|7,4|8,4|9,4|10,4|1,5|2,5|3,5|4,5|5,5|6,5|7,5|8,5|9,5|10,5|2,6|3,6|4,6|5,6|6,6|7,6|8,6|9,6",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "842"
+  },
+  {
+    "id": "3001",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0|8,0|0,1|1,1|2,1|3,1|4,1|5,1|6,1|7,1|8,1|0,2|1,2|2,2|3,2|4,2|5,2|6,2|7,2|8,2|0,3|1,3|2,3|3,3|4,3|5,3|6,3|7,3|8,3|0,4|1,4|2,4|3,4|4,4|5,4|6,4|7,4|8,4",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "670"
+  },
+  {
+    "id": "3002",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1|0,2|1,2|2,2|3,2|0,3|1,3|2,3|3,3",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "400"
+  },
+  {
+    "id": "3003",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|0,1|1,1|2,1|3,1|4,1|5,1|0,2|1,2|2,2|3,2|4,2|5,2|0,3|1,3|2,3|3,3|4,3|5,3|0,4|1,4|2,2|3,4|4,4|5,4|0,5|1,5|2,5|3,5|4,5|5,5",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "600"
+  },
+  {
+    "id": "3004",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0||0,1|1,1|2,1|3,1|4,1|5,1|6,1|7,1|0,2|1,2|2,2|3,2|4,2|5,2|6,2|7,2|0,3|1,3|2,3|3,3|4,3|5,3|6,3|7,3",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "565"
+  },
+  {
+    "id": "3005",
+    "type": "1001",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0||0,1|1,1|2,1|3,1|4,1|5,1|6,1|7,1|0,2|1,2|2,2|3,2|4,2|5,2|6,2|7,2|0,3|1,3|2,3|3,3|4,3|5,3|6,3|7,3",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "565"
+  },
+  {
+    "id": "3101",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3102",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "3103",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "3104",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "3105",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3106",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3107",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "3108",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "3109",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "3110",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3111",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3112",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3151",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "3152",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "3153",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3154",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3155",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "3156",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "282"
+  },
+  {
+    "id": "3157",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|5,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3158",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|5,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3301",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "3302",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "3303",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "3304",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3305",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3306",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3307",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3308",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3309",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3310",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3311",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3312",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "3313",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "3314",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "3315",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3316",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "70"
+  },
+  {
+    "id": "3401",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "3402",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3403",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3404",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3405",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3406",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3407",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3408",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3409",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3410",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3411",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3412",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3501",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "300"
+  },
+  {
+    "id": "3502",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "300"
+  },
+  {
+    "id": "3503",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "300"
+  },
+  {
+    "id": "3504",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "300"
+  },
+  {
+    "id": "3601",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "244"
+  },
+  {
+    "id": "3602",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "3603",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "173"
+  },
+  {
+    "id": "3604",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3605",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3606",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3607",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3608",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3609",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3610",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3611",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3612",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "3613",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "3614",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "3615",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3616",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "70"
+  },
+  {
+    "id": "3701",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "200"
+  },
+  {
+    "id": "3702",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3703",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3704",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3705",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "141"
+  },
+  {
+    "id": "3706",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3707",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3708",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3709",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3710",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3711",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "3712",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4301",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4302",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4303",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4304",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4305",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4306",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4307",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4308",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4309",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4310",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4311",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4312",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4313",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4314",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4315",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4316",
+    "type": "10008",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4401",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|1,1|2,1|3,1|1,2|2,2",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "10"
+  },
+  {
+    "id": "4402",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1|0,2|1,2|2,2",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "10"
+  },
+  {
+    "id": "4403",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "10"
+  },
+  {
+    "id": "4404",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4405",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4406",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "10"
+  },
+  {
+    "id": "4407",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4408",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "30"
+  },
+  {
+    "id": "4409",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "60"
+  },
+  {
+    "id": "4411",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "30"
+  },
+  {
+    "id": "4412",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "80"
+  },
+  {
+    "id": "4413",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "60"
+  },
+  {
+    "id": "4414",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "30"
+  },
+  {
+    "id": "4415",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4416",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "60"
+  },
+  {
+    "id": "4418",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4419",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "10"
+  },
+  {
+    "id": "4420",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "10"
+  },
+  {
+    "id": "4421",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "30"
+  },
+  {
+    "id": "4422",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "60"
+  },
+  {
+    "id": "4423",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "60"
+  },
+  {
+    "id": "4424",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "60"
+  },
+  {
+    "id": "4425",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "60"
+  },
+  {
+    "id": "4427",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4429",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4430",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4431",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4432",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4433",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4435",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4436",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4437",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "30"
+  },
+  {
+    "id": "4438",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "90"
+  },
+  {
+    "id": "4439",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "60"
+  },
+  {
+    "id": "4440",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "30"
+  },
+  {
+    "id": "4441",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "120"
+  },
+  {
+    "id": "4442",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4443",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4501",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4502",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4503",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4504",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "150"
+  },
+  {
+    "id": "4505",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0|0,1|1,1|2,1|3,1|4,1|5,1|6,1|7,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4506",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|0,1|1,1|2,1|3,1|4,1|5,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4507",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0|0,1|1,1|2,1|3,1|4,1|5,1|6,1|7,1|2,2|3,2|4,2|5,2",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4508",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4509",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4510",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4511",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0|0,1|1,1|2,1|3,1|4,1|5,1|6,1|7,1|3,2|4,2|5,2",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "120"
+  },
+  {
+    "id": "4512",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4513",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4514",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0|0,1|1,1|2,1|3,1|4,1|5,1|6,1|7,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4515",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "150"
+  },
+  {
+    "id": "4516",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4517",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|0,1|1,1|2,1|3,1|4,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4518",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|0,1|1,1|2,1|3,1|4,1|5,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4519",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4520",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "30"
+  },
+  {
+    "id": "4521",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4522",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|0,1|1,1|2,1|3,1|4,1|5,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4523",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4524",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4525",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4526",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "0"
+  },
+  {
+    "id": "4527",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0|0,1|1,1|2,1|3,1|4,1|5,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4528",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4529",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4530",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4540",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4541",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4542",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4601",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,1|1,0|1,2|1,3|1,4|1,5|2,2|2,1|3,3|3,2|3,1|4,2|5,3|6,2|5,2|0,2|2,3|2,4|4,4|4,3|3,4|7,3|6,4|6,3|5,4|1,6|8,4|7,4|8,5|7,5|6,5|6,6|5,6|4,6|4,5|3,6|3,5|2,6|2,5|9,5|0,8|0,7|1,7|3,7|4,7|5,7|2,7|1,8|0,6|0,5|0,4|0,3|0,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4701",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4702",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4703",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4704",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4706",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4708",
+    "type": "101",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4801",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4802",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4803",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4804",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "150"
+  },
+  {
+    "id": "4805",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0|0,1|1,1|2,1|3,1|4,1|5,1|6,1|7,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4806",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|0,1|1,1|2,1|3,1|4,1|5,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4807",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0|0,1|1,1|2,1|3,1|4,1|5,1|6,1|7,1|2,2|3,2|4,2|5,2",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4808",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4809",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4810",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4811",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0|0,1|1,1|2,1|3,1|4,1|5,1|6,1|7,1|3,2|4,2|5,2",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4812",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4813",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4814",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0|0,1|1,1|2,1|3,1|4,1|5,1|6,1|7,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4815",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "150"
+  },
+  {
+    "id": "4816",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4817",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|0,1|1,1|2,1|3,1|4,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4818",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|0,1|1,1|2,1|3,1|4,1|5,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4819",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4820",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "30"
+  },
+  {
+    "id": "4821",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4822",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|0,1|1,1|2,1|3,1|4,1|5,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4823",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4824",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4825",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4826",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "0"
+  },
+  {
+    "id": "4827",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|7,0|0,1|1,1|2,1|3,1|4,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4828",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "20"
+  },
+  {
+    "id": "4829",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4830",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "50"
+  },
+  {
+    "id": "4840",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4841",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4842",
+    "type": "101",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4901",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4902",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4905",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4906",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0|2,0|3,0|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4920",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4921",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4922",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4923",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4924",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4925",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4926",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4927",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4928",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4929",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4930",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4931",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4932",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4933",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4934",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4935",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4936",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4937",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4938",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "4939",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5001",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5002",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5004",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5005",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5006",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0|2,0|3,0|2,1|3,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5020",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5021",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5022",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5023",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5024",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5025",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5026",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5027",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5028",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5029",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5030",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5031",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5032",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5033",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5034",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5035",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5036",
+    "type": "102",
+    "className": "101",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5037",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5038",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "5039",
+    "type": "102",
+    "className": "101",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6301",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6302",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6303",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6304",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6305",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6306",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6307",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6308",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6309",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|0,1|1,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6310",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|0,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6311",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|0,1",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6312",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6313",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6314",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6315",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6316",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6401",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0|2,0|3,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6402",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6403",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6404",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6405",
+    "type": "102",
+    "className": "0",
+    "point": "0,0|1,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6406",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6407",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6408",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6409",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6410",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6411",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "6412",
+    "type": "102",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  },
+  {
+    "id": "7301",
+    "type": "10009",
+    "className": "0",
+    "point": "0,0",
+    "openBuildPoint": "0",
+    "condition": "0",
+    "weight": "100"
+  }
+]

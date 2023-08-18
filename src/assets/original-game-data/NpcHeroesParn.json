@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "key": "attrInitMin",
+    "value": "80"
+  },
+  {
+    "id": "2",
+    "key": "attrInitMax",
+    "value": "120"
+  }
+]

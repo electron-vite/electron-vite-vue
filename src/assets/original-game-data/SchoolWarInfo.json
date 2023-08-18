@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1",
+    "key": "reduceSchoolAffection",
+    "value": "100"
+  },
+  {
+    "id": "2",
+    "key": "warHateAdd",
+    "value": "120"
+  },
+  {
+    "id": "3",
+    "key": "resMoneyRate",
+    "value": "1"
+  },
+  {
+    "id": "4",
+    "key": "resMedicinaRate",
+    "value": "10"
+  },
+  {
+    "id": "5",
+    "key": "resMineRate",
+    "value": "10"
+  },
+  {
+    "id": "6",
+    "key": "supportAttackLessIntimacy",
+    "value": "-1"
+  },
+  {
+    "id": "7",
+    "key": "supportDefendMoreIntimacy",
+    "value": "200"
+  },
+  {
+    "id": "8",
+    "key": "warMainCount",
+    "value": "1"
+  },
+  {
+    "id": "9",
+    "key": "warBigEldersCount",
+    "value": "2"
+  },
+  {
+    "id": "10",
+    "key": "warEldersCount",
+    "value": "5"
+  },
+  {
+    "id": "11",
+    "key": "warInheritCount",
+    "value": "10"
+  },
+  {
+    "id": "12",
+    "key": "warStudentCount",
+    "value": "36"
+  },
+  {
+    "id": "13",
+    "key": "counterMainCount",
+    "value": "1"
+  },
+  {
+    "id": "14",
+    "key": "counterBigEldersCount",
+    "value": "2"
+  },
+  {
+    "id": "15",
+    "key": "counterEldersCount",
+    "value": "5"
+  },
+  {
+    "id": "16",
+    "key": "counterInheritCount",
+    "value": "5"
+  },
+  {
+    "id": "17",
+    "key": "counterStudentCount",
+    "value": "24"
+  },
+  {
+    "id": "18",
+    "key": "counterWaitTime",
+    "value": "24"
+  },
+  {
+    "id": "19",
+    "key": "counterIntervalTime",
+    "value": "36"
+  },
+  {
+    "id": "20",
+    "key": "counterSucceProtectTime",
+    "value": "24"
+  },
+  {
+    "id": "21",
+    "key": "unitDieRate",
+    "value": "200"
+  },
+  {
+    "id": "22",
+    "key": "captureManorSize",
+    "value": "5"
+  },
+  {
+    "id": "23",
+    "key": "failManorSize",
+    "value": "5"
+  },
+  {
+    "id": "24",
+    "key": "defendFailStableLoseMin",
+    "value": "50"
+  },
+  {
+    "id": "25",
+    "key": "defendFailStableLoseMax",
+    "value": "80"
+  },
+  {
+    "id": "26",
+    "key": "defendFailMemberLoseMin",
+    "value": "50"
+  },
+  {
+    "id": "27",
+    "key": "defendFailMemberLoseMax",
+    "value": "80"
+  },
+  {
+    "id": "28",
+    "key": "defendFailStudentLoseMin",
+    "value": "50"
+  },
+  {
+    "id": "29",
+    "key": "defendFailStudentLoseMax",
+    "value": "80"
+  },
+  {
+    "id": "30",
+    "key": "attackFailMemberLoseMin",
+    "value": "30"
+  },
+  {
+    "id": "31",
+    "key": "attackFailMemberLoseMax",
+    "value": "50"
+  },
+  {
+    "id": "32",
+    "key": "attackFailPayRate",
+    "value": "30000"
+  },
+  {
+    "id": "33",
+    "key": "defendDieHate",
+    "value": "500"
+  },
+  {
+    "id": "34",
+    "key": "defendSucceHelpAddIntimate",
+    "value": "120"
+  },
+  {
+    "id": "35",
+    "key": "defendFailHelpAddIntimate",
+    "value": "120"
+  },
+  {
+    "id": "36",
+    "key": "defendDieHelpAddIntimate",
+    "value": "120"
+  },
+  {
+    "id": "37",
+    "key": "dieSchoolInitIntimate",
+    "value": "999"
+  },
+  {
+    "id": "38",
+    "key": "counterattackResRate",
+    "value": "2000"
+  },
+  {
+    "id": "39",
+    "key": "helpResRate",
+    "value": "2000"
+  },
+  {
+    "id": "40",
+    "key": "rewardID1",
+    "value": "1100131"
+  },
+  {
+    "id": "41",
+    "key": "rewardID2",
+    "value": "1100132"
+  },
+  {
+    "id": "42",
+    "key": "rewardID3",
+    "value": "1100133"
+  },
+  {
+    "id": "43",
+    "key": "warMainReward",
+    "value": "10"
+  },
+  {
+    "id": "44",
+    "key": "warBigEldersReward",
+    "value": "8"
+  },
+  {
+    "id": "45",
+    "key": "warEldersReward",
+    "value": "6"
+  },
+  {
+    "id": "46",
+    "key": "warInheritReward",
+    "value": "5"
+  },
+  {
+    "id": "47",
+    "key": "warInnerReward",
+    "value": "3"
+  },
+  {
+    "id": "48",
+    "key": "warOuterReward",
+    "value": "2"
+  },
+  {
+    "id": "49",
+    "key": "robRewardMaxCount",
+    "value": "10"
+  },
+  {
+    "id": "50",
+    "key": "robRewardToSchoolRate",
+    "value": "50"
+  },
+  {
+    "id": "51",
+    "key": "attackSchoolAIInterval",
+    "value": "24"
+  },
+  {
+    "id": "52",
+    "key": "attackNeedUnitMinNum",
+    "value": "45"
+  },
+  {
+    "id": "53",
+    "key": "counterNeedUnitMinNum",
+    "value": "30"
+  },
+  {
+    "id": "54",
+    "key": "dieSchoolHate",
+    "value": "500"
+  },
+  {
+    "id": "55",
+    "key": "ChampionGainsFavorMin",
+    "value": "20"
+  },
+  {
+    "id": "56",
+    "key": "ChampionGiveFavorMin",
+    "value": "0"
+  },
+  {
+    "id": "57",
+    "key": "SchoolMainGainsFavorMin",
+    "value": "20"
+  },
+  {
+    "id": "58",
+    "key": "SchoolMainGiveFavorMin",
+    "value": "0"
+  },
+  {
+    "id": "59",
+    "key": "ChampionGainsFavorMax",
+    "value": "20"
+  },
+  {
+    "id": "60",
+    "key": "ChampionGiveFavorMax",
+    "value": "0"
+  },
+  {
+    "id": "61",
+    "key": "SchoolMainGainsFavorMax",
+    "value": "20"
+  },
+  {
+    "id": "62",
+    "key": "SchoolMainGiveFavorMax",
+    "value": "0"
+  },
+  {
+    "id": "63",
+    "key": "kindredDieImmuneRate",
+    "value": "5000"
+  },
+  {
+    "id": "64",
+    "key": "counterattackAddMinMonth",
+    "value": "0"
+  },
+  {
+    "id": "65",
+    "key": "counterattackAddMaxMonth",
+    "value": "6"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1001",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1002",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1003",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1004",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1005",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1006",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1007",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1008",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1009",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1010",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1011",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1012",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1013",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1014",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "1015",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "2001",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "2002",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "2003",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "2004",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  },
+  {
+    "id": "2005",
+    "healthMin": "100",
+    "healthMax": "100",
+    "energyMin": "100",
+    "energyMax": "100",
+    "badFeature": "5011",
+    "removeRate": "100",
+    "costDay": "5"
+  }
+]

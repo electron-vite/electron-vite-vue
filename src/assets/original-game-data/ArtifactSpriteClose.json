@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "key": "acceptDrama",
+    "value": "0"
+  },
+  {
+    "id": "2",
+    "key": "rejectDrama",
+    "value": "0"
+  },
+  {
+    "id": "3",
+    "key": "cdDrama",
+    "value": "0"
+  },
+  {
+    "id": "4",
+    "key": "strangeClose",
+    "value": "300"
+  },
+  {
+    "id": "5",
+    "key": "familiarClose",
+    "value": "600"
+  },
+  {
+    "id": "6",
+    "key": "closeClose",
+    "value": "900"
+  },
+  {
+    "id": "7",
+    "key": "closeMax",
+    "value": "900"
+  },
+  {
+    "id": "8",
+    "key": "giftInterval",
+    "value": "10"
+  },
+  {
+    "id": "9",
+    "key": "initClose",
+    "value": "30"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "id": "1",
+    "attribute": "life",
+    "icon": "shouming",
+    "desc": "role_attribute_desc_life"
+  },
+  {
+    "id": "2",
+    "attribute": "mood",
+    "icon": "xinqing",
+    "desc": "role_attribute_desc_mood"
+  },
+  {
+    "id": "3",
+    "attribute": "health",
+    "icon": "jiankang",
+    "desc": "role_attribute_desc_health"
+  },
+  {
+    "id": "4",
+    "attribute": "energy",
+    "icon": "jingli",
+    "desc": "role_attribute_desc_energy"
+  },
+  {
+    "id": "5",
+    "attribute": "hp",
+    "icon": "tili",
+    "desc": "role_attribute_desc_hp"
+  },
+  {
+    "id": "6",
+    "attribute": "mp",
+    "icon": "lingli",
+    "desc": "role_attribute_desc_mp"
+  },
+  {
+    "id": "7",
+    "attribute": "sp",
+    "icon": "nianli",
+    "desc": "role_attribute_desc_sp"
+  },
+  {
+    "id": "8",
+    "attribute": "luck",
+    "icon": "xingyun",
+    "desc": "role_attribute_desc_luck"
+  },
+  {
+    "id": "9",
+    "attribute": "talent",
+    "icon": "wuxing",
+    "desc": "role_attribute_desc_talent"
+  },
+  {
+    "id": "10",
+    "attribute": "atk",
+    "icon": "gongji",
+    "desc": "role_attribute_desc_atk"
+  },
+  {
+    "id": "11",
+    "attribute": "def",
+    "icon": "fangyu",
+    "desc": "role_attribute_desc_def"
+  },
+  {
+    "id": "12",
+    "attribute": "fsp",
+    "icon": "jiaoli",
+    "desc": "role_attribute_desc_fsp"
+  },
+  {
+    "id": "13",
+    "attribute": "pfr",
+    "icon": "wumian",
+    "desc": "role_attribute_desc_pfr"
+  },
+  {
+    "id": "14",
+    "attribute": "mfr",
+    "icon": "momian",
+    "desc": "role_attribute_desc_mfr"
+  },
+  {
+    "id": "15",
+    "attribute": "crit",
+    "icon": "huixin",
+    "desc": "role_attribute_desc_crit"
+  },
+  {
+    "id": "16",
+    "attribute": "guard",
+    "icon": "huxin",
+    "desc": "role_attribute_desc_guard"
+  },
+  {
+    "id": "17",
+    "attribute": "msp",
+    "icon": "yisu",
+    "desc": "role_attribute_desc_msp"
+  },
+  {
+    "id": "18",
+    "attribute": "critV",
+    "icon": "huixinbeilv",
+    "desc": "role_attribute_desc_critV"
+  },
+  {
+    "id": "19",
+    "attribute": "guardV",
+    "icon": "huxinbeilv",
+    "desc": "role_attribute_desc_guardV"
+  },
+  {
+    "id": "20",
+    "attribute": "basSword",
+    "icon": "jianfa",
+    "desc": "role_attribute_desc_basSword"
+  },
+  {
+    "id": "21",
+    "attribute": "basSpear",
+    "icon": "qiangfa",
+    "desc": "role_attribute_desc_basSpear"
+  },
+  {
+    "id": "22",
+    "attribute": "basBlade",
+    "icon": "daofa",
+    "desc": "role_attribute_desc_basBlade"
+  },
+  {
+    "id": "23",
+    "attribute": "basFist",
+    "icon": "quanfa",
+    "desc": "role_attribute_desc_basFist"
+  },
+  {
+    "id": "24",
+    "attribute": "basPalm",
+    "icon": "zhangfa",
+    "desc": "role_attribute_desc_basPalm"
+  },
+  {
+    "id": "25",
+    "attribute": "basFinger",
+    "icon": "zhifa",
+    "desc": "role_attribute_desc_basFinger"
+  },
+  {
+    "id": "26",
+    "attribute": "basFire",
+    "icon": "huolinggen",
+    "desc": "role_attribute_desc_basFire"
+  },
+  {
+    "id": "27",
+    "attribute": "basFroze",
+    "icon": "shuilinggen",
+    "desc": "role_attribute_desc_basFroze"
+  },
+  {
+    "id": "28",
+    "attribute": "basThunder",
+    "icon": "leilinggen",
+    "desc": "role_attribute_desc_basThunder"
+  },
+  {
+    "id": "29",
+    "attribute": "basWind",
+    "icon": "fenglinggen",
+    "desc": "role_attribute_desc_basWind"
+  },
+  {
+    "id": "30",
+    "attribute": "basEarth",
+    "icon": "tulinggen",
+    "desc": "role_attribute_desc_basEarth"
+  },
+  {
+    "id": "31",
+    "attribute": "basWood",
+    "icon": "mulinggen",
+    "desc": "role_attribute_desc_basWood"
+  },
+  {
+    "id": "32",
+    "attribute": "basPil",
+    "icon": "liandan",
+    "desc": "role_attribute_desc_basPil"
+  },
+  {
+    "id": "33",
+    "attribute": "basEqp",
+    "icon": "lianqi",
+    "desc": "role_attribute_desc_basEqp"
+  },
+  {
+    "id": "34",
+    "attribute": "basGeo",
+    "icon": "fengshui",
+    "desc": "role_attribute_desc_basGeo"
+  },
+  {
+    "id": "35",
+    "attribute": "basSym",
+    "icon": "huafu",
+    "desc": "role_attribute_desc_basSym"
+  },
+  {
+    "id": "36",
+    "attribute": "basHerb",
+    "icon": "yaocai",
+    "desc": "role_attribute_desc_basHerb"
+  },
+  {
+    "id": "37",
+    "attribute": "basMine",
+    "icon": "kuangcai",
+    "desc": "role_attribute_desc_basMine"
+  },
+  {
+    "id": "38",
+    "attribute": "standUp",
+    "icon": "0",
+    "desc": "role_attribute_desc_standUp"
+  },
+  {
+    "id": "39",
+    "attribute": "standDown",
+    "icon": "0",
+    "desc": "role_attribute_desc_standDown"
+  },
+  {
+    "id": "40",
+    "attribute": "abilityPoint",
+    "icon": "daodian",
+    "desc": "0"
+  },
+  {
+    "id": "41",
+    "attribute": "reputation",
+    "icon": "shengwang",
+    "desc": "role_attribute_desc_reputation"
+  },
+  {
+    "id": "42",
+    "attribute": "beauty",
+    "icon": "0",
+    "desc": "role_attribute_desc_beauty"
+  },
+  {
+    "id": "43",
+    "attribute": "dp",
+    "icon": "daoli",
+    "desc": "role_attribute_desc_dp"
+  },
+  {
+    "id": "44",
+    "attribute": "soulPoint",
+    "icon": "hunli",
+    "desc": "role_attribute_desc_soulPoint"
+  }
+]

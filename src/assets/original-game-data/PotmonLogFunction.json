@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "logKey": "potmonSkillLifeOutPutLog10001",
+    "roleLogId": "9200005",
+    "condition": "0",
+    "failRoleLogId": "9200001",
+    "setNPC": "301012",
+    "function": "addClose_1_0_20_30",
+    "group": "0"
+  },
+  {
+    "id": "2",
+    "logKey": "potmonSkillLifeOutPutLog10001",
+    "roleLogId": "9200007",
+    "condition": "isFortuitousInTime_51028",
+    "failRoleLogId": "9200001",
+    "setNPC": "301014",
+    "function": "abClose_1_0_30_50",
+    "group": "2"
+  },
+  {
+    "id": "3",
+    "logKey": "potmonSkillLifeOutPutLog10001",
+    "roleLogId": "9200006",
+    "condition": "0",
+    "failRoleLogId": "9200001",
+    "setNPC": "301012",
+    "function": "0",
+    "group": "0"
+  },
+  {
+    "id": "4",
+    "logKey": "potmonSkillLifeOutPutLog10011",
+    "roleLogId": "9200106",
+    "condition": "0",
+    "failRoleLogId": "9200105",
+    "setNPC": "301015",
+    "function": "abClose_1_0_30_50",
+    "group": "0"
+  },
+  {
+    "id": "5",
+    "logKey": "potmonSkillLifeOutPutLog10011",
+    "roleLogId": "9200107",
+    "condition": "isFortuitousInTime_51026|isFortuitousInTime_51027",
+    "failRoleLogId": "9200105",
+    "setNPC": "301016",
+    "function": "0",
+    "group": "1"
+  },
+  {
+    "id": "6",
+    "logKey": "potmonSkillLifeOutPutLog10021",
+    "roleLogId": "9200206",
+    "condition": "0",
+    "failRoleLogId": "9200201",
+    "setNPC": "301014",
+    "function": "0",
+    "group": "0"
+  },
+  {
+    "id": "7",
+    "logKey": "potmonSkillLifeOutPutLog10021",
+    "roleLogId": "9200207",
+    "condition": "0",
+    "failRoleLogId": "9200201",
+    "setNPC": "301012",
+    "function": "addClose_1_0_20_30",
+    "group": "0"
+  },
+  {
+    "id": "8",
+    "logKey": "potmonSkillLifeOutPutLog10031",
+    "roleLogId": "9200305",
+    "condition": "isFortuitousInTime_51026|isFortuitousInTime_51027",
+    "failRoleLogId": "9200304",
+    "setNPC": "301016",
+    "function": "0",
+    "group": "1"
+  },
+  {
+    "id": "9",
+    "logKey": "potmonSkillLifeOutPutLog10041",
+    "roleLogId": "9200404",
+    "condition": "0",
+    "failRoleLogId": "9200401",
+    "setNPC": "301016",
+    "function": "0",
+    "group": "0"
+  },
+  {
+    "id": "10",
+    "logKey": "potmonSkillLifeOutPutLog10131",
+    "roleLogId": "9201305",
+    "condition": "dialogueCount_8103101_1_0|potmonLogId_9201305_0",
+    "failRoleLogId": "9201301",
+    "setNPC": "301012",
+    "function": "0",
+    "group": "3"
+  },
+  {
+    "id": "11",
+    "logKey": "potmonSkillLifeOutPutLog10061",
+    "roleLogId": "9200603",
+    "condition": "dialogueCount_8103101_1_0|potmonLogId_9200603_0",
+    "failRoleLogId": "9200601",
+    "setNPC": "301012",
+    "function": "0",
+    "group": "4"
+  },
+  {
+    "id": "12",
+    "logKey": "potmonSkillLifeOutPutLog10071",
+    "roleLogId": "9200704",
+    "condition": "dialogueCount_8103101_1_0|potmonLogId_9200704_0",
+    "failRoleLogId": "9200701",
+    "setNPC": "301012",
+    "function": "0",
+    "group": "5"
+  },
+  {
+    "id": "13",
+    "logKey": "potmonSkillLifeOutPutLog10021",
+    "roleLogId": "9200208",
+    "condition": "dialogueCount_8103101_1_0|potmonLogId_9200208_0",
+    "failRoleLogId": "9200201",
+    "setNPC": "301012",
+    "function": "0",
+    "group": "6"
+  }
+]

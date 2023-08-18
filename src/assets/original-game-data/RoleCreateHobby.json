@@ -1,0 +1,145 @@
+[
+  {
+    "id": "201",
+    "name": "role_hobby_name201",
+    "desc": "role_hobby_desc1201",
+    "group": "2",
+    "weight": "1000",
+    "show": "1",
+    "item": "0",
+    "moodAdd": "0",
+    "cd": "0"
+  },
+  {
+    "id": "202",
+    "name": "role_hobby_name202",
+    "desc": "role_hobby_desc1202",
+    "group": "3",
+    "weight": "1000",
+    "show": "1",
+    "item": "0",
+    "moodAdd": "0",
+    "cd": "0"
+  },
+  {
+    "id": "203",
+    "name": "role_hobby_name203",
+    "desc": "role_hobby_desc1203",
+    "group": "4",
+    "weight": "1000",
+    "show": "1",
+    "item": "0",
+    "moodAdd": "0",
+    "cd": "0"
+  },
+  {
+    "id": "204",
+    "name": "role_hobby_name204",
+    "desc": "role_hobby_desc1204",
+    "group": "4",
+    "weight": "1000",
+    "show": "1",
+    "item": "0",
+    "moodAdd": "0",
+    "cd": "0"
+  },
+  {
+    "id": "205",
+    "name": "role_hobby_name205",
+    "desc": "role_hobby_desc1205",
+    "group": "5",
+    "weight": "1000",
+    "show": "1",
+    "item": "0",
+    "moodAdd": "0",
+    "cd": "0"
+  },
+  {
+    "id": "206",
+    "name": "role_hobby_name206",
+    "desc": "role_hobby_desc1206",
+    "group": "6",
+    "weight": "0",
+    "show": "1",
+    "item": "0",
+    "moodAdd": "0",
+    "cd": "0"
+  },
+  {
+    "id": "207",
+    "name": "role_hobby_name207",
+    "desc": "role_hobby_desc1207",
+    "group": "7",
+    "weight": "0",
+    "show": "1",
+    "item": "0",
+    "moodAdd": "0",
+    "cd": "0"
+  },
+  {
+    "id": "208",
+    "name": "role_hobby_name208",
+    "desc": "role_hobby_desc1208",
+    "group": "8",
+    "weight": "0",
+    "show": "1",
+    "item": "0",
+    "moodAdd": "0",
+    "cd": "0"
+  },
+  {
+    "id": "209",
+    "name": "role_hobby_name209",
+    "desc": "role_hobby_desc1209",
+    "group": "9",
+    "weight": "1000",
+    "show": "1",
+    "item": "0",
+    "moodAdd": "0",
+    "cd": "0"
+  },
+  {
+    "id": "210",
+    "name": "role_hobby_name210",
+    "desc": "role_hobby_desc1210",
+    "group": "10",
+    "weight": "1000",
+    "show": "1",
+    "item": "0",
+    "moodAdd": "0",
+    "cd": "0"
+  },
+  {
+    "id": "211",
+    "name": "role_hobby_name211",
+    "desc": "role_hobby_desc1211",
+    "group": "11",
+    "weight": "1000",
+    "show": "1",
+    "item": "0",
+    "moodAdd": "0",
+    "cd": "0"
+  },
+  {
+    "id": "212",
+    "name": "role_hobby_name212",
+    "desc": "role_hobby_desc1212",
+    "group": "11",
+    "weight": "1000",
+    "show": "1",
+    "item": "0",
+    "moodAdd": "0",
+    "cd": "0"
+  },
+  {
+    "id": "213",
+    "name": "role_hobby_name213",
+    "desc": "role_hobby_desc1213",
+    "group": "13",
+    "weight": "1000",
+    "show": "1",
+    "item": "0",
+    "moodAdd": "0",
+    "cd": "0"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "elderName1",
+    "equipEffect": "27100",
+    "desc": "elderSkillDesc1",
+    "dungeonID": "101",
+    "growAttr": "atk_136|crit_158|pfr_47",
+    "item": "5082016",
+    "icon": "jiaolong",
+    "smallImage": "jiaolong_2",
+    "BigImage": "jiaolong_1"
+  },
+  {
+    "id": "2",
+    "name": "elderName2",
+    "equipEffect": "27200",
+    "desc": "elderSkillDesc2",
+    "dungeonID": "102",
+    "growAttr": "mpMax_343|crit_158|critV_50|mfr_47",
+    "item": "5082026",
+    "icon": "gouchen",
+    "smallImage": "gouchen_2",
+    "BigImage": "gouchen_1"
+  },
+  {
+    "id": "3",
+    "name": "elderName3",
+    "equipEffect": "27300",
+    "desc": "elderSkillDesc3",
+    "dungeonID": "103",
+    "growAttr": "def_91|guard_25|pfr_47",
+    "item": "5082036",
+    "icon": "xuangui",
+    "smallImage": "xuangui_2",
+    "BigImage": "xuangui_1"
+  },
+  {
+    "id": "4",
+    "name": "elderName4",
+    "equipEffect": "27400",
+    "desc": "elderSkillDesc4",
+    "dungeonID": "104",
+    "growAttr": "spMax_158|guardV_50|msp_20",
+    "item": "5082046",
+    "icon": "luwu",
+    "smallImage": "luwu_2",
+    "BigImage": "luwu_1"
+  },
+  {
+    "id": "5",
+    "name": "elderName5",
+    "equipEffect": "27500",
+    "desc": "elderSkillDesc5",
+    "dungeonID": "105",
+    "growAttr": "hpMax_3041|guard_25|mfr_47",
+    "item": "5082056",
+    "icon": "chongmingniao",
+    "smallImage": "chongming_2",
+    "BigImage": "chongming_1"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "key": "totalMonsters",
+    "value": "120"
+  },
+  {
+    "id": "2",
+    "key": "monsterDistance",
+    "value": "5"
+  },
+  {
+    "id": "3",
+    "key": "refreshAreas",
+    "value": "1|2|4|6|8|10"
+  },
+  {
+    "id": "4",
+    "key": "schoolMonstersMin",
+    "value": "1"
+  },
+  {
+    "id": "5",
+    "key": "schoolMonstersMax",
+    "value": "3"
+  },
+  {
+    "id": "6",
+    "key": "townMonstersMin",
+    "value": "1"
+  },
+  {
+    "id": "7",
+    "key": "townMonstersMax",
+    "value": "3"
+  },
+  {
+    "id": "8",
+    "key": "townRange",
+    "value": "8"
+  },
+  {
+    "id": "9",
+    "key": "monsterMonst",
+    "value": "12"
+  }
+]

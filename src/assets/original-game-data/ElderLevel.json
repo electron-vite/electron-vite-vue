@@ -1,0 +1,407 @@
+[
+  {
+    "id": "1",
+    "elderID": "1",
+    "level": "1",
+    "grade": "7",
+    "exp": "0",
+    "equipEffect": "27101",
+    "desc": "elderSkillDesc11"
+  },
+  {
+    "id": "2",
+    "elderID": "1",
+    "level": "2",
+    "grade": "7",
+    "exp": "40000",
+    "equipEffect": "27102",
+    "desc": "elderSkillDesc12"
+  },
+  {
+    "id": "3",
+    "elderID": "1",
+    "level": "3",
+    "grade": "7",
+    "exp": "60000",
+    "equipEffect": "27103",
+    "desc": "elderSkillDesc13"
+  },
+  {
+    "id": "4",
+    "elderID": "1",
+    "level": "4",
+    "grade": "8",
+    "exp": "120000",
+    "equipEffect": "27104",
+    "desc": "elderSkillDesc14"
+  },
+  {
+    "id": "5",
+    "elderID": "1",
+    "level": "5",
+    "grade": "8",
+    "exp": "160000",
+    "equipEffect": "27105",
+    "desc": "elderSkillDesc15"
+  },
+  {
+    "id": "6",
+    "elderID": "1",
+    "level": "6",
+    "grade": "9",
+    "exp": "240000",
+    "equipEffect": "27106",
+    "desc": "elderSkillDesc16"
+  },
+  {
+    "id": "7",
+    "elderID": "1",
+    "level": "7",
+    "grade": "9",
+    "exp": "300000",
+    "equipEffect": "27107",
+    "desc": "elderSkillDesc17"
+  },
+  {
+    "id": "8",
+    "elderID": "1",
+    "level": "8",
+    "grade": "10",
+    "exp": "400000",
+    "equipEffect": "27108",
+    "desc": "elderSkillDesc18"
+  },
+  {
+    "id": "9",
+    "elderID": "1",
+    "level": "9",
+    "grade": "10",
+    "exp": "480000",
+    "equipEffect": "27109",
+    "desc": "elderSkillDesc19"
+  },
+  {
+    "id": "10",
+    "elderID": "2",
+    "level": "1",
+    "grade": "7",
+    "exp": "0",
+    "equipEffect": "27201",
+    "desc": "elderSkillDesc21"
+  },
+  {
+    "id": "11",
+    "elderID": "2",
+    "level": "2",
+    "grade": "7",
+    "exp": "40000",
+    "equipEffect": "27202",
+    "desc": "elderSkillDesc22"
+  },
+  {
+    "id": "12",
+    "elderID": "2",
+    "level": "3",
+    "grade": "7",
+    "exp": "60000",
+    "equipEffect": "27203",
+    "desc": "elderSkillDesc23"
+  },
+  {
+    "id": "13",
+    "elderID": "2",
+    "level": "4",
+    "grade": "8",
+    "exp": "120000",
+    "equipEffect": "27204",
+    "desc": "elderSkillDesc24"
+  },
+  {
+    "id": "14",
+    "elderID": "2",
+    "level": "5",
+    "grade": "8",
+    "exp": "160000",
+    "equipEffect": "27205",
+    "desc": "elderSkillDesc25"
+  },
+  {
+    "id": "15",
+    "elderID": "2",
+    "level": "6",
+    "grade": "9",
+    "exp": "240000",
+    "equipEffect": "27206",
+    "desc": "elderSkillDesc26"
+  },
+  {
+    "id": "16",
+    "elderID": "2",
+    "level": "7",
+    "grade": "9",
+    "exp": "300000",
+    "equipEffect": "27207",
+    "desc": "elderSkillDesc27"
+  },
+  {
+    "id": "17",
+    "elderID": "2",
+    "level": "8",
+    "grade": "10",
+    "exp": "400000",
+    "equipEffect": "27208",
+    "desc": "elderSkillDesc28"
+  },
+  {
+    "id": "18",
+    "elderID": "2",
+    "level": "9",
+    "grade": "10",
+    "exp": "480000",
+    "equipEffect": "27209",
+    "desc": "elderSkillDesc29"
+  },
+  {
+    "id": "19",
+    "elderID": "3",
+    "level": "1",
+    "grade": "7",
+    "exp": "0",
+    "equipEffect": "27301",
+    "desc": "elderSkillDesc31"
+  },
+  {
+    "id": "20",
+    "elderID": "3",
+    "level": "2",
+    "grade": "7",
+    "exp": "40000",
+    "equipEffect": "27302",
+    "desc": "elderSkillDesc32"
+  },
+  {
+    "id": "21",
+    "elderID": "3",
+    "level": "3",
+    "grade": "7",
+    "exp": "60000",
+    "equipEffect": "27303",
+    "desc": "elderSkillDesc33"
+  },
+  {
+    "id": "22",
+    "elderID": "3",
+    "level": "4",
+    "grade": "8",
+    "exp": "120000",
+    "equipEffect": "27304",
+    "desc": "elderSkillDesc34"
+  },
+  {
+    "id": "23",
+    "elderID": "3",
+    "level": "5",
+    "grade": "8",
+    "exp": "160000",
+    "equipEffect": "27305",
+    "desc": "elderSkillDesc35"
+  },
+  {
+    "id": "24",
+    "elderID": "3",
+    "level": "6",
+    "grade": "9",
+    "exp": "240000",
+    "equipEffect": "27306",
+    "desc": "elderSkillDesc36"
+  },
+  {
+    "id": "25",
+    "elderID": "3",
+    "level": "7",
+    "grade": "9",
+    "exp": "300000",
+    "equipEffect": "27307",
+    "desc": "elderSkillDesc37"
+  },
+  {
+    "id": "26",
+    "elderID": "3",
+    "level": "8",
+    "grade": "10",
+    "exp": "400000",
+    "equipEffect": "27308",
+    "desc": "elderSkillDesc38"
+  },
+  {
+    "id": "27",
+    "elderID": "3",
+    "level": "9",
+    "grade": "10",
+    "exp": "480000",
+    "equipEffect": "27309",
+    "desc": "elderSkillDesc39"
+  },
+  {
+    "id": "28",
+    "elderID": "4",
+    "level": "1",
+    "grade": "7",
+    "exp": "0",
+    "equipEffect": "27401",
+    "desc": "elderSkillDesc41"
+  },
+  {
+    "id": "29",
+    "elderID": "4",
+    "level": "2",
+    "grade": "7",
+    "exp": "40000",
+    "equipEffect": "27402",
+    "desc": "elderSkillDesc42"
+  },
+  {
+    "id": "30",
+    "elderID": "4",
+    "level": "3",
+    "grade": "7",
+    "exp": "60000",
+    "equipEffect": "27403",
+    "desc": "elderSkillDesc43"
+  },
+  {
+    "id": "31",
+    "elderID": "4",
+    "level": "4",
+    "grade": "8",
+    "exp": "120000",
+    "equipEffect": "27404",
+    "desc": "elderSkillDesc44"
+  },
+  {
+    "id": "32",
+    "elderID": "4",
+    "level": "5",
+    "grade": "8",
+    "exp": "160000",
+    "equipEffect": "27405",
+    "desc": "elderSkillDesc45"
+  },
+  {
+    "id": "33",
+    "elderID": "4",
+    "level": "6",
+    "grade": "9",
+    "exp": "240000",
+    "equipEffect": "27406",
+    "desc": "elderSkillDesc46"
+  },
+  {
+    "id": "34",
+    "elderID": "4",
+    "level": "7",
+    "grade": "9",
+    "exp": "300000",
+    "equipEffect": "27407",
+    "desc": "elderSkillDesc47"
+  },
+  {
+    "id": "35",
+    "elderID": "4",
+    "level": "8",
+    "grade": "10",
+    "exp": "400000",
+    "equipEffect": "27408",
+    "desc": "elderSkillDesc48"
+  },
+  {
+    "id": "36",
+    "elderID": "4",
+    "level": "9",
+    "grade": "10",
+    "exp": "480000",
+    "equipEffect": "27409",
+    "desc": "elderSkillDesc49"
+  },
+  {
+    "id": "37",
+    "elderID": "5",
+    "level": "1",
+    "grade": "7",
+    "exp": "0",
+    "equipEffect": "27501",
+    "desc": "elderSkillDesc51"
+  },
+  {
+    "id": "38",
+    "elderID": "5",
+    "level": "2",
+    "grade": "7",
+    "exp": "40000",
+    "equipEffect": "27502",
+    "desc": "elderSkillDesc52"
+  },
+  {
+    "id": "39",
+    "elderID": "5",
+    "level": "3",
+    "grade": "7",
+    "exp": "60000",
+    "equipEffect": "27503",
+    "desc": "elderSkillDesc53"
+  },
+  {
+    "id": "40",
+    "elderID": "5",
+    "level": "4",
+    "grade": "8",
+    "exp": "120000",
+    "equipEffect": "27504",
+    "desc": "elderSkillDesc54"
+  },
+  {
+    "id": "41",
+    "elderID": "5",
+    "level": "5",
+    "grade": "8",
+    "exp": "160000",
+    "equipEffect": "27505",
+    "desc": "elderSkillDesc55"
+  },
+  {
+    "id": "42",
+    "elderID": "5",
+    "level": "6",
+    "grade": "9",
+    "exp": "240000",
+    "equipEffect": "27506",
+    "desc": "elderSkillDesc56"
+  },
+  {
+    "id": "43",
+    "elderID": "5",
+    "level": "7",
+    "grade": "9",
+    "exp": "300000",
+    "equipEffect": "27507",
+    "desc": "elderSkillDesc57"
+  },
+  {
+    "id": "44",
+    "elderID": "5",
+    "level": "8",
+    "grade": "10",
+    "exp": "400000",
+    "equipEffect": "27508",
+    "desc": "elderSkillDesc58"
+  },
+  {
+    "id": "45",
+    "elderID": "5",
+    "level": "9",
+    "grade": "10",
+    "exp": "480000",
+    "equipEffect": "27509",
+    "desc": "elderSkillDesc59"
+  }
+]

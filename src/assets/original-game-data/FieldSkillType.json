@@ -1,0 +1,254 @@
+[
+  {
+    "id": "1",
+    "basType": "1",
+    "level": "1",
+    "halo": "321001",
+    "desc": "fieldSkillDesc11"
+  },
+  {
+    "id": "2",
+    "basType": "1",
+    "level": "2",
+    "halo": "321002|321003",
+    "desc": "fieldSkillDesc12"
+  },
+  {
+    "id": "3",
+    "basType": "1",
+    "level": "3",
+    "halo": "321004|321005",
+    "desc": "fieldSkillDesc13"
+  },
+  {
+    "id": "4",
+    "basType": "2",
+    "level": "1",
+    "halo": "322001|322004",
+    "desc": "fieldSkillDesc21"
+  },
+  {
+    "id": "5",
+    "basType": "2",
+    "level": "2",
+    "halo": "322002|322005",
+    "desc": "fieldSkillDesc22"
+  },
+  {
+    "id": "6",
+    "basType": "2",
+    "level": "3",
+    "halo": "322003|322006",
+    "desc": "fieldSkillDesc23"
+  },
+  {
+    "id": "7",
+    "basType": "3",
+    "level": "1",
+    "halo": "323001",
+    "desc": "fieldSkillDesc31"
+  },
+  {
+    "id": "8",
+    "basType": "3",
+    "level": "2",
+    "halo": "323002|323004",
+    "desc": "fieldSkillDesc32"
+  },
+  {
+    "id": "9",
+    "basType": "3",
+    "level": "3",
+    "halo": "323003|323005",
+    "desc": "fieldSkillDesc33"
+  },
+  {
+    "id": "10",
+    "basType": "4",
+    "level": "1",
+    "halo": "324001",
+    "desc": "fieldSkillDesc41"
+  },
+  {
+    "id": "11",
+    "basType": "4",
+    "level": "2",
+    "halo": "324002|324003",
+    "desc": "fieldSkillDesc42"
+  },
+  {
+    "id": "12",
+    "basType": "4",
+    "level": "3",
+    "halo": "324004|324005",
+    "desc": "fieldSkillDesc43"
+  },
+  {
+    "id": "13",
+    "basType": "5",
+    "level": "1",
+    "halo": "325001",
+    "desc": "fieldSkillDesc51"
+  },
+  {
+    "id": "14",
+    "basType": "5",
+    "level": "2",
+    "halo": "325002|325004",
+    "desc": "fieldSkillDesc52"
+  },
+  {
+    "id": "15",
+    "basType": "5",
+    "level": "3",
+    "halo": "325003|325005",
+    "desc": "fieldSkillDesc53"
+  },
+  {
+    "id": "16",
+    "basType": "6",
+    "level": "1",
+    "halo": "326001",
+    "desc": "fieldSkillDesc61"
+  },
+  {
+    "id": "17",
+    "basType": "6",
+    "level": "2",
+    "halo": "326002",
+    "desc": "fieldSkillDesc62"
+  },
+  {
+    "id": "18",
+    "basType": "6",
+    "level": "3",
+    "halo": "326003",
+    "desc": "fieldSkillDesc63"
+  },
+  {
+    "id": "19",
+    "basType": "11",
+    "level": "1",
+    "halo": "331001|331004",
+    "desc": "fieldSkillDesc111"
+  },
+  {
+    "id": "20",
+    "basType": "11",
+    "level": "2",
+    "halo": "331002",
+    "desc": "fieldSkillDesc112"
+  },
+  {
+    "id": "21",
+    "basType": "11",
+    "level": "3",
+    "halo": "331003",
+    "desc": "fieldSkillDesc113"
+  },
+  {
+    "id": "22",
+    "basType": "12",
+    "level": "1",
+    "halo": "332001",
+    "desc": "fieldSkillDesc121"
+  },
+  {
+    "id": "23",
+    "basType": "12",
+    "level": "2",
+    "halo": "332002",
+    "desc": "fieldSkillDesc122"
+  },
+  {
+    "id": "24",
+    "basType": "12",
+    "level": "3",
+    "halo": "332003",
+    "desc": "fieldSkillDesc123"
+  },
+  {
+    "id": "25",
+    "basType": "13",
+    "level": "1",
+    "halo": "333001",
+    "desc": "fieldSkillDesc131"
+  },
+  {
+    "id": "26",
+    "basType": "13",
+    "level": "2",
+    "halo": "333002|333003",
+    "desc": "fieldSkillDesc132"
+  },
+  {
+    "id": "27",
+    "basType": "13",
+    "level": "3",
+    "halo": "333004|333005",
+    "desc": "fieldSkillDesc133"
+  },
+  {
+    "id": "28",
+    "basType": "14",
+    "level": "1",
+    "halo": "334001",
+    "desc": "fieldSkillDesc141"
+  },
+  {
+    "id": "29",
+    "basType": "14",
+    "level": "2",
+    "halo": "334002|334003",
+    "desc": "fieldSkillDesc142"
+  },
+  {
+    "id": "30",
+    "basType": "14",
+    "level": "3",
+    "halo": "334004|334005",
+    "desc": "fieldSkillDesc143"
+  },
+  {
+    "id": "31",
+    "basType": "15",
+    "level": "1",
+    "halo": "335001|335002",
+    "desc": "fieldSkillDesc151"
+  },
+  {
+    "id": "32",
+    "basType": "15",
+    "level": "2",
+    "halo": "335003",
+    "desc": "fieldSkillDesc152"
+  },
+  {
+    "id": "33",
+    "basType": "15",
+    "level": "3",
+    "halo": "335004",
+    "desc": "fieldSkillDesc153"
+  },
+  {
+    "id": "34",
+    "basType": "16",
+    "level": "1",
+    "halo": "336001",
+    "desc": "fieldSkillDesc161"
+  },
+  {
+    "id": "35",
+    "basType": "16",
+    "level": "2",
+    "halo": "336002",
+    "desc": "fieldSkillDesc162"
+  },
+  {
+    "id": "36",
+    "basType": "16",
+    "level": "3",
+    "halo": "336003",
+    "desc": "fieldSkillDesc163"
+  }
+]

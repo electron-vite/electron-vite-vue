@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1001",
+    "condition": "haveImmortal_10007_1",
+    "dressID": "8107",
+    "enterDrama": "8050001",
+    "chatDrama": "8050301",
+    "probabilities": "100",
+    "cd": "6_12",
+    "time": "1_3"
+  },
+  {
+    "id": "1002",
+    "condition": "haveImmortal_10003_1",
+    "dressID": "8103",
+    "enterDrama": "8050101",
+    "chatDrama": "8050401",
+    "probabilities": "100",
+    "cd": "6_12",
+    "time": "1_3"
+  },
+  {
+    "id": "1003",
+    "condition": "haveImmortal_5002_1|haveImmortal_5001_1|haveImmortal_5003_1|haveImmortal_5000_1",
+    "dressID": "8115",
+    "enterDrama": "8050201",
+    "chatDrama": "8050501",
+    "probabilities": "100",
+    "cd": "6_12",
+    "time": "1_3"
+  }
+]

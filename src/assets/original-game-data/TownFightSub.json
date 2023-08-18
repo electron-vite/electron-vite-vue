@@ -1,0 +1,52 @@
+[
+  {
+    "id": "4",
+    "grade": "4",
+    "reputation": "4000",
+    "postMax": "5",
+    "postMin": "3",
+    "unitNum": "32",
+    "item": "6291013",
+    "money": "1000"
+  },
+  {
+    "id": "6",
+    "grade": "6",
+    "reputation": "12000",
+    "postMax": "5",
+    "postMin": "3",
+    "unitNum": "32",
+    "item": "6291014",
+    "money": "2500"
+  },
+  {
+    "id": "8",
+    "grade": "8",
+    "reputation": "30000",
+    "postMax": "5",
+    "postMin": "3",
+    "unitNum": "32",
+    "item": "6291015",
+    "money": "6000"
+  },
+  {
+    "id": "9",
+    "grade": "10",
+    "reputation": "80000",
+    "postMax": "5",
+    "postMin": "3",
+    "unitNum": "32",
+    "item": "6291016",
+    "money": "15000"
+  },
+  {
+    "id": "10",
+    "grade": "10",
+    "reputation": "80000",
+    "postMax": "5",
+    "postMin": "3",
+    "unitNum": "32",
+    "item": "6291016",
+    "money": "15000"
+  }
+]

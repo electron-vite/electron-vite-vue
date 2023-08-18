@@ -1,0 +1,412 @@
+[
+  {
+    "id": "98001",
+    "innerCD": "&51112_sfjg",
+    "maxTime": "&51112_bzsj|+51112_tzsj|f0",
+    "startEffect": "341113",
+    "duringEffect": "3411131",
+    "finallyEffect": "3411134",
+    "removeEffect": "3511129|35111211",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98002",
+    "innerCD": "&51113_ybjg",
+    "maxTime": "&51112_bzsj|+51112_tzsj|f0",
+    "startEffect": "341113",
+    "duringEffect": "3411131|3511136|35111313",
+    "finallyEffect": "3411134",
+    "removeEffect": "35111312|35111313",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98003",
+    "innerCD": "100000",
+    "maxTime": "&51112_bzsj|+51112_tzsj|f0",
+    "startEffect": "341113",
+    "duringEffect": "3411131",
+    "finallyEffect": "3411134",
+    "removeEffect": "3511142|3511143|3511144|3511146|3511148|3511149",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98004",
+    "innerCD": "&51115_hhjg",
+    "maxTime": "&51112_bzsj|+51112_tzsj|f0",
+    "startEffect": "341113",
+    "duringEffect": "3411131",
+    "finallyEffect": "3411134",
+    "removeEffect": "3511155|3511157|3511158|3511152",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98005",
+    "innerCD": "100000",
+    "maxTime": "&51112_bzsj|+51112_tzsj|f0",
+    "startEffect": "341113|3511162",
+    "duringEffect": "3411131|3511161|3511167",
+    "finallyEffect": "3411134",
+    "removeEffect": "3511163|3511166|3511164|3511169|35111613",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98006",
+    "innerCD": "100",
+    "maxTime": "2000",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98007",
+    "innerCD": "&17111_fssj|/17111_ddsl|f0",
+    "maxTime": "&17111_fssj",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98008",
+    "innerCD": "200",
+    "maxTime": "2500",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98009",
+    "innerCD": "500",
+    "maxTime": "5000",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98010",
+    "innerCD": "300",
+    "maxTime": "1000",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98011",
+    "innerCD": "400",
+    "maxTime": "5000",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98012",
+    "innerCD": "100",
+    "maxTime": "300",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98013",
+    "innerCD": "50",
+    "maxTime": "2500",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98014",
+    "innerCD": "130",
+    "maxTime": "1400",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98015",
+    "innerCD": "50",
+    "maxTime": "1000",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98016",
+    "innerCD": "100",
+    "maxTime": "3000",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98017",
+    "innerCD": "125",
+    "maxTime": "400",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98018",
+    "innerCD": "250",
+    "maxTime": "800",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "1"
+  },
+  {
+    "id": "98019",
+    "innerCD": "400",
+    "maxTime": "2500",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98020",
+    "innerCD": "400",
+    "maxTime": "2100",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98021",
+    "innerCD": "50",
+    "maxTime": "2000",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98022",
+    "innerCD": "&91021_fbjg",
+    "maxTime": "&91021_bmsj",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98023",
+    "innerCD": "100000",
+    "maxTime": "&9901117_hysj",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98024",
+    "innerCD": "200",
+    "maxTime": "900",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98025",
+    "innerCD": "&5151_lfcd",
+    "maxTime": "&5151_lfsj",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98026",
+    "innerCD": "&7671_lfcd",
+    "maxTime": "&7671_lfsj",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98027",
+    "innerCD": "&7261_lfcd",
+    "maxTime": "&7261_lfsj",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98028",
+    "innerCD": "250",
+    "maxTime": "3000",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98029",
+    "innerCD": "200",
+    "maxTime": "3000",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98030",
+    "innerCD": "500",
+    "maxTime": "1500",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98031",
+    "innerCD": "300",
+    "maxTime": "1500",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "980311",
+    "innerCD": "167",
+    "maxTime": "2004",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98032",
+    "innerCD": "200",
+    "maxTime": "2000",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98033",
+    "innerCD": "1000",
+    "maxTime": "5000",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98034",
+    "innerCD": "150",
+    "maxTime": "600",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98035",
+    "innerCD": "&80071_lfjg",
+    "maxTime": "&37000021_cxsj",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98036",
+    "innerCD": "&800073_lfjg",
+    "maxTime": "&800073_lfjg|x800073_lfcs|f0",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98037",
+    "innerCD": "100000",
+    "maxTime": "4000",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98038",
+    "innerCD": "400",
+    "maxTime": "0",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98039",
+    "innerCD": "200",
+    "maxTime": "1800",
+    "startEffect": "0",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  },
+  {
+    "id": "98040",
+    "innerCD": "100000",
+    "maxTime": "&30107_phsj",
+    "startEffect": "3010701",
+    "duringEffect": "0",
+    "finallyEffect": "0",
+    "removeEffect": "0",
+    "isAutoShot": "0"
+  }
+]

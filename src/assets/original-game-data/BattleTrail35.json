@@ -1,0 +1,44 @@
+[
+  {
+    "id": "35001",
+    "bulletNum": "1",
+    "moveType": "1",
+    "interval": "0",
+    "modifyDmg": "1"
+  },
+  {
+    "id": "35002",
+    "bulletNum": "1",
+    "moveType": "1",
+    "interval": "&35002_shjg",
+    "modifyDmg": "0"
+  },
+  {
+    "id": "35003",
+    "bulletNum": "1",
+    "moveType": "1",
+    "interval": "&35003_shjg",
+    "modifyDmg": "0"
+  },
+  {
+    "id": "35004",
+    "bulletNum": "1",
+    "moveType": "1",
+    "interval": "&80006_shjg",
+    "modifyDmg": "0"
+  },
+  {
+    "id": "35005",
+    "bulletNum": "1",
+    "moveType": "1",
+    "interval": "1000",
+    "modifyDmg": "0"
+  },
+  {
+    "id": "35006",
+    "bulletNum": "1",
+    "moveType": "1",
+    "interval": "0",
+    "modifyDmg": "0"
+  }
+]

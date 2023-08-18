@@ -1,0 +1,149 @@
+[
+  {
+    "id": "1",
+    "gradeRange": "-10",
+    "hpPervent": "1",
+    "rate": "1",
+    "addRate": "100"
+  },
+  {
+    "id": "2",
+    "gradeRange": "-9",
+    "hpPervent": "1",
+    "rate": "1",
+    "addRate": "100"
+  },
+  {
+    "id": "3",
+    "gradeRange": "-8",
+    "hpPervent": "1",
+    "rate": "1",
+    "addRate": "100"
+  },
+  {
+    "id": "4",
+    "gradeRange": "-7",
+    "hpPervent": "1",
+    "rate": "1",
+    "addRate": "100"
+  },
+  {
+    "id": "5",
+    "gradeRange": "-6",
+    "hpPervent": "1",
+    "rate": "5",
+    "addRate": "100"
+  },
+  {
+    "id": "6",
+    "gradeRange": "-5",
+    "hpPervent": "1",
+    "rate": "5",
+    "addRate": "100"
+  },
+  {
+    "id": "7",
+    "gradeRange": "-4",
+    "hpPervent": "1",
+    "rate": "5",
+    "addRate": "100"
+  },
+  {
+    "id": "8",
+    "gradeRange": "-3",
+    "hpPervent": "5",
+    "rate": "10",
+    "addRate": "100"
+  },
+  {
+    "id": "9",
+    "gradeRange": "-2",
+    "hpPervent": "10",
+    "rate": "20",
+    "addRate": "100"
+  },
+  {
+    "id": "10",
+    "gradeRange": "-1",
+    "hpPervent": "15",
+    "rate": "20",
+    "addRate": "100"
+  },
+  {
+    "id": "11",
+    "gradeRange": "0",
+    "hpPervent": "25",
+    "rate": "50",
+    "addRate": "150"
+  },
+  {
+    "id": "12",
+    "gradeRange": "1",
+    "hpPervent": "35",
+    "rate": "60",
+    "addRate": "150"
+  },
+  {
+    "id": "13",
+    "gradeRange": "2",
+    "hpPervent": "50",
+    "rate": "70",
+    "addRate": "200"
+  },
+  {
+    "id": "14",
+    "gradeRange": "3",
+    "hpPervent": "80",
+    "rate": "80",
+    "addRate": "200"
+  },
+  {
+    "id": "15",
+    "gradeRange": "4",
+    "hpPervent": "100",
+    "rate": "100",
+    "addRate": "0"
+  },
+  {
+    "id": "16",
+    "gradeRange": "5",
+    "hpPervent": "100",
+    "rate": "100",
+    "addRate": "0"
+  },
+  {
+    "id": "17",
+    "gradeRange": "6",
+    "hpPervent": "100",
+    "rate": "100",
+    "addRate": "0"
+  },
+  {
+    "id": "18",
+    "gradeRange": "7",
+    "hpPervent": "100",
+    "rate": "100",
+    "addRate": "0"
+  },
+  {
+    "id": "19",
+    "gradeRange": "8",
+    "hpPervent": "100",
+    "rate": "100",
+    "addRate": "0"
+  },
+  {
+    "id": "20",
+    "gradeRange": "9",
+    "hpPervent": "100",
+    "rate": "100",
+    "addRate": "0"
+  },
+  {
+    "id": "21",
+    "gradeRange": "10",
+    "hpPervent": "100",
+    "rate": "100",
+    "addRate": "0"
+  }
+]

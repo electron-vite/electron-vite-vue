@@ -1,0 +1,650 @@
+[
+  {
+    "id": "1",
+    "areaID": "2",
+    "post": "1",
+    "grade": "3",
+    "phase": "1",
+    "weight": "70",
+    "contribution": "1000"
+  },
+  {
+    "id": "2",
+    "areaID": "2",
+    "post": "1",
+    "grade": "3",
+    "phase": "1",
+    "weight": "30",
+    "contribution": "800"
+  },
+  {
+    "id": "3",
+    "areaID": "2",
+    "post": "2",
+    "grade": "2",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "600"
+  },
+  {
+    "id": "4",
+    "areaID": "2",
+    "post": "2",
+    "grade": "2",
+    "phase": "3",
+    "weight": "70",
+    "contribution": "480"
+  },
+  {
+    "id": "5",
+    "areaID": "2",
+    "post": "3",
+    "grade": "2",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "400"
+  },
+  {
+    "id": "6",
+    "areaID": "2",
+    "post": "3",
+    "grade": "2",
+    "phase": "2",
+    "weight": "70",
+    "contribution": "320"
+  },
+  {
+    "id": "7",
+    "areaID": "2",
+    "post": "4",
+    "grade": "2",
+    "phase": "2",
+    "weight": "50",
+    "contribution": "200"
+  },
+  {
+    "id": "8",
+    "areaID": "2",
+    "post": "4",
+    "grade": "2",
+    "phase": "1",
+    "weight": "50",
+    "contribution": "160"
+  },
+  {
+    "id": "9",
+    "areaID": "2",
+    "post": "5",
+    "grade": "1",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "100"
+  },
+  {
+    "id": "10",
+    "areaID": "2",
+    "post": "5",
+    "grade": "1",
+    "phase": "2",
+    "weight": "70",
+    "contribution": "80"
+  },
+  {
+    "id": "11",
+    "areaID": "2",
+    "post": "6",
+    "grade": "1",
+    "phase": "2",
+    "weight": "30",
+    "contribution": "20"
+  },
+  {
+    "id": "12",
+    "areaID": "2",
+    "post": "6",
+    "grade": "1",
+    "phase": "1",
+    "weight": "70",
+    "contribution": "16"
+  },
+  {
+    "id": "13",
+    "areaID": "4",
+    "post": "1",
+    "grade": "5",
+    "phase": "1",
+    "weight": "70",
+    "contribution": "2500"
+  },
+  {
+    "id": "14",
+    "areaID": "4",
+    "post": "1",
+    "grade": "5",
+    "phase": "1",
+    "weight": "30",
+    "contribution": "2000"
+  },
+  {
+    "id": "15",
+    "areaID": "4",
+    "post": "2",
+    "grade": "4",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "1500"
+  },
+  {
+    "id": "16",
+    "areaID": "4",
+    "post": "2",
+    "grade": "4",
+    "phase": "3",
+    "weight": "70",
+    "contribution": "1200"
+  },
+  {
+    "id": "17",
+    "areaID": "4",
+    "post": "3",
+    "grade": "4",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "1000"
+  },
+  {
+    "id": "18",
+    "areaID": "4",
+    "post": "3",
+    "grade": "4",
+    "phase": "2",
+    "weight": "70",
+    "contribution": "800"
+  },
+  {
+    "id": "19",
+    "areaID": "4",
+    "post": "4",
+    "grade": "4",
+    "phase": "2",
+    "weight": "50",
+    "contribution": "500"
+  },
+  {
+    "id": "20",
+    "areaID": "4",
+    "post": "4",
+    "grade": "4",
+    "phase": "1",
+    "weight": "50",
+    "contribution": "400"
+  },
+  {
+    "id": "21",
+    "areaID": "4",
+    "post": "5",
+    "grade": "3",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "250"
+  },
+  {
+    "id": "22",
+    "areaID": "4",
+    "post": "5",
+    "grade": "3",
+    "phase": "2",
+    "weight": "70",
+    "contribution": "200"
+  },
+  {
+    "id": "23",
+    "areaID": "4",
+    "post": "6",
+    "grade": "3",
+    "phase": "2",
+    "weight": "30",
+    "contribution": "50"
+  },
+  {
+    "id": "24",
+    "areaID": "4",
+    "post": "6",
+    "grade": "3",
+    "phase": "1",
+    "weight": "70",
+    "contribution": "40"
+  },
+  {
+    "id": "25",
+    "areaID": "6",
+    "post": "1",
+    "grade": "7",
+    "phase": "1",
+    "weight": "70",
+    "contribution": "6250"
+  },
+  {
+    "id": "26",
+    "areaID": "6",
+    "post": "1",
+    "grade": "7",
+    "phase": "1",
+    "weight": "30",
+    "contribution": "5000"
+  },
+  {
+    "id": "27",
+    "areaID": "6",
+    "post": "2",
+    "grade": "6",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "3750"
+  },
+  {
+    "id": "28",
+    "areaID": "6",
+    "post": "2",
+    "grade": "6",
+    "phase": "3",
+    "weight": "70",
+    "contribution": "3000"
+  },
+  {
+    "id": "29",
+    "areaID": "6",
+    "post": "3",
+    "grade": "6",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "2500"
+  },
+  {
+    "id": "30",
+    "areaID": "6",
+    "post": "3",
+    "grade": "6",
+    "phase": "2",
+    "weight": "70",
+    "contribution": "2000"
+  },
+  {
+    "id": "31",
+    "areaID": "6",
+    "post": "4",
+    "grade": "6",
+    "phase": "2",
+    "weight": "50",
+    "contribution": "1250"
+  },
+  {
+    "id": "32",
+    "areaID": "6",
+    "post": "4",
+    "grade": "6",
+    "phase": "1",
+    "weight": "50",
+    "contribution": "1000"
+  },
+  {
+    "id": "33",
+    "areaID": "6",
+    "post": "5",
+    "grade": "5",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "625"
+  },
+  {
+    "id": "34",
+    "areaID": "6",
+    "post": "5",
+    "grade": "5",
+    "phase": "2",
+    "weight": "70",
+    "contribution": "500"
+  },
+  {
+    "id": "35",
+    "areaID": "6",
+    "post": "6",
+    "grade": "5",
+    "phase": "2",
+    "weight": "30",
+    "contribution": "125"
+  },
+  {
+    "id": "36",
+    "areaID": "6",
+    "post": "6",
+    "grade": "5",
+    "phase": "1",
+    "weight": "70",
+    "contribution": "100"
+  },
+  {
+    "id": "37",
+    "areaID": "8",
+    "post": "1",
+    "grade": "9",
+    "phase": "1",
+    "weight": "70",
+    "contribution": "15625"
+  },
+  {
+    "id": "38",
+    "areaID": "8",
+    "post": "1",
+    "grade": "9",
+    "phase": "1",
+    "weight": "30",
+    "contribution": "12500"
+  },
+  {
+    "id": "39",
+    "areaID": "8",
+    "post": "2",
+    "grade": "8",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "9375"
+  },
+  {
+    "id": "40",
+    "areaID": "8",
+    "post": "2",
+    "grade": "8",
+    "phase": "3",
+    "weight": "70",
+    "contribution": "7500"
+  },
+  {
+    "id": "41",
+    "areaID": "8",
+    "post": "3",
+    "grade": "8",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "6250"
+  },
+  {
+    "id": "42",
+    "areaID": "8",
+    "post": "3",
+    "grade": "8",
+    "phase": "2",
+    "weight": "70",
+    "contribution": "5000"
+  },
+  {
+    "id": "43",
+    "areaID": "8",
+    "post": "4",
+    "grade": "8",
+    "phase": "2",
+    "weight": "50",
+    "contribution": "3125"
+  },
+  {
+    "id": "44",
+    "areaID": "8",
+    "post": "4",
+    "grade": "8",
+    "phase": "1",
+    "weight": "50",
+    "contribution": "2500"
+  },
+  {
+    "id": "45",
+    "areaID": "8",
+    "post": "5",
+    "grade": "7",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "1562"
+  },
+  {
+    "id": "46",
+    "areaID": "8",
+    "post": "5",
+    "grade": "7",
+    "phase": "2",
+    "weight": "70",
+    "contribution": "1250"
+  },
+  {
+    "id": "47",
+    "areaID": "8",
+    "post": "6",
+    "grade": "7",
+    "phase": "2",
+    "weight": "30",
+    "contribution": "312"
+  },
+  {
+    "id": "48",
+    "areaID": "8",
+    "post": "6",
+    "grade": "7",
+    "phase": "1",
+    "weight": "70",
+    "contribution": "250"
+  },
+  {
+    "id": "49",
+    "areaID": "9",
+    "post": "1",
+    "grade": "10",
+    "phase": "2",
+    "weight": "70",
+    "contribution": "39062"
+  },
+  {
+    "id": "50",
+    "areaID": "9",
+    "post": "1",
+    "grade": "10",
+    "phase": "1",
+    "weight": "30",
+    "contribution": "31250"
+  },
+  {
+    "id": "51",
+    "areaID": "9",
+    "post": "2",
+    "grade": "10",
+    "phase": "1",
+    "weight": "30",
+    "contribution": "23437"
+  },
+  {
+    "id": "52",
+    "areaID": "9",
+    "post": "2",
+    "grade": "9",
+    "phase": "3",
+    "weight": "70",
+    "contribution": "18750"
+  },
+  {
+    "id": "53",
+    "areaID": "9",
+    "post": "3",
+    "grade": "9",
+    "phase": "2",
+    "weight": "30",
+    "contribution": "15625"
+  },
+  {
+    "id": "54",
+    "areaID": "9",
+    "post": "3",
+    "grade": "9",
+    "phase": "1",
+    "weight": "70",
+    "contribution": "12500"
+  },
+  {
+    "id": "55",
+    "areaID": "9",
+    "post": "4",
+    "grade": "8",
+    "phase": "3",
+    "weight": "50",
+    "contribution": "7812"
+  },
+  {
+    "id": "56",
+    "areaID": "9",
+    "post": "4",
+    "grade": "8",
+    "phase": "3",
+    "weight": "50",
+    "contribution": "6250"
+  },
+  {
+    "id": "57",
+    "areaID": "9",
+    "post": "5",
+    "grade": "8",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "3905"
+  },
+  {
+    "id": "58",
+    "areaID": "9",
+    "post": "5",
+    "grade": "8",
+    "phase": "3",
+    "weight": "70",
+    "contribution": "3125"
+  },
+  {
+    "id": "59",
+    "areaID": "9",
+    "post": "6",
+    "grade": "8",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "780"
+  },
+  {
+    "id": "60",
+    "areaID": "9",
+    "post": "6",
+    "grade": "8",
+    "phase": "2",
+    "weight": "70",
+    "contribution": "625"
+  },
+  {
+    "id": "61",
+    "areaID": "10",
+    "post": "1",
+    "grade": "10",
+    "phase": "2",
+    "weight": "70",
+    "contribution": "39062"
+  },
+  {
+    "id": "62",
+    "areaID": "10",
+    "post": "1",
+    "grade": "10",
+    "phase": "1",
+    "weight": "30",
+    "contribution": "31250"
+  },
+  {
+    "id": "63",
+    "areaID": "10",
+    "post": "2",
+    "grade": "10",
+    "phase": "1",
+    "weight": "30",
+    "contribution": "23437"
+  },
+  {
+    "id": "64",
+    "areaID": "10",
+    "post": "2",
+    "grade": "9",
+    "phase": "3",
+    "weight": "70",
+    "contribution": "18750"
+  },
+  {
+    "id": "65",
+    "areaID": "10",
+    "post": "3",
+    "grade": "9",
+    "phase": "2",
+    "weight": "30",
+    "contribution": "15625"
+  },
+  {
+    "id": "66",
+    "areaID": "10",
+    "post": "3",
+    "grade": "9",
+    "phase": "1",
+    "weight": "70",
+    "contribution": "12500"
+  },
+  {
+    "id": "67",
+    "areaID": "10",
+    "post": "4",
+    "grade": "8",
+    "phase": "3",
+    "weight": "50",
+    "contribution": "7812"
+  },
+  {
+    "id": "68",
+    "areaID": "10",
+    "post": "4",
+    "grade": "8",
+    "phase": "3",
+    "weight": "50",
+    "contribution": "6250"
+  },
+  {
+    "id": "69",
+    "areaID": "10",
+    "post": "5",
+    "grade": "8",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "3905"
+  },
+  {
+    "id": "70",
+    "areaID": "10",
+    "post": "5",
+    "grade": "8",
+    "phase": "3",
+    "weight": "70",
+    "contribution": "3125"
+  },
+  {
+    "id": "71",
+    "areaID": "10",
+    "post": "6",
+    "grade": "8",
+    "phase": "3",
+    "weight": "30",
+    "contribution": "780"
+  },
+  {
+    "id": "72",
+    "areaID": "10",
+    "post": "6",
+    "grade": "8",
+    "phase": "2",
+    "weight": "70",
+    "contribution": "625"
+  }
+]

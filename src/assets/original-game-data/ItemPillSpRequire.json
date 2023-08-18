@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "grade": "1",
+    "spRequire": "0"
+  },
+  {
+    "id": "2",
+    "grade": "2",
+    "spRequire": "300"
+  },
+  {
+    "id": "3",
+    "grade": "3",
+    "spRequire": "500"
+  },
+  {
+    "id": "4",
+    "grade": "4",
+    "spRequire": "800"
+  },
+  {
+    "id": "5",
+    "grade": "5",
+    "spRequire": "1250"
+  },
+  {
+    "id": "6",
+    "grade": "6",
+    "spRequire": "2000"
+  },
+  {
+    "id": "7",
+    "grade": "7",
+    "spRequire": "3400"
+  },
+  {
+    "id": "8",
+    "grade": "8",
+    "spRequire": "5400"
+  },
+  {
+    "id": "9",
+    "grade": "9",
+    "spRequire": "8500"
+  },
+  {
+    "id": "10",
+    "grade": "10",
+    "spRequire": "14000"
+  }
+]

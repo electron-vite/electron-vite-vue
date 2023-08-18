@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "1",
+    "index": "1",
+    "text": "飞",
+    "tc": "飛",
+    "en": "Hoverer's"
+  },
+  {
+    "id": "2",
+    "index": "1",
+    "text": "舞",
+    "tc": "舞",
+    "en": "Dancer's"
+  },
+  {
+    "id": "3",
+    "index": "1",
+    "text": "吹",
+    "tc": "吹",
+    "en": "Blower's"
+  },
+  {
+    "id": "4",
+    "index": "1",
+    "text": "落",
+    "tc": "落",
+    "en": "Fallen's"
+  },
+  {
+    "id": "5",
+    "index": "1",
+    "text": "飘",
+    "tc": "飄",
+    "en": "Drifter's"
+  },
+  {
+    "id": "6",
+    "index": "1",
+    "text": "斩",
+    "tc": "斬",
+    "en": "Cutter's"
+  },
+  {
+    "id": "7",
+    "index": "1",
+    "text": "断",
+    "tc": "斷",
+    "en": "Taken's"
+  },
+  {
+    "id": "8",
+    "index": "1",
+    "text": "凝",
+    "tc": "凝",
+    "en": "Thinker's"
+  },
+  {
+    "id": "9",
+    "index": "1",
+    "text": "破",
+    "tc": "破",
+    "en": "Ravager's"
+  },
+  {
+    "id": "10",
+    "index": "1",
+    "text": "握",
+    "tc": "握",
+    "en": "Holder's"
+  },
+  {
+    "id": "11",
+    "index": "1",
+    "text": "撕",
+    "tc": "撕",
+    "en": "Slicer's"
+  },
+  {
+    "id": "12",
+    "index": "1",
+    "text": "聚",
+    "tc": "聚",
+    "en": "Fixer's"
+  },
+  {
+    "id": "13",
+    "index": "1",
+    "text": "归",
+    "tc": "歸",
+    "en": "Returner's"
+  },
+  {
+    "id": "14",
+    "index": "1",
+    "text": "炼",
+    "tc": "煉",
+    "en": "Forger's"
+  },
+  {
+    "id": "15",
+    "index": "1",
+    "text": "焚",
+    "tc": "焚",
+    "en": "Burner's"
+  },
+  {
+    "id": "16",
+    "index": "1",
+    "text": "崩",
+    "tc": "崩",
+    "en": "Befallen's"
+  },
+  {
+    "id": "17",
+    "index": "1",
+    "text": "灼",
+    "tc": "灼",
+    "en": "Seer's"
+  },
+  {
+    "id": "18",
+    "index": "1",
+    "text": "定",
+    "tc": "定",
+    "en": "Quietude's"
+  },
+  {
+    "id": "19",
+    "index": "1",
+    "text": "穿",
+    "tc": "穿",
+    "en": "Warrior's"
+  },
+  {
+    "id": "20",
+    "index": "1",
+    "text": "封",
+    "tc": "封",
+    "en": "Seal's"
+  },
+  {
+    "id": "21",
+    "index": "1",
+    "text": "月",
+    "tc": "月",
+    "en": "Moon's"
+  },
+  {
+    "id": "22",
+    "index": "1",
+    "text": "龙",
+    "tc": "龍",
+    "en": "Dragon's"
+  },
+  {
+    "id": "23",
+    "index": "1",
+    "text": "星",
+    "tc": "星",
+    "en": "Star's"
+  },
+  {
+    "id": "24",
+    "index": "1",
+    "text": "云",
+    "tc": "雲",
+    "en": "Cloud's"
+  },
+  {
+    "id": "25",
+    "index": "1",
+    "text": "血",
+    "tc": "血",
+    "en": "Blood's"
+  },
+  {
+    "id": "26",
+    "index": "1",
+    "text": "神",
+    "tc": "神",
+    "en": "Spirit's"
+  },
+  {
+    "id": "27",
+    "index": "1",
+    "text": "魔",
+    "tc": "魔",
+    "en": "Demon's"
+  },
+  {
+    "id": "28",
+    "index": "1",
+    "text": "苍",
+    "tc": "蒼",
+    "en": "Azure's"
+  },
+  {
+    "id": "29",
+    "index": "1",
+    "text": "冥",
+    "tc": "冥",
+    "en": "Nether's"
+  },
+  {
+    "id": "30",
+    "index": "1",
+    "text": "暴",
+    "tc": "暴",
+    "en": "Brute's"
+  },
+  {
+    "id": "31",
+    "index": "1",
+    "text": "狂",
+    "tc": "狂",
+    "en": "Madness'"
+  },
+  {
+    "id": "32",
+    "index": "1",
+    "text": "掣",
+    "tc": "掣",
+    "en": "Control's"
+  },
+  {
+    "id": "33",
+    "index": "1",
+    "text": "噬",
+    "tc": "噬",
+    "en": "Hunger's"
+  },
+  {
+    "id": "34",
+    "index": "1",
+    "text": "化",
+    "tc": "化",
+    "en": "Turn's"
+  },
+  {
+    "id": "35",
+    "index": "1",
+    "text": "弑",
+    "tc": "弑",
+    "en": "Death's"
+  },
+  {
+    "id": "36",
+    "index": "1",
+    "text": "无",
+    "tc": "無",
+    "en": "Void's"
+  },
+  {
+    "id": "37",
+    "index": "1",
+    "text": "孤",
+    "tc": "孤",
+    "en": "Outcast's"
+  },
+  {
+    "id": "38",
+    "index": "1",
+    "text": "流",
+    "tc": "流",
+    "en": "Wanderer's"
+  },
+  {
+    "id": "39",
+    "index": "1",
+    "text": "伏",
+    "tc": "伏",
+    "en": "Trap's"
+  },
+  {
+    "id": "40",
+    "index": "1",
+    "text": "摧",
+    "tc": "摧",
+    "en": "Wreckage's"
+  },
+  {
+    "id": "41",
+    "index": "1",
+    "text": "镇",
+    "tc": "鎮",
+    "en": "City's"
+  },
+  {
+    "id": "42",
+    "index": "1",
+    "text": "渡",
+    "tc": "渡",
+    "en": "Canal's"
+  },
+  {
+    "id": "43",
+    "index": "1",
+    "text": "夺",
+    "tc": "奪",
+    "en": "Thief's"
+  },
+  {
+    "id": "44",
+    "index": "1",
+    "text": "碎",
+    "tc": "碎",
+    "en": "Crusher's"
+  },
+  {
+    "id": "45",
+    "index": "1",
+    "text": "灭",
+    "tc": "滅",
+    "en": "Ruiner's"
+  },
+  {
+    "id": "46",
+    "index": "1",
+    "text": "轻",
+    "tc": "輕",
+    "en": "Feather's"
+  },
+  {
+    "id": "47",
+    "index": "1",
+    "text": "绝",
+    "tc": "絕",
+    "en": "Ender's"
+  },
+  {
+    "id": "48",
+    "index": "1",
+    "text": "幽",
+    "tc": "幽",
+    "en": "Gloom's"
+  },
+  {
+    "id": "49",
+    "index": "1",
+    "text": "青",
+    "tc": "青",
+    "en": "Cobalt's"
+  },
+  {
+    "id": "50",
+    "index": "1",
+    "text": "赤",
+    "tc": "赤",
+    "en": "Gore's"
+  },
+  {
+    "id": "51",
+    "index": "1",
+    "text": "金",
+    "tc": "金",
+    "en": "Gilder's"
+  },
+  {
+    "id": "52",
+    "index": "1",
+    "text": "黑",
+    "tc": "黑",
+    "en": "Obsidian's"
+  },
+  {
+    "id": "53",
+    "index": "1",
+    "text": "红",
+    "tc": "紅",
+    "en": "Ruby's"
+  },
+  {
+    "id": "54",
+    "index": "1",
+    "text": "银",
+    "tc": "銀",
+    "en": "Silver's"
+  },
+  {
+    "id": "55",
+    "index": "1",
+    "text": "禁",
+    "tc": "禁",
+    "en": "Sealer's"
+  },
+  {
+    "id": "56",
+    "index": "1",
+    "text": "残",
+    "tc": "殘",
+    "en": "Goner's"
+  },
+  {
+    "id": "57",
+    "index": "1",
+    "text": "天",
+    "tc": "天",
+    "en": "Sky's"
+  },
+  {
+    "id": "58",
+    "index": "1",
+    "text": "幻",
+    "tc": "幻",
+    "en": "Mirage's"
+  },
+  {
+    "id": "59",
+    "index": "1",
+    "text": "疾",
+    "tc": "疾",
+    "en": "Alacrity's"
+  },
+  {
+    "id": "60",
+    "index": "1",
+    "text": "怒",
+    "tc": "怒",
+    "en": "Anger's"
+  },
+  {
+    "id": "61",
+    "index": "1",
+    "text": "炽",
+    "tc": "熾",
+    "en": "Flare's"
+  },
+  {
+    "id": "62",
+    "index": "1",
+    "text": "灵",
+    "tc": "靈",
+    "en": "Aether's"
+  },
+  {
+    "id": "63",
+    "index": "1",
+    "text": "墨",
+    "tc": "墨",
+    "en": "Inker's"
+  },
+  {
+    "id": "64",
+    "index": "1",
+    "text": "锁",
+    "tc": "鎖",
+    "en": "Chainer's"
+  },
+  {
+    "id": "65",
+    "index": "1",
+    "text": "御",
+    "tc": "禦",
+    "en": "Wielder's"
+  },
+  {
+    "id": "66",
+    "index": "1",
+    "text": "虚",
+    "tc": "虛",
+    "en": "Deserter's"
+  },
+  {
+    "id": "67",
+    "index": "1",
+    "text": "暗",
+    "tc": "暗",
+    "en": "Doom's"
+  },
+  {
+    "id": "68",
+    "index": "1",
+    "text": "邪",
+    "tc": "邪",
+    "en": "Evil's"
+  },
+  {
+    "id": "69",
+    "index": "1",
+    "text": "荒",
+    "tc": "荒",
+    "en": "Waste's"
+  },
+  {
+    "id": "70",
+    "index": "1",
+    "text": "蚀",
+    "tc": "蝕",
+    "en": "Gnawer's"
+  },
+  {
+    "id": "71",
+    "index": "1",
+    "text": "寂",
+    "tc": "寂",
+    "en": "Silence's"
+  },
+  {
+    "id": "72",
+    "index": "1",
+    "text": "爆",
+    "tc": "爆",
+    "en": "Burster's"
+  },
+  {
+    "id": "73",
+    "index": "1",
+    "text": "裂",
+    "tc": "裂",
+    "en": "Tearer's"
+  },
+  {
+    "id": "74",
+    "index": "1",
+    "text": "劫",
+    "tc": "劫",
+    "en": "Suffering's"
+  },
+  {
+    "id": "75",
+    "index": "1",
+    "text": "贯",
+    "tc": "貫",
+    "en": "Piercer's"
+  },
+  {
+    "id": "76",
+    "index": "1",
+    "text": "震",
+    "tc": "震",
+    "en": "Tremor's"
+  },
+  {
+    "id": "77",
+    "index": "1",
+    "text": "玄",
+    "tc": "玄",
+    "en": "Mystic's"
+  },
+  {
+    "id": "78",
+    "index": "1",
+    "text": "碧",
+    "tc": "碧",
+    "en": "Jade's"
+  },
+  {
+    "id": "79",
+    "index": "1",
+    "text": "紫",
+    "tc": "紫",
+    "en": "Violet's"
+  },
+  {
+    "id": "80",
+    "index": "1",
+    "text": "煞",
+    "tc": "煞",
+    "en": "Miasma's"
+  },
+  {
+    "id": "81",
+    "index": "1",
+    "text": "逐",
+    "tc": "逐",
+    "en": "Expeller's"
+  },
+  {
+    "id": "82",
+    "index": "1",
+    "text": "极",
+    "tc": "極",
+    "en": "King's"
+  },
+  {
+    "id": "83",
+    "index": "1",
+    "text": "沧",
+    "tc": "滄",
+    "en": "Seeker's"
+  },
+  {
+    "id": "84",
+    "index": "1",
+    "text": "元",
+    "tc": "元",
+    "en": "Origin's"
+  },
+  {
+    "id": "85",
+    "index": "1",
+    "text": "融",
+    "tc": "融",
+    "en": "Melter's"
+  },
+  {
+    "id": "86",
+    "index": "1",
+    "text": "轰",
+    "tc": "轟",
+    "en": "Boomer's"
+  },
+  {
+    "id": "87",
+    "index": "1",
+    "text": "独",
+    "tc": "獨",
+    "en": "Loner's"
+  },
+  {
+    "id": "88",
+    "index": "1",
+    "text": "折",
+    "tc": "折",
+    "en": "Refraction's"
+  },
+  {
+    "id": "89",
+    "index": "1",
+    "text": "阳",
+    "tc": "陽",
+    "en": "Sun's"
+  },
+  {
+    "id": "90",
+    "index": "1",
+    "text": "雨",
+    "tc": "雨",
+    "en": "Rain's"
+  },
+  {
+    "id": "91",
+    "index": "1",
+    "text": "追",
+    "tc": "追",
+    "en": "Chaser's"
+  },
+  {
+    "id": "92",
+    "index": "1",
+    "text": "白",
+    "tc": "白",
+    "en": "Washer's"
+  },
+  {
+    "id": "93",
+    "index": "1",
+    "text": "夜",
+    "tc": "夜",
+    "en": "Night's"
+  },
+  {
+    "id": "94",
+    "index": "1",
+    "text": "吞",
+    "tc": "吞",
+    "en": "Devourer's"
+  },
+  {
+    "id": "95",
+    "index": "1",
+    "text": "迅",
+    "tc": "迅",
+    "en": "Haste's"
+  },
+  {
+    "id": "96",
+    "index": "1",
+    "text": "溟",
+    "tc": "溟",
+    "en": "Hell's"
+  },
+  {
+    "id": "97",
+    "index": "1",
+    "text": "凌",
+    "tc": "淩",
+    "en": "Razor's"
+  },
+  {
+    "id": "98",
+    "index": "1",
+    "text": "燎",
+    "tc": "燎",
+    "en": "Blaze's"
+  },
+  {
+    "id": "99",
+    "index": "1",
+    "text": "影",
+    "tc": "影",
+    "en": "Shadow's"
+  },
+  {
+    "id": "100",
+    "index": "1",
+    "text": "霸",
+    "tc": "霸",
+    "en": "Emperor's"
+  },
+  {
+    "id": "101",
+    "index": "1",
+    "text": "凛",
+    "tc": "凜",
+    "en": "Edge's"
+  },
+  {
+    "id": "102",
+    "index": "1",
+    "text": "刹",
+    "tc": "刹",
+    "en": "Killer's"
+  },
+  {
+    "id": "103",
+    "index": "1",
+    "text": "清",
+    "tc": "清",
+    "en": "Blessed's"
+  },
+  {
+    "id": "104",
+    "index": "1",
+    "text": "啸",
+    "tc": "嘯",
+    "en": "Roar's"
+  },
+  {
+    "id": "105",
+    "index": "1",
+    "text": "腾",
+    "tc": "騰",
+    "en": "Rider's"
+  },
+  {
+    "id": "106",
+    "index": "1",
+    "text": "惊",
+    "tc": "驚",
+    "en": "Fear's"
+  },
+  {
+    "id": "107",
+    "index": "1",
+    "text": "念",
+    "tc": "念",
+    "en": "Piner's"
+  },
+  {
+    "id": "108",
+    "index": "1",
+    "text": "遮",
+    "tc": "遮",
+    "en": "Blocker's"
+  },
+  {
+    "id": "109",
+    "index": "1",
+    "text": "远",
+    "tc": "遠",
+    "en": "Foreigner's"
+  },
+  {
+    "id": "110",
+    "index": "1",
+    "text": "陨",
+    "tc": "隕",
+    "en": "Dead's"
+  },
+  {
+    "id": "111",
+    "index": "1",
+    "text": "冲",
+    "tc": "沖",
+    "en": "Rusher's"
+  },
+  {
+    "id": "112",
+    "index": "1",
+    "text": "奔",
+    "tc": "奔",
+    "en": "Runner's"
+  },
+  {
+    "id": "113",
+    "index": "1",
+    "text": "烈",
+    "tc": "烈",
+    "en": "Carp's"
+  },
+  {
+    "id": "114",
+    "index": "1",
+    "text": "半",
+    "tc": "半",
+    "en": "Wind's"
+  },
+  {
+    "id": "115",
+    "index": "1",
+    "text": "重",
+    "tc": "重",
+    "en": "Earth's"
+  },
+  {
+    "id": "116",
+    "index": "1",
+    "text": "太",
+    "tc": "太",
+    "en": "Metal's"
+  },
+  {
+    "id": "117",
+    "index": "1",
+    "text": "弥",
+    "tc": "彌",
+    "en": "Fire's"
+  },
+  {
+    "id": "118",
+    "index": "1",
+    "text": "漫",
+    "tc": "漫",
+    "en": "Water's"
+  },
+  {
+    "id": "119",
+    "index": "1",
+    "text": "诛",
+    "tc": "誅",
+    "en": "Essence's"
+  },
+  {
+    "id": "120",
+    "index": "1",
+    "text": "逆",
+    "tc": "逆",
+    "en": "Pearl's"
+  },
+  {
+    "id": "121",
+    "index": "1",
+    "text": "劈",
+    "tc": "劈",
+    "en": "Wrath's"
+  },
+  {
+    "id": "122",
+    "index": "1",
+    "text": "卷",
+    "tc": "卷",
+    "en": "Envy's"
+  },
+  {
+    "id": "123",
+    "index": "1",
+    "text": "荡",
+    "tc": "蕩",
+    "en": "Lust's"
+  },
+  {
+    "id": "124",
+    "index": "1",
+    "text": "横",
+    "tc": "橫",
+    "en": "Greed's"
+  },
+  {
+    "id": "125",
+    "index": "1",
+    "text": "柔",
+    "tc": "柔",
+    "en": "Pride's"
+  },
+  {
+    "id": "126",
+    "index": "1",
+    "text": "禅",
+    "tc": "禪",
+    "en": "Gluttony's"
+  },
+  {
+    "id": "127",
+    "index": "1",
+    "text": "仙",
+    "tc": "仙",
+    "en": "Sloth's"
+  },
+  {
+    "id": "128",
+    "index": "1",
+    "text": "炙",
+    "tc": "炙",
+    "en": "Prudence's"
+  },
+  {
+    "id": "129",
+    "index": "1",
+    "text": "狱",
+    "tc": "獄",
+    "en": "Justice's"
+  },
+  {
+    "id": "130",
+    "index": "1",
+    "text": "灾",
+    "tc": "災",
+    "en": "Fortitude's"
+  },
+  {
+    "id": "131",
+    "index": "1",
+    "text": "阴",
+    "tc": "陰",
+    "en": "Temperance's"
+  },
+  {
+    "id": "132",
+    "index": "1",
+    "text": "朔",
+    "tc": "朔",
+    "en": "Chastity's"
+  },
+  {
+    "id": "133",
+    "index": "1",
+    "text": "罡",
+    "tc": "罡",
+    "en": "Charity's"
+  },
+  {
+    "id": "134",
+    "index": "1",
+    "text": "朽",
+    "tc": "朽",
+    "en": "Diligence's"
+  },
+  {
+    "id": "135",
+    "index": "1",
+    "text": "虎",
+    "tc": "虎",
+    "en": "Patience's"
+  },
+  {
+    "id": "136",
+    "index": "1",
+    "text": "意",
+    "tc": "意",
+    "en": "Humility's"
+  },
+  {
+    "id": "137",
+    "index": "1",
+    "text": "锻",
+    "tc": "鍛",
+    "en": "Mercy's"
+  },
+  {
+    "id": "138",
+    "index": "1",
+    "text": "脱",
+    "tc": "脫",
+    "en": "Bravery's"
+  },
+  {
+    "id": "139",
+    "index": "1",
+    "text": "汲",
+    "tc": "汲",
+    "en": "Purity's"
+  },
+  {
+    "id": "140",
+    "index": "1",
+    "text": "嗜",
+    "tc": "嗜",
+    "en": "Sacrifice's"
+  },
+  {
+    "id": "141",
+    "index": "1",
+    "text": "旋",
+    "tc": "旋",
+    "en": "Wisdom's"
+  },
+  {
+    "id": "142",
+    "index": "1",
+    "text": "闪",
+    "tc": "閃",
+    "en": "Vitality's"
+  },
+  {
+    "id": "143",
+    "index": "1",
+    "text": "瞬",
+    "tc": "瞬",
+    "en": "Strength's"
+  },
+  {
+    "id": "144",
+    "index": "1",
+    "text": "恨",
+    "tc": "恨",
+    "en": "Dexterity's"
+  },
+  {
+    "id": "145",
+    "index": "1",
+    "text": "巨",
+    "tc": "巨",
+    "en": "Charm's"
+  },
+  {
+    "id": "146",
+    "index": "1",
+    "text": "覆",
+    "tc": "覆",
+    "en": "Fidelity's"
+  },
+  {
+    "id": "147",
+    "index": "1",
+    "text": "鬼",
+    "tc": "鬼",
+    "en": "Propriety's"
+  },
+  {
+    "id": "148",
+    "index": "1",
+    "text": "降",
+    "tc": "降",
+    "en": "Harmony's"
+  },
+  {
+    "id": "149",
+    "index": "1",
+    "text": "六",
+    "tc": "六",
+    "en": "Integrity's"
+  },
+  {
+    "id": "150",
+    "index": "1",
+    "text": "如",
+    "tc": "如",
+    "en": "Turtle's"
+  },
+  {
+    "id": "151",
+    "index": "1",
+    "text": "囚",
+    "tc": "囚",
+    "en": "Visage's"
+  },
+  {
+    "id": "152",
+    "index": "1",
+    "text": "合",
+    "tc": "合",
+    "en": "Smith's"
+  },
+  {
+    "id": "153",
+    "index": "1",
+    "text": "明",
+    "tc": "明",
+    "en": "Ceremony's"
+  },
+  {
+    "id": "154",
+    "index": "1",
+    "text": "绮",
+    "tc": "綺",
+    "en": "Ruler's"
+  },
+  {
+    "id": "155",
+    "index": "1",
+    "text": "梵",
+    "tc": "梵",
+    "en": "Sage's"
+  },
+  {
+    "id": "156",
+    "index": "1",
+    "text": "离",
+    "tc": "離",
+    "en": "Crystal's"
+  },
+  {
+    "id": "157",
+    "index": "1",
+    "text": "辰",
+    "tc": "辰",
+    "en": "Stardust's"
+  },
+  {
+    "id": "158",
+    "index": "1",
+    "text": "九",
+    "tc": "九",
+    "en": "Moonfall's"
+  },
+  {
+    "id": "159",
+    "index": "1",
+    "text": "混",
+    "tc": "混",
+    "en": "Physique's"
+  },
+  {
+    "id": "160",
+    "index": "1",
+    "text": "擎",
+    "tc": "擎",
+    "en": "Soul's"
+  },
+  {
+    "id": "161",
+    "index": "1",
+    "text": "真",
+    "tc": "真",
+    "en": "Fool's"
+  },
+  {
+    "id": "162",
+    "index": "1",
+    "text": "纯",
+    "tc": "純",
+    "en": "Alchemist's"
+  },
+  {
+    "id": "163",
+    "index": "1",
+    "text": "精",
+    "tc": "精",
+    "en": "Grinder's"
+  },
+  {
+    "id": "164",
+    "index": "1",
+    "text": "尖",
+    "tc": "尖",
+    "en": "Restorer's"
+  },
+  {
+    "id": "165",
+    "index": "1",
+    "text": "回",
+    "tc": "回",
+    "en": "Doppler's"
+  },
+  {
+    "id": "166",
+    "index": "1",
+    "text": "两",
+    "tc": "兩",
+    "en": "Veracity's"
+  },
+  {
+    "id": "167",
+    "index": "1",
+    "text": "一",
+    "tc": "一",
+    "en": "Wafter's"
+  },
+  {
+    "id": "168",
+    "index": "1",
+    "text": "浮",
+    "tc": "浮",
+    "en": "Millenial's"
+  },
+  {
+    "id": "169",
+    "index": "1",
+    "text": "万",
+    "tc": "萬",
+    "en": "Ashen's"
+  },
+  {
+    "id": "170",
+    "index": "1",
+    "text": "烬",
+    "tc": "燼",
+    "en": "Taker's"
+  },
+  {
+    "id": "171",
+    "index": "1",
+    "text": "摄",
+    "tc": "攝",
+    "en": "Trinity's"
+  },
+  {
+    "id": "172",
+    "index": "1",
+    "text": "三",
+    "tc": "三",
+    "en": "Path's"
+  },
+  {
+    "id": "173",
+    "index": "1",
+    "text": "道",
+    "tc": "道",
+    "en": "Intent's"
+  },
+  {
+    "id": "174",
+    "index": "1",
+    "text": "戾",
+    "tc": "戾",
+    "en": "Youth's"
+  },
+  {
+    "id": "175",
+    "index": "1",
+    "text": "少",
+    "tc": "少",
+    "en": "Sheen's"
+  },
+  {
+    "id": "176",
+    "index": "1",
+    "text": "耀",
+    "tc": "耀",
+    "en": "Space's"
+  },
+  {
+    "id": "177",
+    "index": "1",
+    "text": "空",
+    "tc": "空",
+    "en": "Shaper's"
+  },
+  {
+    "id": "178",
+    "index": "1",
+    "text": "形",
+    "tc": "形",
+    "en": "Looker's"
+  },
+  {
+    "id": "179",
+    "index": "1",
+    "text": "望",
+    "tc": "望",
+    "en": "Nirvana's"
+  },
+  {
+    "id": "180",
+    "index": "1",
+    "text": "涅",
+    "tc": "涅",
+    "en": "Coal's"
+  },
+  {
+    "id": "181",
+    "index": "1",
+    "text": "燃",
+    "tc": "燃",
+    "en": "Opener's"
+  },
+  {
+    "id": "182",
+    "index": "1",
+    "text": "开",
+    "tc": "開",
+    "en": "Candor's"
+  },
+  {
+    "id": "183",
+    "index": "1",
+    "text": "正",
+    "tc": "正",
+    "en": "Chao's"
+  },
+  {
+    "id": "184",
+    "index": "1",
+    "text": "浑",
+    "tc": "渾",
+    "en": "Viewer's"
+  },
+  {
+    "id": "185",
+    "index": "1",
+    "text": "朝",
+    "tc": "朝",
+    "en": "Splitter's"
+  },
+  {
+    "id": "186",
+    "index": "1",
+    "text": "分",
+    "tc": "分",
+    "en": "Twin's"
+  },
+  {
+    "id": "187",
+    "index": "1",
+    "text": "双",
+    "tc": "雙",
+    "en": "Step's"
+  },
+  {
+    "id": "188",
+    "index": "1",
+    "text": "踏",
+    "tc": "踏",
+    "en": "Nihil's"
+  },
+  {
+    "id": "189",
+    "index": "1",
+    "text": "湮",
+    "tc": "湮",
+    "en": "Clawer's"
+  },
+  {
+    "id": "190",
+    "index": "1",
+    "text": "凶",
+    "tc": "凶",
+    "en": "Biter's"
+  },
+  {
+    "id": "191",
+    "index": "1",
+    "text": "猛",
+    "tc": "猛",
+    "en": "Lasher's"
+  },
+  {
+    "id": "192",
+    "index": "1",
+    "text": "索",
+    "tc": "索",
+    "en": "Binder's"
+  },
+  {
+    "id": "193",
+    "index": "1",
+    "text": "缚",
+    "tc": "縛",
+    "en": "Dispersal's"
+  },
+  {
+    "id": "194",
+    "index": "1",
+    "text": "散",
+    "tc": "散",
+    "en": "Freedom's"
+  },
+  {
+    "id": "195",
+    "index": "1",
+    "text": "逸",
+    "tc": "逸",
+    "en": "Hidden's"
+  },
+  {
+    "id": "196",
+    "index": "1",
+    "text": "隐",
+    "tc": "隱",
+    "en": "Aeon's"
+  },
+  {
+    "id": "197",
+    "index": "1",
+    "text": "千",
+    "tc": "千",
+    "en": "Truth's"
+  },
+  {
+    "id": "198",
+    "index": "1",
+    "text": "乾",
+    "tc": "乾",
+    "en": "Apocalypse's"
+  },
+  {
+    "id": "199",
+    "index": "1",
+    "text": "四",
+    "tc": "四",
+    "en": "Remover's"
+  },
+  {
+    "id": "200",
+    "index": "1",
+    "text": "移",
+    "tc": "移",
+    "en": "Memory's"
+  },
+  {
+    "id": "201",
+    "index": "2",
+    "text": "云",
+    "tc": "雲",
+    "en": "Clouded"
+  },
+  {
+    "id": "202",
+    "index": "2",
+    "text": "羽",
+    "tc": "羽",
+    "en": "Feathered"
+  },
+  {
+    "id": "203",
+    "index": "2",
+    "text": "雨",
+    "tc": "雨",
+    "en": "Drowned"
+  },
+  {
+    "id": "204",
+    "index": "2",
+    "text": "雪",
+    "tc": "雪",
+    "en": "Frozen"
+  },
+  {
+    "id": "205",
+    "index": "2",
+    "text": "花",
+    "tc": "花",
+    "en": "Petaled"
+  },
+  {
+    "id": "206",
+    "index": "2",
+    "text": "星",
+    "tc": "星",
+    "en": "Starry"
+  },
+  {
+    "id": "207",
+    "index": "2",
+    "text": "月",
+    "tc": "月",
+    "en": "Moonlit"
+  },
+  {
+    "id": "208",
+    "index": "2",
+    "text": "天",
+    "tc": "天",
+    "en": "Cerulean"
+  },
+  {
+    "id": "209",
+    "index": "2",
+    "text": "空",
+    "tc": "空",
+    "en": "Empty"
+  },
+  {
+    "id": "210",
+    "index": "2",
+    "text": "魂",
+    "tc": "魂",
+    "en": "Ensouled"
+  },
+  {
+    "id": "211",
+    "index": "2",
+    "text": "霜",
+    "tc": "霜",
+    "en": "Frosty"
+  },
+  {
+    "id": "212",
+    "index": "2",
+    "text": "神",
+    "tc": "神",
+    "en": "Spirited"
+  },
+  {
+    "id": "213",
+    "index": "2",
+    "text": "元",
+    "tc": "元",
+    "en": "Original"
+  },
+  {
+    "id": "214",
+    "index": "2",
+    "text": "气",
+    "tc": "氣",
+    "en": "Airy"
+  },
+  {
+    "id": "215",
+    "index": "2",
+    "text": "日",
+    "tc": "日",
+    "en": "Sunny"
+  },
+  {
+    "id": "216",
+    "index": "2",
+    "text": "仞",
+    "tc": "仞",
+    "en": "Edged"
+  },
+  {
+    "id": "217",
+    "index": "2",
+    "text": "冥",
+    "tc": "冥",
+    "en": "Nether"
+  },
+  {
+    "id": "218",
+    "index": "2",
+    "text": "灵",
+    "tc": "靈",
+    "en": "Ethereal"
+  },
+  {
+    "id": "219",
+    "index": "2",
+    "text": "影",
+    "tc": "影",
+    "en": "Shadowy"
+  },
+  {
+    "id": "220",
+    "index": "2",
+    "text": "尘",
+    "tc": "塵",
+    "en": "Dusted"
+  },
+  {
+    "id": "221",
+    "index": "2",
+    "text": "音",
+    "tc": "音",
+    "en": "Chiming"
+  },
+  {
+    "id": "222",
+    "index": "2",
+    "text": "阳",
+    "tc": "陽",
+    "en": "Sunlit"
+  },
+  {
+    "id": "223",
+    "index": "2",
+    "text": "痕",
+    "tc": "痕",
+    "en": "Wounded"
+  },
+  {
+    "id": "224",
+    "index": "2",
+    "text": "龙",
+    "tc": "龍",
+    "en": "Draconic"
+  },
+  {
+    "id": "225",
+    "index": "2",
+    "text": "血",
+    "tc": "血",
+    "en": "Blooded"
+  },
+  {
+    "id": "226",
+    "index": "2",
+    "text": "锋",
+    "tc": "鋒",
+    "en": "Edgy"
+  },
+  {
+    "id": "227",
+    "index": "2",
+    "text": "心",
+    "tc": "心",
+    "en": "Heartfelt"
+  },
+  {
+    "id": "228",
+    "index": "2",
+    "text": "山",
+    "tc": "山",
+    "en": "Hilly"
+  },
+  {
+    "id": "229",
+    "index": "2",
+    "text": "阴",
+    "tc": "陰",
+    "en": "Dark"
+  },
+  {
+    "id": "230",
+    "index": "2",
+    "text": "翼",
+    "tc": "翼",
+    "en": "Winged"
+  },
+  {
+    "id": "231",
+    "index": "2",
+    "text": "梦",
+    "tc": "夢",
+    "en": "Dreamy"
+  },
+  {
+    "id": "232",
+    "index": "2",
+    "text": "光",
+    "tc": "光",
+    "en": "Light"
+  },
+  {
+    "id": "233",
+    "index": "2",
+    "text": "莲",
+    "tc": "蓮",
+    "en": "Blooming"
+  },
+  {
+    "id": "234",
+    "index": "2",
+    "text": "域",
+    "tc": "域",
+    "en": "Worldly"
+  },
+  {
+    "id": "235",
+    "index": "2",
+    "text": "魔",
+    "tc": "魔",
+    "en": "Demonic"
+  },
+  {
+    "id": "236",
+    "index": "2",
+    "text": "鸦",
+    "tc": "鴉",
+    "en": "Cawing"
+  },
+  {
+    "id": "237",
+    "index": "2",
+    "text": "狱",
+    "tc": "獄",
+    "en": "Binding"
+  },
+  {
+    "id": "238",
+    "index": "2",
+    "text": "邪",
+    "tc": "邪",
+    "en": "Evil"
+  },
+  {
+    "id": "239",
+    "index": "2",
+    "text": "烟",
+    "tc": "煙",
+    "en": "Smoky"
+  },
+  {
+    "id": "240",
+    "index": "2",
+    "text": "墨",
+    "tc": "墨",
+    "en": "Inky"
+  },
+  {
+    "id": "241",
+    "index": "2",
+    "text": "雷",
+    "tc": "雷",
+    "en": "Thundrous"
+  },
+  {
+    "id": "242",
+    "index": "2",
+    "text": "樱",
+    "tc": "櫻",
+    "en": "Cherry"
+  },
+  {
+    "id": "243",
+    "index": "2",
+    "text": "夜",
+    "tc": "夜",
+    "en": "Nightly"
+  },
+  {
+    "id": "244",
+    "index": "2",
+    "text": "玉",
+    "tc": "玉",
+    "en": "Jade"
+  },
+  {
+    "id": "245",
+    "index": "2",
+    "text": "寒",
+    "tc": "寒",
+    "en": "Cold"
+  },
+  {
+    "id": "246",
+    "index": "2",
+    "text": "煞",
+    "tc": "煞",
+    "en": "Menacing"
+  },
+  {
+    "id": "247",
+    "index": "2",
+    "text": "岩",
+    "tc": "岩",
+    "en": "Stony"
+  },
+  {
+    "id": "248",
+    "index": "2",
+    "text": "道",
+    "tc": "道",
+    "en": "Truthful"
+  },
+  {
+    "id": "249",
+    "index": "2",
+    "text": "虎",
+    "tc": "虎",
+    "en": "Tigris"
+  },
+  {
+    "id": "250",
+    "index": "2",
+    "text": "岳",
+    "tc": "嶽",
+    "en": "High"
+  },
+  {
+    "id": "251",
+    "index": "2",
+    "text": "魄",
+    "tc": "魄",
+    "en": "Hearty"
+  },
+  {
+    "id": "252",
+    "index": "2",
+    "text": "瘴",
+    "tc": "瘴",
+    "en": "Miasmic"
+  },
+  {
+    "id": "253",
+    "index": "2",
+    "text": "衡",
+    "tc": "衡",
+    "en": "Balanced"
+  },
+  {
+    "id": "254",
+    "index": "2",
+    "text": "隐",
+    "tc": "隱",
+    "en": "Veiled"
+  },
+  {
+    "id": "255",
+    "index": "2",
+    "text": "劫",
+    "tc": "劫",
+    "en": "Trying"
+  },
+  {
+    "id": "256",
+    "index": "2",
+    "text": "形",
+    "tc": "形",
+    "en": "Forming"
+  },
+  {
+    "id": "257",
+    "index": "2",
+    "text": "溟",
+    "tc": "溟",
+    "en": "Deep"
+  },
+  {
+    "id": "258",
+    "index": "2",
+    "text": "圣",
+    "tc": "聖",
+    "en": "Divine"
+  },
+  {
+    "id": "259",
+    "index": "2",
+    "text": "鬼",
+    "tc": "鬼",
+    "en": "Ghostly"
+  },
+  {
+    "id": "260",
+    "index": "2",
+    "text": "璃",
+    "tc": "璃",
+    "en": "Shiny"
+  },
+  {
+    "id": "261",
+    "index": "2",
+    "text": "霄",
+    "tc": "霄",
+    "en": "Lofty"
+  },
+  {
+    "id": "262",
+    "index": "2",
+    "text": "脉",
+    "tc": "脈",
+    "en": "Pulsing"
+  },
+  {
+    "id": "263",
+    "index": "2",
+    "text": "舞",
+    "tc": "舞",
+    "en": "Dancing"
+  },
+  {
+    "id": "264",
+    "index": "2",
+    "text": "曜",
+    "tc": "曜",
+    "en": "Gleaming"
+  },
+  {
+    "id": "265",
+    "index": "2",
+    "text": "落",
+    "tc": "落",
+    "en": "Diving"
+  },
+  {
+    "id": "266",
+    "index": "2",
+    "text": "飘",
+    "tc": "飄",
+    "en": "Drifting"
+  },
+  {
+    "id": "267",
+    "index": "2",
+    "text": "凝",
+    "tc": "凝",
+    "en": "Focusing"
+  },
+  {
+    "id": "268",
+    "index": "2",
+    "text": "清",
+    "tc": "清",
+    "en": "Pure"
+  },
+  {
+    "id": "269",
+    "index": "2",
+    "text": "灭",
+    "tc": "滅",
+    "en": "Deathly"
+  },
+  {
+    "id": "270",
+    "index": "2",
+    "text": "渡",
+    "tc": "渡",
+    "en": "Gliding"
+  },
+  {
+    "id": "271",
+    "index": "2",
+    "text": "啸",
+    "tc": "嘯",
+    "en": "Roaring"
+  },
+  {
+    "id": "272",
+    "index": "2",
+    "text": "凛",
+    "tc": "凜",
+    "en": "Chilling"
+  },
+  {
+    "id": "273",
+    "index": "2",
+    "text": "瑕",
+    "tc": "瑕",
+    "en": "Flawed"
+  },
+  {
+    "id": "274",
+    "index": "2",
+    "text": "虹",
+    "tc": "虹",
+    "en": "Prismic"
+  },
+  {
+    "id": "275",
+    "index": "2",
+    "text": "念",
+    "tc": "念",
+    "en": "Thinking"
+  },
+  {
+    "id": "276",
+    "index": "2",
+    "text": "沧",
+    "tc": "滄",
+    "en": "Blue"
+  },
+  {
+    "id": "277",
+    "index": "2",
+    "text": "岚",
+    "tc": "嵐",
+    "en": "Stormy"
+  },
+  {
+    "id": "278",
+    "index": "2",
+    "text": "破",
+    "tc": "破",
+    "en": "Ruinous"
+  },
+  {
+    "id": "279",
+    "index": "2",
+    "text": "碎",
+    "tc": "碎",
+    "en": "Breaking"
+  },
+  {
+    "id": "280",
+    "index": "2",
+    "text": "化",
+    "tc": "化",
+    "en": "Becoming"
+  },
+  {
+    "id": "281",
+    "index": "2",
+    "text": "雾",
+    "tc": "霧",
+    "en": "Misty"
+  },
+  {
+    "id": "282",
+    "index": "2",
+    "text": "吟",
+    "tc": "吟",
+    "en": "Singing"
+  },
+  {
+    "id": "283",
+    "index": "2",
+    "text": "荒",
+    "tc": "荒",
+    "en": "Decaying"
+  },
+  {
+    "id": "284",
+    "index": "2",
+    "text": "陨",
+    "tc": "隕",
+    "en": "Falling"
+  },
+  {
+    "id": "285",
+    "index": "2",
+    "text": "界",
+    "tc": "界",
+    "en": "Global"
+  },
+  {
+    "id": "286",
+    "index": "2",
+    "text": "虚",
+    "tc": "虛",
+    "en": "Voidborn"
+  },
+  {
+    "id": "287",
+    "index": "2",
+    "text": "沙",
+    "tc": "沙",
+    "en": "Sandy"
+  },
+  {
+    "id": "288",
+    "index": "2",
+    "text": "涛",
+    "tc": "濤",
+    "en": "Tidal"
+  },
+  {
+    "id": "289",
+    "index": "2",
+    "text": "浪",
+    "tc": "浪",
+    "en": "Wavy"
+  },
+  {
+    "id": "290",
+    "index": "2",
+    "text": "波",
+    "tc": "波",
+    "en": "Moist"
+  },
+  {
+    "id": "291",
+    "index": "2",
+    "text": "澜",
+    "tc": "瀾",
+    "en": "Rippling"
+  },
+  {
+    "id": "292",
+    "index": "2",
+    "text": "幽",
+    "tc": "幽",
+    "en": "Gloomy"
+  },
+  {
+    "id": "293",
+    "index": "2",
+    "text": "辰",
+    "tc": "辰",
+    "en": "Dawning"
+  },
+  {
+    "id": "294",
+    "index": "2",
+    "text": "桥",
+    "tc": "橋",
+    "en": "Bridged"
+  },
+  {
+    "id": "295",
+    "index": "2",
+    "text": "谷",
+    "tc": "穀",
+    "en": "Valley"
+  },
+  {
+    "id": "296",
+    "index": "2",
+    "text": "崖",
+    "tc": "崖",
+    "en": "Steep"
+  },
+  {
+    "id": "297",
+    "index": "2",
+    "text": "峰",
+    "tc": "峰",
+    "en": "Peaked"
+  },
+  {
+    "id": "298",
+    "index": "2",
+    "text": "湖",
+    "tc": "湖",
+    "en": "Streaming"
+  },
+  {
+    "id": "299",
+    "index": "2",
+    "text": "川",
+    "tc": "川",
+    "en": "Flowing"
+  },
+  {
+    "id": "300",
+    "index": "2",
+    "text": "河",
+    "tc": "河",
+    "en": "River-run"
+  },
+  {
+    "id": "301",
+    "index": "2",
+    "text": "江",
+    "tc": "江",
+    "en": "Engulfing"
+  },
+  {
+    "id": "302",
+    "index": "2",
+    "text": "海",
+    "tc": "海",
+    "en": "Oceanic"
+  },
+  {
+    "id": "303",
+    "index": "2",
+    "text": "印",
+    "tc": "印",
+    "en": "Symbolic"
+  },
+  {
+    "id": "304",
+    "index": "2",
+    "text": "钟",
+    "tc": "鐘",
+    "en": "Tolling"
+  },
+  {
+    "id": "305",
+    "index": "2",
+    "text": "鼎",
+    "tc": "鼎",
+    "en": "Vesseled"
+  },
+  {
+    "id": "306",
+    "index": "2",
+    "text": "幻",
+    "tc": "幻",
+    "en": "Marvelous"
+  },
+  {
+    "id": "307",
+    "index": "2",
+    "text": "妖",
+    "tc": "妖",
+    "en": "Daemonic"
+  },
+  {
+    "id": "308",
+    "index": "2",
+    "text": "仙",
+    "tc": "仙",
+    "en": "Immortal"
+  },
+  {
+    "id": "309",
+    "index": "2",
+    "text": "武",
+    "tc": "武",
+    "en": "Martial"
+  },
+  {
+    "id": "310",
+    "index": "2",
+    "text": "雀",
+    "tc": "雀",
+    "en": "Avian"
+  },
+  {
+    "id": "311",
+    "index": "2",
+    "text": "刚",
+    "tc": "剛",
+    "en": "Ironic"
+  },
+  {
+    "id": "312",
+    "index": "2",
+    "text": "扫",
+    "tc": "掃",
+    "en": "Sweeping"
+  },
+  {
+    "id": "313",
+    "index": "2",
+    "text": "背",
+    "tc": "背",
+    "en": "Rear"
+  },
+  {
+    "id": "314",
+    "index": "2",
+    "text": "地",
+    "tc": "地",
+    "en": "Earthly"
+  },
+  {
+    "id": "315",
+    "index": "2",
+    "text": "体",
+    "tc": "體",
+    "en": "Bodily"
+  },
+  {
+    "id": "316",
+    "index": "2",
+    "text": "野",
+    "tc": "野",
+    "en": "Wild"
+  },
+  {
+    "id": "317",
+    "index": "2",
+    "text": "动",
+    "tc": "動",
+    "en": "Moving"
+  },
+  {
+    "id": "318",
+    "index": "2",
+    "text": "壳",
+    "tc": "殼",
+    "en": "Shelled"
+  },
+  {
+    "id": "319",
+    "index": "2",
+    "text": "戾",
+    "tc": "戾",
+    "en": "Perilous"
+  },
+  {
+    "id": "320",
+    "index": "2",
+    "text": "英",
+    "tc": "英",
+    "en": "Wise"
+  },
+  {
+    "id": "321",
+    "index": "2",
+    "text": "枫",
+    "tc": "楓",
+    "en": "Maple"
+  },
+  {
+    "id": "322",
+    "index": "2",
+    "text": "雁",
+    "tc": "雁",
+    "en": "Anserine"
+  },
+  {
+    "id": "323",
+    "index": "2",
+    "text": "霞",
+    "tc": "霞",
+    "en": "Hazy"
+  },
+  {
+    "id": "324",
+    "index": "2",
+    "text": "凤",
+    "tc": "鳳",
+    "en": "Windy"
+  },
+  {
+    "id": "325",
+    "index": "2",
+    "text": "合",
+    "tc": "合",
+    "en": "United"
+  },
+  {
+    "id": "326",
+    "index": "2",
+    "text": "孤",
+    "tc": "孤",
+    "en": "Lonely"
+  },
+  {
+    "id": "327",
+    "index": "2",
+    "text": "来",
+    "tc": "來",
+    "en": "Coming"
+  },
+  {
+    "id": "328",
+    "index": "2",
+    "text": "相",
+    "tc": "相",
+    "en": "Aspected"
+  },
+  {
+    "id": "329",
+    "index": "2",
+    "text": "罡",
+    "tc": "罡",
+    "en": "Forceful"
+  },
+  {
+    "id": "330",
+    "index": "2",
+    "text": "仪",
+    "tc": "儀",
+    "en": "Ritual"
+  },
+  {
+    "id": "331",
+    "index": "2",
+    "text": "象",
+    "tc": "象",
+    "en": "Phenomenal"
+  },
+  {
+    "id": "332",
+    "index": "2",
+    "text": "卦",
+    "tc": "卦",
+    "en": "Trigrammic"
+  },
+  {
+    "id": "333",
+    "index": "2",
+    "text": "军",
+    "tc": "軍",
+    "en": "Military"
+  },
+  {
+    "id": "334",
+    "index": "2",
+    "text": "镜",
+    "tc": "鏡",
+    "en": "Mirroring"
+  },
+  {
+    "id": "335",
+    "index": "2",
+    "text": "柔",
+    "tc": "柔",
+    "en": "Soft"
+  },
+  {
+    "id": "336",
+    "index": "2",
+    "text": "和",
+    "tc": "和",
+    "en": "Peaceful"
+  },
+  {
+    "id": "337",
+    "index": "2",
+    "text": "封",
+    "tc": "封",
+    "en": "Signing"
+  },
+  {
+    "id": "338",
+    "index": "2",
+    "text": "世",
+    "tc": "世",
+    "en": "Material"
+  },
+  {
+    "id": "339",
+    "index": "2",
+    "text": "绝",
+    "tc": "絕",
+    "en": "Ending"
+  },
+  {
+    "id": "340",
+    "index": "2",
+    "text": "焰",
+    "tc": "焰",
+    "en": "Flaming"
+  },
+  {
+    "id": "341",
+    "index": "2",
+    "text": "明",
+    "tc": "明",
+    "en": "Bright"
+  },
+  {
+    "id": "342",
+    "index": "2",
+    "text": "宫",
+    "tc": "宮",
+    "en": "Palatial"
+  },
+  {
+    "id": "343",
+    "index": "2",
+    "text": "残",
+    "tc": "殘",
+    "en": "Defected"
+  },
+  {
+    "id": "344",
+    "index": "2",
+    "text": "行",
+    "tc": "行",
+    "en": "Walking"
+  },
+  {
+    "id": "345",
+    "index": "2",
+    "text": "战",
+    "tc": "戰",
+    "en": "Warring"
+  },
+  {
+    "id": "346",
+    "index": "2",
+    "text": "屠",
+    "tc": "屠",
+    "en": "Killing"
+  },
+  {
+    "id": "347",
+    "index": "2",
+    "text": "刃",
+    "tc": "刃",
+    "en": "Bladed"
+  },
+  {
+    "id": "348",
+    "index": "2",
+    "text": "极",
+    "tc": "極",
+    "en": "Ultimate"
+  },
+  {
+    "id": "349",
+    "index": "2",
+    "text": "剑",
+    "tc": "劍",
+    "en": "Cutting"
+  },
+  {
+    "id": "350",
+    "index": "2",
+    "text": "玑",
+    "tc": "璣",
+    "en": "Pearl"
+  },
+  {
+    "id": "351",
+    "index": "2",
+    "text": "絮",
+    "tc": "絮",
+    "en": "Bundling"
+  },
+  {
+    "id": "352",
+    "index": "2",
+    "text": "芒",
+    "tc": "芒",
+    "en": "Blinding"
+  },
+  {
+    "id": "353",
+    "index": "2",
+    "text": "穹",
+    "tc": "穹",
+    "en": "Aerial"
+  },
+  {
+    "id": "354",
+    "index": "2",
+    "text": "斗",
+    "tc": "鬥",
+    "en": "Combative"
+  },
+  {
+    "id": "355",
+    "index": "2",
+    "text": "真",
+    "tc": "真",
+    "en": "Only"
+  },
+  {
+    "id": "356",
+    "index": "2",
+    "text": "蒙",
+    "tc": "蒙",
+    "en": "Knowing"
+  },
+  {
+    "id": "357",
+    "index": "2",
+    "text": "璇",
+    "tc": "璿",
+    "en": "Ivory"
+  },
+  {
+    "id": "358",
+    "index": "2",
+    "text": "夕",
+    "tc": "夕",
+    "en": "Dusk"
+  },
+  {
+    "id": "359",
+    "index": "2",
+    "text": "叶",
+    "tc": "葉",
+    "en": "Leafy"
+  },
+  {
+    "id": "360",
+    "index": "2",
+    "text": "蚀",
+    "tc": "蝕",
+    "en": "Gnawing"
+  },
+  {
+    "id": "361",
+    "index": "2",
+    "text": "意",
+    "tc": "意",
+    "en": "Willful"
+  },
+  {
+    "id": "362",
+    "index": "2",
+    "text": "衍",
+    "tc": "衍",
+    "en": "Deducing"
+  },
+  {
+    "id": "363",
+    "index": "2",
+    "text": "盈",
+    "tc": "盈",
+    "en": "Umbral"
+  },
+  {
+    "id": "364",
+    "index": "2",
+    "text": "情",
+    "tc": "情",
+    "en": "Loving"
+  },
+  {
+    "id": "365",
+    "index": "2",
+    "text": "瑶",
+    "tc": "瑤",
+    "en": "Nacreous"
+  },
+  {
+    "id": "366",
+    "index": "2",
+    "text": "罗",
+    "tc": "羅",
+    "en": "Silken"
+  },
+  {
+    "id": "367",
+    "index": "2",
+    "text": "宇",
+    "tc": "宇",
+    "en": "Universal"
+  },
+  {
+    "id": "368",
+    "index": "2",
+    "text": "湘",
+    "tc": "湘",
+    "en": "Liquid"
+  },
+  {
+    "id": "369",
+    "index": "2",
+    "text": "磐",
+    "tc": "磐",
+    "en": "Solid"
+  },
+  {
+    "id": "370",
+    "index": "2",
+    "text": "泽",
+    "tc": "澤",
+    "en": "Mired"
+  },
+  {
+    "id": "371",
+    "index": "2",
+    "text": "玄",
+    "tc": "玄",
+    "en": "Mystical"
+  },
+  {
+    "id": "372",
+    "index": "2",
+    "text": "生",
+    "tc": "生",
+    "en": "Birthing"
+  },
+  {
+    "id": "373",
+    "index": "2",
+    "text": "初",
+    "tc": "初",
+    "en": "First"
+  },
+  {
+    "id": "374",
+    "index": "2",
+    "text": "枢",
+    "tc": "樞",
+    "en": "Key"
+  },
+  {
+    "id": "375",
+    "index": "2",
+    "text": "苍",
+    "tc": "蒼",
+    "en": "Azure"
+  },
+  {
+    "id": "376",
+    "index": "2",
+    "text": "曲",
+    "tc": "曲",
+    "en": "Cornering"
+  },
+  {
+    "id": "377",
+    "index": "2",
+    "text": "权",
+    "tc": "權",
+    "en": "Powerful"
+  },
+  {
+    "id": "378",
+    "index": "2",
+    "text": "炼",
+    "tc": "煉",
+    "en": "Forging"
+  },
+  {
+    "id": "379",
+    "index": "2",
+    "text": "殒",
+    "tc": "殞",
+    "en": "Meteoric"
+  },
+  {
+    "id": "380",
+    "index": "2",
+    "text": "垢",
+    "tc": "垢",
+    "en": "Tainted"
+  },
+  {
+    "id": "381",
+    "index": "2",
+    "text": "缘",
+    "tc": "緣",
+    "en": "Karmic"
+  },
+  {
+    "id": "382",
+    "index": "2",
+    "text": "双",
+    "tc": "雙",
+    "en": "Twin"
+  },
+  {
+    "id": "383",
+    "index": "2",
+    "text": "禅",
+    "tc": "禪",
+    "en": "Tranquil"
+  },
+  {
+    "id": "384",
+    "index": "2",
+    "text": "蕴",
+    "tc": "蘊",
+    "en": "Heaped"
+  },
+  {
+    "id": "385",
+    "index": "2",
+    "text": "命",
+    "tc": "命",
+    "en": "Living"
+  },
+  {
+    "id": "386",
+    "index": "2",
+    "text": "刹",
+    "tc": "刹",
+    "en": "Instant"
+  },
+  {
+    "id": "387",
+    "index": "2",
+    "text": "纹",
+    "tc": "紋",
+    "en": "Adorned"
+  },
+  {
+    "id": "388",
+    "index": "2",
+    "text": "燃",
+    "tc": "燃",
+    "en": "Burning"
+  },
+  {
+    "id": "389",
+    "index": "2",
+    "text": "翎",
+    "tc": "翎",
+    "en": "Plumed"
+  },
+  {
+    "id": "390",
+    "index": "2",
+    "text": "魅",
+    "tc": "魅",
+    "en": "Alluring"
+  },
+  {
+    "id": "391",
+    "index": "2",
+    "text": "微",
+    "tc": "微",
+    "en": "Minimal"
+  },
+  {
+    "id": "392",
+    "index": "2",
+    "text": "春",
+    "tc": "春",
+    "en": "Spring"
+  },
+  {
+    "id": "393",
+    "index": "2",
+    "text": "鸿",
+    "tc": "鴻",
+    "en": "Cardinal"
+  },
+  {
+    "id": "394",
+    "index": "2",
+    "text": "寰",
+    "tc": "寰",
+    "en": "Landed"
+  },
+  {
+    "id": "395",
+    "index": "2",
+    "text": "巽",
+    "tc": "巽",
+    "en": "Windy"
+  },
+  {
+    "id": "396",
+    "index": "2",
+    "text": "潇",
+    "tc": "瀟",
+    "en": "Hailing"
+  },
+  {
+    "id": "397",
+    "index": "2",
+    "text": "南",
+    "tc": "南",
+    "en": "Southern"
+  },
+  {
+    "id": "398",
+    "index": "2",
+    "text": "东",
+    "tc": "東",
+    "en": "Northern"
+  },
+  {
+    "id": "399",
+    "index": "2",
+    "text": "北",
+    "tc": "北",
+    "en": "Eastern"
+  },
+  {
+    "id": "400",
+    "index": "2",
+    "text": "秋",
+    "tc": "秋",
+    "en": "Autumnal"
+  }
+]

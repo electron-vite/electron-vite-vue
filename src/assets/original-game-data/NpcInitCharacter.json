@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1",
+    "weightFree": "100",
+    "weightBaseUp": "100",
+    "weightPostUp": "50",
+    "weightBaseDown": "-100",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "2",
+    "weightFree": "100",
+    "weightBaseUp": "100",
+    "weightPostUp": "50",
+    "weightBaseDown": "-100",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "3",
+    "weightFree": "100",
+    "weightBaseUp": "100",
+    "weightPostUp": "50",
+    "weightBaseDown": "-100",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "4",
+    "weightFree": "100",
+    "weightBaseUp": "0",
+    "weightPostUp": "50",
+    "weightBaseDown": "0",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "5",
+    "weightFree": "100",
+    "weightBaseUp": "-100",
+    "weightPostUp": "50",
+    "weightBaseDown": "100",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "6",
+    "weightFree": "100",
+    "weightBaseUp": "-100",
+    "weightPostUp": "50",
+    "weightBaseDown": "100",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "7",
+    "weightFree": "100",
+    "weightBaseUp": "-100",
+    "weightPostUp": "50",
+    "weightBaseDown": "100",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "8",
+    "weightFree": "100",
+    "weightBaseUp": "0",
+    "weightPostUp": "50",
+    "weightBaseDown": "0",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "9",
+    "weightFree": "100",
+    "weightBaseUp": "0",
+    "weightPostUp": "50",
+    "weightBaseDown": "0",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "10",
+    "weightFree": "100",
+    "weightBaseUp": "0",
+    "weightPostUp": "50",
+    "weightBaseDown": "0",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "11",
+    "weightFree": "100",
+    "weightBaseUp": "0",
+    "weightPostUp": "50",
+    "weightBaseDown": "0",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "12",
+    "weightFree": "100",
+    "weightBaseUp": "0",
+    "weightPostUp": "50",
+    "weightBaseDown": "0",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "13",
+    "weightFree": "100",
+    "weightBaseUp": "0",
+    "weightPostUp": "50",
+    "weightBaseDown": "0",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "14",
+    "weightFree": "100",
+    "weightBaseUp": "-100",
+    "weightPostUp": "50",
+    "weightBaseDown": "100",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "15",
+    "weightFree": "100",
+    "weightBaseUp": "-100",
+    "weightPostUp": "50",
+    "weightBaseDown": "100",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "16",
+    "weightFree": "100",
+    "weightBaseUp": "-100",
+    "weightPostUp": "50",
+    "weightBaseDown": "100",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "17",
+    "weightFree": "100",
+    "weightBaseUp": "100",
+    "weightPostUp": "50",
+    "weightBaseDown": "-100",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "18",
+    "weightFree": "100",
+    "weightBaseUp": "100",
+    "weightPostUp": "50",
+    "weightBaseDown": "-100",
+    "weightPostDown": "50"
+  },
+  {
+    "id": "19",
+    "weightFree": "100",
+    "weightBaseUp": "100",
+    "weightPostUp": "50",
+    "weightBaseDown": "-100",
+    "weightPostDown": "50"
+  }
+]

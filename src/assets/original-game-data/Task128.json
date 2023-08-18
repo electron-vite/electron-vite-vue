@@ -1,0 +1,35 @@
+[
+  {
+    "id": "128001",
+    "types": "1|2|3",
+    "mapEventID": "0",
+    "iconCenter": "-1",
+    "iconRange": "5",
+    "battleID": "9001",
+    "battleDataKey": "foodType",
+    "dramaTaskAdd": "1600001|1600002|1600003",
+    "dramaTaskComplete": "1600021|1600021|1600021"
+  },
+  {
+    "id": "128002",
+    "types": "1|2|3|4|5|6",
+    "mapEventID": "0",
+    "iconCenter": "-1",
+    "iconRange": "5",
+    "battleID": "9011",
+    "battleDataKey": "fruitType",
+    "dramaTaskAdd": "1600101|1600102|1600103|1600104|1600105|1600106",
+    "dramaTaskComplete": "1600121|1600121|1600121|1600121|1600121|1600121"
+  },
+  {
+    "id": "128003",
+    "types": "1|2|3|4",
+    "mapEventID": "0",
+    "iconCenter": "-1",
+    "iconRange": "5",
+    "battleID": "9021",
+    "battleDataKey": "soupType",
+    "dramaTaskAdd": "1600201|1600202|1600203|1600204",
+    "dramaTaskComplete": "1600221|1600221|1600221|1600221"
+  }
+]

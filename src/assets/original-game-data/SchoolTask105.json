@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1051",
+    "requireStable": "15"
+  },
+  {
+    "id": "1052",
+    "requireStable": "30"
+  },
+  {
+    "id": "1053",
+    "requireStable": "45"
+  },
+  {
+    "id": "1054",
+    "requireStable": "60"
+  },
+  {
+    "id": "1055",
+    "requireStable": "75"
+  },
+  {
+    "id": "1056",
+    "requireStable": "90"
+  }
+]

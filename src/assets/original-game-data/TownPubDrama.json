@@ -1,0 +1,210 @@
+[
+  {
+    "id": "0",
+    "level": "0",
+    "main": "0",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "1",
+    "level": "1",
+    "main": "0",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "2",
+    "level": "1",
+    "main": "1",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "3",
+    "level": "1",
+    "main": "2",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "4",
+    "level": "1",
+    "main": "3",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "5",
+    "level": "1",
+    "main": "4",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "6",
+    "level": "1",
+    "main": "5",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "7",
+    "level": "2",
+    "main": "1",
+    "condition": "task_8000825_13",
+    "action": "callDrama_8011201",
+    "btnText": "town_mission7"
+  },
+  {
+    "id": "8",
+    "level": "2",
+    "main": "2",
+    "condition": "task_8000826_13",
+    "action": "callDrama_8011301",
+    "btnText": "town_mission8"
+  },
+  {
+    "id": "9",
+    "level": "2",
+    "main": "3",
+    "condition": "task_8000827_13",
+    "action": "callDrama_8011401",
+    "btnText": "town_mission9"
+  },
+  {
+    "id": "10",
+    "level": "2",
+    "main": "4",
+    "condition": "task_8000828_13",
+    "action": "callDrama_8011501",
+    "btnText": "town_mission10"
+  },
+  {
+    "id": "11",
+    "level": "2",
+    "main": "5",
+    "condition": "task_8000829_13",
+    "action": "callDrama_8011601",
+    "btnText": "town_mission11"
+  },
+  {
+    "id": "12",
+    "level": "2",
+    "main": "0",
+    "condition": "task_8000830_13|task_8000831_13",
+    "action": "callDrama_8011701",
+    "btnText": "town_mission12"
+  },
+  {
+    "id": "13",
+    "level": "3",
+    "main": "0",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "14",
+    "level": "3",
+    "main": "1",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "15",
+    "level": "3",
+    "main": "2",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "16",
+    "level": "3",
+    "main": "3",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "17",
+    "level": "3",
+    "main": "4",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "18",
+    "level": "3",
+    "main": "5",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "19",
+    "level": "4",
+    "main": "0",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "20",
+    "level": "4",
+    "main": "1",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "21",
+    "level": "4",
+    "main": "2",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "22",
+    "level": "4",
+    "main": "3",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "23",
+    "level": "4",
+    "main": "4",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "24",
+    "level": "4",
+    "main": "5",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  },
+  {
+    "id": "25",
+    "level": "5",
+    "main": "0",
+    "condition": "grade_0_99_99",
+    "action": "callDrama_8011201",
+    "btnText": "pub_text1"
+  }
+]

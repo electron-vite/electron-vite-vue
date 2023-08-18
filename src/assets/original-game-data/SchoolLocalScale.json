@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "localScale": "1",
+    "localScaleName": "school_level_1",
+    "honor": "500",
+    "totalMember": "10",
+    "manor": "5",
+    "prosperous": "100",
+    "eyeCount": "1",
+    "eyeHp": "200",
+    "intelligence": "500"
+  },
+  {
+    "id": "2",
+    "localScale": "2",
+    "localScaleName": "school_level_2",
+    "honor": "5000",
+    "totalMember": "20",
+    "manor": "10",
+    "prosperous": "200",
+    "eyeCount": "1",
+    "eyeHp": "400",
+    "intelligence": "500"
+  },
+  {
+    "id": "3",
+    "localScale": "3",
+    "localScaleName": "school_level_3",
+    "honor": "50000",
+    "totalMember": "40",
+    "manor": "20",
+    "prosperous": "400",
+    "eyeCount": "1",
+    "eyeHp": "600",
+    "intelligence": "500"
+  },
+  {
+    "id": "4",
+    "localScale": "4",
+    "localScaleName": "school_level_4",
+    "honor": "500000",
+    "totalMember": "60",
+    "manor": "40",
+    "prosperous": "800",
+    "eyeCount": "1",
+    "eyeHp": "800",
+    "intelligence": "500"
+  }
+]

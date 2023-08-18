@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0",
+    "targetId": "0",
+    "effects": "0",
+    "targetEffects": "0"
+  },
+  {
+    "id": "1",
+    "targetId": "2",
+    "effects": "0",
+    "targetEffects": "0"
+  },
+  {
+    "id": "2",
+    "targetId": "3",
+    "effects": "0",
+    "targetEffects": "0"
+  },
+  {
+    "id": "3",
+    "targetId": "1",
+    "effects": "0",
+    "targetEffects": "0"
+  }
+]

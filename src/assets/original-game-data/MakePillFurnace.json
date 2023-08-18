@@ -1,0 +1,380 @@
+[
+  {
+    "id": "6061011",
+    "name": "item_name6061011",
+    "basRequire": "10",
+    "siteNum": "2",
+    "effectValue": "60610111|60610112",
+    "icon": "mingwangdanlu",
+    "skills": "0"
+  },
+  {
+    "id": "6061021",
+    "name": "item_name6061021",
+    "basRequire": "20",
+    "siteNum": "2",
+    "effectValue": "60610211|60610212",
+    "icon": "xiumudanlu",
+    "skills": "1"
+  },
+  {
+    "id": "6061031",
+    "name": "item_name6061031",
+    "basRequire": "20",
+    "siteNum": "2",
+    "effectValue": "60610211|60610212",
+    "icon": "xiumudanlu",
+    "skills": "2"
+  },
+  {
+    "id": "6061041",
+    "name": "item_name6061041",
+    "basRequire": "20",
+    "siteNum": "3",
+    "effectValue": "60610211|60610212",
+    "icon": "xiumudanlu",
+    "skills": "3"
+  },
+  {
+    "id": "6061051",
+    "name": "item_name6061051",
+    "basRequire": "20",
+    "siteNum": "3",
+    "effectValue": "60610211|60610212",
+    "icon": "xiumudanlu",
+    "skills": "4"
+  },
+  {
+    "id": "6061061",
+    "name": "item_name6061061",
+    "basRequire": "20",
+    "siteNum": "3",
+    "effectValue": "60610211|60610212",
+    "icon": "xiumudanlu",
+    "skills": "5|6"
+  },
+  {
+    "id": "6061071",
+    "name": "item_name6061071",
+    "basRequire": "40",
+    "siteNum": "3",
+    "effectValue": "60610311|60610312",
+    "icon": "kuhaidanlu",
+    "skills": "7|6"
+  },
+  {
+    "id": "6061081",
+    "name": "item_name6061081",
+    "basRequire": "40",
+    "siteNum": "3",
+    "effectValue": "60610311|60610312",
+    "icon": "kuhaidanlu",
+    "skills": "8|9"
+  },
+  {
+    "id": "6061091",
+    "name": "item_name6061091",
+    "basRequire": "40",
+    "siteNum": "3",
+    "effectValue": "60610311|60610312",
+    "icon": "kuhaidanlu",
+    "skills": "10|11"
+  },
+  {
+    "id": "6061101",
+    "name": "item_name6061101",
+    "basRequire": "40",
+    "siteNum": "4",
+    "effectValue": "60610311|60610312",
+    "icon": "kuhaidanlu",
+    "skills": "12|14"
+  },
+  {
+    "id": "6061111",
+    "name": "item_name6061111",
+    "basRequire": "40",
+    "siteNum": "4",
+    "effectValue": "60610311|60610312",
+    "icon": "kuhaidanlu",
+    "skills": "13|16"
+  },
+  {
+    "id": "6061121",
+    "name": "item_name6061121",
+    "basRequire": "40",
+    "siteNum": "4",
+    "effectValue": "60610311|60610312",
+    "icon": "kuhaidanlu",
+    "skills": "15|17"
+  },
+  {
+    "id": "6061131",
+    "name": "item_name6061131",
+    "basRequire": "100",
+    "siteNum": "4",
+    "effectValue": "60610411|60610412",
+    "icon": "wuleidanlu",
+    "skills": "18|19"
+  },
+  {
+    "id": "6061141",
+    "name": "item_name6061141",
+    "basRequire": "100",
+    "siteNum": "4",
+    "effectValue": "60610411|60610412",
+    "icon": "wuleidanlu",
+    "skills": "20|21"
+  },
+  {
+    "id": "6061151",
+    "name": "item_name6061151",
+    "basRequire": "100",
+    "siteNum": "4",
+    "effectValue": "60610411|60610412",
+    "icon": "wuleidanlu",
+    "skills": "22|23"
+  },
+  {
+    "id": "6061161",
+    "name": "item_name6061161",
+    "basRequire": "100",
+    "siteNum": "4",
+    "effectValue": "60610411|60610412",
+    "icon": "wuleidanlu",
+    "skills": "24|25"
+  },
+  {
+    "id": "6061171",
+    "name": "item_name6061171",
+    "basRequire": "100",
+    "siteNum": "4",
+    "effectValue": "60610411|60610412",
+    "icon": "wuleidanlu",
+    "skills": "26|27"
+  },
+  {
+    "id": "6061181",
+    "name": "item_name6061181",
+    "basRequire": "100",
+    "siteNum": "5",
+    "effectValue": "60610411|60610412",
+    "icon": "wuleidanlu",
+    "skills": "28|29"
+  },
+  {
+    "id": "6061191",
+    "name": "item_name6061191",
+    "basRequire": "100",
+    "siteNum": "5",
+    "effectValue": "60610411|60610412",
+    "icon": "wuleidanlu",
+    "skills": "30|31"
+  },
+  {
+    "id": "6061201",
+    "name": "item_name6061201",
+    "basRequire": "100",
+    "siteNum": "5",
+    "effectValue": "60610411|60610412",
+    "icon": "wuleidanlu",
+    "skills": "32"
+  },
+  {
+    "id": "6061211",
+    "name": "item_name6061211",
+    "basRequire": "100",
+    "siteNum": "5",
+    "effectValue": "60610411|60610412",
+    "icon": "wuleidanlu",
+    "skills": "34|33"
+  },
+  {
+    "id": "6061221",
+    "name": "item_name6061221",
+    "basRequire": "100",
+    "siteNum": "5",
+    "effectValue": "60610411|60610412",
+    "icon": "wuleidanlu",
+    "skills": "35|36"
+  },
+  {
+    "id": "6061231",
+    "name": "item_name6061231",
+    "basRequire": "100",
+    "siteNum": "5",
+    "effectValue": "60610411|60610412",
+    "icon": "wuleidanlu",
+    "skills": "37|38"
+  },
+  {
+    "id": "6061241",
+    "name": "item_name6061241",
+    "basRequire": "200",
+    "siteNum": "5",
+    "effectValue": "60610511|60610512",
+    "icon": "juyandanlu",
+    "skills": "39|40"
+  },
+  {
+    "id": "6061251",
+    "name": "item_name6061251",
+    "basRequire": "200",
+    "siteNum": "5",
+    "effectValue": "60610511|60610512",
+    "icon": "juyandanlu",
+    "skills": "41|42"
+  },
+  {
+    "id": "6061261",
+    "name": "item_name6061261",
+    "basRequire": "200",
+    "siteNum": "5",
+    "effectValue": "60610511|60610512",
+    "icon": "juyandanlu",
+    "skills": "43|44"
+  },
+  {
+    "id": "6061271",
+    "name": "item_name6061271",
+    "basRequire": "200",
+    "siteNum": "5",
+    "effectValue": "60610511|60610512",
+    "icon": "juyandanlu",
+    "skills": "45|46"
+  },
+  {
+    "id": "6061281",
+    "name": "item_name6061281",
+    "basRequire": "200",
+    "siteNum": "5",
+    "effectValue": "60610511|60610512",
+    "icon": "juyandanlu",
+    "skills": "47|48"
+  },
+  {
+    "id": "6061291",
+    "name": "item_name6061291",
+    "basRequire": "200",
+    "siteNum": "6",
+    "effectValue": "60610511|60610512",
+    "icon": "juyandanlu",
+    "skills": "49|50"
+  },
+  {
+    "id": "6061301",
+    "name": "item_name6061301",
+    "basRequire": "200",
+    "siteNum": "6",
+    "effectValue": "60610511|60610512",
+    "icon": "juyandanlu",
+    "skills": "51|11"
+  },
+  {
+    "id": "6061311",
+    "name": "item_name6061311",
+    "basRequire": "200",
+    "siteNum": "6",
+    "effectValue": "60610511|60610512",
+    "icon": "juyandanlu",
+    "skills": "8|52"
+  },
+  {
+    "id": "6061321",
+    "name": "item_name6061321",
+    "basRequire": "200",
+    "siteNum": "6",
+    "effectValue": "60610511|60610512",
+    "icon": "juyandanlu",
+    "skills": "32|53"
+  },
+  {
+    "id": "6061331",
+    "name": "item_name6061331",
+    "basRequire": "200",
+    "siteNum": "6",
+    "effectValue": "60610511|60610512",
+    "icon": "juyandanlu",
+    "skills": "54"
+  },
+  {
+    "id": "6061341",
+    "name": "item_name6061341",
+    "basRequire": "400",
+    "siteNum": "6",
+    "effectValue": "60610611|60610612",
+    "icon": "longhuodanlu",
+    "skills": "55|56|59"
+  },
+  {
+    "id": "6061351",
+    "name": "item_name6061351",
+    "basRequire": "400",
+    "siteNum": "6",
+    "effectValue": "60610611|60610612",
+    "icon": "longhuodanlu",
+    "skills": "58|57|60"
+  },
+  {
+    "id": "6061361",
+    "name": "item_name6061361",
+    "basRequire": "400",
+    "siteNum": "6",
+    "effectValue": "60610611|60610612",
+    "icon": "longhuodanlu",
+    "skills": "61|62"
+  },
+  {
+    "id": "6061371",
+    "name": "item_name6061371",
+    "basRequire": "400",
+    "siteNum": "6",
+    "effectValue": "60610611|60610612",
+    "icon": "longhuodanlu",
+    "skills": "63"
+  },
+  {
+    "id": "6061381",
+    "name": "item_name6061381",
+    "basRequire": "400",
+    "siteNum": "7",
+    "effectValue": "60610611|60610612",
+    "icon": "longhuodanlu",
+    "skills": "64|65"
+  },
+  {
+    "id": "6061391",
+    "name": "item_name6061391",
+    "basRequire": "400",
+    "siteNum": "7",
+    "effectValue": "60610611|60610612",
+    "icon": "longhuodanlu",
+    "skills": "66"
+  },
+  {
+    "id": "6061401",
+    "name": "item_name6061401",
+    "basRequire": "400",
+    "siteNum": "7",
+    "effectValue": "60610611|60610612",
+    "icon": "longhuodanlu",
+    "skills": "32|67"
+  },
+  {
+    "id": "700203",
+    "name": "item_name700203",
+    "basRequire": "0",
+    "siteNum": "7",
+    "effectValue": "60610611|60610612",
+    "icon": "zijideguo_2",
+    "skills": "68|70"
+  },
+  {
+    "id": "700204",
+    "name": "item_name700204",
+    "basRequire": "0",
+    "siteNum": "7",
+    "effectValue": "60610611|60610612",
+    "icon": "zijideguo_1",
+    "skills": "68|69|70"
+  }
+]

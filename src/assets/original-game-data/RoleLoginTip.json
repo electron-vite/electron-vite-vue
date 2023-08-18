@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "icon": "gushi",
+    "bg": "gushi_5",
+    "tip": "login_tip1"
+  },
+  {
+    "id": "2",
+    "icon": "gushi_1",
+    "bg": "gushi_5",
+    "tip": "login_tip2"
+  },
+  {
+    "id": "3",
+    "icon": "gushi_2",
+    "bg": "gushi_5",
+    "tip": "login_tip3"
+  },
+  {
+    "id": "4",
+    "icon": "gushi_2",
+    "bg": "gushi_5",
+    "tip": "login_tip4"
+  },
+  {
+    "id": "5",
+    "icon": "gushi_2",
+    "bg": "gushi_5",
+    "tip": "login_tip5"
+  },
+  {
+    "id": "6",
+    "icon": "gushi_2",
+    "bg": "gushi_5",
+    "tip": "login_tip6"
+  }
+]

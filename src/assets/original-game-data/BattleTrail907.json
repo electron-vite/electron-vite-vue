@@ -1,0 +1,50 @@
+[
+  {
+    "id": "907001",
+    "type": "0",
+    "bulletNum": "&36111_ddsl",
+    "shotCD": "0",
+    "wave": "&36111_ddsl|/36111_ddbs|f0",
+    "interval": "&36111_ddjg",
+    "center": "1",
+    "shake": "0",
+    "postShake": "0",
+    "radius": "0"
+  },
+  {
+    "id": "907002",
+    "type": "0",
+    "bulletNum": "&55116_ddsl",
+    "shotCD": "0",
+    "wave": "&55116_ddsl",
+    "interval": "&55116_ddjg",
+    "center": "1",
+    "shake": "0",
+    "postShake": "0",
+    "radius": "0"
+  },
+  {
+    "id": "907003",
+    "type": "0",
+    "bulletNum": "6",
+    "shotCD": "200",
+    "wave": "6",
+    "interval": "200",
+    "center": "0",
+    "shake": "100",
+    "postShake": "100",
+    "radius": "400"
+  },
+  {
+    "id": "907004",
+    "type": "0",
+    "bulletNum": "&907004_zdsl",
+    "shotCD": "0",
+    "wave": "&907004_ddbs",
+    "interval": "&907004_mbjg",
+    "center": "1",
+    "shake": "0",
+    "postShake": "0",
+    "radius": "0"
+  }
+]

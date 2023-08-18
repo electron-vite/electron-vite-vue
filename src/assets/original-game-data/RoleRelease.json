@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "key": "hateReduceMin",
+    "value": "0"
+  },
+  {
+    "id": "2",
+    "key": "hateReduceMax",
+    "value": "0"
+  },
+  {
+    "id": "3",
+    "key": "itemScorePara",
+    "value": "100"
+  },
+  {
+    "id": "9",
+    "key": "itemScoreParaA",
+    "value": "1"
+  },
+  {
+    "id": "10",
+    "key": "itemScoreParaB",
+    "value": "1"
+  }
+]

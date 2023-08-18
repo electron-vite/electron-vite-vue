@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "1",
+    "potmonID": "950101",
+    "skillID": "100721",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "2",
+    "potmonID": "950101",
+    "skillID": "100722",
+    "skillCD": "3500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "60"
+  },
+  {
+    "id": "3",
+    "potmonID": "950102",
+    "skillID": "5151",
+    "skillCD": "2000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "60"
+  },
+  {
+    "id": "4",
+    "potmonID": "950102",
+    "skillID": "5152",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "5",
+    "potmonID": "950102",
+    "skillID": "5153",
+    "skillCD": "4500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "6",
+    "potmonID": "950103",
+    "skillID": "110062",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "7",
+    "potmonID": "950103",
+    "skillID": "11006366",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "50"
+  },
+  {
+    "id": "8",
+    "potmonID": "950103",
+    "skillID": "110064",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "9",
+    "potmonID": "950104",
+    "skillID": "7661",
+    "skillCD": "1500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "50"
+  },
+  {
+    "id": "10",
+    "potmonID": "950104",
+    "skillID": "7662",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "50"
+  },
+  {
+    "id": "11",
+    "potmonID": "950105",
+    "skillID": "7671",
+    "skillCD": "1500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "50"
+  },
+  {
+    "id": "12",
+    "potmonID": "950105",
+    "skillID": "7672",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "50"
+  },
+  {
+    "id": "13",
+    "potmonID": "950106",
+    "skillID": "7151",
+    "skillCD": "1500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "14",
+    "potmonID": "950106",
+    "skillID": "715266",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "15",
+    "potmonID": "950106",
+    "skillID": "7153",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "20"
+  },
+  {
+    "id": "16",
+    "potmonID": "950106",
+    "skillID": "7154",
+    "skillCD": "5500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "17",
+    "potmonID": "950107",
+    "skillID": "7051",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "18",
+    "potmonID": "950107",
+    "skillID": "7052",
+    "skillCD": "5500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "50"
+  },
+  {
+    "id": "19",
+    "potmonID": "950107",
+    "skillID": "7053",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "20",
+    "potmonID": "950107",
+    "skillID": "7054",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "20"
+  },
+  {
+    "id": "21",
+    "potmonID": "950108",
+    "skillID": "7361",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "22",
+    "potmonID": "950108",
+    "skillID": "7362",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "23",
+    "potmonID": "950108",
+    "skillID": "7363",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "24",
+    "potmonID": "950108",
+    "skillID": "7364",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "30"
+  },
+  {
+    "id": "25",
+    "potmonID": "950109",
+    "skillID": "7551",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "26",
+    "potmonID": "950109",
+    "skillID": "7552",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "27",
+    "potmonID": "950109",
+    "skillID": "7553",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "28",
+    "potmonID": "950109",
+    "skillID": "7554",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "10"
+  },
+  {
+    "id": "29",
+    "potmonID": "950111",
+    "skillID": "789166",
+    "skillCD": "1500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "25"
+  },
+  {
+    "id": "30",
+    "potmonID": "950111",
+    "skillID": "7892",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "25"
+  },
+  {
+    "id": "31",
+    "potmonID": "950111",
+    "skillID": "7893",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "50"
+  },
+  {
+    "id": "32",
+    "potmonID": "950112",
+    "skillID": "8441",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "33",
+    "potmonID": "950112",
+    "skillID": "844266",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "30"
+  },
+  {
+    "id": "34",
+    "potmonID": "950112",
+    "skillID": "844366",
+    "skillCD": "8000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "50"
+  },
+  {
+    "id": "35",
+    "potmonID": "950113",
+    "skillID": "7572",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "36",
+    "potmonID": "950113",
+    "skillID": "7573",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "37",
+    "potmonID": "950113",
+    "skillID": "7574",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "38",
+    "potmonID": "950113",
+    "skillID": "7576",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "40"
+  },
+  {
+    "id": "39",
+    "potmonID": "950114",
+    "skillID": "7631",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "40",
+    "potmonID": "950114",
+    "skillID": "7632",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "60"
+  },
+  {
+    "id": "41",
+    "potmonID": "950114",
+    "skillID": "7633",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "42",
+    "potmonID": "950115",
+    "skillID": "7541",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "43",
+    "potmonID": "950115",
+    "skillID": "7542",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "44",
+    "potmonID": "950115",
+    "skillID": "7543",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "45",
+    "potmonID": "950115",
+    "skillID": "7544",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "46",
+    "potmonID": "950116",
+    "skillID": "7341",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "47",
+    "potmonID": "950116",
+    "skillID": "7342",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "48",
+    "potmonID": "950116",
+    "skillID": "7343",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "49",
+    "potmonID": "950116",
+    "skillID": "7344",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "50",
+    "potmonID": "950117",
+    "skillID": "7381",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "51",
+    "potmonID": "950117",
+    "skillID": "7382",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "52",
+    "potmonID": "950117",
+    "skillID": "7383",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "53",
+    "potmonID": "950117",
+    "skillID": "7384",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "40"
+  },
+  {
+    "id": "54",
+    "potmonID": "950118",
+    "skillID": "7351",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "55",
+    "potmonID": "950118",
+    "skillID": "7352",
+    "skillCD": "3500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "56",
+    "potmonID": "950118",
+    "skillID": "7353",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "57",
+    "potmonID": "950118",
+    "skillID": "7354",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "58",
+    "potmonID": "950119",
+    "skillID": "7211",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "59",
+    "potmonID": "950119",
+    "skillID": "7212",
+    "skillCD": "3500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "60",
+    "potmonID": "950119",
+    "skillID": "7213",
+    "skillCD": "8000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "61",
+    "potmonID": "950119",
+    "skillID": "7214",
+    "skillCD": "9000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "62",
+    "potmonID": "950120",
+    "skillID": "713166",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "63",
+    "potmonID": "950120",
+    "skillID": "7132",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "64",
+    "potmonID": "950120",
+    "skillID": "7133",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "65",
+    "potmonID": "950120",
+    "skillID": "7134",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "66",
+    "potmonID": "950121",
+    "skillID": "7121",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "67",
+    "potmonID": "950121",
+    "skillID": "7126",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "68",
+    "potmonID": "950121",
+    "skillID": "7129",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "50"
+  },
+  {
+    "id": "69",
+    "potmonID": "950122",
+    "skillID": "7111",
+    "skillCD": "7000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "25"
+  },
+  {
+    "id": "70",
+    "potmonID": "950122",
+    "skillID": "7112",
+    "skillCD": "1500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "25"
+  },
+  {
+    "id": "71",
+    "potmonID": "950122",
+    "skillID": "7113",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "50"
+  },
+  {
+    "id": "72",
+    "potmonID": "950123",
+    "skillID": "7581",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "73",
+    "potmonID": "950123",
+    "skillID": "758266",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "74",
+    "potmonID": "950123",
+    "skillID": "7583",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "25"
+  },
+  {
+    "id": "75",
+    "potmonID": "950123",
+    "skillID": "7584",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "25"
+  },
+  {
+    "id": "76",
+    "potmonID": "950124",
+    "skillID": "7371",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "77",
+    "potmonID": "950124",
+    "skillID": "7372",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "78",
+    "potmonID": "950124",
+    "skillID": "7373",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "79",
+    "potmonID": "950124",
+    "skillID": "7374",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "40"
+  },
+  {
+    "id": "80",
+    "potmonID": "950125",
+    "skillID": "793166",
+    "skillCD": "2000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "81",
+    "potmonID": "950125",
+    "skillID": "793366",
+    "skillCD": "8000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "30"
+  },
+  {
+    "id": "82",
+    "potmonID": "950125",
+    "skillID": "793566",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "83",
+    "potmonID": "950126",
+    "skillID": "804166",
+    "skillCD": "2500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "84",
+    "potmonID": "950126",
+    "skillID": "804266",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "80"
+  },
+  {
+    "id": "85",
+    "potmonID": "950127",
+    "skillID": "788166",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "40"
+  },
+  {
+    "id": "86",
+    "potmonID": "950127",
+    "skillID": "788366",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "60"
+  },
+  {
+    "id": "87",
+    "potmonID": "950128",
+    "skillID": "79411",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "88",
+    "potmonID": "950128",
+    "skillID": "79422",
+    "skillCD": "2000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "89",
+    "potmonID": "950128",
+    "skillID": "79431",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "90",
+    "potmonID": "950129",
+    "skillID": "7201",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "91",
+    "potmonID": "950129",
+    "skillID": "7202",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "92",
+    "potmonID": "950129",
+    "skillID": "7203",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "93",
+    "potmonID": "950129",
+    "skillID": "7204",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "60"
+  },
+  {
+    "id": "94",
+    "potmonID": "950130",
+    "skillID": "110041",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "40"
+  },
+  {
+    "id": "95",
+    "potmonID": "950130",
+    "skillID": "110042",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "96",
+    "potmonID": "950130",
+    "skillID": "110043",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "97",
+    "potmonID": "950131",
+    "skillID": "768166",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "98",
+    "potmonID": "950131",
+    "skillID": "7682",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "99",
+    "potmonID": "950131",
+    "skillID": "768365",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "100",
+    "potmonID": "950131",
+    "skillID": "7684",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "101",
+    "potmonID": "950131",
+    "skillID": "768366",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "20"
+  },
+  {
+    "id": "102",
+    "potmonID": "950132",
+    "skillID": "7951",
+    "skillCD": "2000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "103",
+    "potmonID": "950132",
+    "skillID": "7952",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "104",
+    "potmonID": "950132",
+    "skillID": "7953",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "105",
+    "potmonID": "950133",
+    "skillID": "790366",
+    "skillCD": "100",
+    "converReplace": "-1",
+    "useTimes": "1",
+    "score": "50"
+  },
+  {
+    "id": "106",
+    "potmonID": "950133",
+    "skillID": "7905",
+    "skillCD": "100",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "107",
+    "potmonID": "950133",
+    "skillID": "7902",
+    "skillCD": "4000",
+    "converReplace": "790267",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "108",
+    "potmonID": "950134",
+    "skillID": "110031",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "109",
+    "potmonID": "950134",
+    "skillID": "110032",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "110",
+    "potmonID": "950134",
+    "skillID": "110033",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "111",
+    "potmonID": "950134",
+    "skillID": "110036",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "50"
+  },
+  {
+    "id": "112",
+    "potmonID": "950135",
+    "skillID": "7221",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "113",
+    "potmonID": "950135",
+    "skillID": "7222",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "50"
+  },
+  {
+    "id": "114",
+    "potmonID": "950135",
+    "skillID": "7223",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "115",
+    "potmonID": "950135",
+    "skillID": "7224",
+    "skillCD": "5500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "116",
+    "potmonID": "950136",
+    "skillID": "7321",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "117",
+    "potmonID": "950136",
+    "skillID": "7322",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "50"
+  },
+  {
+    "id": "118",
+    "potmonID": "950136",
+    "skillID": "7323",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "119",
+    "potmonID": "950136",
+    "skillID": "7324",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "120",
+    "potmonID": "950136",
+    "skillID": "7326",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "70"
+  },
+  {
+    "id": "121",
+    "potmonID": "950137",
+    "skillID": "7311",
+    "skillCD": "1500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "122",
+    "potmonID": "950137",
+    "skillID": "7312",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "123",
+    "potmonID": "950137",
+    "skillID": "7313",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "124",
+    "potmonID": "950137",
+    "skillID": "7314",
+    "skillCD": "8000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "20"
+  },
+  {
+    "id": "125",
+    "potmonID": "950137",
+    "skillID": "7316",
+    "skillCD": "2000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "70"
+  },
+  {
+    "id": "126",
+    "potmonID": "950138",
+    "skillID": "7601",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "127",
+    "potmonID": "950138",
+    "skillID": "7602",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "30"
+  },
+  {
+    "id": "128",
+    "potmonID": "950138",
+    "skillID": "760366",
+    "skillCD": "7000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "50"
+  },
+  {
+    "id": "129",
+    "potmonID": "955101",
+    "skillID": "7211",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "130",
+    "potmonID": "955101",
+    "skillID": "7212",
+    "skillCD": "3500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "131",
+    "potmonID": "955101",
+    "skillID": "7213",
+    "skillCD": "8000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "132",
+    "potmonID": "955101",
+    "skillID": "7214",
+    "skillCD": "9000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "133",
+    "potmonID": "955102",
+    "skillID": "110041",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "40"
+  },
+  {
+    "id": "134",
+    "potmonID": "955102",
+    "skillID": "110042",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "135",
+    "potmonID": "955102",
+    "skillID": "110043",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "30"
+  },
+  {
+    "id": "136",
+    "potmonID": "955103",
+    "skillID": "7201",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "137",
+    "potmonID": "955103",
+    "skillID": "7202",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "138",
+    "potmonID": "955103",
+    "skillID": "7203",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "139",
+    "potmonID": "955103",
+    "skillID": "7204",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "60"
+  },
+  {
+    "id": "140",
+    "potmonID": "955104",
+    "skillID": "7111",
+    "skillCD": "7000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "25"
+  },
+  {
+    "id": "141",
+    "potmonID": "955104",
+    "skillID": "7112",
+    "skillCD": "1500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "25"
+  },
+  {
+    "id": "142",
+    "potmonID": "955104",
+    "skillID": "7113",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "50"
+  },
+  {
+    "id": "143",
+    "potmonID": "955105",
+    "skillID": "7221",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "144",
+    "potmonID": "955105",
+    "skillID": "7222",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "50"
+  },
+  {
+    "id": "145",
+    "potmonID": "955105",
+    "skillID": "7223",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "146",
+    "potmonID": "955105",
+    "skillID": "7224",
+    "skillCD": "5500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "147",
+    "potmonID": "955106",
+    "skillID": "7321",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "148",
+    "potmonID": "955106",
+    "skillID": "7322",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "50"
+  },
+  {
+    "id": "149",
+    "potmonID": "955106",
+    "skillID": "7323",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "150",
+    "potmonID": "955106",
+    "skillID": "7324",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "10"
+  },
+  {
+    "id": "151",
+    "potmonID": "955106",
+    "skillID": "7326",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "70"
+  },
+  {
+    "id": "152",
+    "potmonID": "955107",
+    "skillID": "7371",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "153",
+    "potmonID": "955107",
+    "skillID": "7372",
+    "skillCD": "3000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "154",
+    "potmonID": "955107",
+    "skillID": "7373",
+    "skillCD": "6000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "155",
+    "potmonID": "955107",
+    "skillID": "7374",
+    "skillCD": "5000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "40"
+  },
+  {
+    "id": "156",
+    "potmonID": "955108",
+    "skillID": "804166",
+    "skillCD": "2500",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "40"
+  },
+  {
+    "id": "157",
+    "potmonID": "955108",
+    "skillID": "804266",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "80"
+  },
+  {
+    "id": "158",
+    "potmonID": "955109",
+    "skillID": "8441",
+    "skillCD": "1000",
+    "converReplace": "0",
+    "useTimes": "-1",
+    "score": "20"
+  },
+  {
+    "id": "159",
+    "potmonID": "955109",
+    "skillID": "844266",
+    "skillCD": "4000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "30"
+  },
+  {
+    "id": "160",
+    "potmonID": "955109",
+    "skillID": "844366",
+    "skillCD": "8000",
+    "converReplace": "0",
+    "useTimes": "1",
+    "score": "50"
+  }
+]

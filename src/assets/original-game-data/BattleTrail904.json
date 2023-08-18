@@ -1,0 +1,16 @@
+[
+  {
+    "id": "904001",
+    "screwRadius": "100",
+    "bulletNum": "36",
+    "shotCD": "25",
+    "angularSpeed": "540"
+  },
+  {
+    "id": "904002",
+    "screwRadius": "150",
+    "bulletNum": "12",
+    "shotCD": "10",
+    "angularSpeed": "900"
+  }
+]

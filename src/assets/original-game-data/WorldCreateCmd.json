@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1",
+    "cmdOrder": "CreateCommonArea",
+    "cmd": "special",
+    "value": "createArea11Decorate"
+  },
+  {
+    "id": "2",
+    "cmdOrder": "CreateBuild",
+    "cmd": "special",
+    "value": "createBuildSpecialDecorate"
+  },
+  {
+    "id": "3",
+    "cmdOrder": "CreateCommonArea",
+    "cmd": "clearPointBox",
+    "value": "10_12_12_7|2|1303_1304"
+  },
+  {
+    "id": "4",
+    "cmdOrder": "CreateBuild",
+    "cmd": "randomOverTerrNotOverDecorate",
+    "value": "10_16_12_3|101_102_103_104_105_106_107_108_109"
+  },
+  {
+    "id": "5",
+    "cmdOrder": "CreateBuild",
+    "cmd": "clearPointRandomBoxNotOverDecorate",
+    "value": "10_16_12_3|15"
+  },
+  {
+    "id": "6",
+    "cmdOrder": "CreateCommonArea",
+    "cmd": "clearPointBox",
+    "value": "16_13_1_3|13|0"
+  },
+  {
+    "id": "7",
+    "cmdOrder": "CreateCommonArea",
+    "cmd": "special",
+    "value": "createArea5River"
+  },
+  {
+    "id": "8",
+    "cmdOrder": "CreateCommonArea",
+    "cmd": "clearPointBox",
+    "value": "122_79_11_7|6|0"
+  },
+  {
+    "id": "9",
+    "cmdOrder": "IntoWorld",
+    "cmd": "function",
+    "value": "createEventPointIngoreTree_213_127_82_0"
+  },
+  {
+    "id": "10",
+    "cmdOrder": "IntoWorld",
+    "cmd": "function",
+    "value": "createEventPointIngoreTree_212_178_192_0"
+  },
+  {
+    "id": "11",
+    "cmdOrder": "IntoWorld",
+    "cmd": "function",
+    "value": "delEventfunction_212_delTerr_3001"
+  },
+  {
+    "id": "12",
+    "cmdOrder": "IntoWorld",
+    "cmd": "function",
+    "value": "delEventfunction_212_mapCreateCmd_randomOverTerr_175/190/9/5//901/902/903/904"
+  },
+  {
+    "id": "13",
+    "cmdOrder": "IntoWorld",
+    "cmd": "function",
+    "value": "delEventfunction_212_mapCreateCmd_clearPointRandomBox_175/190/9/5//30"
+  },
+  {
+    "id": "14",
+    "cmdOrder": "CreateCommonArea",
+    "cmd": "clearPointBox",
+    "value": "9_191_7_9|12|0"
+  },
+  {
+    "id": "15",
+    "cmdOrder": "CreateCommonArea",
+    "cmd": "randomOverTerr",
+    "value": "9_191_7_9|1201_1202_1203_1204_1205"
+  },
+  {
+    "id": "16",
+    "cmdOrder": "IntoWorld",
+    "cmd": "special",
+    "value": "createUpGrade8Event"
+  },
+  {
+    "id": "17",
+    "cmdOrder": "CreateTerrainSpecial",
+    "cmd": "special",
+    "value": "clearArea9SpecialTerr"
+  },
+  {
+    "id": "18",
+    "cmdOrder": "CreateCommonArea",
+    "cmd": "special",
+    "value": "createArea10Split"
+  },
+  {
+    "id": "19",
+    "cmdOrder": "CreateBuild",
+    "cmd": "special",
+    "value": "creatAncestralBuilding"
+  },
+  {
+    "id": "20",
+    "cmdOrder": "CreateTerrainSpecial",
+    "cmd": "special",
+    "value": "createDefenseLineDecorate"
+  },
+  {
+    "id": "21",
+    "cmdOrder": "IntoWorld",
+    "cmd": "special",
+    "value": "setArea10BuildingData"
+  },
+  {
+    "id": "22",
+    "cmdOrder": "IntoWorld",
+    "cmd": "special",
+    "value": "createBrokenAltar"
+  },
+  {
+    "id": "23",
+    "cmdOrder": "IntoWorld",
+    "cmd": "special",
+    "value": "createChickenFarms"
+  }
+]

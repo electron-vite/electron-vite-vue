@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "1",
+    "barrierID": "10001",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "6141012"
+  },
+  {
+    "id": "2",
+    "barrierID": "10001",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "6141013"
+  },
+  {
+    "id": "3",
+    "barrierID": "10001",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "6141014"
+  },
+  {
+    "id": "4",
+    "barrierID": "10001",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "6141015"
+  },
+  {
+    "id": "5",
+    "barrierID": "10001",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "6151016"
+  },
+  {
+    "id": "6",
+    "barrierID": "107",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "7",
+    "barrierID": "107",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "8",
+    "barrierID": "107",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "9",
+    "barrierID": "107",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "10",
+    "barrierID": "107",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "11",
+    "barrierID": "108",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "12",
+    "barrierID": "108",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "13",
+    "barrierID": "108",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "14",
+    "barrierID": "108",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "15",
+    "barrierID": "108",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "16",
+    "barrierID": "109",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "17",
+    "barrierID": "109",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "18",
+    "barrierID": "109",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "19",
+    "barrierID": "109",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "20",
+    "barrierID": "109",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "21",
+    "barrierID": "111",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "22",
+    "barrierID": "111",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "23",
+    "barrierID": "111",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "24",
+    "barrierID": "111",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "25",
+    "barrierID": "111",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "26",
+    "barrierID": "105",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "27",
+    "barrierID": "105",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "28",
+    "barrierID": "105",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "29",
+    "barrierID": "105",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "30",
+    "barrierID": "105",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "31",
+    "barrierID": "118",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "32",
+    "barrierID": "118",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "33",
+    "barrierID": "118",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "34",
+    "barrierID": "118",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "35",
+    "barrierID": "118",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "36",
+    "barrierID": "215",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "37",
+    "barrierID": "215",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "38",
+    "barrierID": "215",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "39",
+    "barrierID": "215",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "40",
+    "barrierID": "215",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "41",
+    "barrierID": "223",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "42",
+    "barrierID": "223",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "43",
+    "barrierID": "223",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "44",
+    "barrierID": "223",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "45",
+    "barrierID": "223",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "46",
+    "barrierID": "224",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "47",
+    "barrierID": "224",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "48",
+    "barrierID": "224",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "49",
+    "barrierID": "224",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "50",
+    "barrierID": "224",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "51",
+    "barrierID": "229",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "52",
+    "barrierID": "229",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "53",
+    "barrierID": "229",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "54",
+    "barrierID": "229",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "55",
+    "barrierID": "229",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "56",
+    "barrierID": "230",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "57",
+    "barrierID": "230",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "58",
+    "barrierID": "230",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "59",
+    "barrierID": "230",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "60",
+    "barrierID": "230",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "61",
+    "barrierID": "217",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "62",
+    "barrierID": "217",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "63",
+    "barrierID": "217",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "64",
+    "barrierID": "217",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "65",
+    "barrierID": "217",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "66",
+    "barrierID": "201",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "6141012"
+  },
+  {
+    "id": "67",
+    "barrierID": "201",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "6141013"
+  },
+  {
+    "id": "68",
+    "barrierID": "201",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "6141014"
+  },
+  {
+    "id": "69",
+    "barrierID": "201",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "6141015"
+  },
+  {
+    "id": "70",
+    "barrierID": "201",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "6151016"
+  },
+  {
+    "id": "71",
+    "barrierID": "202",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "72",
+    "barrierID": "202",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "73",
+    "barrierID": "202",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "74",
+    "barrierID": "202",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "75",
+    "barrierID": "202",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "76",
+    "barrierID": "203",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "77",
+    "barrierID": "203",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "78",
+    "barrierID": "203",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "79",
+    "barrierID": "203",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "80",
+    "barrierID": "203",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "81",
+    "barrierID": "204",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "82",
+    "barrierID": "204",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "83",
+    "barrierID": "204",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "84",
+    "barrierID": "204",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "85",
+    "barrierID": "204",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "86",
+    "barrierID": "205",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "87",
+    "barrierID": "205",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "88",
+    "barrierID": "205",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "89",
+    "barrierID": "205",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "90",
+    "barrierID": "205",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "91",
+    "barrierID": "214",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "6141012"
+  },
+  {
+    "id": "92",
+    "barrierID": "214",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "6141013"
+  },
+  {
+    "id": "93",
+    "barrierID": "214",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "6141014"
+  },
+  {
+    "id": "94",
+    "barrierID": "214",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "6141015"
+  },
+  {
+    "id": "95",
+    "barrierID": "214",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "6151016"
+  },
+  {
+    "id": "96",
+    "barrierID": "301",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "97",
+    "barrierID": "301",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "98",
+    "barrierID": "301",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "99",
+    "barrierID": "301",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "100",
+    "barrierID": "301",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "101",
+    "barrierID": "303",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "102",
+    "barrierID": "303",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "103",
+    "barrierID": "303",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "104",
+    "barrierID": "303",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "105",
+    "barrierID": "303",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "106",
+    "barrierID": "304",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "107",
+    "barrierID": "304",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "108",
+    "barrierID": "304",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "109",
+    "barrierID": "304",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "110",
+    "barrierID": "304",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "111",
+    "barrierID": "306",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "112",
+    "barrierID": "306",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "113",
+    "barrierID": "306",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "114",
+    "barrierID": "306",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "115",
+    "barrierID": "306",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "116",
+    "barrierID": "308",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "6141012"
+  },
+  {
+    "id": "117",
+    "barrierID": "308",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "6141013"
+  },
+  {
+    "id": "118",
+    "barrierID": "308",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "6141014"
+  },
+  {
+    "id": "119",
+    "barrierID": "308",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "6141015"
+  },
+  {
+    "id": "120",
+    "barrierID": "308",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "6151016"
+  },
+  {
+    "id": "121",
+    "barrierID": "309",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "6141012"
+  },
+  {
+    "id": "122",
+    "barrierID": "309",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "6141013"
+  },
+  {
+    "id": "123",
+    "barrierID": "309",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "6141014"
+  },
+  {
+    "id": "124",
+    "barrierID": "309",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "6141015"
+  },
+  {
+    "id": "125",
+    "barrierID": "309",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "6151016"
+  },
+  {
+    "id": "126",
+    "barrierID": "310",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "127",
+    "barrierID": "310",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "128",
+    "barrierID": "310",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "129",
+    "barrierID": "310",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "130",
+    "barrierID": "310",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "131",
+    "barrierID": "318",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "132",
+    "barrierID": "318",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "133",
+    "barrierID": "318",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "134",
+    "barrierID": "318",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "135",
+    "barrierID": "318",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "136",
+    "barrierID": "321",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "137",
+    "barrierID": "321",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "138",
+    "barrierID": "321",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "139",
+    "barrierID": "321",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "140",
+    "barrierID": "321",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "141",
+    "barrierID": "322",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "142",
+    "barrierID": "322",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "143",
+    "barrierID": "322",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "144",
+    "barrierID": "322",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "145",
+    "barrierID": "322",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "146",
+    "barrierID": "326",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "147",
+    "barrierID": "326",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "148",
+    "barrierID": "326",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "149",
+    "barrierID": "326",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "150",
+    "barrierID": "326",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "151",
+    "barrierID": "327",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "152",
+    "barrierID": "327",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "153",
+    "barrierID": "327",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "154",
+    "barrierID": "327",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "155",
+    "barrierID": "327",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "156",
+    "barrierID": "328",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "157",
+    "barrierID": "328",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "158",
+    "barrierID": "328",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "159",
+    "barrierID": "328",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "160",
+    "barrierID": "328",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "161",
+    "barrierID": "329",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "162",
+    "barrierID": "329",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "163",
+    "barrierID": "329",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "164",
+    "barrierID": "329",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "165",
+    "barrierID": "329",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "166",
+    "barrierID": "330",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "167",
+    "barrierID": "330",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "168",
+    "barrierID": "330",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "169",
+    "barrierID": "330",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "170",
+    "barrierID": "330",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "171",
+    "barrierID": "331",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "172",
+    "barrierID": "331",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "173",
+    "barrierID": "331",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "174",
+    "barrierID": "331",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "175",
+    "barrierID": "331",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "176",
+    "barrierID": "332",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "6141012"
+  },
+  {
+    "id": "177",
+    "barrierID": "332",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "6141013"
+  },
+  {
+    "id": "178",
+    "barrierID": "332",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "6141014"
+  },
+  {
+    "id": "179",
+    "barrierID": "332",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "6141015"
+  },
+  {
+    "id": "180",
+    "barrierID": "332",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "6151016"
+  },
+  {
+    "id": "181",
+    "barrierID": "336",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "182",
+    "barrierID": "336",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "183",
+    "barrierID": "336",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "184",
+    "barrierID": "336",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "185",
+    "barrierID": "336",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "186",
+    "barrierID": "337",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "187",
+    "barrierID": "337",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "188",
+    "barrierID": "337",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "189",
+    "barrierID": "337",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "190",
+    "barrierID": "337",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "191",
+    "barrierID": "339",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "6141012"
+  },
+  {
+    "id": "192",
+    "barrierID": "339",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "6141013"
+  },
+  {
+    "id": "193",
+    "barrierID": "339",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "6141014"
+  },
+  {
+    "id": "194",
+    "barrierID": "339",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "6141015"
+  },
+  {
+    "id": "195",
+    "barrierID": "339",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "6151016"
+  },
+  {
+    "id": "196",
+    "barrierID": "503",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "197",
+    "barrierID": "503",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "198",
+    "barrierID": "503",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "199",
+    "barrierID": "503",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "200",
+    "barrierID": "503",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "201",
+    "barrierID": "510",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "202",
+    "barrierID": "510",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "203",
+    "barrierID": "510",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "204",
+    "barrierID": "510",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "205",
+    "barrierID": "510",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "206",
+    "barrierID": "513",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "6141012"
+  },
+  {
+    "id": "207",
+    "barrierID": "513",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "6141013"
+  },
+  {
+    "id": "208",
+    "barrierID": "513",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "6141014"
+  },
+  {
+    "id": "209",
+    "barrierID": "513",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "6141015"
+  },
+  {
+    "id": "210",
+    "barrierID": "513",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "6151016"
+  },
+  {
+    "id": "211",
+    "barrierID": "518",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "212",
+    "barrierID": "518",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "213",
+    "barrierID": "518",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "214",
+    "barrierID": "518",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "215",
+    "barrierID": "518",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "216",
+    "barrierID": "701",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "217",
+    "barrierID": "701",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "218",
+    "barrierID": "701",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "219",
+    "barrierID": "701",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "220",
+    "barrierID": "701",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "221",
+    "barrierID": "702",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "222",
+    "barrierID": "702",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "223",
+    "barrierID": "702",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "224",
+    "barrierID": "702",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "225",
+    "barrierID": "702",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "226",
+    "barrierID": "704",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "227",
+    "barrierID": "704",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "228",
+    "barrierID": "704",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "229",
+    "barrierID": "704",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "230",
+    "barrierID": "704",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "231",
+    "barrierID": "709",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "232",
+    "barrierID": "709",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "233",
+    "barrierID": "709",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "234",
+    "barrierID": "709",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "235",
+    "barrierID": "709",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "236",
+    "barrierID": "712",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "237",
+    "barrierID": "712",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "238",
+    "barrierID": "712",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "239",
+    "barrierID": "712",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "240",
+    "barrierID": "712",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "241",
+    "barrierID": "802",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "242",
+    "barrierID": "802",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "243",
+    "barrierID": "802",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "244",
+    "barrierID": "802",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "245",
+    "barrierID": "802",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "246",
+    "barrierID": "803",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "247",
+    "barrierID": "803",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "248",
+    "barrierID": "803",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "249",
+    "barrierID": "803",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "250",
+    "barrierID": "803",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "251",
+    "barrierID": "805",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "6141012"
+  },
+  {
+    "id": "252",
+    "barrierID": "805",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "6141013"
+  },
+  {
+    "id": "253",
+    "barrierID": "805",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "6141014"
+  },
+  {
+    "id": "254",
+    "barrierID": "805",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "6141015"
+  },
+  {
+    "id": "255",
+    "barrierID": "805",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "6151016"
+  },
+  {
+    "id": "256",
+    "barrierID": "806",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "257",
+    "barrierID": "806",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "258",
+    "barrierID": "806",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "259",
+    "barrierID": "806",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "260",
+    "barrierID": "806",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "261",
+    "barrierID": "820",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "6141012"
+  },
+  {
+    "id": "262",
+    "barrierID": "820",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "6141013"
+  },
+  {
+    "id": "263",
+    "barrierID": "820",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "6141014"
+  },
+  {
+    "id": "264",
+    "barrierID": "820",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "6141015"
+  },
+  {
+    "id": "265",
+    "barrierID": "820",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "6151016"
+  },
+  {
+    "id": "266",
+    "barrierID": "902",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "267",
+    "barrierID": "902",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "268",
+    "barrierID": "902",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "269",
+    "barrierID": "902",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "270",
+    "barrierID": "902",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "271",
+    "barrierID": "904",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "272",
+    "barrierID": "904",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "273",
+    "barrierID": "904",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "274",
+    "barrierID": "904",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "275",
+    "barrierID": "904",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "276",
+    "barrierID": "912",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "277",
+    "barrierID": "912",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "278",
+    "barrierID": "912",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "279",
+    "barrierID": "912",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "280",
+    "barrierID": "912",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "281",
+    "barrierID": "913",
+    "minLevel": "1",
+    "maxLevel": "10",
+    "rewardID": "0"
+  },
+  {
+    "id": "282",
+    "barrierID": "913",
+    "minLevel": "11",
+    "maxLevel": "20",
+    "rewardID": "0"
+  },
+  {
+    "id": "283",
+    "barrierID": "913",
+    "minLevel": "21",
+    "maxLevel": "30",
+    "rewardID": "0"
+  },
+  {
+    "id": "284",
+    "barrierID": "913",
+    "minLevel": "31",
+    "maxLevel": "40",
+    "rewardID": "0"
+  },
+  {
+    "id": "285",
+    "barrierID": "913",
+    "minLevel": "41",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "286",
+    "barrierID": "2325",
+    "minLevel": "1",
+    "maxLevel": "99",
+    "rewardID": "6341301"
+  },
+  {
+    "id": "287",
+    "barrierID": "2308",
+    "minLevel": "1",
+    "maxLevel": "99",
+    "rewardID": "0"
+  },
+  {
+    "id": "288",
+    "barrierID": "2309",
+    "minLevel": "1",
+    "maxLevel": "99",
+    "rewardID": "0"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1",
+    "key": "reduceSchoolReputation",
+    "valueArea2": "300",
+    "valueArea4": "500",
+    "valueArea6": "800",
+    "valueArea8": "1200",
+    "valueArea10": "1600"
+  },
+  {
+    "id": "2",
+    "key": "reduceSchoolMainReputation",
+    "valueArea2": "300",
+    "valueArea4": "500",
+    "valueArea6": "800",
+    "valueArea8": "1200",
+    "valueArea10": "1600"
+  },
+  {
+    "id": "3",
+    "key": "reduceSchoolMinRes",
+    "valueArea2": "10000",
+    "valueArea4": "25000",
+    "valueArea6": "50000",
+    "valueArea8": "120000",
+    "valueArea10": "250000"
+  },
+  {
+    "id": "4",
+    "key": "reduceSchoolMaxRes",
+    "valueArea2": "50000",
+    "valueArea4": "125000",
+    "valueArea6": "250000",
+    "valueArea8": "600000",
+    "valueArea10": "1250000"
+  },
+  {
+    "id": "5",
+    "key": "counterattackSchoolMinRes",
+    "valueArea2": "15000",
+    "valueArea4": "37500",
+    "valueArea6": "75000",
+    "valueArea8": "180000",
+    "valueArea10": "375000"
+  },
+  {
+    "id": "6",
+    "key": "counterattackSchoolMaxRes",
+    "valueArea2": "25000",
+    "valueArea4": "62500",
+    "valueArea6": "125000",
+    "valueArea8": "300000",
+    "valueArea10": "625000"
+  },
+  {
+    "id": "7",
+    "key": "defendFailReputationLoseMin",
+    "valueArea2": "300",
+    "valueArea4": "500",
+    "valueArea6": "800",
+    "valueArea8": "1200",
+    "valueArea10": "1600"
+  },
+  {
+    "id": "8",
+    "key": "defendFailReputationLoseMax",
+    "valueArea2": "450",
+    "valueArea4": "750",
+    "valueArea6": "1200",
+    "valueArea8": "1800",
+    "valueArea10": "2400"
+  },
+  {
+    "id": "9",
+    "key": "defendFailProsperousLoseMin",
+    "valueArea2": "1361",
+    "valueArea4": "3469",
+    "valueArea6": "7629",
+    "valueArea8": "17280",
+    "valueArea10": "38564"
+  },
+  {
+    "id": "10",
+    "key": "defendFailProsperousLoseMax",
+    "valueArea2": "2722",
+    "valueArea4": "6938",
+    "valueArea6": "15259",
+    "valueArea8": "34560",
+    "valueArea10": "77128"
+  },
+  {
+    "id": "11",
+    "key": "attackFailReputationLoseMin",
+    "valueArea2": "300",
+    "valueArea4": "500",
+    "valueArea6": "800",
+    "valueArea8": "1200",
+    "valueArea10": "1600"
+  },
+  {
+    "id": "12",
+    "key": "attackFailReputationLoseMax",
+    "valueArea2": "450",
+    "valueArea4": "750",
+    "valueArea6": "1200",
+    "valueArea8": "1800",
+    "valueArea10": "2400"
+  },
+  {
+    "id": "13",
+    "key": "attackFailProsperousLoseMin",
+    "valueArea2": "1361",
+    "valueArea4": "3469",
+    "valueArea6": "7629",
+    "valueArea8": "17280",
+    "valueArea10": "38564"
+  },
+  {
+    "id": "14",
+    "key": "attackFailProsperousLoseMax",
+    "valueArea2": "2722",
+    "valueArea4": "6938",
+    "valueArea6": "15259",
+    "valueArea8": "34560",
+    "valueArea10": "77128"
+  },
+  {
+    "id": "15",
+    "key": "warDungeonLevel",
+    "valueArea2": "8",
+    "valueArea4": "18",
+    "valueArea6": "28",
+    "valueArea8": "38",
+    "valueArea10": "48"
+  },
+  {
+    "id": "16",
+    "key": "attackSchoolAIInterval",
+    "valueArea2": "120",
+    "valueArea4": "72",
+    "valueArea6": "24",
+    "valueArea8": "24",
+    "valueArea10": "24"
+  },
+  {
+    "id": "17",
+    "key": "AIBattleBossDefend",
+    "valueArea2": "36",
+    "valueArea4": "147",
+    "valueArea6": "531",
+    "valueArea8": "1919",
+    "valueArea10": "5553"
+  },
+  {
+    "id": "18",
+    "key": "AIBattleBossHP",
+    "valueArea2": "20560",
+    "valueArea4": "93860",
+    "valueArea6": "409720",
+    "valueArea8": "1635300",
+    "valueArea10": "5030520"
+  },
+  {
+    "id": "19",
+    "key": "AIBattleAttackBossRate",
+    "valueArea2": "20",
+    "valueArea4": "20",
+    "valueArea6": "20",
+    "valueArea8": "20",
+    "valueArea10": "20"
+  },
+  {
+    "id": "20",
+    "key": "AIBattleTransBodyAttrScale",
+    "valueArea2": "120",
+    "valueArea4": "120",
+    "valueArea6": "120",
+    "valueArea8": "120",
+    "valueArea10": "120"
+  },
+  {
+    "id": "21",
+    "key": "AIAattackSchoolMaxRes",
+    "valueArea2": "7500",
+    "valueArea4": "18750",
+    "valueArea6": "37500",
+    "valueArea8": "90000",
+    "valueArea10": "187500"
+  },
+  {
+    "id": "22",
+    "key": "AIAttackSchoolMinRes",
+    "valueArea2": "12500",
+    "valueArea4": "31250",
+    "valueArea6": "62500",
+    "valueArea8": "150000",
+    "valueArea10": "312500"
+  },
+  {
+    "id": "23",
+    "key": "AICounterattackAddGrade0MinNum",
+    "valueArea2": "5",
+    "valueArea4": "5",
+    "valueArea6": "5",
+    "valueArea8": "5",
+    "valueArea10": "5"
+  },
+  {
+    "id": "24",
+    "key": "AICounterattackAddGrade1MinNum",
+    "valueArea2": "1",
+    "valueArea4": "1",
+    "valueArea6": "1",
+    "valueArea8": "1",
+    "valueArea10": "1"
+  },
+  {
+    "id": "25",
+    "key": "AICounterattackAddGrade2MinNum",
+    "valueArea2": "0",
+    "valueArea4": "0",
+    "valueArea6": "0",
+    "valueArea8": "0",
+    "valueArea10": "0"
+  },
+  {
+    "id": "26",
+    "key": "AICounterattackAddGrade3MinNum",
+    "valueArea2": "0",
+    "valueArea4": "0",
+    "valueArea6": "0",
+    "valueArea8": "0",
+    "valueArea10": "0"
+  },
+  {
+    "id": "27",
+    "key": "AICounterattackTargetGrade0Rate",
+    "valueArea2": "100",
+    "valueArea4": "100",
+    "valueArea6": "100",
+    "valueArea8": "100",
+    "valueArea10": "100"
+  },
+  {
+    "id": "28",
+    "key": "AICounterattackTargetGrade1Rate",
+    "valueArea2": "80",
+    "valueArea4": "80",
+    "valueArea6": "80",
+    "valueArea8": "80",
+    "valueArea10": "80"
+  },
+  {
+    "id": "29",
+    "key": "AICounterattackTargetGrade2Rate",
+    "valueArea2": "50",
+    "valueArea4": "50",
+    "valueArea6": "50",
+    "valueArea8": "50",
+    "valueArea10": "50"
+  },
+  {
+    "id": "30",
+    "key": "AICounterattackTargetGrade3Rate",
+    "valueArea2": "20",
+    "valueArea4": "20",
+    "valueArea6": "20",
+    "valueArea8": "20",
+    "valueArea10": "20"
+  }
+]

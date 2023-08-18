@@ -1,0 +1,211 @@
+[
+  {
+    "id": "1000",
+    "name": "ImmortalName1000",
+    "desc": "ImmortalDesc1000",
+    "activeSkills": "4000",
+    "passiveSkills": "4002|4003|4004|4005",
+    "collectID": "0",
+    "buildId": "0",
+    "IconBig": "0",
+    "IconSmall": "xianfa_xuancangjie"
+  },
+  {
+    "id": "1001",
+    "name": "ImmortalName1001",
+    "desc": "ImmortalDesc1001",
+    "activeSkills": "1000",
+    "passiveSkills": "1001|1002|1003|1004|1005|1006|1007|1008|1009",
+    "collectID": "1000|1001|1002|1003|1004|1005|1006",
+    "buildId": "100001",
+    "IconBig": "BG/xianci_6118",
+    "IconSmall": "xianfatx_3"
+  },
+  {
+    "id": "1002",
+    "name": "ImmortalName1002",
+    "desc": "ImmortalDesc1002",
+    "activeSkills": "2000",
+    "passiveSkills": "2002|2003|2004|2005|2006",
+    "collectID": "2000|2004|2002",
+    "buildId": "100012",
+    "IconBig": "BG/xianci_6135",
+    "IconSmall": "xianfatx_1"
+  },
+  {
+    "id": "1003",
+    "name": "ImmortalName1003",
+    "desc": "ImmortalDesc1003",
+    "activeSkills": "3000",
+    "passiveSkills": "3001|3002|3003|3004|3006|3007|3008|3009|3010",
+    "collectID": "3000|3001|3002",
+    "buildId": "100008",
+    "IconBig": "BG/xianci_6112",
+    "IconSmall": "xianfatx_6"
+  },
+  {
+    "id": "1004",
+    "name": "ImmortalName1004",
+    "desc": "ImmortalDesc1004",
+    "activeSkills": "5000",
+    "passiveSkills": "5001|5002|5003|5004|5005",
+    "collectID": "5000|5003|5001|5002",
+    "buildId": "100014",
+    "IconBig": "BG/xianci_6129",
+    "IconSmall": "xianfatx_2"
+  },
+  {
+    "id": "1005",
+    "name": "ImmortalName1005",
+    "desc": "ImmortalDesc1005",
+    "activeSkills": "6000",
+    "passiveSkills": "6001|6004|6005|6006",
+    "collectID": "6000|6001|6004|6005|6006",
+    "buildId": "100009",
+    "IconBig": "BG/xianci_6113",
+    "IconSmall": "xianfatx_5"
+  },
+  {
+    "id": "1006",
+    "name": "ImmortalName1006",
+    "desc": "ImmortalDesc1006",
+    "activeSkills": "7000",
+    "passiveSkills": "7001|7003|7004|7005",
+    "collectID": "7000|7001|7003|7004|7005",
+    "buildId": "100010",
+    "IconBig": "BG/xianci_6117",
+    "IconSmall": "xianfatx_4"
+  },
+  {
+    "id": "1007",
+    "name": "ImmortalName1007",
+    "desc": "ImmortalDesc1007",
+    "activeSkills": "0",
+    "passiveSkills": "10010",
+    "collectID": "10010",
+    "buildId": "100013",
+    "IconBig": "BG/xianci_6133",
+    "IconSmall": "xianfatx_7"
+  },
+  {
+    "id": "1008",
+    "name": "ImmortalName1008",
+    "desc": "ImmortalDesc1008",
+    "activeSkills": "0",
+    "passiveSkills": "10001",
+    "collectID": "10001",
+    "buildId": "100002",
+    "IconBig": "BG/xianci_6131",
+    "IconSmall": "xianfatx_15"
+  },
+  {
+    "id": "1009",
+    "name": "ImmortalName1009",
+    "desc": "ImmortalDesc1009",
+    "activeSkills": "0",
+    "passiveSkills": "10002",
+    "collectID": "10002",
+    "buildId": "100002",
+    "IconBig": "BG/xianci_6131",
+    "IconSmall": "xianfatx_8"
+  },
+  {
+    "id": "1010",
+    "name": "ImmortalName1010",
+    "desc": "ImmortalDesc1010",
+    "activeSkills": "0",
+    "passiveSkills": "10003",
+    "collectID": "10003",
+    "buildId": "100003",
+    "IconBig": "BG/xianci_6138",
+    "IconSmall": "xianfatx_16"
+  },
+  {
+    "id": "1011",
+    "name": "ImmortalName1011",
+    "desc": "ImmortalDesc1011",
+    "activeSkills": "0",
+    "passiveSkills": "10004",
+    "collectID": "10004",
+    "buildId": "100006",
+    "IconBig": "BG/xianci_6126",
+    "IconSmall": "xianfatx_9"
+  },
+  {
+    "id": "1012",
+    "name": "ImmortalName1012",
+    "desc": "ImmortalDesc1012",
+    "activeSkills": "0",
+    "passiveSkills": "10005",
+    "collectID": "10005",
+    "buildId": "100007",
+    "IconBig": "BG/xianci_6125",
+    "IconSmall": "xianfatx_10"
+  },
+  {
+    "id": "1013",
+    "name": "ImmortalName1013",
+    "desc": "ImmortalDesc1013",
+    "activeSkills": "0",
+    "passiveSkills": "10006",
+    "collectID": "10006",
+    "buildId": "100004",
+    "IconBig": "BG/xianci_6122",
+    "IconSmall": "xianfatx_11"
+  },
+  {
+    "id": "1014",
+    "name": "ImmortalName1014",
+    "desc": "ImmortalDesc1014",
+    "activeSkills": "0",
+    "passiveSkills": "10007",
+    "collectID": "10007",
+    "buildId": "100005",
+    "IconBig": "BG/xianci_6132",
+    "IconSmall": "xianfatx_12"
+  },
+  {
+    "id": "1015",
+    "name": "ImmortalName1015",
+    "desc": "ImmortalDesc1015",
+    "activeSkills": "0",
+    "passiveSkills": "10008",
+    "collectID": "10008",
+    "buildId": "100011",
+    "IconBig": "BG/xianci_6124",
+    "IconSmall": "xianfatx_13"
+  },
+  {
+    "id": "1016",
+    "name": "ImmortalName1016",
+    "desc": "ImmortalDesc1016",
+    "activeSkills": "0",
+    "passiveSkills": "10009",
+    "collectID": "10009",
+    "buildId": "100015",
+    "IconBig": "BG/xianci_6121",
+    "IconSmall": "xianfatx_14"
+  },
+  {
+    "id": "1017",
+    "name": "ImmortalName1017",
+    "desc": "ImmortalDesc1017",
+    "activeSkills": "0",
+    "passiveSkills": "10011|10012|10013|10014|10015|10016",
+    "collectID": "0",
+    "buildId": "0",
+    "IconBig": "0",
+    "IconSmall": "xianfa_jitan"
+  },
+  {
+    "id": "1018",
+    "name": "ImmortalName1018",
+    "desc": "ImmortalDesc1018",
+    "activeSkills": "0",
+    "passiveSkills": "10017",
+    "collectID": "0",
+    "buildId": "0",
+    "IconBig": "0",
+    "IconSmall": "xianfa_shihunta"
+  }
+]

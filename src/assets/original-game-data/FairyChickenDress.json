@@ -1,0 +1,625 @@
+[
+  {
+    "id": "1001",
+    "model": "douji_liliang_jiao1",
+    "type": "tui",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "1002",
+    "model": "douji_liliang_jiao2",
+    "type": "tui",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "1003",
+    "model": "douji_liliang_jiao3",
+    "type": "tui",
+    "monstBaseId": "569",
+    "color": "9"
+  },
+  {
+    "id": "1004",
+    "model": "douji_jiqiao_tui1",
+    "type": "tui",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "1005",
+    "model": "douji_jiqiao_tui2",
+    "type": "tui",
+    "monstBaseId": "571",
+    "color": "9"
+  },
+  {
+    "id": "1006",
+    "model": "douji_jiqiao_tui3",
+    "type": "tui",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "1007",
+    "model": "douji_sudu_tui1",
+    "type": "tui",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "1008",
+    "model": "douji_sudu_tui2",
+    "type": "tui",
+    "monstBaseId": "570",
+    "color": "9"
+  },
+  {
+    "id": "1009",
+    "model": "douji_sudu_tui3",
+    "type": "tui",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "1010",
+    "model": "douji_sudu_tui4",
+    "type": "tui",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "1011",
+    "model": "douji_jiqiao_tui4",
+    "type": "tui",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "1012",
+    "model": "douji_liliang_jiao4",
+    "type": "tui",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2001",
+    "model": "douji_liliang_shenti1",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2002",
+    "model": "douji_liliang_shenti2",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2003",
+    "model": "douji_liliang_shenti3",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2004",
+    "model": "douji_liliang_shenti4",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2005",
+    "model": "douji_jiqiao_shenti1",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2006",
+    "model": "douji_jiqiao_shenti2",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2007",
+    "model": "douji_jiqiao_shenti3",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2008",
+    "model": "douji_jiqiao_shenti4",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2009",
+    "model": "douji_sudu_shenti1",
+    "type": "shenti",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "2010",
+    "model": "douji_sudu_shenti2",
+    "type": "shenti",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "2011",
+    "model": "douji_sudu_shenti3",
+    "type": "shenti",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "2012",
+    "model": "douji_liliang_shenti5",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2013",
+    "model": "douji_liliang_shenti6",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2014",
+    "model": "douji_liliang_shenti7",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2015",
+    "model": "douji_liliang_shenti8",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2016",
+    "model": "douji_liliang_shenti9",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "9"
+  },
+  {
+    "id": "2017",
+    "model": "douji_jiqiao_shenti5",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2018",
+    "model": "douji_jiqiao_shenti6",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2019",
+    "model": "douji_jiqiao_shenti7",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "9"
+  },
+  {
+    "id": "2020",
+    "model": "douji_jiqiao_shenti8",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2021",
+    "model": "douji_jiqiao_shenti9",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2022",
+    "model": "douji_sudu_shenti4",
+    "type": "shenti",
+    "monstBaseId": "570",
+    "color": "9"
+  },
+  {
+    "id": "2023",
+    "model": "douji_jiqiao_shenti10",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2024",
+    "model": "douji_jiqiao_shenti11",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2025",
+    "model": "douji_jiqiao_shenti12",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2026",
+    "model": "douji_jiqiao_shenti13",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2027",
+    "model": "douji_jiqiao_shenti14",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2028",
+    "model": "douji_jiqiao_shenti15",
+    "type": "shenti",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "2029",
+    "model": "douji_liliang_shenti10",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2030",
+    "model": "douji_liliang_shenti11",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2031",
+    "model": "douji_liliang_shenti12",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2032",
+    "model": "douji_liliang_shenti13",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2033",
+    "model": "douji_liliang_shenti14",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "2034",
+    "model": "douji_liliang_shenti15",
+    "type": "shenti",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "3001",
+    "model": "douji_liliang_weiba1",
+    "type": "weiba",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "3002",
+    "model": "douji_liliang_weiba2",
+    "type": "weiba",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "3003",
+    "model": "douji_liliang_weiba3",
+    "type": "weiba",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "3004",
+    "model": "douji_jiqiao_weiba1",
+    "type": "weiba",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "3005",
+    "model": "douji_jiqiao_weiba2",
+    "type": "weiba",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "3006",
+    "model": "douji_jiqiao_weiba3",
+    "type": "weiba",
+    "monstBaseId": "571",
+    "color": "9"
+  },
+  {
+    "id": "3007",
+    "model": "douji_jiqiao_weiba4",
+    "type": "weiba",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "3008",
+    "model": "douji_liliang_weiba4",
+    "type": "weiba",
+    "monstBaseId": "569",
+    "color": "9"
+  },
+  {
+    "id": "4001",
+    "model": "douji_liliang_rouchui1",
+    "type": "rouchui",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "4002",
+    "model": "douji_liliang_rouchui2",
+    "type": "rouchui",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "4003",
+    "model": "douji_liliang_rouchui3",
+    "type": "rouchui",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "4004",
+    "model": "douji_liliang_rouchui4",
+    "type": "rouchui",
+    "monstBaseId": "569",
+    "color": "9"
+  },
+  {
+    "id": "5001",
+    "model": "douji_liliang_zuiba1",
+    "type": "zuiba",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "5002",
+    "model": "douji_liliang_zuiba2",
+    "type": "zuiba",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "5003",
+    "model": "douji_liliang_zuiba3",
+    "type": "zuiba",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "5004",
+    "model": "douji_liliang_zuiba4",
+    "type": "zuiba",
+    "monstBaseId": "569",
+    "color": "9"
+  },
+  {
+    "id": "6001",
+    "model": "douji_jiqiao_chibang1",
+    "type": "chibang",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "6002",
+    "model": "douji_jiqiao_chibang2",
+    "type": "chibang",
+    "monstBaseId": "571",
+    "color": "9"
+  },
+  {
+    "id": "6003",
+    "model": "douji_jiqiao_chibang3",
+    "type": "chibang",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "6004",
+    "model": "douji_sudu_chibang1",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "6005",
+    "model": "douji_sudu_chibang2",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "6006",
+    "model": "douji_sudu_chibang3",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "9"
+  },
+  {
+    "id": "6007",
+    "model": "douji_sudu_chibang4",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "6008",
+    "model": "douji_sudu_chibang6",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "6009",
+    "model": "douji_sudu_chibang7",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "6010",
+    "model": "douji_liliang_chibang1",
+    "type": "chibang",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "6011",
+    "model": "douji_liliang_chibang2",
+    "type": "chibang",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "6012",
+    "model": "douji_liliang_chibang3",
+    "type": "chibang",
+    "monstBaseId": "569",
+    "color": "1"
+  },
+  {
+    "id": "6013",
+    "model": "douji_sudu_chibang5",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "9"
+  },
+  {
+    "id": "6014",
+    "model": "douji_sudu_chibang8",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "6015",
+    "model": "douji_sudu_chibang9",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "6016",
+    "model": "douji_jiqiao_chibang4",
+    "type": "chibang",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "6017",
+    "model": "douji_liliang_chibang4",
+    "type": "chibang",
+    "monstBaseId": "569",
+    "color": "9"
+  },
+  {
+    "id": "6018",
+    "model": "douji_sudu_chibang10",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "6019",
+    "model": "douji_sudu_chibang11",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "6020",
+    "model": "douji_sudu_chibang12",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "6021",
+    "model": "douji_sudu_chibang13",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "6022",
+    "model": "douji_sudu_chibang14",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "6023",
+    "model": "douji_sudu_chibang15",
+    "type": "chibang",
+    "monstBaseId": "570",
+    "color": "1"
+  },
+  {
+    "id": "7001",
+    "model": "douji_jiqiao_tou1",
+    "type": "tou",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "7002",
+    "model": "douji_jiqiao_tou2",
+    "type": "tou",
+    "monstBaseId": "571",
+    "color": "9"
+  },
+  {
+    "id": "7003",
+    "model": "douji_jiqiao_tou3",
+    "type": "tou",
+    "monstBaseId": "571",
+    "color": "1"
+  },
+  {
+    "id": "7004",
+    "model": "douji_jiqiao_tou4",
+    "type": "tou",
+    "monstBaseId": "571",
+    "color": "1"
+  }
+]

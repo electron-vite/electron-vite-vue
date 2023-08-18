@@ -1,0 +1,2732 @@
+[
+  {
+    "id": "1",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031101",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "2",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031102",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "3",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031103",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "4",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031104",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "5",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031105",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "6",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031106",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "7",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031107",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "8",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031101",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "9",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031102",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "10",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031103",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "11",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031104",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "12",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031105",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "13",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031106",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "14",
+    "rewardID": "7000001",
+    "condition": "area_2_3",
+    "artifactID": "3031107",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "15",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031101",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "16",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031102",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "17",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031103",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "18",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031104",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "19",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031105",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "20",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031106",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "21",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031107",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "22",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031101",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "23",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031102",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "24",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031103",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "25",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031104",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "26",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031105",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "27",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031106",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "28",
+    "rewardID": "7000001",
+    "condition": "area_4_5",
+    "artifactID": "3031107",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "29",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031101",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "30",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031102",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "31",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031103",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "32",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031104",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "33",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031105",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "34",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031106",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "35",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031107",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "36",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031101",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "37",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031102",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "38",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031103",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "39",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031104",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "40",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031105",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "41",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031106",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "42",
+    "rewardID": "7000001",
+    "condition": "area_6_7",
+    "artifactID": "3031107",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "43",
+    "rewardID": "7000001",
+    "condition": "area_8_9",
+    "artifactID": "3031101",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "44",
+    "rewardID": "7000001",
+    "condition": "area_8_9",
+    "artifactID": "3031102",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "45",
+    "rewardID": "7000001",
+    "condition": "area_8_9",
+    "artifactID": "3031103",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "46",
+    "rewardID": "7000001",
+    "condition": "area_8_9",
+    "artifactID": "3031104",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "47",
+    "rewardID": "7000001",
+    "condition": "area_8_9",
+    "artifactID": "3031105",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "48",
+    "rewardID": "7000001",
+    "condition": "area_8_9",
+    "artifactID": "3031106",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "49",
+    "rewardID": "7000001",
+    "condition": "area_8_9",
+    "artifactID": "3031107",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "100"
+  },
+  {
+    "id": "50",
+    "rewardID": "7000002",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "3",
+    "statusPercentMin": "90",
+    "statusPercentMax": "90",
+    "weight": "100"
+  },
+  {
+    "id": "51",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031101",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "52",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031102",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "53",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031103",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "54",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031104",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "55",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031105",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "56",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031106",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "57",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031107",
+    "grade": "2",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "58",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031101",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "59",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031102",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "60",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031103",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "61",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031104",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "62",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031105",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "63",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031106",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "64",
+    "rewardID": "8110203",
+    "condition": "area_2_3",
+    "artifactID": "3031107",
+    "grade": "3",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "65",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031101",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "66",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031102",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "67",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031103",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "68",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031104",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "69",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031105",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "70",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031106",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "71",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031107",
+    "grade": "4",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "72",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031101",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "73",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031102",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "74",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031103",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "75",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031104",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "76",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031105",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "77",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031106",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "78",
+    "rewardID": "8110203",
+    "condition": "area_4_5",
+    "artifactID": "3031107",
+    "grade": "5",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "79",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031101",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "80",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031102",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "81",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031103",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "82",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031104",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "83",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031105",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "84",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031106",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "85",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031107",
+    "grade": "6",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "86",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031101",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "87",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031102",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "88",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031103",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "89",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031104",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "90",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031105",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "91",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031106",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "92",
+    "rewardID": "8110203",
+    "condition": "area_6_7",
+    "artifactID": "3031107",
+    "grade": "7",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "93",
+    "rewardID": "8110203",
+    "condition": "area_8_10",
+    "artifactID": "3031101",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "94",
+    "rewardID": "8110203",
+    "condition": "area_8_10",
+    "artifactID": "3031102",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "95",
+    "rewardID": "8110203",
+    "condition": "area_8_10",
+    "artifactID": "3031103",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "96",
+    "rewardID": "8110203",
+    "condition": "area_8_10",
+    "artifactID": "3031104",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "97",
+    "rewardID": "8110203",
+    "condition": "area_8_10",
+    "artifactID": "3031105",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "98",
+    "rewardID": "8110203",
+    "condition": "area_8_10",
+    "artifactID": "3031106",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "99",
+    "rewardID": "8110203",
+    "condition": "area_8_10",
+    "artifactID": "3031107",
+    "grade": "8",
+    "statusPercentMin": "40",
+    "statusPercentMax": "100",
+    "weight": "0"
+  },
+  {
+    "id": "100",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "1",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "101",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "2",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "102",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "3",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "103",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "3",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "104",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "3",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "105",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "3",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "106",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "4",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "107",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "4",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "108",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "4",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "109",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "4",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "110",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "111",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "112",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "113",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "114",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "115",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "116",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "117",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "118",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "119",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "120",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "121",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "122",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "123",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "124",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "125",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "126",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "127",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "128",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031106",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "129",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031107",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "130",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "131",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "132",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "133",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "134",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "135",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "136",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031106",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "137",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031107",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "138",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "139",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "140",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "141",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "142",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "143",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "144",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031106",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "145",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031107",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "146",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031109",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "147",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031110",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "148",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "149",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "150",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "151",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "152",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "153",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "154",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031106",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "155",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031107",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "156",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031109",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "157",
+    "rewardID": "8014001",
+    "condition": "0",
+    "artifactID": "3031110",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "158",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "1",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "159",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "2",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "160",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "3",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "161",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "3",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "162",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "3",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "163",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "3",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "164",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "4",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "165",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "4",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "166",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "4",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "167",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "4",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "168",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "169",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "170",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "171",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "172",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "173",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "174",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "175",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "176",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "177",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "178",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "179",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "180",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "181",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "182",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "183",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "184",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "185",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "186",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031106",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "187",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031107",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "188",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "189",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "190",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "191",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "192",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "193",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "194",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031106",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "195",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031107",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "196",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "197",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "198",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "199",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "200",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "201",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "202",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031106",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "203",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031107",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "204",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031109",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "205",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031110",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "206",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "207",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "208",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "209",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "210",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "211",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "212",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031106",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "213",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031107",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "214",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031109",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "215",
+    "rewardID": "8015201",
+    "condition": "0",
+    "artifactID": "3031110",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "216",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "1",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "217",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "2",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "218",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "3",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "219",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "3",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "220",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "3",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "221",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "3",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "222",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "4",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "223",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "4",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "224",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "4",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "225",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "4",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "226",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "227",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "228",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "229",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "230",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "231",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "5",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "232",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "233",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "234",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "235",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "236",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "237",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "6",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "238",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "239",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "240",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "241",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "242",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "243",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "244",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031106",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "245",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031107",
+    "grade": "7",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "246",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "247",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "248",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "249",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "250",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "251",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "252",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031106",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "253",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031107",
+    "grade": "8",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "254",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "255",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "256",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "257",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "258",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "259",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "260",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031106",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "261",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031107",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "262",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031109",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "263",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031110",
+    "grade": "9",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "264",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031101",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "265",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031102",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "266",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031103",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "267",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031108",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "268",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031104",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "269",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031105",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "270",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031106",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "271",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031107",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "272",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031109",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  },
+  {
+    "id": "273",
+    "rewardID": "8015221",
+    "condition": "0",
+    "artifactID": "3031110",
+    "grade": "10",
+    "statusPercentMin": "70",
+    "statusPercentMax": "95",
+    "weight": "1000"
+  }
+]

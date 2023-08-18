@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "key": "regretReduceMin",
+    "value": "50"
+  },
+  {
+    "id": "2",
+    "key": "regretReduceMax",
+    "value": "80"
+  },
+  {
+    "id": "3",
+    "key": "regretLetterA",
+    "value": "301"
+  },
+  {
+    "id": "4",
+    "key": "regretLetterB",
+    "value": "302"
+  }
+]

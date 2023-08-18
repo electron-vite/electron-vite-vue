@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "basRequire": "0",
+    "addElement": "5",
+    "weight": "100"
+  },
+  {
+    "id": "2",
+    "basRequire": "100",
+    "addElement": "10",
+    "weight": "100"
+  },
+  {
+    "id": "3",
+    "basRequire": "200",
+    "addElement": "15",
+    "weight": "100"
+  },
+  {
+    "id": "4",
+    "basRequire": "300",
+    "addElement": "20",
+    "weight": "100"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "key": "castGet",
+    "value": "2"
+  },
+  {
+    "id": "2",
+    "key": "castTimeCorrection",
+    "value": "10000"
+  },
+  {
+    "id": "3",
+    "key": "damageCorrection",
+    "value": "10000"
+  },
+  {
+    "id": "4",
+    "key": "fristTurnCost",
+    "value": "0.5"
+  },
+  {
+    "id": "5",
+    "key": "immortalDmg",
+    "value": "&810018_dxsh"
+  },
+  {
+    "id": "6",
+    "key": "HerdNpcDmg",
+    "value": "&810019_dysh"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "125001",
+    "staffCount1": "3",
+    "staffCount2": "3",
+    "staffCount3": "3",
+    "delayed": "3",
+    "trigger": "openUI_SchoolMainHall",
+    "affirmTips": "0",
+    "openDialogueID": "0",
+    "expMin": "0",
+    "expMax": "0",
+    "closeMin": "0",
+    "closeMax": "0",
+    "startDialogue": "0"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "moneyMin": "480",
+    "moneyMax": "1200",
+    "schoolGrow": "120"
+  },
+  {
+    "id": "2",
+    "moneyMin": "720",
+    "moneyMax": "1800",
+    "schoolGrow": "140"
+  },
+  {
+    "id": "3",
+    "moneyMin": "1200",
+    "moneyMax": "3000",
+    "schoolGrow": "160"
+  },
+  {
+    "id": "4",
+    "moneyMin": "1920",
+    "moneyMax": "4800",
+    "schoolGrow": "180"
+  },
+  {
+    "id": "5",
+    "moneyMin": "3360",
+    "moneyMax": "8400",
+    "schoolGrow": "200"
+  },
+  {
+    "id": "6",
+    "moneyMin": "5760",
+    "moneyMax": "14400",
+    "schoolGrow": "220"
+  },
+  {
+    "id": "7",
+    "moneyMin": "9600",
+    "moneyMax": "24000",
+    "schoolGrow": "240"
+  },
+  {
+    "id": "8",
+    "moneyMin": "14400",
+    "moneyMax": "36000",
+    "schoolGrow": "260"
+  },
+  {
+    "id": "9",
+    "moneyMin": "24000",
+    "moneyMax": "60000",
+    "schoolGrow": "280"
+  },
+  {
+    "id": "10",
+    "moneyMin": "38400",
+    "moneyMax": "96000",
+    "schoolGrow": "300"
+  }
+]

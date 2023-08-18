@@ -1,0 +1,42 @@
+[
+  {
+    "id": "5221101",
+    "time": "24000",
+    "ballMin": "2",
+    "ballMax": "3",
+    "pureAdd": "5",
+    "mixedAdd": "5"
+  },
+  {
+    "id": "5221102",
+    "time": "28000",
+    "ballMin": "2",
+    "ballMax": "3",
+    "pureAdd": "6",
+    "mixedAdd": "6"
+  },
+  {
+    "id": "5221103",
+    "time": "32000",
+    "ballMin": "2",
+    "ballMax": "3",
+    "pureAdd": "7",
+    "mixedAdd": "7"
+  },
+  {
+    "id": "5221104",
+    "time": "36000",
+    "ballMin": "2",
+    "ballMax": "3",
+    "pureAdd": "8",
+    "mixedAdd": "8"
+  },
+  {
+    "id": "5221105",
+    "time": "40000",
+    "ballMin": "2",
+    "ballMax": "3",
+    "pureAdd": "9",
+    "mixedAdd": "9"
+  }
+]

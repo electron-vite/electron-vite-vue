@@ -1,0 +1,37 @@
+[
+  {
+    "id": "10001",
+    "openUI": "Build10001",
+    "dramaID": "0"
+  },
+  {
+    "id": "10002",
+    "openUI": "Build10002",
+    "dramaID": "0"
+  },
+  {
+    "id": "10003",
+    "openUI": "0",
+    "dramaID": "610325|610333|610365"
+  },
+  {
+    "id": "10004",
+    "openUI": "Build10004",
+    "dramaID": "0"
+  },
+  {
+    "id": "10005",
+    "openUI": "0",
+    "dramaID": "0"
+  },
+  {
+    "id": "10006",
+    "openUI": "0",
+    "dramaID": "0"
+  },
+  {
+    "id": "10008",
+    "openUI": "0",
+    "dramaID": "0"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1001",
+    "type": "shuanghu_1",
+    "story": "shuanghu_2",
+    "memory": "shuanghu_3|shuanghu_4|shuanghu_5|shuanghu_6|shuanghu_7"
+  },
+  {
+    "id": "1002",
+    "type": "xiusi_1",
+    "story": "xiusi_2",
+    "memory": "xiusi_3|xiusi_4|xiusi_5|xiusi_6|xiusi_7"
+  },
+  {
+    "id": "1003",
+    "type": "mantun_1",
+    "story": "mantun_2",
+    "memory": "mantun_3|mantun_4|mantun_5|mantun_6|mantun_7"
+  },
+  {
+    "id": "1004",
+    "type": "yuluan_1",
+    "story": "yuluan_2",
+    "memory": "yuluan_3|yuluan_4|yuluan_5|yuluan_6|yuluan_7"
+  },
+  {
+    "id": "1005",
+    "type": "liban_1",
+    "story": "liban_2",
+    "memory": "liban_3|liban_4|liban_5|liban_6|liban_7"
+  },
+  {
+    "id": "1006",
+    "type": "pimeng_1",
+    "story": "pimeng_2",
+    "memory": "pimeng_3|pimeng_4|pimeng_5|pimeng_6|pimeng_7"
+  },
+  {
+    "id": "1007",
+    "type": "zhuolong_1",
+    "story": "zhuolong_2",
+    "memory": "zhuolong_3|zhuolong_4|zhuolong_5|zhuolong_6|zhuolong_7"
+  },
+  {
+    "id": "1008",
+    "type": "wushe_1",
+    "story": "wushe_2",
+    "memory": "wushe_3|wushe_4|wushe_5|wushe_6|wushe_7"
+  }
+]

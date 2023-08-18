@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "level": "1",
+    "monstEffects": "0",
+    "bossEffects": "0",
+    "btnText": "uiBrokenAltar_nandu1",
+    "benDesc": "uiBrokenAltar_nandumiaoshu1",
+    "needPassCount": "0"
+  },
+  {
+    "id": "2",
+    "level": "2",
+    "monstEffects": "420001|420003",
+    "bossEffects": "420002|420004",
+    "btnText": "uiBrokenAltar_nandu2",
+    "benDesc": "uiBrokenAltar_nandumiaoshu2",
+    "needPassCount": "10"
+  },
+  {
+    "id": "3",
+    "level": "3",
+    "monstEffects": "430001|430003",
+    "bossEffects": "430002|430004|9030006",
+    "btnText": "uiBrokenAltar_nandu3",
+    "benDesc": "uiBrokenAltar_nandumiaoshu3",
+    "needPassCount": "10"
+  }
+]

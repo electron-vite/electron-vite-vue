@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "groupID": "1",
+    "condition": "hunger_5000",
+    "cd": "10",
+    "memory": "1705001"
+  },
+  {
+    "id": "2",
+    "groupID": "1",
+    "condition": "hunger_5000",
+    "cd": "10",
+    "memory": "1705002"
+  },
+  {
+    "id": "3",
+    "groupID": "2",
+    "condition": "mood_5000",
+    "cd": "10",
+    "memory": "1705003"
+  },
+  {
+    "id": "4",
+    "groupID": "2",
+    "condition": "mood_5000",
+    "cd": "10",
+    "memory": "1705004"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "key": "fixedMoveSpeed",
+    "value": "500"
+  },
+  {
+    "id": "2",
+    "key": "bossFocusSpeed",
+    "value": "6"
+  },
+  {
+    "id": "3",
+    "key": "bossStayDuration",
+    "value": "1000"
+  },
+  {
+    "id": "4",
+    "key": "bossZoomSize",
+    "value": "5.4"
+  },
+  {
+    "id": "5",
+    "key": "drama1Delay",
+    "value": "1000"
+  },
+  {
+    "id": "6",
+    "key": "drama1",
+    "value": "2240001"
+  },
+  {
+    "id": "7",
+    "key": "drama2Delay",
+    "value": "1000"
+  },
+  {
+    "id": "8",
+    "key": "drama2",
+    "value": "2240051"
+  },
+  {
+    "id": "9",
+    "key": "drama3Delay",
+    "value": "500"
+  },
+  {
+    "id": "10",
+    "key": "drama3",
+    "value": "2240151"
+  },
+  {
+    "id": "11",
+    "key": "boss2FocusSpeed",
+    "value": "5"
+  },
+  {
+    "id": "12",
+    "key": "boss2EnterDuration",
+    "value": "8000"
+  },
+  {
+    "id": "13",
+    "key": "bossFocusTriggerRange",
+    "value": "1"
+  }
+]

@@ -1,0 +1,428 @@
+[
+  {
+    "id": "1",
+    "group": "41",
+    "name1": "schoolNameFirst1",
+    "name2": "schoolNameSecond1"
+  },
+  {
+    "id": "2",
+    "group": "41",
+    "name1": "schoolNameFirst2",
+    "name2": "schoolNameSecond2"
+  },
+  {
+    "id": "3",
+    "group": "41",
+    "name1": "schoolNameFirst3",
+    "name2": "schoolNameSecond3"
+  },
+  {
+    "id": "4",
+    "group": "41",
+    "name1": "schoolNameFirst4",
+    "name2": "schoolNameSecond4"
+  },
+  {
+    "id": "5",
+    "group": "41",
+    "name1": "schoolNameFirst5",
+    "name2": "schoolNameSecond5"
+  },
+  {
+    "id": "6",
+    "group": "41",
+    "name1": "schoolNameFirst6",
+    "name2": "schoolNameSecond6"
+  },
+  {
+    "id": "7",
+    "group": "41",
+    "name1": "schoolNameFirst7",
+    "name2": "schoolNameSecond7"
+  },
+  {
+    "id": "8",
+    "group": "43",
+    "name1": "schoolNameFirst8",
+    "name2": "schoolNameSecond8"
+  },
+  {
+    "id": "9",
+    "group": "43",
+    "name1": "schoolNameFirst9",
+    "name2": "schoolNameSecond9"
+  },
+  {
+    "id": "10",
+    "group": "43",
+    "name1": "schoolNameFirst10",
+    "name2": "schoolNameSecond10"
+  },
+  {
+    "id": "11",
+    "group": "43",
+    "name1": "schoolNameFirst11",
+    "name2": "schoolNameSecond11"
+  },
+  {
+    "id": "12",
+    "group": "43",
+    "name1": "schoolNameFirst12",
+    "name2": "schoolNameSecond12"
+  },
+  {
+    "id": "13",
+    "group": "43",
+    "name1": "schoolNameFirst13",
+    "name2": "schoolNameSecond13"
+  },
+  {
+    "id": "14",
+    "group": "43",
+    "name1": "schoolNameFirst14",
+    "name2": "schoolNameSecond14"
+  },
+  {
+    "id": "15",
+    "group": "42",
+    "name1": "schoolNameFirst15",
+    "name2": "schoolNameSecond15"
+  },
+  {
+    "id": "16",
+    "group": "42",
+    "name1": "schoolNameFirst16",
+    "name2": "schoolNameSecond16"
+  },
+  {
+    "id": "17",
+    "group": "42",
+    "name1": "schoolNameFirst17",
+    "name2": "schoolNameSecond17"
+  },
+  {
+    "id": "18",
+    "group": "42",
+    "name1": "schoolNameFirst18",
+    "name2": "schoolNameSecond18"
+  },
+  {
+    "id": "19",
+    "group": "42",
+    "name1": "schoolNameFirst19",
+    "name2": "schoolNameSecond19"
+  },
+  {
+    "id": "20",
+    "group": "42",
+    "name1": "schoolNameFirst20",
+    "name2": "schoolNameSecond20"
+  },
+  {
+    "id": "21",
+    "group": "42",
+    "name1": "schoolNameFirst21",
+    "name2": "schoolNameSecond21"
+  },
+  {
+    "id": "22",
+    "group": "44",
+    "name1": "schoolNameFirst22",
+    "name2": "schoolNameSecond22"
+  },
+  {
+    "id": "23",
+    "group": "44",
+    "name1": "schoolNameFirst23",
+    "name2": "schoolNameSecond23"
+  },
+  {
+    "id": "24",
+    "group": "44",
+    "name1": "schoolNameFirst24",
+    "name2": "schoolNameSecond24"
+  },
+  {
+    "id": "25",
+    "group": "44",
+    "name1": "schoolNameFirst25",
+    "name2": "schoolNameSecond25"
+  },
+  {
+    "id": "26",
+    "group": "44",
+    "name1": "schoolNameFirst26",
+    "name2": "schoolNameSecond26"
+  },
+  {
+    "id": "27",
+    "group": "44",
+    "name1": "schoolNameFirst27",
+    "name2": "schoolNameSecond27"
+  },
+  {
+    "id": "28",
+    "group": "44",
+    "name1": "schoolNameFirst28",
+    "name2": "schoolNameSecond28"
+  },
+  {
+    "id": "29",
+    "group": "31",
+    "name1": "schoolNameFirst29",
+    "name2": "schoolNameSecond29"
+  },
+  {
+    "id": "30",
+    "group": "31",
+    "name1": "schoolNameFirst30",
+    "name2": "schoolNameSecond30"
+  },
+  {
+    "id": "31",
+    "group": "31",
+    "name1": "schoolNameFirst31",
+    "name2": "schoolNameSecond31"
+  },
+  {
+    "id": "32",
+    "group": "31",
+    "name1": "schoolNameFirst32",
+    "name2": "schoolNameSecond32"
+  },
+  {
+    "id": "33",
+    "group": "32",
+    "name1": "schoolNameFirst33",
+    "name2": "schoolNameSecond33"
+  },
+  {
+    "id": "34",
+    "group": "32",
+    "name1": "schoolNameFirst34",
+    "name2": "schoolNameSecond34"
+  },
+  {
+    "id": "35",
+    "group": "32",
+    "name1": "schoolNameFirst35",
+    "name2": "schoolNameSecond35"
+  },
+  {
+    "id": "36",
+    "group": "32",
+    "name1": "schoolNameFirst36",
+    "name2": "schoolNameSecond36"
+  },
+  {
+    "id": "37",
+    "group": "21",
+    "name1": "schoolNameFirst37",
+    "name2": "schoolNameSecond37"
+  },
+  {
+    "id": "38",
+    "group": "21",
+    "name1": "schoolNameFirst38",
+    "name2": "schoolNameSecond38"
+  },
+  {
+    "id": "39",
+    "group": "21",
+    "name1": "schoolNameFirst39",
+    "name2": "schoolNameSecond39"
+  },
+  {
+    "id": "40",
+    "group": "21",
+    "name1": "schoolNameFirst40",
+    "name2": "schoolNameSecond40"
+  },
+  {
+    "id": "41",
+    "group": "22",
+    "name1": "schoolNameFirst41",
+    "name2": "schoolNameSecond41"
+  },
+  {
+    "id": "42",
+    "group": "22",
+    "name1": "schoolNameFirst42",
+    "name2": "schoolNameSecond42"
+  },
+  {
+    "id": "43",
+    "group": "22",
+    "name1": "schoolNameFirst43",
+    "name2": "schoolNameSecond43"
+  },
+  {
+    "id": "44",
+    "group": "22",
+    "name1": "schoolNameFirst44",
+    "name2": "schoolNameSecond44"
+  },
+  {
+    "id": "45",
+    "group": "11",
+    "name1": "0",
+    "name2": "0"
+  },
+  {
+    "id": "46",
+    "group": "11",
+    "name1": "0",
+    "name2": "0"
+  },
+  {
+    "id": "47",
+    "group": "11",
+    "name1": "0",
+    "name2": "0"
+  },
+  {
+    "id": "48",
+    "group": "12",
+    "name1": "0",
+    "name2": "0"
+  },
+  {
+    "id": "49",
+    "group": "12",
+    "name1": "0",
+    "name2": "0"
+  },
+  {
+    "id": "50",
+    "group": "12",
+    "name1": "0",
+    "name2": "0"
+  },
+  {
+    "id": "51",
+    "group": "51",
+    "name1": "schoolNameFirstFinal51",
+    "name2": "schoolNameSecondFinal51"
+  },
+  {
+    "id": "52",
+    "group": "51",
+    "name1": "schoolNameFirstFinal52",
+    "name2": "schoolNameSecondFinal52"
+  },
+  {
+    "id": "53",
+    "group": "52",
+    "name1": "schoolNameFirstFinal53",
+    "name2": "schoolNameSecondFinal53"
+  },
+  {
+    "id": "54",
+    "group": "52",
+    "name1": "schoolNameFirstFinal54",
+    "name2": "schoolNameSecondFinal54"
+  },
+  {
+    "id": "55",
+    "group": "13",
+    "name1": "schoolNameFirst40",
+    "name2": "schoolNameSecond40"
+  },
+  {
+    "id": "56",
+    "group": "13",
+    "name1": "schoolNameFirst37",
+    "name2": "schoolNameSecond37"
+  },
+  {
+    "id": "57",
+    "group": "13",
+    "name1": "schoolNameFirst38",
+    "name2": "schoolNameSecond38"
+  },
+  {
+    "id": "58",
+    "group": "13",
+    "name1": "schoolNameFirst39",
+    "name2": "schoolNameSecond39"
+  },
+  {
+    "id": "59",
+    "group": "14",
+    "name1": "schoolNameFirst59",
+    "name2": "schoolNameSecond59"
+  },
+  {
+    "id": "60",
+    "group": "13",
+    "name1": "schoolNameFirst41",
+    "name2": "schoolNameSecond41"
+  },
+  {
+    "id": "61",
+    "group": "13",
+    "name1": "schoolNameFirst42",
+    "name2": "schoolNameSecond42"
+  },
+  {
+    "id": "62",
+    "group": "13",
+    "name1": "schoolNameFirst43",
+    "name2": "schoolNameSecond43"
+  },
+  {
+    "id": "63",
+    "group": "13",
+    "name1": "schoolNameFirst44",
+    "name2": "schoolNameSecond44"
+  },
+  {
+    "id": "64",
+    "group": "53",
+    "name1": "schoolNameFirstFinal64",
+    "name2": "schoolNameSecondFinal64"
+  },
+  {
+    "id": "65",
+    "group": "53",
+    "name1": "schoolNameFirstFinal65",
+    "name2": "schoolNameSecondFinal65"
+  },
+  {
+    "id": "66",
+    "group": "54",
+    "name1": "schoolNameFirstFinal66",
+    "name2": "schoolNameSecondFinal66"
+  },
+  {
+    "id": "67",
+    "group": "54",
+    "name1": "schoolNameFirstFinal67",
+    "name2": "schoolNameSecondFinal67"
+  },
+  {
+    "id": "68",
+    "group": "55",
+    "name1": "schoolNameFirstFinal68",
+    "name2": "schoolNameSecondFinal68"
+  },
+  {
+    "id": "69",
+    "group": "55",
+    "name1": "schoolNameFirstFinal69",
+    "name2": "schoolNameSecondFinal69"
+  },
+  {
+    "id": "70",
+    "group": "56",
+    "name1": "schoolNameFirstFinal70",
+    "name2": "schoolNameSecondFinal70"
+  },
+  {
+    "id": "71",
+    "group": "56",
+    "name1": "schoolNameFirstFinal71",
+    "name2": "schoolNameSecondFinal71"
+  }
+]

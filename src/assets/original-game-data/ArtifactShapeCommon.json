@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "soulCapcity": "252",
+    "equipSp": "132",
+    "spCost": "16",
+    "spCostDuration": "0.64"
+  },
+  {
+    "id": "2",
+    "soulCapcity": "348",
+    "equipSp": "212",
+    "spCost": "24",
+    "spCostDuration": "1.024"
+  },
+  {
+    "id": "3",
+    "soulCapcity": "528",
+    "equipSp": "340",
+    "spCost": "35",
+    "spCostDuration": "1.632"
+  },
+  {
+    "id": "4",
+    "soulCapcity": "708",
+    "equipSp": "545",
+    "spCost": "52",
+    "spCostDuration": "2.616"
+  },
+  {
+    "id": "5",
+    "soulCapcity": "948",
+    "equipSp": "872",
+    "spCost": "77",
+    "spCostDuration": "4.192"
+  },
+  {
+    "id": "6",
+    "soulCapcity": "1188",
+    "equipSp": "1397",
+    "spCost": "116",
+    "spCostDuration": "6.704"
+  },
+  {
+    "id": "7",
+    "soulCapcity": "1488",
+    "equipSp": "2235",
+    "spCost": "174",
+    "spCostDuration": "10.736"
+  },
+  {
+    "id": "8",
+    "soulCapcity": "1788",
+    "equipSp": "3578",
+    "spCost": "263",
+    "spCostDuration": "17.176"
+  },
+  {
+    "id": "9",
+    "soulCapcity": "2148",
+    "equipSp": "5725",
+    "spCost": "397",
+    "spCostDuration": "27.48"
+  },
+  {
+    "id": "10",
+    "soulCapcity": "2508",
+    "equipSp": "9161",
+    "spCost": "602",
+    "spCostDuration": "43.976"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1001",
+    "condition": "post_1_1|schoolLevel_0_2_2|schoolHeadquarters_0_1_2",
+    "item": "2022071",
+    "failCount": "3",
+    "level": "1",
+    "bidding": "0",
+    "itemPrice": "10000",
+    "monthLogID": "drama_monthLog21467"
+  },
+  {
+    "id": "1002",
+    "condition": "post_1_1|schoolLevel_0_2_2|schoolHeadquarters_0_1_4",
+    "item": "2022071",
+    "failCount": "3",
+    "level": "2",
+    "bidding": "0",
+    "itemPrice": "20000",
+    "monthLogID": "drama_monthLog21468"
+  },
+  {
+    "id": "1003",
+    "condition": "post_1_1|schoolLevel_0_2_2|schoolHeadquarters_0_1_6",
+    "item": "2022071",
+    "failCount": "3",
+    "level": "3",
+    "bidding": "0",
+    "itemPrice": "40000",
+    "monthLogID": "drama_monthLog21469"
+  },
+  {
+    "id": "1004",
+    "condition": "post_1_1|schoolLevel_0_2_2|schoolHeadquarters_0_1_8",
+    "item": "2022071",
+    "failCount": "3",
+    "level": "4",
+    "bidding": "0",
+    "itemPrice": "80000",
+    "monthLogID": "drama_monthLog21470"
+  }
+]

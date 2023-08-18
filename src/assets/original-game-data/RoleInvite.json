@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "key": "createEventMinDis",
+    "value": "8"
+  },
+  {
+    "id": "2",
+    "key": "createEventMaxDis",
+    "value": "15"
+  },
+  {
+    "id": "3",
+    "key": "addLuck",
+    "value": "140"
+  },
+  {
+    "id": "4",
+    "key": "costEnergy",
+    "value": "10"
+  },
+  {
+    "id": "5",
+    "key": "eventID",
+    "value": "4801"
+  },
+  {
+    "id": "6",
+    "key": "cdTime",
+    "value": "6"
+  },
+  {
+    "id": "7",
+    "key": "taskID",
+    "value": "1119002"
+  },
+  {
+    "id": "8",
+    "key": "intimateDecline",
+    "value": "-120"
+  }
+]

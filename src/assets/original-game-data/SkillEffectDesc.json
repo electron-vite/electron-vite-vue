@@ -1,0 +1,922 @@
+[
+  {
+    "id": "1",
+    "key": "s_huo",
+    "icon": "huolinggen",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "2",
+    "key": "s_shui",
+    "icon": "shuilinggen",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "3",
+    "key": "s_lei",
+    "icon": "leilinggen",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "4",
+    "key": "s_feng",
+    "icon": "fenglinggen",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "5",
+    "key": "s_tu",
+    "icon": "tulinggen",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "6",
+    "key": "s_mu",
+    "icon": "mulinggen",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "7",
+    "key": "s_dao",
+    "icon": "daofa",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "8",
+    "key": "s_qiang",
+    "icon": "qiangfa",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "9",
+    "key": "s_jian",
+    "icon": "jianfa",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "10",
+    "key": "s_quan",
+    "icon": "quanfa",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "11",
+    "key": "s_zhang",
+    "icon": "zhangfa",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "12",
+    "key": "s_zhi",
+    "icon": "zhifa",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "13",
+    "key": "s_huolinggen",
+    "icon": "huolinggen",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "14",
+    "key": "s_shuilinggen",
+    "icon": "shuilinggen",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "15",
+    "key": "s_leilinggen",
+    "icon": "leilinggen",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "16",
+    "key": "s_fenglinggen",
+    "icon": "fenglinggen",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "17",
+    "key": "s_tulinggen",
+    "icon": "tulinggen",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "18",
+    "key": "s_mulinggen",
+    "icon": "mulinggen",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "19",
+    "key": "s_daofazizhi",
+    "icon": "daofa",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "20",
+    "key": "s_qiangfazizhi",
+    "icon": "qiangfa",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "21",
+    "key": "s_jianfazizhi",
+    "icon": "jianfa",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "22",
+    "key": "s_quanfazizhi",
+    "icon": "quanfa",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "23",
+    "key": "s_zhangfazizhi",
+    "icon": "zhangfa",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "24",
+    "key": "s_zhifazizhi",
+    "icon": "zhifa",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "25",
+    "key": "s_zhandouzizhi",
+    "icon": "0",
+    "type": "s_shuxing",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_zhandouzizhi_desc"
+  },
+  {
+    "id": "26",
+    "key": "s_xueren",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_xueren_desc"
+  },
+  {
+    "id": "27",
+    "key": "s_jueqing",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_jueqing_desc"
+  },
+  {
+    "id": "28",
+    "key": "s_pojia",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_pojia_desc"
+  },
+  {
+    "id": "29",
+    "key": "s_poshi",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_poshi_desc"
+  },
+  {
+    "id": "30",
+    "key": "s_liuxue",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_liuxue_desc"
+  },
+  {
+    "id": "31",
+    "key": "s_jianzhan",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_jianzhan_desc"
+  },
+  {
+    "id": "32",
+    "key": "s_suigu",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_suigu_desc"
+  },
+  {
+    "id": "33",
+    "key": "s_tongpi",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_tongpi_desc"
+  },
+  {
+    "id": "34",
+    "key": "s_hudun",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_hudun_desc"
+  },
+  {
+    "id": "35",
+    "key": "s_neishang",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_neishang_desc"
+  },
+  {
+    "id": "36",
+    "key": "s_neijing",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_neijing_desc"
+  },
+  {
+    "id": "37",
+    "key": "s_neixu",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_neixu_desc"
+  },
+  {
+    "id": "38",
+    "key": "s_kaimai",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_kaimai_desc"
+  },
+  {
+    "id": "39",
+    "key": "s_zhuoshao",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_zhuoshao_desc"
+  },
+  {
+    "id": "40",
+    "key": "s_ranhun",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_ranhun_desc"
+  },
+  {
+    "id": "41",
+    "key": "s_hanshuang",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_hanshuang_desc"
+  },
+  {
+    "id": "42",
+    "key": "s_lingyong",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_lingyong_desc"
+  },
+  {
+    "id": "43",
+    "key": "s_luanliu",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_luanliu_desc"
+  },
+  {
+    "id": "44",
+    "key": "s_leiyong",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_leiyong_desc"
+  },
+  {
+    "id": "45",
+    "key": "s_nifeng",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_nifeng_desc"
+  },
+  {
+    "id": "46",
+    "key": "s_lingfeng",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_lingfeng_desc"
+  },
+  {
+    "id": "47",
+    "key": "s_chidun",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_chidun_desc"
+  },
+  {
+    "id": "48",
+    "key": "s_shifu",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_shifu_desc"
+  },
+  {
+    "id": "49",
+    "key": "s_duci",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_duci_desc"
+  },
+  {
+    "id": "50",
+    "key": "s_hualing",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_hualing_desc"
+  },
+  {
+    "id": "51",
+    "key": "s_chixushifa",
+    "icon": "0",
+    "type": "s_spell",
+    "typeIcon": "shifafangshi",
+    "value": "s_chixushifa_desc"
+  },
+  {
+    "id": "52",
+    "key": "s_xulishifa1",
+    "icon": "0",
+    "type": "s_spell",
+    "typeIcon": "shifafangshi",
+    "value": "s_xulishifa1_desc"
+  },
+  {
+    "id": "53",
+    "key": "s_xulishifa2",
+    "icon": "0",
+    "type": "s_spell",
+    "typeIcon": "shifafangshi",
+    "value": "s_xulishifa2_desc"
+  },
+  {
+    "id": "54",
+    "key": "s_xiaohuayao",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_xiaohuayao_desc"
+  },
+  {
+    "id": "55",
+    "key": "s_wangling1",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_wangling1_desc"
+  },
+  {
+    "id": "56",
+    "key": "s_wangling2",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_wangling2_desc"
+  },
+  {
+    "id": "57",
+    "key": "s_wangling3",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_wangling3_desc"
+  },
+  {
+    "id": "58",
+    "key": "s_huangjilishi",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_huangjilishi_desc"
+  },
+  {
+    "id": "59",
+    "key": "s_huayao",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_huayao_desc"
+  },
+  {
+    "id": "60",
+    "key": "s_mieshenzhan",
+    "icon": "0",
+    "type": "s_jineng",
+    "typeIcon": "jineng",
+    "value": "s_mieshenzhan_desc"
+  },
+  {
+    "id": "61",
+    "key": "s_morenzhan",
+    "icon": "0",
+    "type": "s_jineng",
+    "typeIcon": "jineng",
+    "value": "s_morenzhan_desc"
+  },
+  {
+    "id": "62",
+    "key": "s_badao",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "63",
+    "key": "s_chongneng",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_chongneng_desc"
+  },
+  {
+    "id": "64",
+    "key": "s_longhun",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "65",
+    "key": "s_qiangying",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "66",
+    "key": "s_jianying",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "67",
+    "key": "s_jianhun",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "68",
+    "key": "s_dunying",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_dunying_desc"
+  },
+  {
+    "id": "69",
+    "key": "s_feixue",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "70",
+    "key": "s_guishen",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "71",
+    "key": "s_mozhang",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "72",
+    "key": "s_lingxu",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "73",
+    "key": "s_maixi",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "74",
+    "key": "s_touzhi",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_touzhi_desc"
+  },
+  {
+    "id": "75",
+    "key": "s_xuruo",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_xuruo_desc"
+  },
+  {
+    "id": "76",
+    "key": "s_shenhuohe",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_shenhuohe_desc"
+  },
+  {
+    "id": "77",
+    "key": "s_huozhong",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "78",
+    "key": "s_huoshen",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "79",
+    "key": "s_dongjie",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_dongjie_desc"
+  },
+  {
+    "id": "80",
+    "key": "s_yunxuan",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_yunxuan_desc"
+  },
+  {
+    "id": "81",
+    "key": "s_mabi",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_mabi_desc"
+  },
+  {
+    "id": "82",
+    "key": "s_bingyan",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "83",
+    "key": "s_baolinghu",
+    "icon": "0",
+    "type": "s_jineng",
+    "typeIcon": "jineng",
+    "value": "s_baolinghu_desc"
+  },
+  {
+    "id": "84",
+    "key": "s_kujiehu",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "85",
+    "key": "s_leiyin",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "86",
+    "key": "s_leifa",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "87",
+    "key": "s_fengshen",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "88",
+    "key": "s_nikong",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "89",
+    "key": "s_jifengren",
+    "icon": "0",
+    "type": "s_jineng",
+    "typeIcon": "jineng",
+    "value": "s_jifengren_desc"
+  },
+  {
+    "id": "90",
+    "key": "s_leiji",
+    "icon": "0",
+    "type": "s_jineng",
+    "typeIcon": "jineng",
+    "value": "s_leiji_desc"
+  },
+  {
+    "id": "91",
+    "key": "s_tukuilei",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_tukuilei_desc"
+  },
+  {
+    "id": "92",
+    "key": "s_lingyan",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "93",
+    "key": "s_julingkuilei",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_julingkuilei_desc"
+  },
+  {
+    "id": "94",
+    "key": "s_duwa",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_duwa_desc"
+  },
+  {
+    "id": "95",
+    "key": "s_duzhu",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_duzhu_desc"
+  },
+  {
+    "id": "96",
+    "key": "s_huayaohou",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_huayaohou_desc"
+  },
+  {
+    "id": "97",
+    "key": "s_dulonghua",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_dulonghua_desc"
+  },
+  {
+    "id": "98",
+    "key": "s_fushi",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_fushi_desc"
+  },
+  {
+    "id": "99",
+    "key": "s_huoyuan",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_huoyuan_desc"
+  },
+  {
+    "id": "100",
+    "key": "s_huoling",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_huoling_desc"
+  },
+  {
+    "id": "101",
+    "key": "s_huoli",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_huoli_desc"
+  },
+  {
+    "id": "102",
+    "key": "s_dushi",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "103",
+    "key": "s_huazhong",
+    "icon": "0",
+    "type": "0",
+    "typeIcon": "0",
+    "value": "0"
+  },
+  {
+    "id": "104",
+    "key": "s_zhangfeng",
+    "icon": "0",
+    "type": "s_jineng",
+    "typeIcon": "jineng",
+    "value": "s_zhangfeng_desc"
+  },
+  {
+    "id": "105",
+    "key": "s_fengmai",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_fengmai_desc"
+  },
+  {
+    "id": "106",
+    "key": "s_lieyan",
+    "icon": "0",
+    "type": "s_jineng",
+    "typeIcon": "jineng",
+    "value": "s_lieyan_desc"
+  },
+  {
+    "id": "107",
+    "key": "s_xuanfeng",
+    "icon": "0",
+    "type": "s_jineng",
+    "typeIcon": "jineng",
+    "value": "s_xuanfeng_desc"
+  },
+  {
+    "id": "108",
+    "key": "s_chanrao",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_chanrao_desc"
+  },
+  {
+    "id": "109",
+    "key": "s_huanying",
+    "icon": "0",
+    "type": "s_summon",
+    "typeIcon": "zhaohuanwu",
+    "value": "s_huanying_desc"
+  },
+  {
+    "id": "110",
+    "key": "s_wudi",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_wudi_desc"
+  },
+  {
+    "id": "111",
+    "key": "s_zhansha",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_zhansha_desc"
+  },
+  {
+    "id": "112",
+    "key": "s_longqiangfuti",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_longqiangfuti_desc"
+  },
+  {
+    "id": "113",
+    "key": "s_wanmeixuli",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_wanmeixuli_desc"
+  },
+  {
+    "id": "114",
+    "key": "s_miaosha",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_miaosha_desc"
+  },
+  {
+    "id": "115",
+    "key": "s_dushanghai",
+    "icon": "0",
+    "type": "s_buff",
+    "typeIcon": "zhandouxiaoguo",
+    "value": "s_dushanghai_desc"
+  }
+]

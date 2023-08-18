@@ -1,0 +1,10512 @@
+[
+  {
+    "id": "101",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "1|2|3|4|5|6",
+    "className": "1",
+    "rewardGradeID": "90",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10001",
+    "type": "1|2|3|4|5|6|11|12|13|14",
+    "level": "1|2|3|4|5|6",
+    "className": "1",
+    "rewardGradeID": "90",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10002",
+    "type": "1|2|3|4|5|6|11|12|13|14",
+    "level": "1|2|3|4|5|6",
+    "className": "1",
+    "rewardGradeID": "90",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10003",
+    "type": "1",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10004",
+    "type": "1",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10005",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10006",
+    "type": "1",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10007",
+    "type": "1",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10008",
+    "type": "1",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10009",
+    "type": "1",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10010",
+    "type": "1",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10011",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10012",
+    "type": "1",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10013",
+    "type": "1",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10014",
+    "type": "1",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10015",
+    "type": "1",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10016",
+    "type": "1",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10017",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10018",
+    "type": "1",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10019",
+    "type": "1",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10020",
+    "type": "1",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10021",
+    "type": "1",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10022",
+    "type": "1",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10023",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10024",
+    "type": "1",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10025",
+    "type": "1",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10026",
+    "type": "1",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10027",
+    "type": "1",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10028",
+    "type": "1",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10029",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10030",
+    "type": "1",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10031",
+    "type": "1",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10032",
+    "type": "1",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10033",
+    "type": "1",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10034",
+    "type": "1",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10035",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10036",
+    "type": "1",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10037",
+    "type": "1",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10038",
+    "type": "1",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10039",
+    "type": "1",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10040",
+    "type": "1",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10041",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10042",
+    "type": "1",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10043",
+    "type": "1",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10044",
+    "type": "1",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10045",
+    "type": "1",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10046",
+    "type": "1",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10047",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10048",
+    "type": "1",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10049",
+    "type": "1",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10050",
+    "type": "1",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10051",
+    "type": "1",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10052",
+    "type": "1",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10053",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10054",
+    "type": "1",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10055",
+    "type": "1",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10056",
+    "type": "1",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10057",
+    "type": "1",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10058",
+    "type": "1",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10059",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10060",
+    "type": "1",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10061",
+    "type": "1",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10062",
+    "type": "1",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10063",
+    "type": "2",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10064",
+    "type": "2",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10065",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10066",
+    "type": "2",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10067",
+    "type": "2",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10068",
+    "type": "2",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10069",
+    "type": "2",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10070",
+    "type": "2",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10071",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10072",
+    "type": "2",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10073",
+    "type": "2",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10074",
+    "type": "2",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10075",
+    "type": "2",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10076",
+    "type": "2",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10077",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10078",
+    "type": "2",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10079",
+    "type": "2",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10080",
+    "type": "2",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10081",
+    "type": "2",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10082",
+    "type": "2",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10083",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10084",
+    "type": "2",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10085",
+    "type": "2",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10086",
+    "type": "2",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10087",
+    "type": "2",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10088",
+    "type": "2",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10089",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10090",
+    "type": "2",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10091",
+    "type": "2",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10092",
+    "type": "2",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10093",
+    "type": "2",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10094",
+    "type": "2",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10095",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10096",
+    "type": "2",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10097",
+    "type": "2",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10098",
+    "type": "2",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10099",
+    "type": "2",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10100",
+    "type": "2",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10101",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10102",
+    "type": "2",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10103",
+    "type": "2",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10104",
+    "type": "2",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10105",
+    "type": "2",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10106",
+    "type": "2",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10107",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10108",
+    "type": "2",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10109",
+    "type": "2",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10110",
+    "type": "2",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10111",
+    "type": "2",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10112",
+    "type": "2",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10113",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10114",
+    "type": "2",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10115",
+    "type": "2",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10116",
+    "type": "2",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10117",
+    "type": "2",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10118",
+    "type": "2",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10119",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10120",
+    "type": "2",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10121",
+    "type": "2",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10122",
+    "type": "2",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10123",
+    "type": "3",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10124",
+    "type": "3",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10125",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10126",
+    "type": "3",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10127",
+    "type": "3",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10128",
+    "type": "3",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10129",
+    "type": "3",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10130",
+    "type": "3",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10131",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10132",
+    "type": "3",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10133",
+    "type": "3",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10134",
+    "type": "3",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10135",
+    "type": "3",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10136",
+    "type": "3",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10137",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10138",
+    "type": "3",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10139",
+    "type": "3",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10140",
+    "type": "3",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10141",
+    "type": "3",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10142",
+    "type": "3",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10143",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10144",
+    "type": "3",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10145",
+    "type": "3",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10146",
+    "type": "3",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10147",
+    "type": "3",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10148",
+    "type": "3",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10149",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10150",
+    "type": "3",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10151",
+    "type": "3",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10152",
+    "type": "3",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10153",
+    "type": "3",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10154",
+    "type": "3",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10155",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10156",
+    "type": "3",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10157",
+    "type": "3",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10158",
+    "type": "3",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10159",
+    "type": "3",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10160",
+    "type": "3",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10161",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10162",
+    "type": "3",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10163",
+    "type": "3",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10164",
+    "type": "3",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10165",
+    "type": "3",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10166",
+    "type": "3",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10167",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10168",
+    "type": "3",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10169",
+    "type": "3",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10170",
+    "type": "3",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10171",
+    "type": "3",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10172",
+    "type": "3",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10173",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10174",
+    "type": "3",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10175",
+    "type": "3",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10176",
+    "type": "3",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10177",
+    "type": "3",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10178",
+    "type": "3",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10179",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10180",
+    "type": "3",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10181",
+    "type": "3",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10182",
+    "type": "3",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10183",
+    "type": "4",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10184",
+    "type": "4",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10185",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10186",
+    "type": "4",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10187",
+    "type": "4",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10188",
+    "type": "4",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10189",
+    "type": "4",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10190",
+    "type": "4",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10191",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10192",
+    "type": "4",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10193",
+    "type": "4",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10194",
+    "type": "4",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10195",
+    "type": "4",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10196",
+    "type": "4",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10197",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10198",
+    "type": "4",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10199",
+    "type": "4",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10200",
+    "type": "4",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10201",
+    "type": "4",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10202",
+    "type": "4",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10203",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10204",
+    "type": "4",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10205",
+    "type": "4",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10206",
+    "type": "4",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10207",
+    "type": "4",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10208",
+    "type": "4",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10209",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10210",
+    "type": "4",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10211",
+    "type": "4",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10212",
+    "type": "4",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10213",
+    "type": "4",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10214",
+    "type": "4",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10215",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10216",
+    "type": "4",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10217",
+    "type": "4",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10218",
+    "type": "4",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10219",
+    "type": "4",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10220",
+    "type": "4",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10221",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10222",
+    "type": "4",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10223",
+    "type": "4",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10224",
+    "type": "4",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10225",
+    "type": "4",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10226",
+    "type": "4",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10227",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10228",
+    "type": "4",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10229",
+    "type": "4",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10230",
+    "type": "4",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10231",
+    "type": "4",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10232",
+    "type": "4",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10233",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10234",
+    "type": "4",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10235",
+    "type": "4",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10236",
+    "type": "4",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10237",
+    "type": "4",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10238",
+    "type": "4",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10239",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10240",
+    "type": "4",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10241",
+    "type": "4",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10242",
+    "type": "4",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10243",
+    "type": "5",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10244",
+    "type": "5",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10245",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10246",
+    "type": "5",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10247",
+    "type": "5",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10248",
+    "type": "5",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10249",
+    "type": "5",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10250",
+    "type": "5",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10251",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10252",
+    "type": "5",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10253",
+    "type": "5",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10254",
+    "type": "5",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10255",
+    "type": "5",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10256",
+    "type": "5",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10257",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10258",
+    "type": "5",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10259",
+    "type": "5",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10260",
+    "type": "5",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10261",
+    "type": "5",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10262",
+    "type": "5",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10263",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10264",
+    "type": "5",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10265",
+    "type": "5",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10266",
+    "type": "5",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10267",
+    "type": "5",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10268",
+    "type": "5",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10269",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10270",
+    "type": "5",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10271",
+    "type": "5",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10272",
+    "type": "5",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10273",
+    "type": "5",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10274",
+    "type": "5",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10275",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10276",
+    "type": "5",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10277",
+    "type": "5",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10278",
+    "type": "5",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10279",
+    "type": "5",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10280",
+    "type": "5",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10281",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10282",
+    "type": "5",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10283",
+    "type": "5",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10284",
+    "type": "5",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10285",
+    "type": "5",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10286",
+    "type": "5",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10287",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10288",
+    "type": "5",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10289",
+    "type": "5",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10290",
+    "type": "5",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10291",
+    "type": "5",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10292",
+    "type": "5",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10293",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10294",
+    "type": "5",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10295",
+    "type": "5",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10296",
+    "type": "5",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10297",
+    "type": "5",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10298",
+    "type": "5",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10299",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10300",
+    "type": "5",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10301",
+    "type": "5",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10302",
+    "type": "5",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10303",
+    "type": "6",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10304",
+    "type": "6",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10305",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10306",
+    "type": "6",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10307",
+    "type": "6",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10308",
+    "type": "6",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10309",
+    "type": "6",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10310",
+    "type": "6",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10311",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10312",
+    "type": "6",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10313",
+    "type": "6",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10314",
+    "type": "6",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10315",
+    "type": "6",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10316",
+    "type": "6",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10317",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10318",
+    "type": "6",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10319",
+    "type": "6",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10320",
+    "type": "6",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10321",
+    "type": "6",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10322",
+    "type": "6",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10323",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10324",
+    "type": "6",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10325",
+    "type": "6",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10326",
+    "type": "6",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10327",
+    "type": "6",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10328",
+    "type": "6",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10329",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10330",
+    "type": "6",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10331",
+    "type": "6",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10332",
+    "type": "6",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10333",
+    "type": "6",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10334",
+    "type": "6",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10335",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10336",
+    "type": "6",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10337",
+    "type": "6",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10338",
+    "type": "6",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10339",
+    "type": "6",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10340",
+    "type": "6",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10341",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10342",
+    "type": "6",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10343",
+    "type": "6",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10344",
+    "type": "6",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10345",
+    "type": "6",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10346",
+    "type": "6",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10347",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10348",
+    "type": "6",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10349",
+    "type": "6",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10350",
+    "type": "6",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10351",
+    "type": "6",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10352",
+    "type": "6",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10353",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10354",
+    "type": "6",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10355",
+    "type": "6",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10356",
+    "type": "6",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10357",
+    "type": "6",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10358",
+    "type": "6",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10359",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10360",
+    "type": "6",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10361",
+    "type": "6",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10362",
+    "type": "6",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10363",
+    "type": "11",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10364",
+    "type": "11",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10365",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10366",
+    "type": "11",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10367",
+    "type": "11",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10368",
+    "type": "11",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10369",
+    "type": "11",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10370",
+    "type": "11",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10371",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10372",
+    "type": "11",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10373",
+    "type": "11",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10374",
+    "type": "11",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10375",
+    "type": "11",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10376",
+    "type": "11",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10377",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10378",
+    "type": "11",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10379",
+    "type": "11",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10380",
+    "type": "11",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10381",
+    "type": "11",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10382",
+    "type": "11",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10383",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10384",
+    "type": "11",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10385",
+    "type": "11",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10386",
+    "type": "11",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10387",
+    "type": "11",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10388",
+    "type": "11",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10389",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10390",
+    "type": "11",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10391",
+    "type": "11",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10392",
+    "type": "11",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10393",
+    "type": "11",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10394",
+    "type": "11",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10395",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10396",
+    "type": "11",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10397",
+    "type": "11",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10398",
+    "type": "11",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10399",
+    "type": "11",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10400",
+    "type": "11",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10401",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10402",
+    "type": "11",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10403",
+    "type": "11",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10404",
+    "type": "11",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10405",
+    "type": "11",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10406",
+    "type": "11",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10407",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10408",
+    "type": "11",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10409",
+    "type": "11",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10410",
+    "type": "11",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10411",
+    "type": "11",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10412",
+    "type": "11",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10413",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10414",
+    "type": "11",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10415",
+    "type": "11",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10416",
+    "type": "11",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10417",
+    "type": "11",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10418",
+    "type": "11",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10419",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10420",
+    "type": "11",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10421",
+    "type": "11",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10422",
+    "type": "11",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10423",
+    "type": "12",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10424",
+    "type": "12",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10425",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10426",
+    "type": "12",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10427",
+    "type": "12",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10428",
+    "type": "12",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10429",
+    "type": "12",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10430",
+    "type": "12",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10431",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10432",
+    "type": "12",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10433",
+    "type": "12",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10434",
+    "type": "12",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10435",
+    "type": "12",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10436",
+    "type": "12",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10437",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10438",
+    "type": "12",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10439",
+    "type": "12",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10440",
+    "type": "12",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10441",
+    "type": "12",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10442",
+    "type": "12",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10443",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10444",
+    "type": "12",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10445",
+    "type": "12",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10446",
+    "type": "12",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10447",
+    "type": "12",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10448",
+    "type": "12",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10449",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10450",
+    "type": "12",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10451",
+    "type": "12",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10452",
+    "type": "12",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10453",
+    "type": "12",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10454",
+    "type": "12",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10455",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10456",
+    "type": "12",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10457",
+    "type": "12",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10458",
+    "type": "12",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10459",
+    "type": "12",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10460",
+    "type": "12",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10461",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10462",
+    "type": "12",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10463",
+    "type": "12",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10464",
+    "type": "12",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10465",
+    "type": "12",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10466",
+    "type": "12",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10467",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10468",
+    "type": "12",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10469",
+    "type": "12",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10470",
+    "type": "12",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10471",
+    "type": "12",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10472",
+    "type": "12",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10473",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10474",
+    "type": "12",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10475",
+    "type": "12",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10476",
+    "type": "12",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10477",
+    "type": "12",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10478",
+    "type": "12",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10479",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10480",
+    "type": "12",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10481",
+    "type": "12",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10482",
+    "type": "12",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10483",
+    "type": "13",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10484",
+    "type": "13",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10485",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10486",
+    "type": "13",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10487",
+    "type": "13",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10488",
+    "type": "13",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10489",
+    "type": "13",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10490",
+    "type": "13",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10491",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10492",
+    "type": "13",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10493",
+    "type": "13",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10494",
+    "type": "13",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10495",
+    "type": "13",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10496",
+    "type": "13",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10497",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10498",
+    "type": "13",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10499",
+    "type": "13",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10500",
+    "type": "13",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10501",
+    "type": "13",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10502",
+    "type": "13",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10503",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10504",
+    "type": "13",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10505",
+    "type": "13",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10506",
+    "type": "13",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10507",
+    "type": "13",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10508",
+    "type": "13",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10509",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10510",
+    "type": "13",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10511",
+    "type": "13",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10512",
+    "type": "13",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10513",
+    "type": "13",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10514",
+    "type": "13",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10515",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10516",
+    "type": "13",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10517",
+    "type": "13",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10518",
+    "type": "13",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10519",
+    "type": "13",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10520",
+    "type": "13",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10521",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10522",
+    "type": "13",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10523",
+    "type": "13",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10524",
+    "type": "13",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10525",
+    "type": "13",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10526",
+    "type": "13",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10527",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10528",
+    "type": "13",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10529",
+    "type": "13",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10530",
+    "type": "13",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10531",
+    "type": "13",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10532",
+    "type": "13",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10533",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10534",
+    "type": "13",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10535",
+    "type": "13",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10536",
+    "type": "13",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10537",
+    "type": "13",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10538",
+    "type": "13",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10539",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10540",
+    "type": "13",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10541",
+    "type": "13",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10542",
+    "type": "13",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10543",
+    "type": "14",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10544",
+    "type": "14",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10545",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10546",
+    "type": "14",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10547",
+    "type": "14",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10548",
+    "type": "14",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10549",
+    "type": "14",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10550",
+    "type": "14",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10551",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10552",
+    "type": "14",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10553",
+    "type": "14",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10554",
+    "type": "14",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10555",
+    "type": "14",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10556",
+    "type": "14",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10557",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10558",
+    "type": "14",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10559",
+    "type": "14",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10560",
+    "type": "14",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10561",
+    "type": "14",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10562",
+    "type": "14",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10563",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10564",
+    "type": "14",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10565",
+    "type": "14",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10566",
+    "type": "14",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10567",
+    "type": "14",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10568",
+    "type": "14",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10569",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10570",
+    "type": "14",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10571",
+    "type": "14",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10572",
+    "type": "14",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10573",
+    "type": "14",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10574",
+    "type": "14",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10575",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10576",
+    "type": "14",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10577",
+    "type": "14",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10578",
+    "type": "14",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10579",
+    "type": "14",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10580",
+    "type": "14",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10581",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10582",
+    "type": "14",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10583",
+    "type": "14",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10584",
+    "type": "14",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10585",
+    "type": "14",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10586",
+    "type": "14",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10587",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10588",
+    "type": "14",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10589",
+    "type": "14",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10590",
+    "type": "14",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10591",
+    "type": "14",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10592",
+    "type": "14",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10593",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10594",
+    "type": "14",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10595",
+    "type": "14",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10596",
+    "type": "14",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10597",
+    "type": "14",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10598",
+    "type": "14",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10599",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10600",
+    "type": "14",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10601",
+    "type": "14",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10602",
+    "type": "14",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10603",
+    "type": "15",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10604",
+    "type": "15",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10605",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10606",
+    "type": "15",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10607",
+    "type": "15",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10608",
+    "type": "15",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10609",
+    "type": "15",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10610",
+    "type": "15",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10611",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10612",
+    "type": "15",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10613",
+    "type": "15",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10614",
+    "type": "15",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10615",
+    "type": "15",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10616",
+    "type": "15",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10617",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10618",
+    "type": "15",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10619",
+    "type": "15",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10620",
+    "type": "15",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10621",
+    "type": "15",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10622",
+    "type": "15",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10623",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10624",
+    "type": "15",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10625",
+    "type": "15",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10626",
+    "type": "15",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10627",
+    "type": "15",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10628",
+    "type": "15",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10629",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10630",
+    "type": "15",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10631",
+    "type": "15",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10632",
+    "type": "15",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10633",
+    "type": "15",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10634",
+    "type": "15",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10635",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10636",
+    "type": "15",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10637",
+    "type": "15",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10638",
+    "type": "15",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10639",
+    "type": "15",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10640",
+    "type": "15",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10641",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10642",
+    "type": "15",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10643",
+    "type": "15",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10644",
+    "type": "15",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10645",
+    "type": "15",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10646",
+    "type": "15",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10647",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10648",
+    "type": "15",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10649",
+    "type": "15",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10650",
+    "type": "15",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10651",
+    "type": "15",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10652",
+    "type": "15",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10653",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10654",
+    "type": "15",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10655",
+    "type": "15",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10656",
+    "type": "15",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10657",
+    "type": "15",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10658",
+    "type": "15",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10659",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10660",
+    "type": "15",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10661",
+    "type": "15",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10662",
+    "type": "15",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10663",
+    "type": "16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10664",
+    "type": "16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10665",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10666",
+    "type": "16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10667",
+    "type": "16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10668",
+    "type": "16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10669",
+    "type": "16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10670",
+    "type": "16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10671",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10672",
+    "type": "16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10673",
+    "type": "16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10674",
+    "type": "16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10675",
+    "type": "16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10676",
+    "type": "16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10677",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10678",
+    "type": "16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10679",
+    "type": "16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10680",
+    "type": "16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10681",
+    "type": "16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10682",
+    "type": "16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10683",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10684",
+    "type": "16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10685",
+    "type": "16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10686",
+    "type": "16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10687",
+    "type": "16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10688",
+    "type": "16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10689",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10690",
+    "type": "16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10691",
+    "type": "16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10692",
+    "type": "16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10693",
+    "type": "16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10694",
+    "type": "16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10695",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10696",
+    "type": "16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10697",
+    "type": "16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10698",
+    "type": "16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10699",
+    "type": "16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10700",
+    "type": "16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10701",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10702",
+    "type": "16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10703",
+    "type": "16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10704",
+    "type": "16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10705",
+    "type": "16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10706",
+    "type": "16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10707",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10708",
+    "type": "16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10709",
+    "type": "16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10710",
+    "type": "16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10711",
+    "type": "16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10712",
+    "type": "16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10713",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10714",
+    "type": "16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10715",
+    "type": "16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10716",
+    "type": "16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10717",
+    "type": "16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "6",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10718",
+    "type": "16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "5",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10719",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10720",
+    "type": "16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "3",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10721",
+    "type": "16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "2",
+    "itemDesc": "0"
+  },
+  {
+    "id": "10722",
+    "type": "16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20001",
+    "type": "1",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20002",
+    "type": "2",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20003",
+    "type": "3",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20004",
+    "type": "4",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20005",
+    "type": "5",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20006",
+    "type": "6",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20011",
+    "type": "11",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20012",
+    "type": "12",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20013",
+    "type": "13",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20014",
+    "type": "14",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20015",
+    "type": "15",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20016",
+    "type": "16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20017",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20018",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20019",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20020",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20021",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20022",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20023",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20024",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20025",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20026",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20027",
+    "type": "1",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20028",
+    "type": "2",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20029",
+    "type": "3",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20030",
+    "type": "4",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20031",
+    "type": "5",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20032",
+    "type": "6",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20033",
+    "type": "11",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20034",
+    "type": "12",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20035",
+    "type": "13",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20036",
+    "type": "14",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20037",
+    "type": "15",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20038",
+    "type": "16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20039",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20040",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20041",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20042",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20043",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20044",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20045",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20046",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20047",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20048",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20049",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20050",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20051",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20052",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20053",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20054",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20055",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20056",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20057",
+    "type": "1",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20058",
+    "type": "2",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20059",
+    "type": "3",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20060",
+    "type": "4",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20061",
+    "type": "5",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20062",
+    "type": "6",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20063",
+    "type": "11",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20064",
+    "type": "12",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20065",
+    "type": "13",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20066",
+    "type": "14",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20067",
+    "type": "15",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20068",
+    "type": "16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20069",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20070",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20071",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20072",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20073",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20074",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20075",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20076",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20077",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20078",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20079",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20080",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20081",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20082",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20083",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "1",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20091",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20092",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20093",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20094",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20095",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20096",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20097",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20098",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20099",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20100",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20101",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20102",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20103",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "1",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20104",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20105",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20106",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20107",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20108",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20109",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20110",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20111",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20112",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20113",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "2",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20114",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20115",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20116",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20117",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20118",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20119",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20120",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20121",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20122",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20123",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "3",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20124",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20125",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20126",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20127",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20128",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20129",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20130",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20131",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20132",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20133",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20134",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20135",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20136",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20137",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20138",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20139",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20140",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20141",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20142",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20143",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20144",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20145",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20146",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20147",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20148",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20149",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20150",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20151",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20152",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20153",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20154",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20155",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20156",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20157",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20158",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20159",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20160",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20161",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20162",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20163",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20164",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20165",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20166",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20167",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20168",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20169",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20170",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20171",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20172",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20173",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20174",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20175",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20176",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20177",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20178",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20179",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20180",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20181",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20182",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20183",
+    "type": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20184",
+    "type": "1",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20185",
+    "type": "1",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20186",
+    "type": "2",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20187",
+    "type": "2",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20188",
+    "type": "3",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20189",
+    "type": "3",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20190",
+    "type": "4",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20191",
+    "type": "4",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20192",
+    "type": "5",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20193",
+    "type": "5",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20194",
+    "type": "6",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20195",
+    "type": "6",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20196",
+    "type": "11",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20197",
+    "type": "11",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20198",
+    "type": "12",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20199",
+    "type": "12",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20200",
+    "type": "13",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20201",
+    "type": "13",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20202",
+    "type": "14",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20203",
+    "type": "14",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20204",
+    "type": "15",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20205",
+    "type": "15",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20206",
+    "type": "16",
+    "level": "5",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20207",
+    "type": "16",
+    "level": "6",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20208",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20209",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20210",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20211",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20212",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20213",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20214",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20215",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20216",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20217",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20218",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20219",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20220",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20221",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20222",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20223",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20224",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20225",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20226",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20227",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20228",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20229",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20230",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20231",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20232",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20233",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20234",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20235",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20236",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20237",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20238",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20239",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20240",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20241",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20242",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20243",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20244",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20245",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20246",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20247",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20248",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20249",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20250",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20251",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20252",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20253",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20254",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20255",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20256",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20257",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20258",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20259",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20260",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20261",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20262",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20263",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20264",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20265",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20266",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20267",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20268",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20269",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20270",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20271",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20272",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20273",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20274",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20275",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20276",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20277",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20278",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20279",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20280",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20281",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20282",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20283",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20284",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20285",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20286",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20287",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20288",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20289",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20290",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20291",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20292",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20293",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20294",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20295",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20296",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20297",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20298",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20299",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20300",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20301",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20302",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20303",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20304",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20305",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20306",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20307",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20308",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20309",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20310",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20311",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20312",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20313",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20314",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20315",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20316",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20317",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20318",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "1",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20319",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "2",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20320",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "3",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20321",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "4",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20322",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "5",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20323",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "6",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20324",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "7",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20325",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "8",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20326",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "9",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20327",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "10",
+    "itemName": "0",
+    "itemColor": "4",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20500",
+    "type": "1",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20501",
+    "type": "2",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20502",
+    "type": "3",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20503",
+    "type": "4",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20504",
+    "type": "5",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20505",
+    "type": "6",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20506",
+    "type": "11",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20507",
+    "type": "12",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20508",
+    "type": "13",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20509",
+    "type": "14",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20510",
+    "type": "15",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  },
+  {
+    "id": "20511",
+    "type": "16",
+    "level": "4",
+    "className": "1",
+    "rewardGradeID": "100",
+    "itemName": "0",
+    "itemColor": "0",
+    "itemDesc": "0"
+  }
+]

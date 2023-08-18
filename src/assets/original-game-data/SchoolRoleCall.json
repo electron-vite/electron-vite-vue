@@ -1,0 +1,74 @@
+[
+  {
+    "id": "101",
+    "relation": "-1",
+    "condition": "0",
+    "call": "RoleCall101"
+  },
+  {
+    "id": "1005",
+    "relation": "-1",
+    "condition": "schoolPost_0_3_1|or|abSchool_1|abSchool_12",
+    "call": "RoleCall1005"
+  },
+  {
+    "id": "1006",
+    "relation": "-1",
+    "condition": "schoolPost_0_2_1|or|abSchool_1|abSchool_12",
+    "call": "RoleCall1006"
+  },
+  {
+    "id": "1010",
+    "relation": "102",
+    "condition": "gender_0_1|abGrade_0_1_1_99",
+    "call": "RoleCall1010"
+  },
+  {
+    "id": "1011",
+    "relation": "102",
+    "condition": "gender_0_1|abGrade_0_1_0_0|abSchoolPost_0_1_1_99",
+    "call": "RoleCall1011"
+  },
+  {
+    "id": "1012",
+    "relation": "102",
+    "condition": "gender_0_2|abGrade_0_1_1_99",
+    "call": "RoleCall1012"
+  },
+  {
+    "id": "1013",
+    "relation": "102",
+    "condition": "gender_0_2|abGrade_0_1_0_0|abSchoolPost_0_1_1_99",
+    "call": "RoleCall1013"
+  },
+  {
+    "id": "1014",
+    "relation": "102",
+    "condition": "gender_0_1|abGrade_1_0_1_99",
+    "call": "RoleCall1014"
+  },
+  {
+    "id": "1015",
+    "relation": "102",
+    "condition": "gender_0_1|abGrade_1_0_0_0|abSchoolPost_1_0_1_99",
+    "call": "RoleCall1015"
+  },
+  {
+    "id": "1016",
+    "relation": "102",
+    "condition": "gender_0_2|abGrade_1_0_1_99",
+    "call": "RoleCall1016"
+  },
+  {
+    "id": "1017",
+    "relation": "102",
+    "condition": "gender_0_2|abGrade_1_0_0_0|abSchoolPost_1_0_1_99",
+    "call": "RoleCall1017"
+  },
+  {
+    "id": "1041",
+    "relation": "-1",
+    "condition": "schoolPost_0_1_1|or|abSchool_1|abSchool_12",
+    "call": "RoleCall1041"
+  }
+]

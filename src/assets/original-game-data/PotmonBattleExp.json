@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "gradeRange": "-10",
+    "winExp": "1000"
+  },
+  {
+    "id": "2",
+    "gradeRange": "-9",
+    "winExp": "1000"
+  },
+  {
+    "id": "3",
+    "gradeRange": "-8",
+    "winExp": "1000"
+  },
+  {
+    "id": "4",
+    "gradeRange": "-7",
+    "winExp": "1000"
+  },
+  {
+    "id": "5",
+    "gradeRange": "-6",
+    "winExp": "1000"
+  },
+  {
+    "id": "6",
+    "gradeRange": "-5",
+    "winExp": "1000"
+  },
+  {
+    "id": "7",
+    "gradeRange": "-4",
+    "winExp": "1000"
+  },
+  {
+    "id": "8",
+    "gradeRange": "-3",
+    "winExp": "1000"
+  },
+  {
+    "id": "9",
+    "gradeRange": "-2",
+    "winExp": "1000"
+  },
+  {
+    "id": "10",
+    "gradeRange": "-1",
+    "winExp": "750"
+  },
+  {
+    "id": "11",
+    "gradeRange": "0",
+    "winExp": "500"
+  },
+  {
+    "id": "12",
+    "gradeRange": "1",
+    "winExp": "250"
+  },
+  {
+    "id": "13",
+    "gradeRange": "2",
+    "winExp": "0"
+  },
+  {
+    "id": "14",
+    "gradeRange": "3",
+    "winExp": "0"
+  },
+  {
+    "id": "15",
+    "gradeRange": "4",
+    "winExp": "0"
+  },
+  {
+    "id": "16",
+    "gradeRange": "5",
+    "winExp": "0"
+  },
+  {
+    "id": "17",
+    "gradeRange": "6",
+    "winExp": "0"
+  },
+  {
+    "id": "18",
+    "gradeRange": "7",
+    "winExp": "0"
+  },
+  {
+    "id": "19",
+    "gradeRange": "8",
+    "winExp": "0"
+  },
+  {
+    "id": "20",
+    "gradeRange": "9",
+    "winExp": "0"
+  },
+  {
+    "id": "21",
+    "gradeRange": "10",
+    "winExp": "0"
+  }
+]

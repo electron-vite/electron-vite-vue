@@ -1,0 +1,116 @@
+[
+  {
+    "id": "1",
+    "state": "schoolGodBeast_baofu",
+    "min": "8000",
+    "max": "10000"
+  },
+  {
+    "id": "2",
+    "state": "schoolGodBeast_manzu",
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "id": "3",
+    "state": "schoolGodBeast_jiaoe",
+    "min": "3000",
+    "max": "5000"
+  },
+  {
+    "id": "4",
+    "state": "schoolGodBeast_jie",
+    "min": "1",
+    "max": "3000"
+  },
+  {
+    "id": "5",
+    "state": "schoolGodBeast_lianghao",
+    "min": "5000",
+    "max": "8000"
+  },
+  {
+    "id": "6",
+    "state": "schoolGodBeast_yiban",
+    "min": "3000",
+    "max": "5000"
+  },
+  {
+    "id": "7",
+    "state": "schoolGodBeast_diluo",
+    "min": "1",
+    "max": "3000"
+  },
+  {
+    "id": "8",
+    "state": "level1",
+    "min": "1",
+    "max": "1000"
+  },
+  {
+    "id": "9",
+    "state": "level2",
+    "min": "1001",
+    "max": "2000"
+  },
+  {
+    "id": "10",
+    "state": "level3",
+    "min": "2001",
+    "max": "4000"
+  },
+  {
+    "id": "11",
+    "state": "level4",
+    "min": "3001",
+    "max": "6000"
+  },
+  {
+    "id": "12",
+    "state": "level5",
+    "min": "4001",
+    "max": "8000"
+  },
+  {
+    "id": "13",
+    "state": "level6",
+    "min": "5001",
+    "max": "10000"
+  },
+  {
+    "id": "14",
+    "state": "level7",
+    "min": "6001",
+    "max": "12000"
+  },
+  {
+    "id": "15",
+    "state": "level8",
+    "min": "7001",
+    "max": "14000"
+  },
+  {
+    "id": "16",
+    "state": "level9",
+    "min": "8001",
+    "max": "16000"
+  },
+  {
+    "id": "17",
+    "state": "level10",
+    "min": "9001",
+    "max": "18000"
+  },
+  {
+    "id": "18",
+    "state": "feedCD",
+    "min": "1",
+    "max": "1"
+  },
+  {
+    "id": "19",
+    "state": "talkCD",
+    "min": "1",
+    "max": "1"
+  }
+]

@@ -1,0 +1,870 @@
+[
+  {
+    "id": "0",
+    "type": "0",
+    "uiLabel": "0",
+    "name": "item_type_name0",
+    "sort": "0"
+  },
+  {
+    "id": "1",
+    "type": "0",
+    "uiLabel": "0",
+    "name": "item_type_name1",
+    "sort": "0"
+  },
+  {
+    "id": "2",
+    "type": "0",
+    "uiLabel": "0",
+    "name": "item_type_name2",
+    "sort": "0"
+  },
+  {
+    "id": "3",
+    "type": "0",
+    "uiLabel": "0",
+    "name": "item_type_name3",
+    "sort": "0"
+  },
+  {
+    "id": "5",
+    "type": "0",
+    "uiLabel": "0",
+    "name": "item_type_name5",
+    "sort": "0"
+  },
+  {
+    "id": "6",
+    "type": "0",
+    "uiLabel": "0",
+    "name": "item_type_name6",
+    "sort": "0"
+  },
+  {
+    "id": "7",
+    "type": "0",
+    "uiLabel": "0",
+    "name": "item_type_name7",
+    "sort": "0"
+  },
+  {
+    "id": "101",
+    "type": "1",
+    "uiLabel": "itemType_kezhuangbei",
+    "name": "item_type_name101",
+    "sort": "3"
+  },
+  {
+    "id": "102",
+    "type": "1",
+    "uiLabel": "itemType_kezhuangbei",
+    "name": "item_type_name102",
+    "sort": "3"
+  },
+  {
+    "id": "103",
+    "type": "1",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name103",
+    "sort": "3"
+  },
+  {
+    "id": "104",
+    "type": "1",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name104",
+    "sort": "3"
+  },
+  {
+    "id": "105",
+    "type": "1",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name105",
+    "sort": "1"
+  },
+  {
+    "id": "106",
+    "type": "1",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name103",
+    "sort": "3"
+  },
+  {
+    "id": "107",
+    "type": "1",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name107",
+    "sort": "3"
+  },
+  {
+    "id": "108",
+    "type": "1",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name108",
+    "sort": "3"
+  },
+  {
+    "id": "109",
+    "type": "1",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name109",
+    "sort": "1"
+  },
+  {
+    "id": "110",
+    "type": "1",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name110",
+    "sort": "3"
+  },
+  {
+    "id": "111",
+    "type": "1",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name111",
+    "sort": "3"
+  },
+  {
+    "id": "112",
+    "type": "1",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name112",
+    "sort": "3"
+  },
+  {
+    "id": "120",
+    "type": "1",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name120",
+    "sort": "3"
+  },
+  {
+    "id": "301",
+    "type": "3",
+    "uiLabel": "itemType_jiezhi",
+    "name": "item_type_name301",
+    "sort": "4"
+  },
+  {
+    "id": "302",
+    "type": "3",
+    "uiLabel": "itemType_zuoqi",
+    "name": "item_type_name302",
+    "sort": "3"
+  },
+  {
+    "id": "304",
+    "type": "3",
+    "uiLabel": "itemType_yifu",
+    "name": "item_type_name304",
+    "sort": "1"
+  },
+  {
+    "id": "401",
+    "type": "3",
+    "uiLabel": "itemType_fabao",
+    "name": "item_type_name401",
+    "sort": "2"
+  },
+  {
+    "id": "501",
+    "type": "5",
+    "uiLabel": "itemType_kuangcai",
+    "name": "item_type_name501",
+    "sort": "5"
+  },
+  {
+    "id": "502",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name502",
+    "sort": "3"
+  },
+  {
+    "id": "503",
+    "type": "5",
+    "uiLabel": "itemType_yaocai",
+    "name": "item_type_name503",
+    "sort": "6"
+  },
+  {
+    "id": "504",
+    "type": "5",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name504",
+    "sort": "5"
+  },
+  {
+    "id": "505",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name505",
+    "sort": "4"
+  },
+  {
+    "id": "506",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name506",
+    "sort": "1"
+  },
+  {
+    "id": "507",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name507",
+    "sort": "4"
+  },
+  {
+    "id": "508",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name508",
+    "sort": "4"
+  },
+  {
+    "id": "509",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name509",
+    "sort": "4"
+  },
+  {
+    "id": "510",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name510",
+    "sort": "1"
+  },
+  {
+    "id": "511",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name511",
+    "sort": "1"
+  },
+  {
+    "id": "512",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name512",
+    "sort": "5"
+  },
+  {
+    "id": "513",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name513",
+    "sort": "5"
+  },
+  {
+    "id": "518",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name518",
+    "sort": "5"
+  },
+  {
+    "id": "520",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name520",
+    "sort": "5"
+  },
+  {
+    "id": "521",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name521",
+    "sort": "5"
+  },
+  {
+    "id": "522",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name522",
+    "sort": "5"
+  },
+  {
+    "id": "523",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name514",
+    "sort": "3"
+  },
+  {
+    "id": "524",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name524",
+    "sort": "3"
+  },
+  {
+    "id": "525",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name525",
+    "sort": "3"
+  },
+  {
+    "id": "526",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name526",
+    "sort": "5"
+  },
+  {
+    "id": "527",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name527",
+    "sort": "5"
+  },
+  {
+    "id": "528",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name528",
+    "sort": "5"
+  },
+  {
+    "id": "529",
+    "type": "5",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name529",
+    "sort": "1"
+  },
+  {
+    "id": "530",
+    "type": "5",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name530",
+    "sort": "2"
+  },
+  {
+    "id": "531",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name531",
+    "sort": "2"
+  },
+  {
+    "id": "532",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name532",
+    "sort": "2"
+  },
+  {
+    "id": "533",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name533",
+    "sort": "2"
+  },
+  {
+    "id": "534",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name534",
+    "sort": "5"
+  },
+  {
+    "id": "535",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name535",
+    "sort": "4"
+  },
+  {
+    "id": "536",
+    "type": "5",
+    "uiLabel": "itemType_cailiao",
+    "name": "item_type_name536",
+    "sort": "4"
+  },
+  {
+    "id": "537",
+    "type": "5",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name536",
+    "sort": "4"
+  },
+  {
+    "id": "601",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name601",
+    "sort": "4"
+  },
+  {
+    "id": "602",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name602",
+    "sort": "4"
+  },
+  {
+    "id": "603",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name603",
+    "sort": "4"
+  },
+  {
+    "id": "604",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name604",
+    "sort": "4"
+  },
+  {
+    "id": "605",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name605",
+    "sort": "1"
+  },
+  {
+    "id": "606",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name606",
+    "sort": "6"
+  },
+  {
+    "id": "607",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name607",
+    "sort": "2"
+  },
+  {
+    "id": "608",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name608",
+    "sort": "2"
+  },
+  {
+    "id": "609",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name609",
+    "sort": "2"
+  },
+  {
+    "id": "610",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name610",
+    "sort": "4"
+  },
+  {
+    "id": "611",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name611",
+    "sort": "2"
+  },
+  {
+    "id": "612",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name612",
+    "sort": "4"
+  },
+  {
+    "id": "613",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name613",
+    "sort": "4"
+  },
+  {
+    "id": "614",
+    "type": "6",
+    "uiLabel": "itemType_xuexishuji",
+    "name": "item_type_name614",
+    "sort": "1"
+  },
+  {
+    "id": "615",
+    "type": "6",
+    "uiLabel": "itemType_xuexishuji",
+    "name": "item_type_name615",
+    "sort": "1"
+  },
+  {
+    "id": "616",
+    "type": "6",
+    "uiLabel": "itemType_xuexishuji",
+    "name": "item_type_name616",
+    "sort": "1"
+  },
+  {
+    "id": "617",
+    "type": "6",
+    "uiLabel": "itemType_xuexishuji",
+    "name": "item_type_name617",
+    "sort": "1"
+  },
+  {
+    "id": "618",
+    "type": "6",
+    "uiLabel": "itemType_xuexishuji",
+    "name": "item_type_name618",
+    "sort": "1"
+  },
+  {
+    "id": "619",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name619",
+    "sort": "1"
+  },
+  {
+    "id": "624",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name624",
+    "sort": "4"
+  },
+  {
+    "id": "625",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name625",
+    "sort": "2"
+  },
+  {
+    "id": "626",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name626",
+    "sort": "4"
+  },
+  {
+    "id": "627",
+    "type": "6",
+    "uiLabel": "itemType_kezhuangbei",
+    "name": "item_type_name627",
+    "sort": "4"
+  },
+  {
+    "id": "628",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name628",
+    "sort": "4"
+  },
+  {
+    "id": "629",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name629",
+    "sort": "1"
+  },
+  {
+    "id": "630",
+    "type": "6",
+    "uiLabel": "itemType_tuzhi",
+    "name": "item_type_name630",
+    "sort": "4"
+  },
+  {
+    "id": "631",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name631",
+    "sort": "4"
+  },
+  {
+    "id": "632",
+    "type": "6",
+    "uiLabel": "itemType_tuzhi",
+    "name": "item_type_name632",
+    "sort": "4"
+  },
+  {
+    "id": "633",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name633",
+    "sort": "2"
+  },
+  {
+    "id": "634",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name634",
+    "sort": "1"
+  },
+  {
+    "id": "635",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name635",
+    "sort": "4"
+  },
+  {
+    "id": "636",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name636",
+    "sort": "4"
+  },
+  {
+    "id": "637",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name637",
+    "sort": "1"
+  },
+  {
+    "id": "638",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name638",
+    "sort": "1"
+  },
+  {
+    "id": "639",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name639",
+    "sort": "2"
+  },
+  {
+    "id": "640",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name640",
+    "sort": "4"
+  },
+  {
+    "id": "641",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name641",
+    "sort": "2"
+  },
+  {
+    "id": "642",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name642",
+    "sort": "4"
+  },
+  {
+    "id": "643",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name643",
+    "sort": "1"
+  },
+  {
+    "id": "644",
+    "type": "6",
+    "uiLabel": "itemType_baoxiang",
+    "name": "item_type_name644",
+    "sort": "2"
+  },
+  {
+    "id": "645",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name645",
+    "sort": "1"
+  },
+  {
+    "id": "646",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name646",
+    "sort": "1"
+  },
+  {
+    "id": "647",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name647",
+    "sort": "4"
+  },
+  {
+    "id": "648",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name648",
+    "sort": "4"
+  },
+  {
+    "id": "649",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name649",
+    "sort": "4"
+  },
+  {
+    "id": "650",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name650",
+    "sort": "4"
+  },
+  {
+    "id": "651",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name651",
+    "sort": "1"
+  },
+  {
+    "id": "652",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name652",
+    "sort": "1"
+  },
+  {
+    "id": "653",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name536",
+    "sort": "4"
+  },
+  {
+    "id": "654",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name654",
+    "sort": "1"
+  },
+  {
+    "id": "655",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name655",
+    "sort": "1"
+  },
+  {
+    "id": "656",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name656",
+    "sort": "3"
+  },
+  {
+    "id": "657",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name657",
+    "sort": "1"
+  },
+  {
+    "id": "658",
+    "type": "6",
+    "uiLabel": "itemType_qita",
+    "name": "item_type_name658",
+    "sort": "1"
+  },
+  {
+    "id": "701",
+    "type": "7",
+    "uiLabel": "0",
+    "name": "item_type_name701",
+    "sort": "3"
+  },
+  {
+    "id": "702",
+    "type": "7",
+    "uiLabel": "0",
+    "name": "item_type_name702",
+    "sort": "3"
+  },
+  {
+    "id": "703",
+    "type": "7",
+    "uiLabel": "0",
+    "name": "item_type_name703",
+    "sort": "3"
+  },
+  {
+    "id": "704",
+    "type": "7",
+    "uiLabel": "0",
+    "name": "item_type_name704",
+    "sort": "3"
+  },
+  {
+    "id": "705",
+    "type": "7",
+    "uiLabel": "0",
+    "name": "item_type_name705",
+    "sort": "3"
+  },
+  {
+    "id": "706",
+    "type": "7",
+    "uiLabel": "0",
+    "name": "item_type_name706",
+    "sort": "3"
+  },
+  {
+    "id": "707",
+    "type": "7",
+    "uiLabel": "0",
+    "name": "item_type_name707",
+    "sort": "3"
+  },
+  {
+    "id": "708",
+    "type": "7",
+    "uiLabel": "0",
+    "name": "item_type_name708",
+    "sort": "3"
+  },
+  {
+    "id": "709",
+    "type": "7",
+    "uiLabel": "0",
+    "name": "item_type_name709",
+    "sort": "3"
+  },
+  {
+    "id": "710",
+    "type": "7",
+    "uiLabel": "0",
+    "name": "item_type_name710",
+    "sort": "3"
+  },
+  {
+    "id": "801",
+    "type": "8",
+    "uiLabel": "0",
+    "name": "item_type_name6",
+    "sort": "0"
+  },
+  {
+    "id": "802",
+    "type": "8",
+    "uiLabel": "0",
+    "name": "item_type_name6",
+    "sort": "0"
+  },
+  {
+    "id": "803",
+    "type": "8",
+    "uiLabel": "0",
+    "name": "item_type_name6",
+    "sort": "0"
+  },
+  {
+    "id": "804",
+    "type": "8",
+    "uiLabel": "0",
+    "name": "item_type_name6",
+    "sort": "0"
+  }
+]

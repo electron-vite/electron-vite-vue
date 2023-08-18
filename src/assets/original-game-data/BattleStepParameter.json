@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "key": "bTypePushRange",
+    "value": "300"
+  },
+  {
+    "id": "2",
+    "key": "cTypePushRange",
+    "value": "300"
+  },
+  {
+    "id": "3",
+    "key": "dTypeSpeedEffect",
+    "value": "49001"
+  },
+  {
+    "id": "4",
+    "key": "eTypeCritEffect",
+    "value": "49002"
+  }
+]

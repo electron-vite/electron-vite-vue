@@ -1,0 +1,590 @@
+[
+  {
+    "id": "110076",
+    "skillType": "3",
+    "basePhycicalDmg": "&7100070_jnwl",
+    "baseMagicDmg": "&7100070_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "100721",
+    "skillType": "1",
+    "basePhycicalDmg": "&1007210_jnwl",
+    "baseMagicDmg": "&1007210_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "100722",
+    "skillType": "1",
+    "basePhycicalDmg": "&1007220_jnwl",
+    "baseMagicDmg": "&1007220_jnwl",
+    "cd": "8000"
+  },
+  {
+    "id": "100729",
+    "skillType": "3",
+    "basePhycicalDmg": "&1007290_jnwl",
+    "baseMagicDmg": "&1007290_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "51521",
+    "skillType": "1",
+    "basePhycicalDmg": "&515210_jnwl",
+    "baseMagicDmg": "&515210_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "5151",
+    "skillType": "1",
+    "basePhycicalDmg": "&51510_jnwl",
+    "baseMagicDmg": "&51510_jnwl",
+    "cd": "8000"
+  },
+  {
+    "id": "7661",
+    "skillType": "1",
+    "basePhycicalDmg": "&76610_jnwl",
+    "baseMagicDmg": "&76610_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7662",
+    "skillType": "3",
+    "basePhycicalDmg": "&76620_jnwl",
+    "baseMagicDmg": "&76620_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "7671",
+    "skillType": "1",
+    "basePhycicalDmg": "&76710_jnwl",
+    "baseMagicDmg": "&76710_jnwl",
+    "cd": "8000"
+  },
+  {
+    "id": "7672",
+    "skillType": "3",
+    "basePhycicalDmg": "&76720_jnwl",
+    "baseMagicDmg": "&76720_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "110063",
+    "skillType": "3",
+    "basePhycicalDmg": "&1100630_jnwl",
+    "baseMagicDmg": "&1100630_jnwl",
+    "cd": "50000"
+  },
+  {
+    "id": "1100621",
+    "skillType": "1",
+    "basePhycicalDmg": "&11006210_jnwl",
+    "baseMagicDmg": "&11006210_jnwl",
+    "cd": "8000"
+  },
+  {
+    "id": "7603",
+    "skillType": "3",
+    "basePhycicalDmg": "&76030_jnwl",
+    "baseMagicDmg": "&76030_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "7201",
+    "skillType": "1",
+    "basePhycicalDmg": "&72010_jnwl",
+    "baseMagicDmg": "&72010_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7203",
+    "skillType": "3",
+    "basePhycicalDmg": "&72030_jnwl",
+    "baseMagicDmg": "&72030_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "7204",
+    "skillType": "3",
+    "basePhycicalDmg": "&72040_jnwl",
+    "baseMagicDmg": "&72040_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "7051",
+    "skillType": "1",
+    "basePhycicalDmg": "&70510_jnwl",
+    "baseMagicDmg": "&70510_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "70521",
+    "skillType": "1",
+    "basePhycicalDmg": "&705210_jnwl",
+    "baseMagicDmg": "&705210_jnwl",
+    "cd": "8000"
+  },
+  {
+    "id": "7054",
+    "skillType": "3",
+    "basePhycicalDmg": "&70540_jnwl",
+    "baseMagicDmg": "&70540_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "7152",
+    "skillType": "1",
+    "basePhycicalDmg": "&71520_jnwl",
+    "baseMagicDmg": "&71520_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "72141",
+    "skillType": "1",
+    "basePhycicalDmg": "&721410_jnwl",
+    "baseMagicDmg": "&721410_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7212",
+    "skillType": "1",
+    "basePhycicalDmg": "&72120_jnwl",
+    "baseMagicDmg": "&72120_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "72131",
+    "skillType": "1",
+    "basePhycicalDmg": "&721310_jnwl",
+    "baseMagicDmg": "&721310_jnwl",
+    "cd": "8000"
+  },
+  {
+    "id": "7211",
+    "skillType": "1",
+    "basePhycicalDmg": "&72110_jnwl",
+    "baseMagicDmg": "&72110_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "110021",
+    "skillType": "1",
+    "basePhycicalDmg": "&1100210_jnwl",
+    "baseMagicDmg": "&1100210_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "110022",
+    "skillType": "1",
+    "basePhycicalDmg": "&1100220_jnwl",
+    "baseMagicDmg": "&1100220_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "110023",
+    "skillType": "4",
+    "basePhycicalDmg": "&1100230_jnwl",
+    "baseMagicDmg": "&1100230_jnwl",
+    "cd": "20000"
+  },
+  {
+    "id": "7112",
+    "skillType": "1",
+    "basePhycicalDmg": "&71120_jnwl",
+    "baseMagicDmg": "&71120_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "71131",
+    "skillType": "4",
+    "basePhycicalDmg": "&711310_jnwl",
+    "baseMagicDmg": "&711310_jnwl",
+    "cd": "50000"
+  },
+  {
+    "id": "110041",
+    "skillType": "4",
+    "basePhycicalDmg": "&1100410_jnwl",
+    "baseMagicDmg": "&1100410_jnwl",
+    "cd": "40000"
+  },
+  {
+    "id": "110042",
+    "skillType": "1",
+    "basePhycicalDmg": "&1100420_jnwl",
+    "baseMagicDmg": "&1100420_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "110043",
+    "skillType": "3",
+    "basePhycicalDmg": "&1100430_jnwl",
+    "baseMagicDmg": "&1100430_jnwl",
+    "cd": "20000"
+  },
+  {
+    "id": "7362",
+    "skillType": "1",
+    "basePhycicalDmg": "&73620_jnwl",
+    "baseMagicDmg": "&73620_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7364",
+    "skillType": "3",
+    "basePhycicalDmg": "&73640_jnwl",
+    "baseMagicDmg": "&73640_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "7363",
+    "skillType": "1",
+    "basePhycicalDmg": "&73630_jnwl",
+    "baseMagicDmg": "&73630_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7351",
+    "skillType": "1",
+    "basePhycicalDmg": "&73510_jnwl",
+    "baseMagicDmg": "&73510_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7354",
+    "skillType": "1",
+    "basePhycicalDmg": "&73540_jnwl",
+    "baseMagicDmg": "&73540_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7353",
+    "skillType": "3",
+    "basePhycicalDmg": "&73530_jnwl",
+    "baseMagicDmg": "&73530_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "7162",
+    "skillType": "1",
+    "basePhycicalDmg": "&71620_jnwl",
+    "baseMagicDmg": "&71620_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7261",
+    "skillType": "4",
+    "basePhycicalDmg": "&72610_jnwl",
+    "baseMagicDmg": "&72610_jnwl",
+    "cd": "40000"
+  },
+  {
+    "id": "7341",
+    "skillType": "1",
+    "basePhycicalDmg": "&73410_jnwl",
+    "baseMagicDmg": "&73410_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7342",
+    "skillType": "1",
+    "basePhycicalDmg": "&73420_jnwl",
+    "baseMagicDmg": "&73420_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7343",
+    "skillType": "3",
+    "basePhycicalDmg": "&73430_jnwl",
+    "baseMagicDmg": "&73430_jnwl",
+    "cd": "20000"
+  },
+  {
+    "id": "7344",
+    "skillType": "1",
+    "basePhycicalDmg": "&73440_jnwl",
+    "baseMagicDmg": "&73440_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7374",
+    "skillType": "3",
+    "basePhycicalDmg": "&73740_jnwl",
+    "baseMagicDmg": "&73740_jnwl",
+    "cd": "20000"
+  },
+  {
+    "id": "7373",
+    "skillType": "3",
+    "basePhycicalDmg": "&73730_jnwl",
+    "baseMagicDmg": "&73730_jnwl",
+    "cd": "50000"
+  },
+  {
+    "id": "110031",
+    "skillType": "1",
+    "basePhycicalDmg": "&1100310_jnwl",
+    "baseMagicDmg": "&1100310_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "110032",
+    "skillType": "3",
+    "basePhycicalDmg": "&1100320_jnwl",
+    "baseMagicDmg": "&1100320_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "110033",
+    "skillType": "4",
+    "basePhycicalDmg": "&1100330_jnwl",
+    "baseMagicDmg": "&1100330_jnwl",
+    "cd": "40000"
+  },
+  {
+    "id": "7381",
+    "skillType": "1",
+    "basePhycicalDmg": "&73810_jnwl",
+    "baseMagicDmg": "&73810_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7382",
+    "skillType": "1",
+    "basePhycicalDmg": "&73820_jnwl",
+    "baseMagicDmg": "&73820_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7384",
+    "skillType": "3",
+    "basePhycicalDmg": "&73840_jnwl",
+    "baseMagicDmg": "&73840_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "7121",
+    "skillType": "1",
+    "basePhycicalDmg": "&71210_jnwl",
+    "baseMagicDmg": "&71210_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7126",
+    "skillType": "3",
+    "basePhycicalDmg": "&71260_jnwl",
+    "baseMagicDmg": "&71260_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "7128",
+    "skillType": "4",
+    "basePhycicalDmg": "&71280_jnwl",
+    "baseMagicDmg": "&71280_jnwl",
+    "cd": "40000"
+  },
+  {
+    "id": "7221",
+    "skillType": "1",
+    "basePhycicalDmg": "&72210_jnwl",
+    "baseMagicDmg": "&72210_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7222",
+    "skillType": "3",
+    "basePhycicalDmg": "&72220_jnwl",
+    "baseMagicDmg": "&72220_jnwl",
+    "cd": "20000"
+  },
+  {
+    "id": "7223",
+    "skillType": "3",
+    "basePhycicalDmg": "&72230_jnwl",
+    "baseMagicDmg": "&72230_jnwl",
+    "cd": "15000"
+  },
+  {
+    "id": "7224",
+    "skillType": "4",
+    "basePhycicalDmg": "&72240_jnwl",
+    "baseMagicDmg": "&72240_jnwl",
+    "cd": "40000"
+  },
+  {
+    "id": "7321",
+    "skillType": "1",
+    "basePhycicalDmg": "&73210_jnwl",
+    "baseMagicDmg": "&73210_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7324",
+    "skillType": "1",
+    "basePhycicalDmg": "&73240_jnwl",
+    "baseMagicDmg": "&73240_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7322",
+    "skillType": "3",
+    "basePhycicalDmg": "&73220_jnwl",
+    "baseMagicDmg": "&73220_jnwl",
+    "cd": "30000"
+  },
+  {
+    "id": "7323",
+    "skillType": "3",
+    "basePhycicalDmg": "&73230_jnwl",
+    "baseMagicDmg": "&73230_jnwl",
+    "cd": "20000"
+  },
+  {
+    "id": "7543",
+    "skillType": "3",
+    "basePhycicalDmg": "&75430_jnwl",
+    "baseMagicDmg": "&75430_jnwl",
+    "cd": "30000"
+  },
+  {
+    "id": "7541",
+    "skillType": "1",
+    "basePhycicalDmg": "&75410_jnwl",
+    "baseMagicDmg": "&75410_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7542",
+    "skillType": "1",
+    "basePhycicalDmg": "&75420_jnwl",
+    "baseMagicDmg": "&75420_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7551",
+    "skillType": "1",
+    "basePhycicalDmg": "&75510_jnwl",
+    "baseMagicDmg": "&75510_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7552",
+    "skillType": "3",
+    "basePhycicalDmg": "&75520_jnwl",
+    "baseMagicDmg": "&75520_jnwl",
+    "cd": "20000"
+  },
+  {
+    "id": "7553",
+    "skillType": "4",
+    "basePhycicalDmg": "&75530_jnwl",
+    "baseMagicDmg": "&75530_jnwl",
+    "cd": "40000"
+  },
+  {
+    "id": "7554",
+    "skillType": "3",
+    "basePhycicalDmg": "&75540_jnwl",
+    "baseMagicDmg": "&75540_jnwl",
+    "cd": "30000"
+  },
+  {
+    "id": "7571",
+    "skillType": "1",
+    "basePhycicalDmg": "&75710_jnwl",
+    "baseMagicDmg": "&75710_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "75721",
+    "skillType": "1",
+    "basePhycicalDmg": "&757210_jnwl",
+    "baseMagicDmg": "&757210_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7574",
+    "skillType": "1",
+    "basePhycicalDmg": "&75740_jnwl",
+    "baseMagicDmg": "&75740_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7573",
+    "skillType": "3",
+    "basePhycicalDmg": "&75730_jnwl",
+    "baseMagicDmg": "&75730_jnwl",
+    "cd": "30000"
+  },
+  {
+    "id": "7584",
+    "skillType": "3",
+    "basePhycicalDmg": "&75840_jnwl",
+    "baseMagicDmg": "&75840_jnwl",
+    "cd": "30000"
+  },
+  {
+    "id": "7582",
+    "skillType": "4",
+    "basePhycicalDmg": "&75820_jnwl",
+    "baseMagicDmg": "&75820_jnwl",
+    "cd": "40000"
+  },
+  {
+    "id": "7313",
+    "skillType": "4",
+    "basePhycicalDmg": "&73130_jnwl",
+    "baseMagicDmg": "&73130_jnwl",
+    "cd": "40000"
+  },
+  {
+    "id": "7681",
+    "skillType": "1",
+    "basePhycicalDmg": "&76810_jnwl",
+    "baseMagicDmg": "&76810_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7684",
+    "skillType": "3",
+    "basePhycicalDmg": "&76840_jnwl",
+    "baseMagicDmg": "&76840_jnwl",
+    "cd": "20000"
+  },
+  {
+    "id": "7683",
+    "skillType": "4",
+    "basePhycicalDmg": "&76830_jnwl",
+    "baseMagicDmg": "&76830_jnwl",
+    "cd": "40000"
+  },
+  {
+    "id": "7633",
+    "skillType": "1",
+    "basePhycicalDmg": "&76330_jnwl",
+    "baseMagicDmg": "&76330_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7402",
+    "skillType": "1",
+    "basePhycicalDmg": "&74020_jnwl",
+    "baseMagicDmg": "&74020_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7892",
+    "skillType": "1",
+    "basePhycicalDmg": "&78920_jnwl",
+    "baseMagicDmg": "&78920_jnwl",
+    "cd": "5000"
+  },
+  {
+    "id": "7922",
+    "skillType": "4",
+    "basePhycicalDmg": "&79220_jnwl",
+    "baseMagicDmg": "&79220_jnwl",
+    "cd": "40000"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "key": "friendCloseRequire",
+    "value": "60"
+  },
+  {
+    "id": "2",
+    "key": "npcGoalMin",
+    "value": "2"
+  },
+  {
+    "id": "3",
+    "key": "npcGoalMax",
+    "value": "3"
+  },
+  {
+    "id": "4",
+    "key": "npcGoalMinClamp",
+    "value": "1"
+  },
+  {
+    "id": "5",
+    "key": "npcGoalMaxClamp",
+    "value": "1"
+  },
+  {
+    "id": "6",
+    "key": "npcGoalSub",
+    "value": "2"
+  },
+  {
+    "id": "7",
+    "key": "npcGoalMaxWeightCount",
+    "value": "5"
+  },
+  {
+    "id": "8",
+    "key": "roleHpValue",
+    "value": "1"
+  },
+  {
+    "id": "9",
+    "key": "roleMpValue",
+    "value": "2"
+  },
+  {
+    "id": "10",
+    "key": "roleSpValue",
+    "value": "4"
+  },
+  {
+    "id": "11",
+    "key": "closeIconValueA",
+    "value": "20"
+  },
+  {
+    "id": "12",
+    "key": "closeIconValueB",
+    "value": "60"
+  },
+  {
+    "id": "13",
+    "key": "escapeCD",
+    "value": "60000"
+  },
+  {
+    "id": "14",
+    "key": "haterCloseRequire",
+    "value": "-60"
+  },
+  {
+    "id": "15",
+    "key": "townMarketRefreshCD",
+    "value": "12"
+  },
+  {
+    "id": "16",
+    "key": "townReleaseTaskCD",
+    "value": "6"
+  },
+  {
+    "id": "17",
+    "key": "standardLuck",
+    "value": "80"
+  },
+  {
+    "id": "18",
+    "key": "useItemMoodUpRate",
+    "value": "25"
+  },
+  {
+    "id": "19",
+    "key": "schoolBookRefreshCD",
+    "value": "6"
+  },
+  {
+    "id": "20",
+    "key": "lastAdvancedActionCD",
+    "value": "8"
+  },
+  {
+    "id": "21",
+    "key": "elitePowerAskRatio",
+    "value": "7000"
+  },
+  {
+    "id": "22",
+    "key": "closeEfficChange",
+    "value": "-3000"
+  },
+  {
+    "id": "23",
+    "key": "immortalGradeLuck",
+    "value": "10001"
+  },
+  {
+    "id": "24",
+    "key": "immortalGradeSkills",
+    "value": "4000|4002|4003|4004|4005"
+  },
+  {
+    "id": "25",
+    "key": "immortalPublicCd",
+    "value": "40000"
+  },
+  {
+    "id": "26",
+    "key": "patternTransPointNum",
+    "value": "3"
+  }
+]

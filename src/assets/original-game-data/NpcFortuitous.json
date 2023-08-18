@@ -1,0 +1,176 @@
+[
+  {
+    "id": "1",
+    "featureID": "5034",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog1"
+  },
+  {
+    "id": "2",
+    "featureID": "5035",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog2"
+  },
+  {
+    "id": "3",
+    "featureID": "5036",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog3"
+  },
+  {
+    "id": "4",
+    "featureID": "5037",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog4"
+  },
+  {
+    "id": "5",
+    "featureID": "5038",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog5"
+  },
+  {
+    "id": "6",
+    "featureID": "5039",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog6"
+  },
+  {
+    "id": "7",
+    "featureID": "5040",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog7"
+  },
+  {
+    "id": "8",
+    "featureID": "5041",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog8"
+  },
+  {
+    "id": "9",
+    "featureID": "5042",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog9"
+  },
+  {
+    "id": "10",
+    "featureID": "5043",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog10"
+  },
+  {
+    "id": "11",
+    "featureID": "5044",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog11"
+  },
+  {
+    "id": "12",
+    "featureID": "5045",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog12"
+  },
+  {
+    "id": "13",
+    "featureID": "5046",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog13"
+  },
+  {
+    "id": "14",
+    "featureID": "5047",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog14"
+  },
+  {
+    "id": "15",
+    "featureID": "5048",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog15"
+  },
+  {
+    "id": "16",
+    "featureID": "5049",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog16"
+  },
+  {
+    "id": "17",
+    "featureID": "5050",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog17"
+  },
+  {
+    "id": "18",
+    "featureID": "5051",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog18"
+  },
+  {
+    "id": "19",
+    "featureID": "5052",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog19"
+  },
+  {
+    "id": "20",
+    "featureID": "5053",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog20"
+  },
+  {
+    "id": "21",
+    "featureID": "5054",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog21"
+  },
+  {
+    "id": "22",
+    "featureID": "5055",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog22"
+  },
+  {
+    "id": "23",
+    "featureID": "5056",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog23"
+  },
+  {
+    "id": "24",
+    "featureID": "5057",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog24"
+  },
+  {
+    "id": "25",
+    "featureID": "5058",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog25"
+  },
+  {
+    "id": "26",
+    "featureID": "5059",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog26"
+  },
+  {
+    "id": "27",
+    "featureID": "5060",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog27"
+  },
+  {
+    "id": "28",
+    "featureID": "5061",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog28"
+  },
+  {
+    "id": "29",
+    "featureID": "5062",
+    "weight": "100",
+    "eventLog": "npcFortuitousLog29"
+  }
+]

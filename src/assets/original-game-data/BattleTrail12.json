@@ -1,0 +1,47 @@
+[
+  {
+    "id": "12001",
+    "screwRadius": "0",
+    "angularSpeed": "360"
+  },
+  {
+    "id": "12002",
+    "screwRadius": "60",
+    "angularSpeed": "360"
+  },
+  {
+    "id": "12003",
+    "screwRadius": "100",
+    "angularSpeed": "270"
+  },
+  {
+    "id": "12004",
+    "screwRadius": "150",
+    "angularSpeed": "210"
+  },
+  {
+    "id": "12005",
+    "screwRadius": "200",
+    "angularSpeed": "180"
+  },
+  {
+    "id": "12006",
+    "screwRadius": "100",
+    "angularSpeed": "1080"
+  },
+  {
+    "id": "12007",
+    "screwRadius": "120",
+    "angularSpeed": "2160"
+  },
+  {
+    "id": "12008",
+    "screwRadius": "0",
+    "angularSpeed": "400"
+  },
+  {
+    "id": "12009",
+    "screwRadius": "70",
+    "angularSpeed": "1080"
+  }
+]

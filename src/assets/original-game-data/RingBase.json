@@ -1,0 +1,198 @@
+[
+  {
+    "id": "3011011",
+    "grade": "1",
+    "capacity": "12",
+    "lockScore": "25",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011021",
+    "grade": "2",
+    "capacity": "24",
+    "lockScore": "100",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011031",
+    "grade": "3",
+    "capacity": "36",
+    "lockScore": "225",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011041",
+    "grade": "4",
+    "capacity": "48",
+    "lockScore": "400",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011051",
+    "grade": "5",
+    "capacity": "60",
+    "lockScore": "625",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011061",
+    "grade": "6",
+    "capacity": "72",
+    "lockScore": "900",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011071",
+    "grade": "7",
+    "capacity": "84",
+    "lockScore": "1225",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011081",
+    "grade": "8",
+    "capacity": "96",
+    "lockScore": "1600",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011091",
+    "grade": "9",
+    "capacity": "108",
+    "lockScore": "2025",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011101",
+    "grade": "10",
+    "capacity": "120",
+    "lockScore": "2500",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011111",
+    "grade": "1",
+    "capacity": "18",
+    "lockScore": "25",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011121",
+    "grade": "2",
+    "capacity": "30",
+    "lockScore": "100",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011131",
+    "grade": "3",
+    "capacity": "42",
+    "lockScore": "225",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011141",
+    "grade": "4",
+    "capacity": "54",
+    "lockScore": "400",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011151",
+    "grade": "5",
+    "capacity": "66",
+    "lockScore": "625",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011161",
+    "grade": "6",
+    "capacity": "78",
+    "lockScore": "900",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011171",
+    "grade": "7",
+    "capacity": "90",
+    "lockScore": "1225",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011181",
+    "grade": "8",
+    "capacity": "102",
+    "lockScore": "1600",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011191",
+    "grade": "9",
+    "capacity": "114",
+    "lockScore": "2025",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011201",
+    "grade": "10",
+    "capacity": "126",
+    "lockScore": "2500",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011341",
+    "grade": "4",
+    "capacity": "70",
+    "lockScore": "400",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011361",
+    "grade": "6",
+    "capacity": "100",
+    "lockScore": "900",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011381",
+    "grade": "8",
+    "capacity": "130",
+    "lockScore": "1600",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011401",
+    "grade": "10",
+    "capacity": "160",
+    "lockScore": "2500",
+    "effectValue": "0"
+  },
+  {
+    "id": "3011441",
+    "grade": "4",
+    "capacity": "80",
+    "lockScore": "500",
+    "effectValue": "30114411|30114412|30114413"
+  },
+  {
+    "id": "3011461",
+    "grade": "6",
+    "capacity": "120",
+    "lockScore": "1000",
+    "effectValue": "30114611|30114612|30114613"
+  },
+  {
+    "id": "3011481",
+    "grade": "8",
+    "capacity": "150",
+    "lockScore": "1700",
+    "effectValue": "30114811|30114812|30114813"
+  },
+  {
+    "id": "3011501",
+    "grade": "10",
+    "capacity": "200",
+    "lockScore": "2600",
+    "effectValue": "30115011|30115012|30115013"
+  }
+]

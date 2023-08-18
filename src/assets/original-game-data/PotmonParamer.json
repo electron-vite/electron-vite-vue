@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "key": "initPotMonId",
+    "value": "1001"
+  },
+  {
+    "id": "2",
+    "key": "initSkillNum",
+    "value": "2"
+  },
+  {
+    "id": "3",
+    "key": "potmonInsightSkill",
+    "value": "2000"
+  },
+  {
+    "id": "4",
+    "key": "potmonUnitMinAge",
+    "value": "16"
+  },
+  {
+    "id": "5",
+    "key": "skillNumMax2Weight",
+    "value": "20"
+  },
+  {
+    "id": "6",
+    "key": "skillNumMax3Weight",
+    "value": "50"
+  },
+  {
+    "id": "7",
+    "key": "skillNumMax4Weight",
+    "value": "30"
+  },
+  {
+    "id": "8",
+    "key": "get2SkillWeight",
+    "value": "70"
+  },
+  {
+    "id": "9",
+    "key": "get3SkillWeight",
+    "value": "25"
+  },
+  {
+    "id": "10",
+    "key": "get4SkillWeight",
+    "value": "5"
+  },
+  {
+    "id": "11",
+    "key": "skillUpgradeProb",
+    "value": "30"
+  },
+  {
+    "id": "12",
+    "key": "potmonUnitAgeRate",
+    "value": "80"
+  },
+  {
+    "id": "13",
+    "key": "potmonContract",
+    "value": "3"
+  },
+  {
+    "id": "14",
+    "key": "potmonAddExpPropId",
+    "value": "2823001"
+  },
+  {
+    "id": "15",
+    "key": "potmonUpgradePropId",
+    "value": "2823002"
+  },
+  {
+    "id": "16",
+    "key": "potmonHealthPropId",
+    "value": "2823003"
+  },
+  {
+    "id": "17",
+    "key": "potmonConverPropId",
+    "value": "2823004"
+  },
+  {
+    "id": "18",
+    "key": "potmonPropAddExp",
+    "value": "1000"
+  },
+  {
+    "id": "19",
+    "key": "potmonMonstLeaveConverRate",
+    "value": "5"
+  },
+  {
+    "id": "20",
+    "key": "potmonMonstLeaveConverMonth",
+    "value": "2_6"
+  },
+  {
+    "id": "21",
+    "key": "potmonFurryLeaveRate",
+    "value": "45"
+  },
+  {
+    "id": "22",
+    "key": "potmonWorkReturnDramaCount",
+    "value": "2_3"
+  },
+  {
+    "id": "23",
+    "key": "potmonScoreParamAtk",
+    "value": "133330"
+  },
+  {
+    "id": "24",
+    "key": "potmonScoreParamDef",
+    "value": "140000"
+  },
+  {
+    "id": "25",
+    "key": "potmonScoreParamHp",
+    "value": "10000"
+  },
+  {
+    "id": "26",
+    "key": "potmonScoreParamSkill",
+    "value": "100"
+  },
+  {
+    "id": "27",
+    "key": "potmonScoreParamScore",
+    "value": "25000"
+  }
+]

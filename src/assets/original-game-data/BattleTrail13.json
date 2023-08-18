@@ -1,0 +1,122 @@
+[
+  {
+    "id": "13001",
+    "bulletNum": "6",
+    "radius": "150",
+    "radiusGrow": "100",
+    "radiusMax": "9999",
+    "angularSpeed": "500"
+  },
+  {
+    "id": "13002",
+    "bulletNum": "8",
+    "radius": "150",
+    "radiusGrow": "100",
+    "radiusMax": "9999",
+    "angularSpeed": "500"
+  },
+  {
+    "id": "13003",
+    "bulletNum": "10",
+    "radius": "150",
+    "radiusGrow": "100",
+    "radiusMax": "9999",
+    "angularSpeed": "500"
+  },
+  {
+    "id": "13004",
+    "bulletNum": "2",
+    "radius": "100",
+    "radiusGrow": "0",
+    "radiusMax": "9999",
+    "angularSpeed": "180"
+  },
+  {
+    "id": "13005",
+    "bulletNum": "4",
+    "radius": "150",
+    "radiusGrow": "100",
+    "radiusMax": "9999",
+    "angularSpeed": "500"
+  },
+  {
+    "id": "13006",
+    "bulletNum": "8",
+    "radius": "220",
+    "radiusGrow": "0",
+    "radiusMax": "9999",
+    "angularSpeed": "720"
+  },
+  {
+    "id": "13007",
+    "bulletNum": "8",
+    "radius": "1",
+    "radiusGrow": "400",
+    "radiusMax": "9999",
+    "angularSpeed": "180"
+  },
+  {
+    "id": "13008",
+    "bulletNum": "2",
+    "radius": "50",
+    "radiusGrow": "0",
+    "radiusMax": "9999",
+    "angularSpeed": "360"
+  },
+  {
+    "id": "13009",
+    "bulletNum": "4",
+    "radius": "50",
+    "radiusGrow": "200",
+    "radiusMax": "9999",
+    "angularSpeed": "1000"
+  },
+  {
+    "id": "13011",
+    "bulletNum": "&54111_ddsl",
+    "radius": "20",
+    "radiusGrow": "&54111_bjsd",
+    "radiusMax": "&54111_zdbj",
+    "angularSpeed": "&54111_xzjd"
+  },
+  {
+    "id": "13012",
+    "bulletNum": "&43111_ddsl",
+    "radius": "&43111_csbj",
+    "radiusGrow": "&43111_bhbj",
+    "radiusMax": "&43111_zdbj",
+    "angularSpeed": "720"
+  },
+  {
+    "id": "13013",
+    "bulletNum": "5",
+    "radius": "30",
+    "radiusGrow": "400",
+    "radiusMax": "250",
+    "angularSpeed": "400"
+  },
+  {
+    "id": "13014",
+    "bulletNum": "3",
+    "radius": "160",
+    "radiusGrow": "0",
+    "radiusMax": "160",
+    "angularSpeed": "320"
+  },
+  {
+    "id": "13015",
+    "bulletNum": "5",
+    "radius": "550",
+    "radiusGrow": "0",
+    "radiusMax": "550",
+    "angularSpeed": "270"
+  },
+  {
+    "id": "13016",
+    "bulletNum": "&7402_edsl",
+    "radius": "30",
+    "radiusGrow": "400",
+    "radiusMax": "250",
+    "angularSpeed": "400"
+  }
+]

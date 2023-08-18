@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "taskCountMin": "1",
+    "taskCountMax": "3"
+  },
+  {
+    "id": "2",
+    "taskCountMin": "1",
+    "taskCountMax": "3"
+  },
+  {
+    "id": "3",
+    "taskCountMin": "1",
+    "taskCountMax": "3"
+  },
+  {
+    "id": "4",
+    "taskCountMin": "1",
+    "taskCountMax": "3"
+  },
+  {
+    "id": "5",
+    "taskCountMin": "1",
+    "taskCountMax": "3"
+  }
+]

@@ -1,0 +1,738 @@
+[
+  {
+    "id": "1001",
+    "delay": "0",
+    "function": "0",
+    "battleFunction": "0",
+    "nextID": "1002",
+    "weight": "10000"
+  },
+  {
+    "id": "1002",
+    "delay": "200",
+    "function": "0",
+    "battleFunction": "0",
+    "nextID": "1003",
+    "weight": "10000"
+  },
+  {
+    "id": "1003",
+    "delay": "2000",
+    "function": "0",
+    "battleFunction": "0",
+    "nextID": "1004",
+    "weight": "10000"
+  },
+  {
+    "id": "1004",
+    "delay": "4000",
+    "function": "0",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7007",
+    "delay": "120000",
+    "function": "callDrama_700091",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7008",
+    "delay": "120000",
+    "function": "callDrama_700191",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7009",
+    "delay": "120000",
+    "function": "callDrama_700291",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7010",
+    "delay": "120000",
+    "function": "callDrama_700391",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7011",
+    "delay": "120000",
+    "function": "callDrama_700491",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7012",
+    "delay": "120000",
+    "function": "callDrama_700591",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7013",
+    "delay": "120000",
+    "function": "callDrama_700691",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7201",
+    "delay": "120000",
+    "function": "battleExit_1",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "10001",
+    "delay": "15000",
+    "function": "0",
+    "battleFunction": "battleDeviate_12013",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "20001",
+    "delay": "0",
+    "function": "0",
+    "battleFunction": "maskEffect_0",
+    "nextID": "20002",
+    "weight": "10000"
+  },
+  {
+    "id": "20002",
+    "delay": "500",
+    "function": "0",
+    "battleFunction": "moveUnit_1_31.2_6.3|moveUnit_2_31.2_6.2",
+    "nextID": "20003",
+    "weight": "10000"
+  },
+  {
+    "id": "20003",
+    "delay": "600",
+    "function": "0",
+    "battleFunction": "reviveUnit_2",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7701001",
+    "delay": "0",
+    "function": "battleFunction_setDramaUnitData_2_3|unitLog_0_battle56EndLog_eventLogRoleInvite21363_2",
+    "battleFunction": "0",
+    "nextID": "7701002",
+    "weight": "10000"
+  },
+  {
+    "id": "7701002",
+    "delay": "0",
+    "function": "unitLog_1_battle56EndLog_eventLogRoleInvite21374_0_2",
+    "battleFunction": "0",
+    "nextID": "7701003",
+    "weight": "10000"
+  },
+  {
+    "id": "7701003",
+    "delay": "0",
+    "function": "unitLog_2_battle56EndLog_eventLogRoleInvite21386_0",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7701011",
+    "delay": "0",
+    "function": "battleFunction_setDramaUnitData_2_3|unitLog_0_battle56EndLog_eventLogRoleInvite21362_2",
+    "battleFunction": "0",
+    "nextID": "7701012",
+    "weight": "10000"
+  },
+  {
+    "id": "7701012",
+    "delay": "0",
+    "function": "unitLog_1_battle56EndLog_eventLogRoleInvite21373_0_2",
+    "battleFunction": "0",
+    "nextID": "7701013",
+    "weight": "10000"
+  },
+  {
+    "id": "7701013",
+    "delay": "0",
+    "function": "unitLog_2_battle56EndLog_eventLogRoleInvite21385_0",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7701021",
+    "delay": "0",
+    "function": "battleFunction_setDramaUnitData_2_3|unitLog_0_battle56EndLog_eventLogRoleInvite21364_2",
+    "battleFunction": "0",
+    "nextID": "7701022",
+    "weight": "10000"
+  },
+  {
+    "id": "7701022",
+    "delay": "0",
+    "function": "unitLog_1_battle56EndLog_eventLogRoleInvite21375_0_2",
+    "battleFunction": "0",
+    "nextID": "7701023",
+    "weight": "10000"
+  },
+  {
+    "id": "7701023",
+    "delay": "0",
+    "function": "unitLog_2_battle56EndLog_eventLogRoleInvite21387_0",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7701031",
+    "delay": "0",
+    "function": "battleFunction_setDramaUnitData_2_3|unitLog_0_battle56EndLog_eventLogRoleInvite21433_2",
+    "battleFunction": "0",
+    "nextID": "7701032",
+    "weight": "10000"
+  },
+  {
+    "id": "7701032",
+    "delay": "0",
+    "function": "unitLog_1_battle56EndLog_eventLogRoleInvite21444_0_2",
+    "battleFunction": "0",
+    "nextID": "7701033",
+    "weight": "10000"
+  },
+  {
+    "id": "7701033",
+    "delay": "0",
+    "function": "unitLog_2_battle56EndLog_eventLogRoleInvite21456_0",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7701041",
+    "delay": "0",
+    "function": "battleFunction_setDramaUnitData_2_3|unitLog_0_battle56EndLog_eventLogRoleInvite21432_2",
+    "battleFunction": "0",
+    "nextID": "7701042",
+    "weight": "10000"
+  },
+  {
+    "id": "7701042",
+    "delay": "0",
+    "function": "unitLog_1_battle56EndLog_eventLogRoleInvite21443_0_2",
+    "battleFunction": "0",
+    "nextID": "7701043",
+    "weight": "10000"
+  },
+  {
+    "id": "7701043",
+    "delay": "0",
+    "function": "unitLog_2_battle56EndLog_eventLogRoleInvite21455_0",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7701051",
+    "delay": "0",
+    "function": "battleFunction_setDramaUnitData_2_3|unitLog_0_battle56EndLog_eventLogRoleInvite21434_2",
+    "battleFunction": "0",
+    "nextID": "7701052",
+    "weight": "10000"
+  },
+  {
+    "id": "7701052",
+    "delay": "0",
+    "function": "unitLog_1_battle56EndLog_eventLogRoleInvite21445_0_2",
+    "battleFunction": "0",
+    "nextID": "7701053",
+    "weight": "10000"
+  },
+  {
+    "id": "7701053",
+    "delay": "0",
+    "function": "unitLog_2_battle56EndLog_eventLogRoleInvite21457_0",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "8400011",
+    "delay": "2000",
+    "function": "0",
+    "battleFunction": "setDramaUnitData_3_2|addBattleUnit_3_-1_0_2_1_3_840001",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "10012101",
+    "delay": "0",
+    "function": "0",
+    "battleFunction": "createNPC_8014_10_5_2|unitAddEffect_934176_190|unitAddEffect_934176_191",
+    "nextID": "10012102",
+    "weight": "10000"
+  },
+  {
+    "id": "10012102",
+    "delay": "0",
+    "function": "0",
+    "battleFunction": "createSpecial47_100121",
+    "nextID": "10012103|10012104",
+    "weight": "10000"
+  },
+  {
+    "id": "10012103",
+    "delay": "60000",
+    "function": "0",
+    "battleFunction": "createSpecial47_100123",
+    "nextID": "0",
+    "weight": "8500"
+  },
+  {
+    "id": "10012104",
+    "delay": "60000",
+    "function": "0",
+    "battleFunction": "createSpecial47_100124",
+    "nextID": "0",
+    "weight": "1500"
+  },
+  {
+    "id": "10012201",
+    "delay": "0",
+    "function": "0",
+    "battleFunction": "createMonst_935151_25_5_3",
+    "nextID": "10012202",
+    "weight": "10000"
+  },
+  {
+    "id": "10012202",
+    "delay": "10",
+    "function": "0",
+    "battleFunction": "unitAddEffect_935151_93515102|unitAddEffect_935151_93515103|unitAddEffect_935151_93515112|unitAddEffect_935151_93515132",
+    "nextID": "10012203",
+    "weight": "10000"
+  },
+  {
+    "id": "10012203",
+    "delay": "0",
+    "function": "0",
+    "battleFunction": "unitRun_935151_25_5_-25_5|unitAddEffect_935151_93515141",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "10012211",
+    "delay": "0",
+    "function": "0",
+    "battleFunction": "setDramaUnitData_3_0|addAttribute_3_6_0_100_1|unitAnim_3_Idle_0|addUnitState_3_0_1",
+    "nextID": "10012212",
+    "weight": "10000"
+  },
+  {
+    "id": "10012212",
+    "delay": "1000",
+    "function": "callDrama_6331041",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2010201",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6402041_6402043",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2010301",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6402071_6402081",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2010501",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6402095",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2010601",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6402062",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2110201",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6412041_6412043",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2110301",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6412071_6412081",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2110501",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6412095",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2110601",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6412062",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2020201",
+    "delay": "1500",
+    "function": "0",
+    "battleFunction": "activeBattle_0|npcBattleFailed_4_6391611_6391611",
+    "nextID": "2020202",
+    "weight": "10000"
+  },
+  {
+    "id": "2020202",
+    "delay": "1500",
+    "function": "0",
+    "battleFunction": "npcBattleFailed_3_6391621_6391621",
+    "nextID": "2020203",
+    "weight": "10000"
+  },
+  {
+    "id": "2020203",
+    "delay": "3000",
+    "function": "battleExit_1",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2020301",
+    "delay": "1500",
+    "function": "0",
+    "battleFunction": "playerBattleFailed_4",
+    "nextID": "2020302",
+    "weight": "10000"
+  },
+  {
+    "id": "2020302",
+    "delay": "2000",
+    "function": "addAttribute_1_6_1_1_1|battleExit_0",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2010801",
+    "delay": "500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6391511",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2030201",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6401031_6401033",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2030301",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6401061",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2030501",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6401105",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2130201",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6401031_6401033",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2130301",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6401061",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2130501",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6401105",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2040201",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6421041_6421043",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2040301",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6421071_6421081",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2040501",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6421095",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2040601",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6421062_6421063",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2140201",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6431041_6431043",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2140301",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6431071_6431081",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2140501",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6431095",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2140601",
+    "delay": "1500",
+    "function": "battleFunction_setDramaUnitData_3_4|callDrama_6431062_6431063",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "18003121",
+    "delay": "60000",
+    "function": "callDrama_1800331",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3010101",
+    "delay": "1500",
+    "function": "callDrama_2000111",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3010201",
+    "delay": "1500",
+    "function": "callDrama_2000113",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3011101",
+    "delay": "1500",
+    "function": "callDrama_2000116",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3011201",
+    "delay": "1500",
+    "function": "callDrama_2000118",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3012101",
+    "delay": "1500",
+    "function": "callDrama_2000121",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3012201",
+    "delay": "1500",
+    "function": "callDrama_2000123",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3013101",
+    "delay": "1500",
+    "function": "callDrama_2000125",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3013201",
+    "delay": "1500",
+    "function": "callDrama_2000127",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "7700111",
+    "delay": "0",
+    "function": "clearWorldData_beifaxianfankui1",
+    "battleFunction": "0",
+    "nextID": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "8010001",
+    "delay": "15000",
+    "function": "0",
+    "battleFunction": "unitAddEffect_1_9030001",
+    "nextID": "8010002",
+    "weight": "10000"
+  },
+  {
+    "id": "8010002",
+    "delay": "15000",
+    "function": "0",
+    "battleFunction": "unitAddEffect_1_9030001",
+    "nextID": "8010001",
+    "weight": "10000"
+  },
+  {
+    "id": "8010003",
+    "delay": "15000",
+    "function": "0",
+    "battleFunction": "unitAddEffect_1_9030002",
+    "nextID": "8010004",
+    "weight": "10000"
+  },
+  {
+    "id": "8010004",
+    "delay": "15000",
+    "function": "0",
+    "battleFunction": "unitAddEffect_1_9030002",
+    "nextID": "8010003",
+    "weight": "10000"
+  },
+  {
+    "id": "8010005",
+    "delay": "15000",
+    "function": "0",
+    "battleFunction": "unitAddEffect_1_9030003",
+    "nextID": "8010006",
+    "weight": "10000"
+  },
+  {
+    "id": "8010006",
+    "delay": "15000",
+    "function": "0",
+    "battleFunction": "unitAddEffect_1_9030003",
+    "nextID": "8010005",
+    "weight": "10000"
+  },
+  {
+    "id": "8010007",
+    "delay": "120100",
+    "function": "0",
+    "battleFunction": "unitAddEffect_1_9030004|unitAddEffect_1_9030005",
+    "nextID": "8010008",
+    "weight": "10000"
+  },
+  {
+    "id": "8010008",
+    "delay": "120100",
+    "function": "0",
+    "battleFunction": "unitAddEffect_1_9030004|unitAddEffect_1_9030005",
+    "nextID": "8010007",
+    "weight": "10000"
+  },
+  {
+    "id": "8010009",
+    "delay": "90100",
+    "function": "0",
+    "battleFunction": "unitAddEffect_1_9030004|unitAddEffect_1_9030005",
+    "nextID": "8010010",
+    "weight": "10000"
+  },
+  {
+    "id": "8010010",
+    "delay": "90100",
+    "function": "0",
+    "battleFunction": "unitAddEffect_1_9030004|unitAddEffect_1_9030005",
+    "nextID": "8010009",
+    "weight": "10000"
+  }
+]

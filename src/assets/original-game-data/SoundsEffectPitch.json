@@ -1,0 +1,2984 @@
+[
+  {
+    "id": "1",
+    "path": "beijizhong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "2",
+    "path": "pohuai/cao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "3",
+    "path": "pohuai/guanzi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "4",
+    "path": "pohuai/jiumache",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "5",
+    "path": "pohuai/shidiaoxiang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "6",
+    "path": "pohuai/shidui",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "7",
+    "path": "pohuai/shikuai",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "8",
+    "path": "jineng/daowujimingzhong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "9",
+    "path": "jineng/jianwujimingzhong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "10",
+    "path": "jineng/qiangwujimingzhong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "11",
+    "path": "jineng/quanzhangwuji",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "12",
+    "path": "jineng/quanzhangwujimingzhong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "13",
+    "path": "jineng/zhiwuji",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "14",
+    "path": "jineng/zhiwujimingzhong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "15",
+    "path": "guaiwuchuxian",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "16",
+    "path": "guaiwuyinxiao/lvsedandao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "17",
+    "path": "guaiwuyinxiao/touzhibiaoqiang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "18",
+    "path": "guaiwuyinxiao/shejian",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "19",
+    "path": "guaiwuyinxiao/changmao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "20",
+    "path": "guaiwuyinxiao/xionggongji",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "21",
+    "path": "guaiwuyinxiao/luozhu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "22",
+    "path": "guaiwuyinxiao/changmao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "23",
+    "path": "guaiwuyinxiao/shejian",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "24",
+    "path": "fuben/tianjie_dalei",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "25",
+    "path": "jineng/lei/leifazhen",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "26",
+    "path": "guaiwuyinxiao/shejian",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "27",
+    "path": "guaiwuyinxiao/jianrenfengbao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "28",
+    "path": "guaiwuyinxiao/laotoudandao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "29",
+    "path": "guaiwuyinxiao/zhizhubaozha",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "30",
+    "path": "guaiwuyinxiao/pangzirengshoulei",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "31",
+    "path": "guaiwuyinxiao/shouleitexiao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "32",
+    "path": "guaiwuyinxiao/shegongji",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "33",
+    "path": "guaiwuyinxiao/houyijianzhong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "34",
+    "path": "guaiwuyinxiao/houyijianqing",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "35",
+    "path": "jineng/jian/luorijian2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "36",
+    "path": "guaiwuyinxiao/houyijianqing",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "37",
+    "path": "guaiwuyinxiao/fusangbaozha",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "38",
+    "path": "guaiwuyinxiao/sanzuwusanchibang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "39",
+    "path": "guaiwuyinxiao/sanzuwufeixing",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "40",
+    "path": "fuben/tianjie_xiaolei",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "41",
+    "path": "guaiwuyinxiao/gougongji",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "42",
+    "path": "guaiwuyinxiao/changmao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "43",
+    "path": "guaiwuyinxiao/bingdandao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "44",
+    "path": "guaiwuyinxiao/lvsedandao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "45",
+    "path": "guaiwuyinxiao/lvsedandao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "46",
+    "path": "guaiwuyinxiao/shuyaofangpi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "47",
+    "path": "guaiwuyinxiao/jiguangpao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "48",
+    "path": "guaiwuyinxiao/shejian",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "49",
+    "path": "guaiwuyinxiao/lvsedandao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "50",
+    "path": "guaiwuyinxiao/fusangshu_baozha",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "51",
+    "path": "guaiwuyinxiao/huoyuanshu_huoqiu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "52",
+    "path": "guaiwuyinxiao/tuyuanshu_tuqiu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "53",
+    "path": "guaiwuyinxiao/feitouman_fei",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "54",
+    "path": "guaiwuyinxiao/xiaozhuzai_pingA",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "55",
+    "path": "guaiwuyinxiao/mogubaozha",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "56",
+    "path": "jineng/dao/xieren",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "57",
+    "path": "jineng/qiang/biaoqiangluodi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "58",
+    "path": "jineng/qiang/suiyuqiangchuxian",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "59",
+    "path": "jineng/qiang/guiyuqiang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "60",
+    "path": "jineng/qiang/suiyuqiangchuxian",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "61",
+    "path": "jineng/jian/fashe",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "62",
+    "path": "jineng/jian/luorijian1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "63",
+    "path": "jineng/qianyao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "64",
+    "path": "jineng/jian/zhantianjian",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "65",
+    "path": "jineng/jian/miekongjian2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "66",
+    "path": "jineng/dao/huidao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "67",
+    "path": "jineng/quanzhangwuji",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "68",
+    "path": "jineng/quanzhangwujimingzhong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "69",
+    "path": "jineng/daowujimingzhong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "70",
+    "path": "jineng/jianwujimingzhong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "71",
+    "path": "jineng/qiangwujimingzhong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "72",
+    "path": "jineng/zhiwujimingzhong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "73",
+    "path": "jineng/quan/liediquan",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "74",
+    "path": "jineng/quan/juwangquan",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "75",
+    "path": "jineng/zhangzhang_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "76",
+    "path": "jineng/zhang_baozha",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "77",
+    "path": "jineng/zhang/duanyazhang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "78",
+    "path": "jineng/zhi/zhi_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "79",
+    "path": "jineng/zhi/zhi_pugong_back",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "80",
+    "path": "jineng/zhi/wuxiangzhi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "81",
+    "path": "jineng/zhi/youkongbao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "82",
+    "path": "jineng/huo/huoqiu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "83",
+    "path": "jineng/huo/dahuoqiu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "84",
+    "path": "jineng/huo/dabaozha",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "85",
+    "path": "jineng/huo/huohuan",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "86",
+    "path": "jineng/shui/shuiqiu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "87",
+    "path": "jineng/shui/bingjingbao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "88",
+    "path": "jineng/shui/bingjingbao2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "89",
+    "path": "jineng/shui/bingci2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "90",
+    "path": "jineng/lei/leiguangshu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "91",
+    "path": "jineng/lei/tianleijie2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "92",
+    "path": "jineng/lei/bianzi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "93",
+    "path": "jineng/lei/bianzi2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "94",
+    "path": "jineng/lei/shandianlian",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "95",
+    "path": "jineng/lei/luanliu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "96",
+    "path": "jineng/lei/benleishu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "97",
+    "path": "jineng/lei/leiyunshu2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "98",
+    "path": "jineng/lei/anleishu2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "99",
+    "path": "jineng/lei/luoleizhen",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "100",
+    "path": "jineng/lei/luoleizhen2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "101",
+    "path": "jineng/lei/lingleishu2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "102",
+    "path": "jineng/lei/leifazhen",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "103",
+    "path": "jineng/feng/fengqiushu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "104",
+    "path": "jineng/feng/fengqiushu2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "105",
+    "path": "jineng/feng/fengrenshu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "106",
+    "path": "jineng/feng/fengrenshu2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "107",
+    "path": "jineng/feng/fengqieshu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "108",
+    "path": "jineng/feng/fengqieshu2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "109",
+    "path": "sharen",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "110",
+    "path": "siwang/nansiwang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "111",
+    "path": "siwang/nvsiwang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "112",
+    "path": "feng/fengzhangshu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "113",
+    "path": "jineng/tu/tuqiushu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "114",
+    "path": "jineng/tu/tuqiushu2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "115",
+    "path": "jineng/tu/luoshishu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "116",
+    "path": "jineng/tu/zhenyanshu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "117",
+    "path": "jineng/tu/kuilei",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "118",
+    "path": "jineng/tu/dakuilei",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "119",
+    "path": "jineng/tu/kuilei_siwang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "120",
+    "path": "jineng/tu/dakuilei_siwang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "121",
+    "path": "jineng/mu/lingyeshu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "122",
+    "path": "jineng/mu/lingyeshu2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "123",
+    "path": "jineng/mu/xiaohuayao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "124",
+    "path": "jineng/mu/xiaohuayao2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "125",
+    "path": "jineng/mu/feihuashu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "126",
+    "path": "jineng/mu/feihuashu2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "127",
+    "path": "jineng/mu/zhanhuashu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "128",
+    "path": "jineng/mu/zhanhuashu3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "129",
+    "path": "jineng/mu/du",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "130",
+    "path": "jineng/mu/duzhushu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "131",
+    "path": "jineng/mu/duzhushu2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "132",
+    "path": "jineng/mu/duzhushu3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "133",
+    "path": "jineng/mu/shirenhua2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "134",
+    "path": "jineng/mu/huayaohoudandao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "135",
+    "path": "jineng/mu/huayaohoudandao2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "136",
+    "path": "fuben/heluoyu/hailang_01",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "137",
+    "path": "fuben/heluoyu/hailang_02",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "138",
+    "path": "fuben/heluoyu/hailang_03",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "139",
+    "path": "fuben/heluoyu/hailang_04",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "140",
+    "path": "fuben/heluoyu/hailang_05",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "141",
+    "path": "fuben/heluoyu/xiaoniao_toushi_01",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "142",
+    "path": "fuben/heluoyu/xiaoniao_toushi_02",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "143",
+    "path": "fuben/heluoyu/xiaoniao_toushi_03",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "144",
+    "path": "fuben/heluoyu/xiaoniao_toushi_04",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "145",
+    "path": "fuben/heluoyu/xiaoniao_toushi_05",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "146",
+    "path": "fuben/heluoyu/xiaoniao_toushi_06",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "147",
+    "path": "fuben/heluoyu/heluoyu_paidi_01",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "148",
+    "path": "fuben/heluoyu/heluoyu_paidi_02",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "149",
+    "path": "fuben/heluoyu/heluoyu_paidi_03",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "150",
+    "path": "fuben/heluoyu/heluoyu_tuci_01",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "151",
+    "path": "fuben/heluoyu/heluoyu_tuci_02",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "152",
+    "path": "fuben/heluoyu/heluoyu_tuci_03",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "153",
+    "path": "fuben/heluoyu/heluoyu_tuci_04",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "154",
+    "path": "fuben/heluoyu/ciniao_01",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "155",
+    "path": "fuben/heluoyu/ciniao_02",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "156",
+    "path": "fuben/heluoyu/ciniao_03",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "157",
+    "path": "fuben/heluoyu/ciniao_04",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "158",
+    "path": "fuben/heluoyu/heluoyu_cidi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "159",
+    "path": "fuben/heluoyu/penshui_shouji",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "160",
+    "path": "guaiwuyinxiao/bifang_danbao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "161",
+    "path": "guaiwuyinxiao/bifang_zhuaji",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "162",
+    "path": "guaiwuyinxiao/bifang_fei",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "163",
+    "path": "guaiwuyinxiao/jinhu_baozha",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "164",
+    "path": "guaiwuyinxiao/jinhu_yingbishouji",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "165",
+    "path": "guaiwuyinxiao/renmianxiaorengshitou",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "166",
+    "path": "jineng/dao/liehuodao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "167",
+    "path": "guaiwuyinxiao/nansuiren",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "168",
+    "path": "guaiwuyinxiao/nvsuiren",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "169",
+    "path": "guaiwuyinxiao/mozhua_kouxue",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "170",
+    "path": "guaiwuyinxiao/mojian_ci",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "171",
+    "path": "nitiangaiming/bianji",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "172",
+    "path": "nitiangaiming/jijiao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "173",
+    "path": "shouji/shouji_ci_xiao1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "174",
+    "path": "shouji/shouji_ci_xiao2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "175",
+    "path": "shouji/shouji_ci_xiao3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "176",
+    "path": "UI/paimai_jupai",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "177",
+    "path": "fuben/dalei1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "178",
+    "path": "fuben/dalei2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "179",
+    "path": "fuben/dalei3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "180",
+    "path": "guaiwuyinxiao/hanba_huiqiu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "181",
+    "path": "guaiwuyinxiao/hanba_jushou3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "182",
+    "path": "guaiwuyinxiao/hanbapangzi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "183",
+    "path": "guaiwuyinxiao/hanbaqingwachong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "184",
+    "path": "guaiwuyinxiao/hanbakulou",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "185",
+    "path": "guaiwuyinxiao/lingyu_shangbing2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "186",
+    "path": "guaiwuyinxiao/lingyu_xiabing2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "187",
+    "path": "guaiwuyinxiao/houzixuligongji",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "188",
+    "path": "guaiwuyinxiao/shuangtoushe",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "189",
+    "path": "guaiwuyinxiao/yanjingshe",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "190",
+    "path": "guaiwuyinxiao/chuixiaoren",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "191",
+    "path": "guaiwuyinxiao/liuwei_penhuo",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "192",
+    "path": "guaiwuyinxiao/liuwei_duodi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "193",
+    "path": "guaiwuyinxiao/liuwei_luoshi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "194",
+    "path": "guaiwuyinxiao/tiangou_qiu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "195",
+    "path": "guaiwuyinxiao/jiaolong_leiqiu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "196",
+    "path": "guaiwuyinxiao/zhushejian",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "197",
+    "path": "guaiwuyinxiao/bifangfashi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "198",
+    "path": "guaiwuyinxiao/bifangniaodan",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "199",
+    "path": "guaiwuyinxiao/bifangshuangtou",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "200",
+    "path": "guaiwuyinxiao/jiaolong_jiao1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "201",
+    "path": "guaiwuyinxiao/gouchen_jiao2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "202",
+    "path": "guaiwuyinxiao/gouchen_jiao3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "203",
+    "path": "guaiwuyinxiao/gouchen_guang1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "204",
+    "path": "guaiwuyinxiao/gouchen_guang2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "205",
+    "path": "siwang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "206",
+    "path": "jineng/putongmingzhong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "207",
+    "path": "jineng/shuigongji",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "208",
+    "path": "shouji/nanshouji1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "209",
+    "path": "shouji/nanshouji2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "210",
+    "path": "shouji/nanshouji3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "211",
+    "path": "shouji/nanshouji4",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "212",
+    "path": "shouji/nanshouji5",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "213",
+    "path": "shouji/nvshouji1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "214",
+    "path": "shouji/nvshouji2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "215",
+    "path": "shouji/nvshouji3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "216",
+    "path": "shouji/nvshouji4",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "217",
+    "path": "jineng/nanyoujian1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "218",
+    "path": "jineng/nanyoujian2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "219",
+    "path": "jineng/nvyoujian1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "220",
+    "path": "jineng/nvyoujian2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "221",
+    "path": "guaiwuyinxiao/luwu_chong2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "222",
+    "path": "guaiwuyinxiao/xuangui_jiao1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "223",
+    "path": "guaiwuyinxiao/xuangui_jiao2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "224",
+    "path": "guaiwuyinxiao/xuangui_luoshi2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "225",
+    "path": "guaiwuyinxiao/chongming_qiu1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "226",
+    "path": "guaiwuyinxiao/chongming_qiu2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "227",
+    "path": "guaiwuyinxiao/chongming_jiao3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "228",
+    "path": "guaiwuyinxiao/chuancheng_pain",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "229",
+    "path": "guaiwuyinxiao/qiongqi_pain",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "230",
+    "path": "guaiwuyinxiao/kui_qiu1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "231",
+    "path": "guaiwuyinxiao/kui_qiu2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "232",
+    "path": "guaiwuyinxiao/kui_pain",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "233",
+    "path": "guaiwuyinxiao/chuancheng_feijian201",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "234",
+    "path": "guaiwuyinxiao/chuancheng_feijian202",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "235",
+    "path": "guaiwuyinxiao/chuancheng_feijian203",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "236",
+    "path": "guaiwuyinxiao/kui_jiaobu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "237",
+    "path": "guaiwuyinxiao/luwu_pain",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "238",
+    "path": "guaiwuyinxiao/xuangui_pain",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "239",
+    "path": "guaiwuyinxiao/chongming_pain",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "240",
+    "path": "guaiwuyinxiao/gouchen_pain",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "241",
+    "path": "guaiwuyinxiao/jiaolong_pain",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "242",
+    "path": "guaiwuyinxiao/liuwei_pain",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "243",
+    "path": "guaiwuyinxiao/tiangou_pain",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "244",
+    "path": "guaiwuyinxiao/zhuyan_pain",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "245",
+    "path": "guaiwuyinxiao/jimeng_dingpen",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "246",
+    "path": "guaiwuyinxiao/jimeng_pain",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "247",
+    "path": "jineng/tu/shikuishubao_guaiwu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "248",
+    "path": "mohunzhimu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "249",
+    "path": "guaiwuyinxiao/xiaoshitou",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "250",
+    "path": "nitiangaiming/shenhun_jiaolong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "251",
+    "path": "guaiwuyinxiao/zhuyanxiaoguai1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "252",
+    "path": "guaiwuyinxiao/zhuyanxiaoguai2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "253",
+    "path": "guaiwuyinxiao/pig1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "254",
+    "path": "guaiwuyinxiao/pig2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "255",
+    "path": "guaiwuyinxiao/pig3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "256",
+    "path": "guaiwuyinxiao/jingweixiaoguai1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "257",
+    "path": "guaiwuyinxiao/jingweixiaoguai2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "258",
+    "path": "guaiwuyinxiao/jingweixiaoguai3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "259",
+    "path": "guaiwuyinxiao/leishenxiaoguai1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "260",
+    "path": "guaiwuyinxiao/lingyuxiaoguai1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "261",
+    "path": "guaiwuyinxiao/lingyuxiaoguai2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "262",
+    "path": "guaiwuyinxiao/mengjixiaoguai1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "263",
+    "path": "guaiwuyinxiao/mengjixiaoguai2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "264",
+    "path": "guaiwuyinxiao/mengjixiaoguai3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "265",
+    "path": "guaiwuyinxiao/changchengxiaoguai2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "266",
+    "path": "guaiwuyinxiao/changyouxiaoguai1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "267",
+    "path": "guaiwuyinxiao/gudiao_zhen",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "268",
+    "path": "guaiwuyinxiao/zhuyaoluoci2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "269",
+    "path": "guaiwuyinxiao/zhuyaodici2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "270",
+    "path": "guaiwuyinxiao/zhuyaodici3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "271",
+    "path": "guaiwuyinxiao/zhuyaochuo1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "272",
+    "path": "guaiwuyinxiao/zhuyaochuo2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "273",
+    "path": "pohuai/zhuzi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "274",
+    "path": "UI/lianqi/lianqi_zazhi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "275",
+    "path": "UI/lianqi/lianqi_datie1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "276",
+    "path": "UI/lianqi/lianqi_datie2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "277",
+    "path": "fuben/mingshan_dihuo",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "278",
+    "path": "fuben/mingshan_dibao1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "279",
+    "path": "fuben/mingshan_dibao2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "280",
+    "path": "qilingxing/qixing_leichui2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "281",
+    "path": "qilingxing/mengyi_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "282",
+    "path": "qilingxing/cangya_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "283",
+    "path": "qilingxing/jiuchen_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "284",
+    "path": "qilingxing/muqing_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "285",
+    "path": "qilingxing/ningshuang_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "286",
+    "path": "qilingxing/niu1_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "287",
+    "path": "qilingxing/niu2_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "288",
+    "path": "qilingxing/huli1_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "289",
+    "path": "qilingxing/huli2_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "290",
+    "path": "qilingxing/huli3_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "291",
+    "path": "qilingxing/zhu1_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "292",
+    "path": "qilingxing/zhu2_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "293",
+    "path": "qilingxing/zhu3_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "294",
+    "path": "qilingxing/hu1_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "295",
+    "path": "qilingxing/hu2_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "296",
+    "path": "qilingxing/hu3_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "297",
+    "path": "qilingxing/niao1_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "298",
+    "path": "qilingxing/niao2_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "299",
+    "path": "qilingxing/xiong1_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "300",
+    "path": "qilingxing/jiuchen_dazhao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "301",
+    "path": "qilingxing/lingge_dazhao1_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "302",
+    "path": "qilingxing/lingge_dazhao1_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "303",
+    "path": "qilingxing/zhu1_pugong",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "304",
+    "path": "qilingxing/qixing_leichui2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "305",
+    "path": "shouji/jian/mingzhong_jian_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "306",
+    "path": "shouji/jian/mingzhong_jian_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "307",
+    "path": "shouji/jian/mingzhong_jian_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "308",
+    "path": "shouji/jian/mingzhong_jian_4",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "309",
+    "path": "shouji/jian/mingzhong_jian_5",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "310",
+    "path": "shouji/jian/shouji_jian_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "311",
+    "path": "shouji/jian/shouji_jian_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "312",
+    "path": "shouji/jian/shouji_jian_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "313",
+    "path": "siwang/xiaoguai_siwang_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "314",
+    "path": "siwang/xiaoguai_siwang_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "315",
+    "path": "siwang/xiaoguai_siwang_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "316",
+    "path": "jineng/jian/jian_fashe_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "317",
+    "path": "jineng/jian/jian_fashe_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "318",
+    "path": "jineng/jian/jian_fashe_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "319",
+    "path": "shouji/jian/shouji_yueying_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "320",
+    "path": "shouji/jian/shouji_yueying_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "321",
+    "path": "shouji/jian/shouji_yueying_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "322",
+    "path": "jineng/jian/yueying_fashe_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "323",
+    "path": "jineng/jian/yueying_fashe_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "324",
+    "path": "jineng/jian/yueying_fashe_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "325",
+    "path": "jineng/jian/wanshen_fashe_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "326",
+    "path": "jineng/jian/wanshen_fashe_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "327",
+    "path": "jineng/jian/wanshen_fashe_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "328",
+    "path": "shouji/dao/mingzhong_dao_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "329",
+    "path": "shouji/dao/mingzhong_dao_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "330",
+    "path": "shouji/dao/mingzhong_dao_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "331",
+    "path": "shouji/dao/mingzhong_dao_4",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "332",
+    "path": "jineng/dao/huidao1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "333",
+    "path": "jineng/dao/huidao2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "334",
+    "path": "jineng/dao/huidao3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "335",
+    "path": "shouji/dao/shouji_dao_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "336",
+    "path": "shouji/dao/shouji_dao_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "337",
+    "path": "shouji/dao/shouji_dao_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "338",
+    "path": "jineng/dao/fashe_xieren_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "339",
+    "path": "jineng/dao/fashe_xieren_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "340",
+    "path": "jineng/dao/fashe_xieren_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "341",
+    "path": "shouji/dao/shouji_dao_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "342",
+    "path": "shouji/dao/shouji_dao_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "343",
+    "path": "shouji/dao/shouji_dao_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "344",
+    "path": "shouji/dao/shouji_dadao_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "345",
+    "path": "shouji/dao/shouji_dadao_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "346",
+    "path": "shouji/dao/shouji_dadao_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "347",
+    "path": "shouji/qiang/shouji_qiang_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "348",
+    "path": "shouji/qiang/shouji_qiang_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "349",
+    "path": "shouji/qiang/shouji_qiang_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "350",
+    "path": "shouji/qiang/mingzhong_qiang_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "351",
+    "path": "shouji/qiang/mingzhong_qiang_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "352",
+    "path": "shouji/qiang/mingzhong_qiang_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "353",
+    "path": "shouji/qiang/mingzhong_qiang_4",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "354",
+    "path": "jineng/qiang/tujin1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "355",
+    "path": "jineng/qiang/fashe2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "356",
+    "path": "jineng/qiang/tianlongci1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "357",
+    "path": "jineng/qiang/tianlongci2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "358",
+    "path": "jineng/qiang/tianlongci3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "359",
+    "path": "shouji/quan/shouji_quan_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "360",
+    "path": "shouji/quan/shouji_quan_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "361",
+    "path": "shouji/quan/shouji_quan_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "362",
+    "path": "shouji/quan/shouji_quan_4",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "363",
+    "path": "shouji/quan/shouji_quan_5",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "364",
+    "path": "shouji/quan/shouji_daquan_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "365",
+    "path": "shouji/quan/shouji_daquan_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "366",
+    "path": "shouji/quan/shouji_daquan_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "367",
+    "path": "shouji/quan/shouji_zhang_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "368",
+    "path": "shouji/quan/shouji_zhang_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "369",
+    "path": "shouji/quan/shouji_zhang_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "370",
+    "path": "shouji/quan/shouji_zhang_4",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "371",
+    "path": "shouji/quan/shouji_zhang_5",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "372",
+    "path": "jineng/zhang/liediquan2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "373",
+    "path": "jineng/zhang/liediquan3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "374",
+    "path": "jineng/zhang/paiyunzhang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "375",
+    "path": "jineng/zhang/qingtaozhang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "376",
+    "path": "jineng/zhang/duanyazhang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "377",
+    "path": "jineng/zhang/polangzhang1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "378",
+    "path": "jineng/zhang/guishenzhang1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "379",
+    "path": "jineng/zhang/guishenzhang2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "380",
+    "path": "jineng/zhang/guishenzhang3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "381",
+    "path": "shouji/zhang/shouji_dazhang_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "382",
+    "path": "shouji/zhang/shouji_dazhang_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "383",
+    "path": "shouji/zhang/shouji_dazhang_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "384",
+    "path": "shouji/zhi/shouji_zhi_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "385",
+    "path": "shouji/zhi/shouji_zhi_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "386",
+    "path": "shouji/zhi/shouji_zhi_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "387",
+    "path": "shouji/zhi/shouji_zhi_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "388",
+    "path": "shouji/zhi/shouji_zhi_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "389",
+    "path": "shouji/zhi/shouji_zhi_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "390",
+    "path": "jineng/zhi/zhi_pugong1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "391",
+    "path": "jineng/zhi/zhi_pugong2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "392",
+    "path": "jineng/zhi/zhi_pugong3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "393",
+    "path": "guaiwuyinxiao/qinyuan_fei",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "394",
+    "path": "guaiwuyinxiao/longzong_longnu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "395",
+    "path": "jineng/diaorou",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "396",
+    "path": "jineng/diaolingshi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "397",
+    "path": "huanjing/beijinglong4_thunder_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "398",
+    "path": "huanjing/beijinglong4_thunder_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "399",
+    "path": "huanjing/beijinglong4_thunder_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "400",
+    "path": "guaiwuyinxiao/leiniao_beat_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "401",
+    "path": "guaiwuyinxiao/leiniao_beat_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "402",
+    "path": "guaiwuyinxiao/leiniao_beat_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "403",
+    "path": "guaiwuyinxiao/leiniao_beat_4",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "404",
+    "path": "guaiwuyinxiao/leiniao_yumao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "405",
+    "path": "guaiwuyinxiao/lei_quanbao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "406",
+    "path": "guaiwuyinxiao/feng_pendu_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "407",
+    "path": "guaiwuyinxiao/mingshouxiaoguai_atk",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "408",
+    "path": "guaiwuyinxiao/huangou_ci_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "409",
+    "path": "guaiwuyinxiao/huangou_ci_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "410",
+    "path": "guaiwuyinxiao/huangou_ci_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "411",
+    "path": "guaiwuyinxiao/qique_yumao_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "412",
+    "path": "guaiwuyinxiao/qique_yumao_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "413",
+    "path": "guaiwuyinxiao/qique_yumao_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "414",
+    "path": "guaiwuyinxiao/mingshou1_shout_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "415",
+    "path": "guaiwuyinxiao/mingshou1_shout_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "416",
+    "path": "guaiwuyinxiao/mingshou1_shout_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "417",
+    "path": "guaiwuyinxiao/mingshou1_shout_4",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "418",
+    "path": "guaiwuyinxiao/mingshou3_shout_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "419",
+    "path": "guaiwuyinxiao/mingshou3_shout_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "420",
+    "path": "guaiwuyinxiao/mingshou3_shout_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "421",
+    "path": "guaiwuyinxiao/mingshou3_penqi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "422",
+    "path": "guaiwuyinxiao/mingshou4_shout_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "423",
+    "path": "guaiwuyinxiao/mingshou4_shout_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "424",
+    "path": "guaiwuyinxiao/mingshou4_shout_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "425",
+    "path": "guaiwuyinxiao/mingshou4_shout_4",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "426",
+    "path": "guaiwuyinxiao/zhuque_huoqiu_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "427",
+    "path": "guaiwuyinxiao/zhuque_huoqiu_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "428",
+    "path": "guaiwuyinxiao/zhuque_qiubao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "429",
+    "path": "guaiwuyinxiao/fenghuang_huoqiu_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "430",
+    "path": "guaiwuyinxiao/jinpeng_ci_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "431",
+    "path": "guaiwuyinxiao/miemeng_faqiu_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "432",
+    "path": "guaiwuyinxiao/miemeng_qiu",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "433",
+    "path": "guaiwuyinxiao/lizhu_huiqiang_1_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "434",
+    "path": "guaiwuyinxiao/lizhu_huiqiang_1_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "435",
+    "path": "guaiwuyinxiao/lizhu_huiqiang_1_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "436",
+    "path": "guaiwuyinxiao/lizhu_huiqiang_2_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "437",
+    "path": "guaiwuyinxiao/lizhu_huiqiang_2_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "438",
+    "path": "guaiwuyinxiao/lizhu_huiqiang_2_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "439",
+    "path": "guaiwuyinxiao/lizhu_shoubao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "440",
+    "path": "guaiwuyinxiao/lizhu_fashe_2_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "441",
+    "path": "guaiwuyinxiao/lizhu_fashe_2_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "442",
+    "path": "guaiwuyinxiao/lizhu_fashe_2_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "443",
+    "path": "guaiwuyinxiao/lizhu_huishouqiang_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "444",
+    "path": "guaiwuyinxiao/lizhu_huishouqiang_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "445",
+    "path": "guaiwuyinxiao/lizhu_huishouqiang_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "446",
+    "path": "guaiwuyinxiao/moguxian_fashe1_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "447",
+    "path": "guaiwuyinxiao/moguxian_fashe1_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "448",
+    "path": "guaiwuyinxiao/moguxian_fashe2_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "449",
+    "path": "guaiwuyinxiao/moguxian_fashe2_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "450",
+    "path": "guaiwuyinxiao/moguxian_fashe2_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "451",
+    "path": "guaiwuyinxiao/moguxian_fashe3_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "452",
+    "path": "guaiwuyinxiao/moguxian_fashe3_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "453",
+    "path": "guaiwuyinxiao/lizhu_jiguang",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "454",
+    "path": "guaiwuyinxiao/lizhu_tuowei",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "455",
+    "path": "guaiwuyinxiao/niunv_dachui_hit_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "456",
+    "path": "guaiwuyinxiao/niunv_zhenfa_bao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "457",
+    "path": "guaiwuyinxiao/niunv_xiaofazhen",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "458",
+    "path": "guaiwuyinxiao/jianxian_yidong_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "459",
+    "path": "guaiwuyinxiao/jianxian_jiguangjian_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "460",
+    "path": "guaiwuyinxiao/jianxian_jiguangjian_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "461",
+    "path": "guaiwuyinxiao/jianxian_jiguangjian_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "462",
+    "path": "guaiwuyinxiao/jianxian_huishou_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "463",
+    "path": "guaiwuyinxiao/jianxian_huishou_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "464",
+    "path": "guaiwuyinxiao/jianxian_huishou_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "465",
+    "path": "guaiwuyinxiao/yuexian_yidong_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "466",
+    "path": "guaiwuyinxiao/yuexian_yidong_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "467",
+    "path": "guaiwuyinxiao/yuexian_yidong_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "468",
+    "path": "guaiwuyinxiao/yuexian_yidong_4",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "469",
+    "path": "guaiwuyinxiao/yuexian_yidong_5",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "470",
+    "path": "guaiwuyinxiao/yuexian_yidong_6",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "471",
+    "path": "guaiwuyinxiao/yuexian_hit",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "472",
+    "path": "guaiwuyinxiao/jianxian_gedang_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "473",
+    "path": "guaiwuyinxiao/jianxian_gedang_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "474",
+    "path": "guaiwuyinxiao/jianxian_gedang_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "475",
+    "path": "UI/chouqian_feichu_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "476",
+    "path": "UI/chouqian_feichu_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "477",
+    "path": "UI/chouqian_feichu_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "478",
+    "path": "UI/chouqian_pengdao_1",
+    "minPitch": "0.9",
+    "maxPitch": "1.1"
+  },
+  {
+    "id": "479",
+    "path": "UI/chouqian_pengdao_2",
+    "minPitch": "0.9",
+    "maxPitch": "1.1"
+  },
+  {
+    "id": "480",
+    "path": "UI/chouqian_dianji",
+    "minPitch": "0.9",
+    "maxPitch": "1.1"
+  },
+  {
+    "id": "481",
+    "path": "guaiwuyinxiao/xingtian_paidi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "482",
+    "path": "guaiwuyinxiao/xingtian_qiu1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "483",
+    "path": "guaiwuyinxiao/xingtian_qiu2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "484",
+    "path": "guaiwuyinxiao/xingtian_futou_hit1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "485",
+    "path": "guaiwuyinxiao/xingtian_futou_hit2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "486",
+    "path": "guaiwuyinxiao/xingtian_futou_zhuan",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "487",
+    "path": "guaiwuyinxiao/xingtian_futou_bao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "488",
+    "path": "guaiwuyinxiao/xingtian_hui",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "489",
+    "path": "guaiwuyinxiao/xingtian2_paidi",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "490",
+    "path": "guaiwuyinxiao/xingtian_cai",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "491",
+    "path": "guaiwuyinxiao/xingtian_zou",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "492",
+    "path": "jineng/xianfa/xianfa_qiang2_1",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "493",
+    "path": "jineng/xianfa/xianfa_qiang2_2",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "494",
+    "path": "jineng/xianfa/xianfa_qiang2_3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "495",
+    "path": "jineng/xianfa/xianfa_qiang3",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "496",
+    "path": "jineng/xianfa/xianfa_qiang3_bao",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  },
+  {
+    "id": "497",
+    "path": "jineng/xianfa/xianfa_jhpx",
+    "minPitch": "0.85",
+    "maxPitch": "1.15"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "level": "3",
+    "name": "schoolLogMain1",
+    "min": "10000",
+    "max": "0"
+  },
+  {
+    "id": "2",
+    "level": "2",
+    "name": "schoolLogMain2",
+    "min": "5000",
+    "max": "10000"
+  },
+  {
+    "id": "3",
+    "level": "1",
+    "name": "schoolLogMain3",
+    "min": "1000",
+    "max": "5000"
+  },
+  {
+    "id": "4",
+    "level": "0",
+    "name": "schoolLogMain4",
+    "min": "-1000",
+    "max": "1000"
+  },
+  {
+    "id": "5",
+    "level": "-1",
+    "name": "schoolLogMain5",
+    "min": "-5000",
+    "max": "-1000"
+  },
+  {
+    "id": "6",
+    "level": "-2",
+    "name": "schoolLogMain6",
+    "min": "-10000",
+    "max": "-5000"
+  },
+  {
+    "id": "7",
+    "level": "-3",
+    "name": "schoolLogMain7",
+    "min": "0",
+    "max": "-10000"
+  }
+]

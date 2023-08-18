@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "key": "escapeSucceedParaA",
+    "value": "150"
+  },
+  {
+    "id": "2",
+    "key": "escapeSucceedParaB",
+    "value": "100"
+  },
+  {
+    "id": "3",
+    "key": "escapeSucceedParaC",
+    "value": "500"
+  },
+  {
+    "id": "4",
+    "key": "escapeDistanceMin",
+    "value": "5"
+  },
+  {
+    "id": "5",
+    "key": "escapeDistanceMax",
+    "value": "10"
+  },
+  {
+    "id": "6",
+    "key": "escapeLostProb",
+    "value": "3"
+  },
+  {
+    "id": "7",
+    "key": "escapeLostDistanceMin",
+    "value": "30"
+  },
+  {
+    "id": "8",
+    "key": "escapeLostDistanceMax",
+    "value": "40"
+  },
+  {
+    "id": "9",
+    "key": "escapeReduceMoodMin",
+    "value": "5"
+  },
+  {
+    "id": "10",
+    "key": "escapeReduceMoodMax",
+    "value": "15"
+  },
+  {
+    "id": "11",
+    "key": "escapeReduceEnergyMin",
+    "value": "10"
+  },
+  {
+    "id": "12",
+    "key": "escapeReduceEnergyMax",
+    "value": "30"
+  },
+  {
+    "id": "13",
+    "key": "eventLogRoleEscape11111",
+    "value": "0"
+  },
+  {
+    "id": "14",
+    "key": "eventLogRoleEscape11121",
+    "value": "0"
+  },
+  {
+    "id": "15",
+    "key": "eventLogRoleEscape11131",
+    "value": "0"
+  },
+  {
+    "id": "16",
+    "key": "eventLogRoleEscape11141",
+    "value": "0"
+  },
+  {
+    "id": "17",
+    "key": "eventLogRoleEscape11210",
+    "value": "0"
+  },
+  {
+    "id": "18",
+    "key": "eventLogRoleEscape11310",
+    "value": "0"
+  },
+  {
+    "id": "19",
+    "key": "eventLogRoleEscape11320",
+    "value": "0"
+  },
+  {
+    "id": "20",
+    "key": "eventLogRoleEscape11112",
+    "value": "0"
+  },
+  {
+    "id": "21",
+    "key": "eventLogRoleEscape11122",
+    "value": "0"
+  },
+  {
+    "id": "22",
+    "key": "eventLogRoleEscape11132",
+    "value": "0"
+  },
+  {
+    "id": "23",
+    "key": "eventLogRoleEscape11142",
+    "value": "0"
+  },
+  {
+    "id": "24",
+    "key": "eventLogRoleEscape21311",
+    "value": "0"
+  },
+  {
+    "id": "25",
+    "key": "eventLogRoleEscape21321",
+    "value": "0"
+  },
+  {
+    "id": "26",
+    "key": "eventLogRoleEscape21312",
+    "value": "0"
+  },
+  {
+    "id": "27",
+    "key": "eventLogRoleEscape21322",
+    "value": "0"
+  },
+  {
+    "id": "28",
+    "key": "escapeDistanceMin9Area",
+    "value": "4"
+  },
+  {
+    "id": "29",
+    "key": "escapeDistanceMax9Area",
+    "value": "5"
+  },
+  {
+    "id": "30",
+    "key": "escapeRateMinGrade10",
+    "value": "75"
+  }
+]

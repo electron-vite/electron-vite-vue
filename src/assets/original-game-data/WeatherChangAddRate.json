@@ -1,0 +1,478 @@
+[
+  {
+    "id": "1",
+    "areaBaseId": "1",
+    "weatherType": "1",
+    "weatherId": "1001",
+    "addRate": "40"
+  },
+  {
+    "id": "2",
+    "areaBaseId": "1",
+    "weatherType": "2",
+    "weatherId": "1002",
+    "addRate": "40"
+  },
+  {
+    "id": "3",
+    "areaBaseId": "1",
+    "weatherType": "5",
+    "weatherId": "1003",
+    "addRate": "0"
+  },
+  {
+    "id": "4",
+    "areaBaseId": "1",
+    "weatherType": "6",
+    "weatherId": "1004",
+    "addRate": "0"
+  },
+  {
+    "id": "5",
+    "areaBaseId": "1",
+    "weatherType": "4",
+    "weatherId": "1005",
+    "addRate": "-200"
+  },
+  {
+    "id": "6",
+    "areaBaseId": "2",
+    "weatherType": "1",
+    "weatherId": "2001",
+    "addRate": "40"
+  },
+  {
+    "id": "7",
+    "areaBaseId": "2",
+    "weatherType": "6",
+    "weatherId": "2002",
+    "addRate": "0"
+  },
+  {
+    "id": "8",
+    "areaBaseId": "2",
+    "weatherType": "2",
+    "weatherId": "2003",
+    "addRate": "0"
+  },
+  {
+    "id": "9",
+    "areaBaseId": "2",
+    "weatherType": "5",
+    "weatherId": "2004",
+    "addRate": "0"
+  },
+  {
+    "id": "10",
+    "areaBaseId": "2",
+    "weatherType": "6",
+    "weatherId": "2005",
+    "addRate": "40"
+  },
+  {
+    "id": "11",
+    "areaBaseId": "2",
+    "weatherType": "1",
+    "weatherId": "2006",
+    "addRate": "40"
+  },
+  {
+    "id": "12",
+    "areaBaseId": "2",
+    "weatherType": "4",
+    "weatherId": "20015",
+    "addRate": "-200"
+  },
+  {
+    "id": "13",
+    "areaBaseId": "3",
+    "weatherType": "2",
+    "weatherId": "3001",
+    "addRate": "100"
+  },
+  {
+    "id": "14",
+    "areaBaseId": "3",
+    "weatherType": "5",
+    "weatherId": "3002",
+    "addRate": "0"
+  },
+  {
+    "id": "15",
+    "areaBaseId": "3",
+    "weatherType": "6",
+    "weatherId": "3003",
+    "addRate": "100"
+  },
+  {
+    "id": "16",
+    "areaBaseId": "3",
+    "weatherType": "2",
+    "weatherId": "3004",
+    "addRate": "100"
+  },
+  {
+    "id": "17",
+    "areaBaseId": "3",
+    "weatherType": "1",
+    "weatherId": "20011",
+    "addRate": "-100"
+  },
+  {
+    "id": "18",
+    "areaBaseId": "3",
+    "weatherType": "4",
+    "weatherId": "20015",
+    "addRate": "-200"
+  },
+  {
+    "id": "19",
+    "areaBaseId": "4",
+    "weatherType": "1",
+    "weatherId": "4001",
+    "addRate": "0"
+  },
+  {
+    "id": "20",
+    "areaBaseId": "4",
+    "weatherType": "6",
+    "weatherId": "4002",
+    "addRate": "40"
+  },
+  {
+    "id": "21",
+    "areaBaseId": "4",
+    "weatherType": "2",
+    "weatherId": "4003",
+    "addRate": "20"
+  },
+  {
+    "id": "22",
+    "areaBaseId": "4",
+    "weatherType": "5",
+    "weatherId": "4004",
+    "addRate": "40"
+  },
+  {
+    "id": "23",
+    "areaBaseId": "4",
+    "weatherType": "6",
+    "weatherId": "4005",
+    "addRate": "40"
+  },
+  {
+    "id": "24",
+    "areaBaseId": "4",
+    "weatherType": "1",
+    "weatherId": "4006",
+    "addRate": "0"
+  },
+  {
+    "id": "25",
+    "areaBaseId": "4",
+    "weatherType": "4",
+    "weatherId": "20015",
+    "addRate": "0"
+  },
+  {
+    "id": "26",
+    "areaBaseId": "5",
+    "weatherType": "1",
+    "weatherId": "5001",
+    "addRate": "40"
+  },
+  {
+    "id": "27",
+    "areaBaseId": "5",
+    "weatherType": "2",
+    "weatherId": "5002",
+    "addRate": "40"
+  },
+  {
+    "id": "28",
+    "areaBaseId": "5",
+    "weatherType": "5",
+    "weatherId": "5003",
+    "addRate": "40"
+  },
+  {
+    "id": "29",
+    "areaBaseId": "5",
+    "weatherType": "6",
+    "weatherId": "5004",
+    "addRate": "40"
+  },
+  {
+    "id": "30",
+    "areaBaseId": "5",
+    "weatherType": "2",
+    "weatherId": "5005",
+    "addRate": "40"
+  },
+  {
+    "id": "31",
+    "areaBaseId": "5",
+    "weatherType": "4",
+    "weatherId": "20015",
+    "addRate": "40"
+  },
+  {
+    "id": "32",
+    "areaBaseId": "6",
+    "weatherType": "1",
+    "weatherId": "6001",
+    "addRate": "0"
+  },
+  {
+    "id": "33",
+    "areaBaseId": "6",
+    "weatherType": "5",
+    "weatherId": "6002",
+    "addRate": "-50"
+  },
+  {
+    "id": "34",
+    "areaBaseId": "6",
+    "weatherType": "1",
+    "weatherId": "6003",
+    "addRate": "0"
+  },
+  {
+    "id": "35",
+    "areaBaseId": "6",
+    "weatherType": "2",
+    "weatherId": "6004",
+    "addRate": "-50"
+  },
+  {
+    "id": "36",
+    "areaBaseId": "6",
+    "weatherType": "5",
+    "weatherId": "6005",
+    "addRate": "-50"
+  },
+  {
+    "id": "37",
+    "areaBaseId": "6",
+    "weatherType": "6",
+    "weatherId": "6006",
+    "addRate": "0"
+  },
+  {
+    "id": "38",
+    "areaBaseId": "6",
+    "weatherType": "4",
+    "weatherId": "6007",
+    "addRate": "100"
+  },
+  {
+    "id": "39",
+    "areaBaseId": "7",
+    "weatherType": "4",
+    "weatherId": "7001",
+    "addRate": "100"
+  },
+  {
+    "id": "40",
+    "areaBaseId": "7",
+    "weatherType": "4",
+    "weatherId": "7002",
+    "addRate": "100"
+  },
+  {
+    "id": "41",
+    "areaBaseId": "7",
+    "weatherType": "1",
+    "weatherId": "20011",
+    "addRate": "-150"
+  },
+  {
+    "id": "42",
+    "areaBaseId": "7",
+    "weatherType": "2",
+    "weatherId": "20012",
+    "addRate": "-150"
+  },
+  {
+    "id": "43",
+    "areaBaseId": "7",
+    "weatherType": "5",
+    "weatherId": "20013",
+    "addRate": "0"
+  },
+  {
+    "id": "44",
+    "areaBaseId": "7",
+    "weatherType": "6",
+    "weatherId": "20014",
+    "addRate": "-100"
+  },
+  {
+    "id": "45",
+    "areaBaseId": "8",
+    "weatherType": "1",
+    "weatherId": "8001",
+    "addRate": "40"
+  },
+  {
+    "id": "46",
+    "areaBaseId": "8",
+    "weatherType": "4",
+    "weatherId": "8002",
+    "addRate": "40"
+  },
+  {
+    "id": "47",
+    "areaBaseId": "8",
+    "weatherType": "2",
+    "weatherId": "8003",
+    "addRate": "-50"
+  },
+  {
+    "id": "48",
+    "areaBaseId": "8",
+    "weatherType": "5",
+    "weatherId": "8004",
+    "addRate": "-50"
+  },
+  {
+    "id": "49",
+    "areaBaseId": "8",
+    "weatherType": "6",
+    "weatherId": "8005",
+    "addRate": "0"
+  },
+  {
+    "id": "50",
+    "areaBaseId": "8",
+    "weatherType": "1",
+    "weatherId": "8006",
+    "addRate": "40"
+  },
+  {
+    "id": "51",
+    "areaBaseId": "9",
+    "weatherType": "1",
+    "weatherId": "9001",
+    "addRate": "100"
+  },
+  {
+    "id": "52",
+    "areaBaseId": "9",
+    "weatherType": "5",
+    "weatherId": "9002",
+    "addRate": "-100"
+  },
+  {
+    "id": "53",
+    "areaBaseId": "9",
+    "weatherType": "1",
+    "weatherId": "9003",
+    "addRate": "100"
+  },
+  {
+    "id": "54",
+    "areaBaseId": "9",
+    "weatherType": "2",
+    "weatherId": "20012",
+    "addRate": "-200"
+  },
+  {
+    "id": "55",
+    "areaBaseId": "9",
+    "weatherType": "6",
+    "weatherId": "20014",
+    "addRate": "-100"
+  },
+  {
+    "id": "56",
+    "areaBaseId": "9",
+    "weatherType": "4",
+    "weatherId": "20015",
+    "addRate": "-100"
+  },
+  {
+    "id": "57",
+    "areaBaseId": "10",
+    "weatherType": "1",
+    "weatherId": "10001",
+    "addRate": "40"
+  },
+  {
+    "id": "58",
+    "areaBaseId": "10",
+    "weatherType": "6",
+    "weatherId": "10002",
+    "addRate": "0"
+  },
+  {
+    "id": "59",
+    "areaBaseId": "10",
+    "weatherType": "2",
+    "weatherId": "10003",
+    "addRate": "0"
+  },
+  {
+    "id": "60",
+    "areaBaseId": "10",
+    "weatherType": "5",
+    "weatherId": "10004",
+    "addRate": "0"
+  },
+  {
+    "id": "61",
+    "areaBaseId": "10",
+    "weatherType": "6",
+    "weatherId": "10005",
+    "addRate": "0"
+  },
+  {
+    "id": "62",
+    "areaBaseId": "10",
+    "weatherType": "1",
+    "weatherId": "10006",
+    "addRate": "40"
+  },
+  {
+    "id": "63",
+    "areaBaseId": "10",
+    "weatherType": "4",
+    "weatherId": "20015",
+    "addRate": "-200"
+  },
+  {
+    "id": "64",
+    "areaBaseId": "11",
+    "weatherType": "1",
+    "weatherId": "20011",
+    "addRate": "100"
+  },
+  {
+    "id": "65",
+    "areaBaseId": "11",
+    "weatherType": "2",
+    "weatherId": "20012",
+    "addRate": "100"
+  },
+  {
+    "id": "66",
+    "areaBaseId": "11",
+    "weatherType": "5",
+    "weatherId": "20013",
+    "addRate": "100"
+  },
+  {
+    "id": "67",
+    "areaBaseId": "11",
+    "weatherType": "6",
+    "weatherId": "20014",
+    "addRate": "100"
+  },
+  {
+    "id": "68",
+    "areaBaseId": "11",
+    "weatherType": "4",
+    "weatherId": "20015",
+    "addRate": "100"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1",
+    "key": "scoreRequire",
+    "value": "200"
+  },
+  {
+    "id": "2",
+    "key": "talkProb",
+    "value": "50"
+  },
+  {
+    "id": "3",
+    "key": "npcNumMin",
+    "value": "3"
+  },
+  {
+    "id": "4",
+    "key": "npcNumMax",
+    "value": "6"
+  },
+  {
+    "id": "5",
+    "key": "battleNpcNumMin",
+    "value": "4"
+  },
+  {
+    "id": "6",
+    "key": "battleNpcNumMax",
+    "value": "8"
+  },
+  {
+    "id": "7",
+    "key": "talkCloseMin",
+    "value": "5"
+  },
+  {
+    "id": "8",
+    "key": "talkCloseMax",
+    "value": "15"
+  },
+  {
+    "id": "9",
+    "key": "postNeedMin",
+    "value": "2"
+  },
+  {
+    "id": "10",
+    "key": "postNeedMax",
+    "value": "4"
+  },
+  {
+    "id": "11",
+    "key": "postRequire",
+    "value": "3"
+  },
+  {
+    "id": "12",
+    "key": "npcMasterProb",
+    "value": "50"
+  },
+  {
+    "id": "13",
+    "key": "masterHateMin",
+    "value": "10"
+  },
+  {
+    "id": "14",
+    "key": "masterHateMax",
+    "value": "20"
+  },
+  {
+    "id": "15",
+    "key": "drmaIDPraise",
+    "value": "730001"
+  },
+  {
+    "id": "16",
+    "key": "drmaIDAttack1",
+    "value": "730011"
+  },
+  {
+    "id": "17",
+    "key": "drmaIDAttack2",
+    "value": "730021"
+  },
+  {
+    "id": "18",
+    "key": "drmaIDAttackDialogue1",
+    "value": "730031"
+  },
+  {
+    "id": "19",
+    "key": "drmaIDAttackDialogue2",
+    "value": "730041"
+  },
+  {
+    "id": "20",
+    "key": "drmaIDAttackFail",
+    "value": "730051"
+  },
+  {
+    "id": "21",
+    "key": "dramaIDRecruit1",
+    "value": "730061"
+  },
+  {
+    "id": "22",
+    "key": "dramaIDRecruit2",
+    "value": "730071"
+  },
+  {
+    "id": "23",
+    "key": "dramaIDRecruit3",
+    "value": "730081"
+  }
+]

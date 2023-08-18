@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "1",
+    "level  ": "1",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "102"
+  },
+  {
+    "id": "2",
+    "level  ": "1",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "102"
+  },
+  {
+    "id": "3",
+    "level  ": "1",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "102"
+  },
+  {
+    "id": "4",
+    "level  ": "1",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "102"
+  },
+  {
+    "id": "5",
+    "level  ": "1",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "102"
+  },
+  {
+    "id": "6",
+    "level  ": "1",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "102"
+  },
+  {
+    "id": "7",
+    "level  ": "1",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "102"
+  },
+  {
+    "id": "8",
+    "level  ": "1",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "102"
+  },
+  {
+    "id": "9",
+    "level  ": "1",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "102"
+  },
+  {
+    "id": "10",
+    "level  ": "1",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "102"
+  },
+  {
+    "id": "11",
+    "level  ": "2",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "104"
+  },
+  {
+    "id": "12",
+    "level  ": "2",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "104"
+  },
+  {
+    "id": "13",
+    "level  ": "2",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "104"
+  },
+  {
+    "id": "14",
+    "level  ": "2",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "104"
+  },
+  {
+    "id": "15",
+    "level  ": "2",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "104"
+  },
+  {
+    "id": "16",
+    "level  ": "2",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "104"
+  },
+  {
+    "id": "17",
+    "level  ": "2",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "104"
+  },
+  {
+    "id": "18",
+    "level  ": "2",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "104"
+  },
+  {
+    "id": "19",
+    "level  ": "2",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "104"
+  },
+  {
+    "id": "20",
+    "level  ": "2",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "104"
+  },
+  {
+    "id": "21",
+    "level  ": "3",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "106"
+  },
+  {
+    "id": "22",
+    "level  ": "3",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "106"
+  },
+  {
+    "id": "23",
+    "level  ": "3",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "106"
+  },
+  {
+    "id": "24",
+    "level  ": "3",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "106"
+  },
+  {
+    "id": "25",
+    "level  ": "3",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "106"
+  },
+  {
+    "id": "26",
+    "level  ": "3",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "106"
+  },
+  {
+    "id": "27",
+    "level  ": "3",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "106"
+  },
+  {
+    "id": "28",
+    "level  ": "3",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "106"
+  },
+  {
+    "id": "29",
+    "level  ": "3",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "106"
+  },
+  {
+    "id": "30",
+    "level  ": "3",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "106"
+  },
+  {
+    "id": "31",
+    "level  ": "4",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "108"
+  },
+  {
+    "id": "32",
+    "level  ": "4",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "108"
+  },
+  {
+    "id": "33",
+    "level  ": "4",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "108"
+  },
+  {
+    "id": "34",
+    "level  ": "4",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "108"
+  },
+  {
+    "id": "35",
+    "level  ": "4",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "108"
+  },
+  {
+    "id": "36",
+    "level  ": "4",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "108"
+  },
+  {
+    "id": "37",
+    "level  ": "4",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "108"
+  },
+  {
+    "id": "38",
+    "level  ": "4",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "108"
+  },
+  {
+    "id": "39",
+    "level  ": "4",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "108"
+  },
+  {
+    "id": "40",
+    "level  ": "4",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "108"
+  },
+  {
+    "id": "41",
+    "level  ": "5",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "110"
+  },
+  {
+    "id": "42",
+    "level  ": "5",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "110"
+  },
+  {
+    "id": "43",
+    "level  ": "5",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "110"
+  },
+  {
+    "id": "44",
+    "level  ": "5",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "110"
+  },
+  {
+    "id": "45",
+    "level  ": "5",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "110"
+  },
+  {
+    "id": "46",
+    "level  ": "5",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "110"
+  },
+  {
+    "id": "47",
+    "level  ": "5",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "110"
+  },
+  {
+    "id": "48",
+    "level  ": "5",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "110"
+  },
+  {
+    "id": "49",
+    "level  ": "5",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "110"
+  },
+  {
+    "id": "50",
+    "level  ": "5",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "110"
+  },
+  {
+    "id": "51",
+    "level  ": "6",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "112"
+  },
+  {
+    "id": "52",
+    "level  ": "6",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "112"
+  },
+  {
+    "id": "53",
+    "level  ": "6",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "112"
+  },
+  {
+    "id": "54",
+    "level  ": "6",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "112"
+  },
+  {
+    "id": "55",
+    "level  ": "6",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "112"
+  },
+  {
+    "id": "56",
+    "level  ": "6",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "112"
+  },
+  {
+    "id": "57",
+    "level  ": "6",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "112"
+  },
+  {
+    "id": "58",
+    "level  ": "6",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "112"
+  },
+  {
+    "id": "59",
+    "level  ": "6",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "112"
+  },
+  {
+    "id": "60",
+    "level  ": "6",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "112"
+  },
+  {
+    "id": "61",
+    "level  ": "7",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "114"
+  },
+  {
+    "id": "62",
+    "level  ": "7",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "114"
+  },
+  {
+    "id": "63",
+    "level  ": "7",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "114"
+  },
+  {
+    "id": "64",
+    "level  ": "7",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "114"
+  },
+  {
+    "id": "65",
+    "level  ": "7",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "114"
+  },
+  {
+    "id": "66",
+    "level  ": "7",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "114"
+  },
+  {
+    "id": "67",
+    "level  ": "7",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "114"
+  },
+  {
+    "id": "68",
+    "level  ": "7",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "114"
+  },
+  {
+    "id": "69",
+    "level  ": "7",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "114"
+  },
+  {
+    "id": "70",
+    "level  ": "7",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "114"
+  },
+  {
+    "id": "71",
+    "level  ": "8",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "116"
+  },
+  {
+    "id": "72",
+    "level  ": "8",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "116"
+  },
+  {
+    "id": "73",
+    "level  ": "8",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "116"
+  },
+  {
+    "id": "74",
+    "level  ": "8",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "116"
+  },
+  {
+    "id": "75",
+    "level  ": "8",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "116"
+  },
+  {
+    "id": "76",
+    "level  ": "8",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "116"
+  },
+  {
+    "id": "77",
+    "level  ": "8",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "116"
+  },
+  {
+    "id": "78",
+    "level  ": "8",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "116"
+  },
+  {
+    "id": "79",
+    "level  ": "8",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "116"
+  },
+  {
+    "id": "80",
+    "level  ": "8",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "116"
+  },
+  {
+    "id": "81",
+    "level  ": "9",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "118"
+  },
+  {
+    "id": "82",
+    "level  ": "9",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "118"
+  },
+  {
+    "id": "83",
+    "level  ": "9",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "118"
+  },
+  {
+    "id": "84",
+    "level  ": "9",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "118"
+  },
+  {
+    "id": "85",
+    "level  ": "9",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "118"
+  },
+  {
+    "id": "86",
+    "level  ": "9",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "118"
+  },
+  {
+    "id": "87",
+    "level  ": "9",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "118"
+  },
+  {
+    "id": "88",
+    "level  ": "9",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "118"
+  },
+  {
+    "id": "89",
+    "level  ": "9",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "118"
+  },
+  {
+    "id": "90",
+    "level  ": "9",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "118"
+  },
+  {
+    "id": "91",
+    "level  ": "10",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "120"
+  },
+  {
+    "id": "92",
+    "level  ": "10",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "120"
+  },
+  {
+    "id": "93",
+    "level  ": "10",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "120"
+  },
+  {
+    "id": "94",
+    "level  ": "10",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "120"
+  },
+  {
+    "id": "95",
+    "level  ": "10",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "120"
+  },
+  {
+    "id": "96",
+    "level  ": "10",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "120"
+  },
+  {
+    "id": "97",
+    "level  ": "10",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "120"
+  },
+  {
+    "id": "98",
+    "level  ": "10",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "120"
+  },
+  {
+    "id": "99",
+    "level  ": "10",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "120"
+  },
+  {
+    "id": "100",
+    "level  ": "10",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "120"
+  },
+  {
+    "id": "101",
+    "level  ": "11",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "122"
+  },
+  {
+    "id": "102",
+    "level  ": "11",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "122"
+  },
+  {
+    "id": "103",
+    "level  ": "11",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "122"
+  },
+  {
+    "id": "104",
+    "level  ": "11",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "122"
+  },
+  {
+    "id": "105",
+    "level  ": "11",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "122"
+  },
+  {
+    "id": "106",
+    "level  ": "11",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "122"
+  },
+  {
+    "id": "107",
+    "level  ": "11",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "122"
+  },
+  {
+    "id": "108",
+    "level  ": "11",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "122"
+  },
+  {
+    "id": "109",
+    "level  ": "11",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "122"
+  },
+  {
+    "id": "110",
+    "level  ": "11",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "122"
+  },
+  {
+    "id": "111",
+    "level  ": "12",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "124"
+  },
+  {
+    "id": "112",
+    "level  ": "12",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "124"
+  },
+  {
+    "id": "113",
+    "level  ": "12",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "124"
+  },
+  {
+    "id": "114",
+    "level  ": "12",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "124"
+  },
+  {
+    "id": "115",
+    "level  ": "12",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "124"
+  },
+  {
+    "id": "116",
+    "level  ": "12",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "124"
+  },
+  {
+    "id": "117",
+    "level  ": "12",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "124"
+  },
+  {
+    "id": "118",
+    "level  ": "12",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "124"
+  },
+  {
+    "id": "119",
+    "level  ": "12",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "124"
+  },
+  {
+    "id": "120",
+    "level  ": "12",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "124"
+  },
+  {
+    "id": "121",
+    "level  ": "13",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "126"
+  },
+  {
+    "id": "122",
+    "level  ": "13",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "126"
+  },
+  {
+    "id": "123",
+    "level  ": "13",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "126"
+  },
+  {
+    "id": "124",
+    "level  ": "13",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "126"
+  },
+  {
+    "id": "125",
+    "level  ": "13",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "126"
+  },
+  {
+    "id": "126",
+    "level  ": "13",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "126"
+  },
+  {
+    "id": "127",
+    "level  ": "13",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "126"
+  },
+  {
+    "id": "128",
+    "level  ": "13",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "126"
+  },
+  {
+    "id": "129",
+    "level  ": "13",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "126"
+  },
+  {
+    "id": "130",
+    "level  ": "13",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "126"
+  },
+  {
+    "id": "131",
+    "level  ": "14",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "128"
+  },
+  {
+    "id": "132",
+    "level  ": "14",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "128"
+  },
+  {
+    "id": "133",
+    "level  ": "14",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "128"
+  },
+  {
+    "id": "134",
+    "level  ": "14",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "128"
+  },
+  {
+    "id": "135",
+    "level  ": "14",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "128"
+  },
+  {
+    "id": "136",
+    "level  ": "14",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "128"
+  },
+  {
+    "id": "137",
+    "level  ": "14",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "128"
+  },
+  {
+    "id": "138",
+    "level  ": "14",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "128"
+  },
+  {
+    "id": "139",
+    "level  ": "14",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "128"
+  },
+  {
+    "id": "140",
+    "level  ": "14",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "128"
+  },
+  {
+    "id": "141",
+    "level  ": "15",
+    "skillGrade": "1",
+    "skillMastery": "10000",
+    "cost": "5",
+    "succeedGain": "130"
+  },
+  {
+    "id": "142",
+    "level  ": "15",
+    "skillGrade": "2",
+    "skillMastery": "10000",
+    "cost": "10",
+    "succeedGain": "130"
+  },
+  {
+    "id": "143",
+    "level  ": "15",
+    "skillGrade": "3",
+    "skillMastery": "10000",
+    "cost": "15",
+    "succeedGain": "130"
+  },
+  {
+    "id": "144",
+    "level  ": "15",
+    "skillGrade": "4",
+    "skillMastery": "10000",
+    "cost": "20",
+    "succeedGain": "130"
+  },
+  {
+    "id": "145",
+    "level  ": "15",
+    "skillGrade": "5",
+    "skillMastery": "10000",
+    "cost": "35",
+    "succeedGain": "130"
+  },
+  {
+    "id": "146",
+    "level  ": "15",
+    "skillGrade": "6",
+    "skillMastery": "10000",
+    "cost": "50",
+    "succeedGain": "130"
+  },
+  {
+    "id": "147",
+    "level  ": "15",
+    "skillGrade": "7",
+    "skillMastery": "10000",
+    "cost": "75",
+    "succeedGain": "130"
+  },
+  {
+    "id": "148",
+    "level  ": "15",
+    "skillGrade": "8",
+    "skillMastery": "10000",
+    "cost": "100",
+    "succeedGain": "130"
+  },
+  {
+    "id": "149",
+    "level  ": "15",
+    "skillGrade": "9",
+    "skillMastery": "10000",
+    "cost": "125",
+    "succeedGain": "130"
+  },
+  {
+    "id": "150",
+    "level  ": "15",
+    "skillGrade": "10",
+    "skillMastery": "10000",
+    "cost": "150",
+    "succeedGain": "130"
+  }
+]

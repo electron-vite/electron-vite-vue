@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "key": "bTypeNumPerMonth",
+    "value": "1"
+  },
+  {
+    "id": "2",
+    "key": "bTypeScreenRange",
+    "value": "5"
+  },
+  {
+    "id": "3",
+    "key": "triggerMin",
+    "value": "2"
+  },
+  {
+    "id": "4",
+    "key": "triggerMax",
+    "value": "5"
+  },
+  {
+    "id": "5",
+    "key": "pointNum",
+    "value": "500"
+  },
+  {
+    "id": "6",
+    "key": "geomanticProb",
+    "value": "50"
+  },
+  {
+    "id": "7",
+    "key": "className30TriggerCD",
+    "value": "2"
+  }
+]

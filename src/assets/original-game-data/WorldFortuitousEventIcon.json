@@ -1,0 +1,498 @@
+[
+  {
+    "id": "1",
+    "icon": "fusang",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "2",
+    "icon": "shangu",
+    "point": "0,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "3",
+    "icon": "xianchi",
+    "point": "0,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "4",
+    "icon": "ziyuanfeng",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "5",
+    "icon": "ziyuanhuo",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "6",
+    "icon": "ziyuanlei",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "7",
+    "icon": "ziyuanmu",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "8",
+    "icon": "ziyuanshui",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "9",
+    "icon": "ziyuantu",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "10",
+    "icon": "ziyuanlingshikuang",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "11",
+    "icon": "ziyuanyaocaoyuan",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "12",
+    "icon": "ziyuankuangmai",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "13",
+    "icon": "ziyuantian",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "14",
+    "icon": "ziyuandi",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "15",
+    "icon": "suimu",
+    "point": "0,0|1,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "16",
+    "icon": "buluo",
+    "point": "0,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "17",
+    "icon": "kuafu",
+    "point": "0,0|1,0|0,1|1,1|0,2|1,2|0,3|1,3",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "18",
+    "icon": "wurenfangshi",
+    "point": "0,0|1,0|2,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "19",
+    "icon": "mingshe2",
+    "point": "0,0|1,0|0,1|1,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "20",
+    "icon": "leishen1",
+    "point": "0,0|1,0|0,1|1,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "21",
+    "icon": "shanhui2",
+    "point": "0,0|1,0|0,1|1,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "22",
+    "icon": "changcheng2",
+    "point": "0,0|1,0|0,1|1,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "23",
+    "icon": "dangkangwang",
+    "point": "0,0|1,0|0,1|1,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "24",
+    "icon": "3211",
+    "point": "0,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "25",
+    "icon": "3205",
+    "point": "0,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "26",
+    "icon": "jiaolong",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|1,1|2,1|3,1|4,1|1,2|2,2|3,2|4,2|1,3|2,3|3,3|4,3|1,4|2,4|3,4|4,4",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "27",
+    "icon": "xuangui",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|0,1|1,1|2,1|3,1|4,1|5,1|0,2|1,2|2,2|3,2|4,2|5,2",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "28",
+    "icon": "fengshentianti1",
+    "point": "0,0|1,0|2,0|3,0|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "29",
+    "icon": "fengshentianti2",
+    "point": "0,0",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "30",
+    "icon": "daojie",
+    "point": "0,0|1,0|2,0|3,0|4,0|5,0|6,0|0,1|1,1|2,1|3,1|4,1|5,1|6,1|0,2|1,2|2,2|3,2|4,2|5,2|6,2|0,3|1,3|2,3|3,3|4,3|5,3|6,3|0,4|1,4|2,4|3,4|4,4|5,4|6,4",
+    "dramaPoint": "3,2",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "31",
+    "icon": "mengji",
+    "point": "0,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "32",
+    "icon": "mengji2",
+    "point": "0,0|1,0|0,1|1,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "33",
+    "icon": "lingyu",
+    "point": "0,0|1,0|0,1|1,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "34",
+    "icon": "lingyu1",
+    "point": "0,0|1,0|0,1|1,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "35",
+    "icon": "lingyu2",
+    "point": "0,0|1,0|0,1|1,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "36",
+    "icon": "tiangou",
+    "point": "0,0|1,0|0,1|1,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "37",
+    "icon": "hanbahome",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "38",
+    "icon": "lingquan",
+    "point": "0,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "39",
+    "icon": "luwu",
+    "point": "0,0|1,0|2,0|3,0|4,0|0,1|1,1|2,1|3,1|4,1|0,2|1,2|2,2|3,2|4,2",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "40",
+    "icon": "gouchen",
+    "point": "0,0|1,0|2,0|3,0|0,1|1,1|2,1|3,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "41",
+    "icon": "chongming",
+    "point": "0,0|1,0|2,0|3,0|4,0|0,1|1,1|2,1|3,1|4,1|0,2|1,2|2,2|3,2|4,2|0,3|1,3|2,3|3,3|4,3",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "42",
+    "icon": "fengshentianti2",
+    "point": "0,0|1,0|2,0|3,0|4,0|0,1|1,1|2,1|3,1|4,1|0,2|1,2|2,2|3,2|4,2|0,3|1,3|2,3|3,3|4,3",
+    "dramaPoint": "2,2",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "43",
+    "icon": "yaoyue",
+    "point": "0,0|1,0|0,1|1,1",
+    "dramaPoint": "0",
+    "hideDecorate": "1",
+    "outViewHide": "0"
+  },
+  {
+    "id": "44",
+    "icon": "shihunta",
+    "point": "0,0|0,1|0,2",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "45",
+    "icon": "mingshandalao",
+    "point": "0,0|1,0|2,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "46",
+    "icon": "longmen",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1|0,2|1,2|2,2",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "47",
+    "icon": "zongmenrenwuqiyu2",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "48",
+    "icon": "daoxinge3",
+    "point": "0,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "49",
+    "icon": "shixindian3",
+    "point": "0,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "50",
+    "icon": "xingtian3",
+    "point": "0,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "51",
+    "icon": "shenmicunluo",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "52",
+    "icon": "goumangdixing",
+    "point": "0,0|1,0|2,0|0,1|1,1|2,1",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "53",
+    "icon": "taowu1",
+    "point": "0,0|1,0|0,1|1,1|0,2|1,2",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "54",
+    "icon": "taowu2",
+    "point": "0,0|1,0|0,1|1,1|0,2|1,2",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "55",
+    "icon": "taotie2",
+    "point": "0,0|1,0|0,1|1,1|0,2|1,2",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "56",
+    "icon": "zhuyan2",
+    "point": "0,0|1,0|0,1|1,1|0,2|1,2",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "57",
+    "icon": "danzongjianzhuer",
+    "point": "0,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "58",
+    "icon": "danzongjianzhu",
+    "point": "0,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "59",
+    "icon": "danzongyizhi",
+    "point": "0,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "60",
+    "icon": "choudaoren",
+    "point": "0,0|1,0",
+    "dramaPoint": "0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "61",
+    "icon": "suiliejitan1",
+    "point": "0,0|1,0",
+    "dramaPoint": "0,0|1,0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  },
+  {
+    "id": "62",
+    "icon": "suiliejitan2",
+    "point": "0,0|1,0",
+    "dramaPoint": "0,0|1,0",
+    "hideDecorate": "0",
+    "outViewHide": "0"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "100101",
+    "icon": "liaojijichu1",
+    "wingManID": "0",
+    "effectID": "900111",
+    "name": "wingmanEffectName100101",
+    "desc": "wingmanEffectDesc100101"
+  },
+  {
+    "id": "100102",
+    "icon": "liaojijichu2",
+    "wingManID": "0",
+    "effectID": "900112",
+    "name": "wingmanEffectName100102",
+    "desc": "wingmanEffectDesc100102"
+  },
+  {
+    "id": "100103",
+    "icon": "liaojijichu3",
+    "wingManID": "0",
+    "effectID": "900113",
+    "name": "wingmanEffectName100103",
+    "desc": "wingmanEffectDesc100103"
+  },
+  {
+    "id": "100104",
+    "icon": "liaojijichu4",
+    "wingManID": "0",
+    "effectID": "900114",
+    "name": "wingmanEffectName100104",
+    "desc": "wingmanEffectDesc100104"
+  },
+  {
+    "id": "100105",
+    "icon": "liaojijichu5",
+    "wingManID": "0",
+    "effectID": "900115",
+    "name": "wingmanEffectName100105",
+    "desc": "wingmanEffectDesc100105"
+  },
+  {
+    "id": "100106",
+    "icon": "liaojijichu6",
+    "wingManID": "0",
+    "effectID": "900116",
+    "name": "wingmanEffectName100106",
+    "desc": "wingmanEffectDesc100106"
+  },
+  {
+    "id": "100107",
+    "icon": "liaojijichu7",
+    "wingManID": "0",
+    "effectID": "900117",
+    "name": "wingmanEffectName100107",
+    "desc": "wingmanEffectDesc100107"
+  },
+  {
+    "id": "100201",
+    "icon": "liaojijichu4",
+    "wingManID": "0",
+    "effectID": "900211",
+    "name": "0",
+    "desc": "wingmanEffectDesc100201"
+  },
+  {
+    "id": "100202",
+    "icon": "liaojijichu4",
+    "wingManID": "0",
+    "effectID": "900212",
+    "name": "0",
+    "desc": "wingmanEffectDesc100202"
+  },
+  {
+    "id": "100203",
+    "icon": "liaojijichu4",
+    "wingManID": "0",
+    "effectID": "900213",
+    "name": "0",
+    "desc": "wingmanEffectDesc100203"
+  },
+  {
+    "id": "100204",
+    "icon": "liaojijichu4",
+    "wingManID": "0",
+    "effectID": "900214",
+    "name": "0",
+    "desc": "wingmanEffectDesc100204"
+  },
+  {
+    "id": "100205",
+    "icon": "liaojijichu5",
+    "wingManID": "0",
+    "effectID": "900215",
+    "name": "0",
+    "desc": "wingmanEffectDesc100205"
+  },
+  {
+    "id": "100206",
+    "icon": "liaojijichu6",
+    "wingManID": "0",
+    "effectID": "900216",
+    "name": "0",
+    "desc": "wingmanEffectDesc100206"
+  },
+  {
+    "id": "100207",
+    "icon": "liaojijichu7",
+    "wingManID": "0",
+    "effectID": "900217",
+    "name": "0",
+    "desc": "wingmanEffectDesc100207"
+  }
+]

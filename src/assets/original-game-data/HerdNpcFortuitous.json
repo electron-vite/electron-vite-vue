@@ -1,0 +1,434 @@
+[
+  {
+    "id": "1",
+    "setNPCA": "700031",
+    "setNPCB": "700037",
+    "function": "setNPCPoint_1_1401_3_5|clearAddFeature_1_144_3|setDramaUnitData_700031_0_700037_0|moveToOthers_2_1|setDramaUnitData_700031_0_700037_1|moveToOthers_2_1|setDramaUnitData_700031_0_700037_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21401_700037_0_700037_1_700037_2",
+    "condition": "grade_0_7_9|noWorldData_herdKilling",
+    "weight": "50",
+    "monthTipID": "drama_monthLog21441"
+  },
+  {
+    "id": "2",
+    "setNPCA": "700032",
+    "setNPCB": "700038",
+    "function": "setNPCPoint_1_1402_3_5|clearAddFeature_1_144_3|setDramaUnitData_700032_0_700038_0|moveToOthers_2_1|setDramaUnitData_700032_0_700038_1|moveToOthers_2_1|setDramaUnitData_700032_0_700038_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21402_700038_0_700038_1_700038_2",
+    "condition": "grade_0_7_9|noWorldData_herdKilling",
+    "weight": "50",
+    "monthTipID": "drama_monthLog21442"
+  },
+  {
+    "id": "3",
+    "setNPCA": "700033",
+    "setNPCB": "700039",
+    "function": "setNPCPoint_1_1403_3_5|clearAddFeature_1_144_3|setDramaUnitData_700033_0_700039_0|moveToOthers_2_1|setDramaUnitData_700033_0_700039_1|moveToOthers_2_1|setDramaUnitData_700033_0_700039_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21403_700039_0_700039_1_700039_2",
+    "condition": "grade_0_7_9|noWorldData_herdKilling",
+    "weight": "50",
+    "monthTipID": "drama_monthLog21443"
+  },
+  {
+    "id": "4",
+    "setNPCA": "700034",
+    "setNPCB": "700040",
+    "function": "setNPCPoint_1_1404_3_5|clearAddFeature_1_144_3|setDramaUnitData_700034_0_700040_0|moveToOthers_2_1|setDramaUnitData_700034_0_700040_1|moveToOthers_2_1|setDramaUnitData_700034_0_700040_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21404_700040_0_700040_1_700040_2",
+    "condition": "grade_0_7_9|noWorldData_herdKilling",
+    "weight": "50",
+    "monthTipID": "drama_monthLog21444"
+  },
+  {
+    "id": "5",
+    "setNPCA": "700035",
+    "setNPCB": "700041",
+    "function": "setNPCPoint_1_1405_3_5|clearAddFeature_1_144_3|setDramaUnitData_700035_0_700041_0|moveToOthers_2_1|setDramaUnitData_700035_0_700041_1|moveToOthers_2_1|setDramaUnitData_700035_0_700041_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21405_700041_0_700041_1_700041_2",
+    "condition": "grade_0_7_9|noWorldData_herdKilling",
+    "weight": "50",
+    "monthTipID": "drama_monthLog21445"
+  },
+  {
+    "id": "6",
+    "setNPCA": "700036",
+    "setNPCB": "700042",
+    "function": "setNPCPoint_1_1406_3_5|clearAddFeature_1_144_3|setDramaUnitData_700036_0_700042_0|moveToOthers_2_1|setDramaUnitData_700036_0_700042_1|moveToOthers_2_1|setDramaUnitData_700036_0_700042_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21406_700042_0_700042_1_700042_2",
+    "condition": "grade_0_7_9|noWorldData_herdKilling",
+    "weight": "50",
+    "monthTipID": "drama_monthLog21446"
+  },
+  {
+    "id": "7",
+    "setNPCA": "700043",
+    "setNPCB": "700049",
+    "function": "setNPCPoint_1_1407_3_5|clearAddFeature_1_144_3|setDramaUnitData_700043_0_700049_0|moveToOthers_2_1|setDramaUnitData_700043_0_700049_1|moveToOthers_2_1|setDramaUnitData_700043_0_700049_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21407_700049_0_700049_1_700049_2",
+    "condition": "grade_0_7_9|noWorldData_herdKilling",
+    "weight": "10",
+    "monthTipID": "drama_monthLog21447"
+  },
+  {
+    "id": "8",
+    "setNPCA": "700044",
+    "setNPCB": "700050",
+    "function": "setNPCPoint_1_1408_3_5|clearAddFeature_1_144_3|setDramaUnitData_700044_0_700050_0|moveToOthers_2_1|setDramaUnitData_700044_0_700050_1|moveToOthers_2_1|setDramaUnitData_700044_0_700050_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21408_700050_0_700050_1_700050_2",
+    "condition": "grade_0_7_9|noWorldData_herdKilling",
+    "weight": "10",
+    "monthTipID": "drama_monthLog21448"
+  },
+  {
+    "id": "9",
+    "setNPCA": "700045",
+    "setNPCB": "700051",
+    "function": "setNPCPoint_1_1409_3_5|clearAddFeature_1_144_3|setDramaUnitData_700045_0_700051_0|moveToOthers_2_1|setDramaUnitData_700045_0_700051_1|moveToOthers_2_1|setDramaUnitData_700045_0_700051_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21409_700051_0_700051_1_700051_2",
+    "condition": "grade_0_7_9|noWorldData_herdKilling",
+    "weight": "10",
+    "monthTipID": "drama_monthLog21449"
+  },
+  {
+    "id": "10",
+    "setNPCA": "700046",
+    "setNPCB": "700052",
+    "function": "setNPCPoint_1_1410_3_5|clearAddFeature_1_144_3|setDramaUnitData_700046_0_700052_0|moveToOthers_2_1|setDramaUnitData_700046_0_700052_1|moveToOthers_2_1|setDramaUnitData_700046_0_700052_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21410_700052_0_700052_1_700052_2",
+    "condition": "grade_0_7_9|noWorldData_herdKilling",
+    "weight": "10",
+    "monthTipID": "drama_monthLog21450"
+  },
+  {
+    "id": "11",
+    "setNPCA": "700047",
+    "setNPCB": "700053",
+    "function": "setNPCPoint_1_1411_3_5|clearAddFeature_1_144_3|setDramaUnitData_700047_0_700053_0|moveToOthers_2_1|setDramaUnitData_700047_0_700053_1|moveToOthers_2_1|setDramaUnitData_700047_0_700053_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21411_700053_0_700053_1_700053_2",
+    "condition": "grade_0_7_9|noWorldData_herdKilling",
+    "weight": "10",
+    "monthTipID": "drama_monthLog21451"
+  },
+  {
+    "id": "12",
+    "setNPCA": "700048",
+    "setNPCB": "700054",
+    "function": "setNPCPoint_1_1412_3_5|clearAddFeature_1_144_3|setDramaUnitData_700048_0_700054_0|moveToOthers_2_1|setDramaUnitData_700048_0_700054_1|moveToOthers_2_1|setDramaUnitData_700048_0_700054_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21412_700054_0_700054_1_700054_2",
+    "condition": "grade_0_7_9|noWorldData_herdKilling",
+    "weight": "10",
+    "monthTipID": "drama_monthLog21452"
+  },
+  {
+    "id": "13",
+    "setNPCA": "700055",
+    "setNPCB": "0",
+    "function": "setNPCPoint_1_1401_3_5|clearAddFeature_1_144_3",
+    "condition": "grade_0_7_9",
+    "weight": "200",
+    "monthTipID": "drama_monthLog21461"
+  },
+  {
+    "id": "14",
+    "setNPCA": "700056",
+    "setNPCB": "0",
+    "function": "setNPCPoint_1_1402_3_5|clearAddFeature_1_144_3",
+    "condition": "grade_0_7_9",
+    "weight": "200",
+    "monthTipID": "drama_monthLog21462"
+  },
+  {
+    "id": "15",
+    "setNPCA": "700057",
+    "setNPCB": "0",
+    "function": "setNPCPoint_1_1403_3_5|clearAddFeature_1_144_3",
+    "condition": "grade_0_7_9",
+    "weight": "200",
+    "monthTipID": "drama_monthLog21463"
+  },
+  {
+    "id": "16",
+    "setNPCA": "700058",
+    "setNPCB": "0",
+    "function": "setNPCPoint_1_1404_3_5|clearAddFeature_1_144_3",
+    "condition": "grade_0_7_9",
+    "weight": "200",
+    "monthTipID": "drama_monthLog21464"
+  },
+  {
+    "id": "17",
+    "setNPCA": "700059",
+    "setNPCB": "0",
+    "function": "setNPCPoint_1_1405_3_5|clearAddFeature_1_144_3",
+    "condition": "grade_0_7_9",
+    "weight": "200",
+    "monthTipID": "drama_monthLog21465"
+  },
+  {
+    "id": "18",
+    "setNPCA": "700060",
+    "setNPCB": "0",
+    "function": "setNPCPoint_1_1406_3_5|clearAddFeature_1_144_3",
+    "condition": "grade_0_7_9",
+    "weight": "200",
+    "monthTipID": "drama_monthLog21466"
+  },
+  {
+    "id": "37",
+    "setNPCA": "700091",
+    "setNPCB": "700097",
+    "function": "setNPCPoint_1_1401_3_5|clearAddFeature_1_144_3|setDramaUnitData_700091_0_700097_0|moveToOthers_2_1|setDramaUnitData_700091_0_700097_1|moveToOthers_2_1|setDramaUnitData_700091_0_700097_2|moveToOthers_2_1|herdNPCHurtRoles_1_drama_monthLog21413_5011_6_700097_0_700097_1_700097_2",
+    "condition": "grade_0_7_9",
+    "weight": "100",
+    "monthTipID": "drama_monthLog21472"
+  },
+  {
+    "id": "38",
+    "setNPCA": "700092",
+    "setNPCB": "700098",
+    "function": "setNPCPoint_1_1402_3_5|clearAddFeature_1_144_3|setDramaUnitData_700092_0_700098_0|moveToOthers_2_1|setDramaUnitData_700092_0_700098_1|moveToOthers_2_1|setDramaUnitData_700092_0_700098_2|moveToOthers_2_1|herdNPCHurtRoles_1_drama_monthLog21414_5011_6_700098_0_700098_1_700098_2",
+    "condition": "grade_0_7_9",
+    "weight": "100",
+    "monthTipID": "drama_monthLog21473"
+  },
+  {
+    "id": "39",
+    "setNPCA": "700093",
+    "setNPCB": "700099",
+    "function": "setNPCPoint_1_1403_3_5|clearAddFeature_1_144_3|setDramaUnitData_700093_0_700099_0|moveToOthers_2_1|setDramaUnitData_700093_0_700099_1|moveToOthers_2_1|setDramaUnitData_700093_0_700099_2|moveToOthers_2_1|herdNPCHurtRoles_1_drama_monthLog21415_5011_6_700099_0_700099_1_700099_2",
+    "condition": "grade_0_7_9",
+    "weight": "100",
+    "monthTipID": "drama_monthLog21474"
+  },
+  {
+    "id": "40",
+    "setNPCA": "700094",
+    "setNPCB": "700100",
+    "function": "setNPCPoint_1_1404_3_5|clearAddFeature_1_144_3|setDramaUnitData_700094_0_700100_0|moveToOthers_2_1|setDramaUnitData_700094_0_700100_1|moveToOthers_2_1|setDramaUnitData_700094_0_700100_2|moveToOthers_2_1|herdNPCHurtRoles_1_drama_monthLog21416_5011_6_700100_0_700100_1_700100_2",
+    "condition": "grade_0_7_9",
+    "weight": "100",
+    "monthTipID": "drama_monthLog21475"
+  },
+  {
+    "id": "41",
+    "setNPCA": "700095",
+    "setNPCB": "700101",
+    "function": "setNPCPoint_1_1405_3_5|clearAddFeature_1_144_3|setDramaUnitData_700095_0_700101_0|moveToOthers_2_1|setDramaUnitData_700095_0_700101_1|moveToOthers_2_1|setDramaUnitData_700095_0_700101_2|moveToOthers_2_1|herdNPCHurtRoles_1_drama_monthLog21417_5011_6_700101_0_700101_1_700101_2",
+    "condition": "grade_0_7_9",
+    "weight": "100",
+    "monthTipID": "drama_monthLog21476"
+  },
+  {
+    "id": "42",
+    "setNPCA": "700096",
+    "setNPCB": "700102",
+    "function": "setNPCPoint_1_1406_3_5|clearAddFeature_1_144_3|setDramaUnitData_700096_0_700102_0|moveToOthers_2_1|setDramaUnitData_700096_0_700102_1|moveToOthers_2_1|setDramaUnitData_700096_0_700102_2|moveToOthers_2_1|herdNPCHurtRoles_1_drama_monthLog21418_5011_6_700102_0_700102_1_700102_2",
+    "condition": "grade_0_7_9",
+    "weight": "100",
+    "monthTipID": "drama_monthLog21477"
+  },
+  {
+    "id": "19",
+    "setNPCA": "700061",
+    "setNPCB": "700067",
+    "function": "setNPCPoint_1_1401_3_5|clearAddFeature_1_144_3|setDramaUnitData_700061_0_700067_0|moveToOthers_2_1|setDramaUnitData_700061_0_700067_1|moveToOthers_2_1|setDramaUnitData_700061_0_700067_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21401_700067_0_700067_1_700067_2",
+    "condition": "grade_0_10_10|noWorldData_herdKilling",
+    "weight": "50",
+    "monthTipID": "drama_monthLog21441"
+  },
+  {
+    "id": "20",
+    "setNPCA": "700062",
+    "setNPCB": "700068",
+    "function": "setNPCPoint_1_1402_3_5|clearAddFeature_1_144_3|setDramaUnitData_700062_0_700068_0|moveToOthers_2_1|setDramaUnitData_700062_0_700068_1|moveToOthers_2_1|setDramaUnitData_700062_0_700068_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21402_700068_0_700068_1_700068_2",
+    "condition": "grade_0_10_10|noWorldData_herdKilling",
+    "weight": "50",
+    "monthTipID": "drama_monthLog21442"
+  },
+  {
+    "id": "21",
+    "setNPCA": "700063",
+    "setNPCB": "700069",
+    "function": "setNPCPoint_1_1403_3_5|clearAddFeature_1_144_3|setDramaUnitData_700063_0_700069_0|moveToOthers_2_1|setDramaUnitData_700063_0_700069_1|moveToOthers_2_1|setDramaUnitData_700063_0_700069_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21403_700069_0_700069_1_700069_2",
+    "condition": "grade_0_10_10|noWorldData_herdKilling",
+    "weight": "50",
+    "monthTipID": "drama_monthLog21443"
+  },
+  {
+    "id": "22",
+    "setNPCA": "700064",
+    "setNPCB": "700070",
+    "function": "setNPCPoint_1_1404_3_5|clearAddFeature_1_144_3|setDramaUnitData_700064_0_700070_0|moveToOthers_2_1|setDramaUnitData_700064_0_700070_1|moveToOthers_2_1|setDramaUnitData_700064_0_700070_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21404_700070_0_700070_1_700070_2",
+    "condition": "grade_0_10_10|noWorldData_herdKilling",
+    "weight": "50",
+    "monthTipID": "drama_monthLog21444"
+  },
+  {
+    "id": "23",
+    "setNPCA": "700065",
+    "setNPCB": "700071",
+    "function": "setNPCPoint_1_1405_3_5|clearAddFeature_1_144_3|setDramaUnitData_700065_0_700071_0|moveToOthers_2_1|setDramaUnitData_700065_0_700071_1|moveToOthers_2_1|setDramaUnitData_700065_0_700071_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21405_700071_0_700071_1_700071_2",
+    "condition": "grade_0_10_10|noWorldData_herdKilling",
+    "weight": "50",
+    "monthTipID": "drama_monthLog21445"
+  },
+  {
+    "id": "24",
+    "setNPCA": "700066",
+    "setNPCB": "700072",
+    "function": "setNPCPoint_1_1406_3_5|clearAddFeature_1_144_3|setDramaUnitData_700066_0_700072_0|moveToOthers_2_1|setDramaUnitData_700066_0_700072_1|moveToOthers_2_1|setDramaUnitData_700066_0_700072_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21406_700072_0_700072_1_700072_2",
+    "condition": "grade_0_10_10|noWorldData_herdKilling",
+    "weight": "50",
+    "monthTipID": "drama_monthLog21446"
+  },
+  {
+    "id": "25",
+    "setNPCA": "700073",
+    "setNPCB": "700079",
+    "function": "setNPCPoint_1_1407_3_5|clearAddFeature_1_144_3|setDramaUnitData_700073_0_700079_0|moveToOthers_2_1|setDramaUnitData_700073_0_700079_1|moveToOthers_2_1|setDramaUnitData_700073_0_700079_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21407_700079_0_700079_1_700079_2",
+    "condition": "grade_0_10_10|noWorldData_herdKilling",
+    "weight": "10",
+    "monthTipID": "drama_monthLog21447"
+  },
+  {
+    "id": "26",
+    "setNPCA": "700074",
+    "setNPCB": "700080",
+    "function": "setNPCPoint_1_1408_3_5|clearAddFeature_1_144_3|setDramaUnitData_700074_0_700080_0|moveToOthers_2_1|setDramaUnitData_700074_0_700080_1|moveToOthers_2_1|setDramaUnitData_700074_0_700080_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21408_700080_0_700080_1_700080_2",
+    "condition": "grade_0_10_10|noWorldData_herdKilling",
+    "weight": "10",
+    "monthTipID": "drama_monthLog21448"
+  },
+  {
+    "id": "27",
+    "setNPCA": "700075",
+    "setNPCB": "700081",
+    "function": "setNPCPoint_1_1409_3_5|clearAddFeature_1_144_3|setDramaUnitData_700075_0_700081_0|moveToOthers_2_1|setDramaUnitData_700075_0_700081_1|moveToOthers_2_1|setDramaUnitData_700075_0_700081_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21409_700081_0_700081_1_700081_2",
+    "condition": "grade_0_10_10|noWorldData_herdKilling",
+    "weight": "10",
+    "monthTipID": "drama_monthLog21449"
+  },
+  {
+    "id": "28",
+    "setNPCA": "700076",
+    "setNPCB": "700082",
+    "function": "setNPCPoint_1_1410_3_5|clearAddFeature_1_144_3|setDramaUnitData_700076_0_700082_0|moveToOthers_2_1|setDramaUnitData_700076_0_700082_1|moveToOthers_2_1|setDramaUnitData_700076_0_700082_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21410_700082_0_700082_1_700082_2",
+    "condition": "grade_0_10_10|noWorldData_herdKilling",
+    "weight": "10",
+    "monthTipID": "drama_monthLog21450"
+  },
+  {
+    "id": "29",
+    "setNPCA": "700077",
+    "setNPCB": "700083",
+    "function": "setNPCPoint_1_1411_3_5|clearAddFeature_1_144_3|setDramaUnitData_700077_0_700083_0|moveToOthers_2_1|setDramaUnitData_700077_0_700083_1|moveToOthers_2_1|setDramaUnitData_700077_0_700083_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21411_700083_0_700083_1_700083_2",
+    "condition": "grade_0_10_10|noWorldData_herdKilling",
+    "weight": "10",
+    "monthTipID": "drama_monthLog21451"
+  },
+  {
+    "id": "30",
+    "setNPCA": "700078",
+    "setNPCB": "700084",
+    "function": "setNPCPoint_1_1412_3_5|clearAddFeature_1_144_3|setDramaUnitData_700078_0_700084_0|moveToOthers_2_1|setDramaUnitData_700078_0_700084_1|moveToOthers_2_1|setDramaUnitData_700078_0_700084_2|moveToOthers_2_1|herdNPCKillRoles_1_drama_monthLog21412_700084_0_700084_1_700084_2",
+    "condition": "grade_0_10_10|noWorldData_herdKilling",
+    "weight": "10",
+    "monthTipID": "drama_monthLog21452"
+  },
+  {
+    "id": "31",
+    "setNPCA": "700085",
+    "setNPCB": "0",
+    "function": "setNPCPoint_1_1401_3_5|clearAddFeature_1_144_3",
+    "condition": "grade_0_10_10",
+    "weight": "200",
+    "monthTipID": "drama_monthLog21461"
+  },
+  {
+    "id": "32",
+    "setNPCA": "700086",
+    "setNPCB": "0",
+    "function": "setNPCPoint_1_1402_3_5|clearAddFeature_1_144_3",
+    "condition": "grade_0_10_10",
+    "weight": "200",
+    "monthTipID": "drama_monthLog21462"
+  },
+  {
+    "id": "33",
+    "setNPCA": "700087",
+    "setNPCB": "0",
+    "function": "setNPCPoint_1_1403_3_5|clearAddFeature_1_144_3",
+    "condition": "grade_0_10_10",
+    "weight": "200",
+    "monthTipID": "drama_monthLog21463"
+  },
+  {
+    "id": "34",
+    "setNPCA": "700088",
+    "setNPCB": "0",
+    "function": "setNPCPoint_1_1404_3_5|clearAddFeature_1_144_3",
+    "condition": "grade_0_10_10",
+    "weight": "200",
+    "monthTipID": "drama_monthLog21464"
+  },
+  {
+    "id": "35",
+    "setNPCA": "700089",
+    "setNPCB": "0",
+    "function": "setNPCPoint_1_1405_3_5|clearAddFeature_1_144_3",
+    "condition": "grade_0_10_10",
+    "weight": "200",
+    "monthTipID": "drama_monthLog21465"
+  },
+  {
+    "id": "36",
+    "setNPCA": "700090",
+    "setNPCB": "0",
+    "function": "setNPCPoint_1_1406_3_5|clearAddFeature_1_144_3",
+    "condition": "grade_0_10_10",
+    "weight": "200",
+    "monthTipID": "drama_monthLog21466"
+  },
+  {
+    "id": "43",
+    "setNPCA": "700103",
+    "setNPCB": "700109",
+    "function": "setNPCPoint_1_1401_3_5|clearAddFeature_1_144_3|setDramaUnitData_700103_0_700109_0|moveToOthers_2_1|setDramaUnitData_700103_0_700109_1|moveToOthers_2_1|setDramaUnitData_700103_0_700109_2|moveToOthers_2_1|herdNPCHurtRoles_1_drama_monthLog21413_5011_6_700109_0_700109_1_700109_2",
+    "condition": "grade_0_10_10",
+    "weight": "100",
+    "monthTipID": "drama_monthLog21472"
+  },
+  {
+    "id": "44",
+    "setNPCA": "700104",
+    "setNPCB": "700110",
+    "function": "setNPCPoint_1_1402_3_5|clearAddFeature_1_144_3|setDramaUnitData_700104_0_700110_0|moveToOthers_2_1|setDramaUnitData_700104_0_700110_1|moveToOthers_2_1|setDramaUnitData_700104_0_700110_2|moveToOthers_2_1|herdNPCHurtRoles_1_drama_monthLog21414_5011_6_700110_0_700110_1_700110_2",
+    "condition": "grade_0_10_10",
+    "weight": "100",
+    "monthTipID": "drama_monthLog21473"
+  },
+  {
+    "id": "45",
+    "setNPCA": "700105",
+    "setNPCB": "700111",
+    "function": "setNPCPoint_1_1403_3_5|clearAddFeature_1_144_3|setDramaUnitData_700105_0_700111_0|moveToOthers_2_1|setDramaUnitData_700105_0_700111_1|moveToOthers_2_1|setDramaUnitData_700105_0_700111_2|moveToOthers_2_1|herdNPCHurtRoles_1_drama_monthLog21415_5011_6_700111_0_700111_1_700111_2",
+    "condition": "grade_0_10_10",
+    "weight": "100",
+    "monthTipID": "drama_monthLog21474"
+  },
+  {
+    "id": "46",
+    "setNPCA": "700106",
+    "setNPCB": "700112",
+    "function": "setNPCPoint_1_1404_3_5|clearAddFeature_1_144_3|setDramaUnitData_700106_0_700112_0|moveToOthers_2_1|setDramaUnitData_700106_0_700112_1|moveToOthers_2_1|setDramaUnitData_700106_0_700112_2|moveToOthers_2_1|herdNPCHurtRoles_1_drama_monthLog21416_5011_6_700112_0_700112_1_700112_2",
+    "condition": "grade_0_10_10",
+    "weight": "100",
+    "monthTipID": "drama_monthLog21475"
+  },
+  {
+    "id": "47",
+    "setNPCA": "700107",
+    "setNPCB": "700113",
+    "function": "setNPCPoint_1_1405_3_5|clearAddFeature_1_144_3|setDramaUnitData_700107_0_700113_0|moveToOthers_2_1|setDramaUnitData_700107_0_700113_1|moveToOthers_2_1|setDramaUnitData_700107_0_700113_2|moveToOthers_2_1|herdNPCHurtRoles_1_drama_monthLog21417_5011_6_700113_0_700113_1_700113_2",
+    "condition": "grade_0_10_10",
+    "weight": "100",
+    "monthTipID": "drama_monthLog21476"
+  },
+  {
+    "id": "48",
+    "setNPCA": "700108",
+    "setNPCB": "700114",
+    "function": "setNPCPoint_1_1406_3_5|clearAddFeature_1_144_3|setDramaUnitData_700108_0_700114_0|moveToOthers_2_1|setDramaUnitData_700108_0_700114_1|moveToOthers_2_1|setDramaUnitData_700108_0_700114_2|moveToOthers_2_1|herdNPCHurtRoles_1_drama_monthLog21418_5011_6_700114_0_700114_1_700114_2",
+    "condition": "grade_0_10_10",
+    "weight": "100",
+    "monthTipID": "drama_monthLog21477"
+  }
+]

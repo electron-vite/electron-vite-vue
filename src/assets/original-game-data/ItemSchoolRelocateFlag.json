@@ -1,0 +1,14 @@
+[
+  {
+    "id": "7000155",
+    "eventId": "80000",
+    "disTerritoryRange": "7",
+    "disBuildRange": "7",
+    "areaSpacing": "2",
+    "buildDramaId": "1200021",
+    "moveStartDramaId": "1200001",
+    "moveDramaId": "1200011",
+    "maxOffsetX": "7",
+    "maxOffsetY": "7"
+  }
+]

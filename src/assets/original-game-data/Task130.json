@@ -1,0 +1,50 @@
+[
+  {
+    "id": "130001",
+    "dramaID1": "999251",
+    "dramaID1OptionID1": "9992511",
+    "dramaID2": "999261",
+    "dramaID2OptionID": "9992611",
+    "isAttack": "1"
+  },
+  {
+    "id": "130002",
+    "dramaID1": "999251",
+    "dramaID1OptionID1": "9992511",
+    "dramaID2": "999261",
+    "dramaID2OptionID": "9992611",
+    "isAttack": "1"
+  },
+  {
+    "id": "130003",
+    "dramaID1": "999251",
+    "dramaID1OptionID1": "9992511",
+    "dramaID2": "999261",
+    "dramaID2OptionID": "9992611",
+    "isAttack": "1"
+  },
+  {
+    "id": "130004",
+    "dramaID1": "999252",
+    "dramaID1OptionID1": "9992521",
+    "dramaID2": "999271",
+    "dramaID2OptionID": "9992711",
+    "isAttack": "0"
+  },
+  {
+    "id": "130005",
+    "dramaID1": "999252",
+    "dramaID1OptionID1": "9992521",
+    "dramaID2": "999271",
+    "dramaID2OptionID": "9992711",
+    "isAttack": "0"
+  },
+  {
+    "id": "130006",
+    "dramaID1": "999252",
+    "dramaID1OptionID1": "9992521",
+    "dramaID2": "999271",
+    "dramaID2OptionID": "9992711",
+    "isAttack": "0"
+  }
+]

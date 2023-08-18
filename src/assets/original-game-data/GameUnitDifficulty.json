@@ -1,0 +1,1206 @@
+[
+  {
+    "id": "1",
+    "monsterID": "5211",
+    "diff": "5",
+    "grade": "-1",
+    "unitAttr": "skillDmg_500"
+  },
+  {
+    "id": "2",
+    "monsterID": "914001",
+    "diff": "5",
+    "grade": "1",
+    "unitAttr": "hp_0|skillDmg_0"
+  },
+  {
+    "id": "3",
+    "monsterID": "914001",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-100|skillDmg_-10"
+  },
+  {
+    "id": "4",
+    "monsterID": "914001",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-250|skillDmg_-60"
+  },
+  {
+    "id": "5",
+    "monsterID": "914001",
+    "diff": "5",
+    "grade": "4",
+    "unitAttr": "hp_-400|skillDmg_-120"
+  },
+  {
+    "id": "6",
+    "monsterID": "914001",
+    "diff": "5",
+    "grade": "5",
+    "unitAttr": "hp_-650|skillDmg_-160"
+  },
+  {
+    "id": "7",
+    "monsterID": "914001",
+    "diff": "5",
+    "grade": "6",
+    "unitAttr": "hp_-900|skillDmg_-180"
+  },
+  {
+    "id": "8",
+    "monsterID": "914001",
+    "diff": "5",
+    "grade": "7",
+    "unitAttr": "hp_-1150|skillDmg_-200"
+  },
+  {
+    "id": "9",
+    "monsterID": "914001",
+    "diff": "5",
+    "grade": "8",
+    "unitAttr": "hp_-1400|skillDmg_-220"
+  },
+  {
+    "id": "10",
+    "monsterID": "914001",
+    "diff": "5",
+    "grade": "9",
+    "unitAttr": "hp_-1650|skillDmg_-240"
+  },
+  {
+    "id": "11",
+    "monsterID": "914001",
+    "diff": "5",
+    "grade": "10",
+    "unitAttr": "hp_-1900|skillDmg_-260"
+  },
+  {
+    "id": "12",
+    "monsterID": "7811",
+    "diff": "5",
+    "grade": "1",
+    "unitAttr": "hp_0|skillDmg_0"
+  },
+  {
+    "id": "13",
+    "monsterID": "2251",
+    "diff": "5",
+    "grade": "1",
+    "unitAttr": "hp_0|skillDmg_0"
+  },
+  {
+    "id": "14",
+    "monsterID": "7821",
+    "diff": "5",
+    "grade": "1",
+    "unitAttr": "hp_0|skillDmg_0"
+  },
+  {
+    "id": "15",
+    "monsterID": "7831",
+    "diff": "5",
+    "grade": "1",
+    "unitAttr": "hp_0|skillDmg_0"
+  },
+  {
+    "id": "16",
+    "monsterID": "7841",
+    "diff": "5",
+    "grade": "1",
+    "unitAttr": "hp_0|skillDmg_0"
+  },
+  {
+    "id": "17",
+    "monsterID": "7851",
+    "diff": "5",
+    "grade": "1",
+    "unitAttr": "hp_0|skillDmg_0"
+  },
+  {
+    "id": "18",
+    "monsterID": "2291",
+    "diff": "5",
+    "grade": "1",
+    "unitAttr": "hp_0|skillDmg_0"
+  },
+  {
+    "id": "19",
+    "monsterID": "7811",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-200|skillDmg_-20"
+  },
+  {
+    "id": "20",
+    "monsterID": "2251",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-200|skillDmg_-20"
+  },
+  {
+    "id": "21",
+    "monsterID": "7821",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-200|skillDmg_-20"
+  },
+  {
+    "id": "22",
+    "monsterID": "7831",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-200|skillDmg_-20"
+  },
+  {
+    "id": "23",
+    "monsterID": "7841",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-200|skillDmg_-20"
+  },
+  {
+    "id": "24",
+    "monsterID": "7851",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-200|skillDmg_-20"
+  },
+  {
+    "id": "25",
+    "monsterID": "2291",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-200|skillDmg_-20"
+  },
+  {
+    "id": "26",
+    "monsterID": "7811",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-500|skillDmg_-80"
+  },
+  {
+    "id": "27",
+    "monsterID": "2251",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-500|skillDmg_-80"
+  },
+  {
+    "id": "28",
+    "monsterID": "7821",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-500|skillDmg_-80"
+  },
+  {
+    "id": "29",
+    "monsterID": "7831",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-500|skillDmg_-80"
+  },
+  {
+    "id": "30",
+    "monsterID": "7841",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-500|skillDmg_-80"
+  },
+  {
+    "id": "31",
+    "monsterID": "7851",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-500|skillDmg_-80"
+  },
+  {
+    "id": "32",
+    "monsterID": "2291",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-500|skillDmg_-80"
+  },
+  {
+    "id": "33",
+    "monsterID": "7811",
+    "diff": "5",
+    "grade": "4",
+    "unitAttr": "hp_-800|skillDmg_-150"
+  },
+  {
+    "id": "34",
+    "monsterID": "2251",
+    "diff": "5",
+    "grade": "4",
+    "unitAttr": "hp_-800|skillDmg_-150"
+  },
+  {
+    "id": "35",
+    "monsterID": "7821",
+    "diff": "5",
+    "grade": "4",
+    "unitAttr": "hp_-800|skillDmg_-150"
+  },
+  {
+    "id": "36",
+    "monsterID": "7831",
+    "diff": "5",
+    "grade": "4",
+    "unitAttr": "hp_-800|skillDmg_-150"
+  },
+  {
+    "id": "37",
+    "monsterID": "7841",
+    "diff": "5",
+    "grade": "4",
+    "unitAttr": "hp_-800|skillDmg_-150"
+  },
+  {
+    "id": "38",
+    "monsterID": "7851",
+    "diff": "5",
+    "grade": "4",
+    "unitAttr": "hp_-800|skillDmg_-150"
+  },
+  {
+    "id": "39",
+    "monsterID": "2291",
+    "diff": "5",
+    "grade": "4",
+    "unitAttr": "hp_-800|skillDmg_-150"
+  },
+  {
+    "id": "40",
+    "monsterID": "7811",
+    "diff": "5",
+    "grade": "5",
+    "unitAttr": "hp_-1200|skillDmg_-200"
+  },
+  {
+    "id": "41",
+    "monsterID": "2251",
+    "diff": "5",
+    "grade": "5",
+    "unitAttr": "hp_-1200|skillDmg_-200"
+  },
+  {
+    "id": "42",
+    "monsterID": "7821",
+    "diff": "5",
+    "grade": "5",
+    "unitAttr": "hp_-1200|skillDmg_-200"
+  },
+  {
+    "id": "43",
+    "monsterID": "7831",
+    "diff": "5",
+    "grade": "5",
+    "unitAttr": "hp_-1200|skillDmg_-200"
+  },
+  {
+    "id": "44",
+    "monsterID": "7841",
+    "diff": "5",
+    "grade": "5",
+    "unitAttr": "hp_-1200|skillDmg_-200"
+  },
+  {
+    "id": "45",
+    "monsterID": "7851",
+    "diff": "5",
+    "grade": "5",
+    "unitAttr": "hp_-1200|skillDmg_-200"
+  },
+  {
+    "id": "46",
+    "monsterID": "2291",
+    "diff": "5",
+    "grade": "5",
+    "unitAttr": "hp_-1200|skillDmg_-200"
+  },
+  {
+    "id": "47",
+    "monsterID": "7811",
+    "diff": "5",
+    "grade": "6",
+    "unitAttr": "hp_-1600|skillDmg_-230"
+  },
+  {
+    "id": "48",
+    "monsterID": "2251",
+    "diff": "5",
+    "grade": "6",
+    "unitAttr": "hp_-1600|skillDmg_-230"
+  },
+  {
+    "id": "49",
+    "monsterID": "7821",
+    "diff": "5",
+    "grade": "6",
+    "unitAttr": "hp_-1600|skillDmg_-230"
+  },
+  {
+    "id": "50",
+    "monsterID": "7831",
+    "diff": "5",
+    "grade": "6",
+    "unitAttr": "hp_-1600|skillDmg_-230"
+  },
+  {
+    "id": "51",
+    "monsterID": "7841",
+    "diff": "5",
+    "grade": "6",
+    "unitAttr": "hp_-1600|skillDmg_-230"
+  },
+  {
+    "id": "52",
+    "monsterID": "7851",
+    "diff": "5",
+    "grade": "6",
+    "unitAttr": "hp_-1600|skillDmg_-230"
+  },
+  {
+    "id": "53",
+    "monsterID": "2291",
+    "diff": "5",
+    "grade": "6",
+    "unitAttr": "hp_-1600|skillDmg_-230"
+  },
+  {
+    "id": "54",
+    "monsterID": "7811",
+    "diff": "5",
+    "grade": "7",
+    "unitAttr": "hp_-2000|skillDmg_-260"
+  },
+  {
+    "id": "55",
+    "monsterID": "2251",
+    "diff": "5",
+    "grade": "7",
+    "unitAttr": "hp_-2000|skillDmg_-260"
+  },
+  {
+    "id": "56",
+    "monsterID": "7821",
+    "diff": "5",
+    "grade": "7",
+    "unitAttr": "hp_-2000|skillDmg_-260"
+  },
+  {
+    "id": "57",
+    "monsterID": "7831",
+    "diff": "5",
+    "grade": "7",
+    "unitAttr": "hp_-2000|skillDmg_-260"
+  },
+  {
+    "id": "58",
+    "monsterID": "7841",
+    "diff": "5",
+    "grade": "7",
+    "unitAttr": "hp_-2000|skillDmg_-260"
+  },
+  {
+    "id": "59",
+    "monsterID": "7851",
+    "diff": "5",
+    "grade": "7",
+    "unitAttr": "hp_-2000|skillDmg_-260"
+  },
+  {
+    "id": "60",
+    "monsterID": "2291",
+    "diff": "5",
+    "grade": "7",
+    "unitAttr": "hp_-2000|skillDmg_-260"
+  },
+  {
+    "id": "61",
+    "monsterID": "7811",
+    "diff": "5",
+    "grade": "8",
+    "unitAttr": "hp_-2400|skillDmg_-290"
+  },
+  {
+    "id": "62",
+    "monsterID": "2251",
+    "diff": "5",
+    "grade": "8",
+    "unitAttr": "hp_-2400|skillDmg_-290"
+  },
+  {
+    "id": "63",
+    "monsterID": "7821",
+    "diff": "5",
+    "grade": "8",
+    "unitAttr": "hp_-2400|skillDmg_-290"
+  },
+  {
+    "id": "64",
+    "monsterID": "7831",
+    "diff": "5",
+    "grade": "8",
+    "unitAttr": "hp_-2400|skillDmg_-290"
+  },
+  {
+    "id": "65",
+    "monsterID": "7841",
+    "diff": "5",
+    "grade": "8",
+    "unitAttr": "hp_-2400|skillDmg_-290"
+  },
+  {
+    "id": "66",
+    "monsterID": "7851",
+    "diff": "5",
+    "grade": "8",
+    "unitAttr": "hp_-2400|skillDmg_-290"
+  },
+  {
+    "id": "67",
+    "monsterID": "2291",
+    "diff": "5",
+    "grade": "8",
+    "unitAttr": "hp_-2400|skillDmg_-290"
+  },
+  {
+    "id": "68",
+    "monsterID": "7811",
+    "diff": "5",
+    "grade": "9",
+    "unitAttr": "hp_-2800|skillDmg_-320"
+  },
+  {
+    "id": "69",
+    "monsterID": "2251",
+    "diff": "5",
+    "grade": "9",
+    "unitAttr": "hp_-2800|skillDmg_-320"
+  },
+  {
+    "id": "70",
+    "monsterID": "7821",
+    "diff": "5",
+    "grade": "9",
+    "unitAttr": "hp_-2800|skillDmg_-320"
+  },
+  {
+    "id": "71",
+    "monsterID": "7831",
+    "diff": "5",
+    "grade": "9",
+    "unitAttr": "hp_-2800|skillDmg_-320"
+  },
+  {
+    "id": "72",
+    "monsterID": "7841",
+    "diff": "5",
+    "grade": "9",
+    "unitAttr": "hp_-2800|skillDmg_-320"
+  },
+  {
+    "id": "73",
+    "monsterID": "7851",
+    "diff": "5",
+    "grade": "9",
+    "unitAttr": "hp_-2800|skillDmg_-320"
+  },
+  {
+    "id": "74",
+    "monsterID": "2291",
+    "diff": "5",
+    "grade": "9",
+    "unitAttr": "hp_-2800|skillDmg_-320"
+  },
+  {
+    "id": "75",
+    "monsterID": "7811",
+    "diff": "5",
+    "grade": "10",
+    "unitAttr": "hp_-3200|skillDmg_-350"
+  },
+  {
+    "id": "76",
+    "monsterID": "2251",
+    "diff": "5",
+    "grade": "10",
+    "unitAttr": "hp_-3200|skillDmg_-350"
+  },
+  {
+    "id": "77",
+    "monsterID": "7821",
+    "diff": "5",
+    "grade": "10",
+    "unitAttr": "hp_-3200|skillDmg_-350"
+  },
+  {
+    "id": "78",
+    "monsterID": "7831",
+    "diff": "5",
+    "grade": "10",
+    "unitAttr": "hp_-3200|skillDmg_-350"
+  },
+  {
+    "id": "79",
+    "monsterID": "7841",
+    "diff": "5",
+    "grade": "10",
+    "unitAttr": "hp_-3200|skillDmg_-350"
+  },
+  {
+    "id": "80",
+    "monsterID": "7851",
+    "diff": "5",
+    "grade": "10",
+    "unitAttr": "hp_-3200|skillDmg_-350"
+  },
+  {
+    "id": "81",
+    "monsterID": "2291",
+    "diff": "5",
+    "grade": "10",
+    "unitAttr": "hp_-3200|skillDmg_-350"
+  },
+  {
+    "id": "82",
+    "monsterID": "4201001",
+    "diff": "1",
+    "grade": "9",
+    "unitAttr": "hp_150"
+  },
+  {
+    "id": "83",
+    "monsterID": "4201001",
+    "diff": "2",
+    "grade": "9",
+    "unitAttr": "hp_175"
+  },
+  {
+    "id": "84",
+    "monsterID": "4201001",
+    "diff": "3",
+    "grade": "9",
+    "unitAttr": "hp_180"
+  },
+  {
+    "id": "85",
+    "monsterID": "4201001",
+    "diff": "4",
+    "grade": "9",
+    "unitAttr": "hp_132"
+  },
+  {
+    "id": "86",
+    "monsterID": "4201001",
+    "diff": "5",
+    "grade": "9",
+    "unitAttr": "hp_60"
+  },
+  {
+    "id": "87",
+    "monsterID": "4201002",
+    "diff": "1",
+    "grade": "9",
+    "unitAttr": "skillDmg_-20"
+  },
+  {
+    "id": "88",
+    "monsterID": "4201002",
+    "diff": "2",
+    "grade": "9",
+    "unitAttr": "skillDmg_75"
+  },
+  {
+    "id": "89",
+    "monsterID": "4201002",
+    "diff": "3",
+    "grade": "9",
+    "unitAttr": "skillDmg_-30"
+  },
+  {
+    "id": "90",
+    "monsterID": "4201002",
+    "diff": "4",
+    "grade": "9",
+    "unitAttr": "skillDmg_-35"
+  },
+  {
+    "id": "91",
+    "monsterID": "4201002",
+    "diff": "5",
+    "grade": "9",
+    "unitAttr": "skillDmg_-38"
+  },
+  {
+    "id": "92",
+    "monsterID": "4201003",
+    "diff": "1",
+    "grade": "9",
+    "unitAttr": "skillDmg_120|moveSpeed_200"
+  },
+  {
+    "id": "93",
+    "monsterID": "4201003",
+    "diff": "2",
+    "grade": "9",
+    "unitAttr": "skillDmg_150|moveSpeed_200"
+  },
+  {
+    "id": "94",
+    "monsterID": "4201003",
+    "diff": "3",
+    "grade": "9",
+    "unitAttr": "skillDmg_180|moveSpeed_200"
+  },
+  {
+    "id": "95",
+    "monsterID": "4201003",
+    "diff": "4",
+    "grade": "9",
+    "unitAttr": "skillDmg_260|moveSpeed_200"
+  },
+  {
+    "id": "96",
+    "monsterID": "4201003",
+    "diff": "5",
+    "grade": "9",
+    "unitAttr": "skillDmg_250|moveSpeed_200"
+  },
+  {
+    "id": "97",
+    "monsterID": "4201004",
+    "diff": "1",
+    "grade": "9",
+    "unitAttr": "skillDmg_40|moveSpeed_33"
+  },
+  {
+    "id": "98",
+    "monsterID": "4201004",
+    "diff": "2",
+    "grade": "9",
+    "unitAttr": "skillDmg_50|moveSpeed_33"
+  },
+  {
+    "id": "99",
+    "monsterID": "4201004",
+    "diff": "3",
+    "grade": "9",
+    "unitAttr": "skillDmg_60|moveSpeed_33"
+  },
+  {
+    "id": "100",
+    "monsterID": "4201004",
+    "diff": "4",
+    "grade": "9",
+    "unitAttr": "skillDmg_70|moveSpeed_33"
+  },
+  {
+    "id": "101",
+    "monsterID": "4201004",
+    "diff": "5",
+    "grade": "9",
+    "unitAttr": "skillDmg_75|moveSpeed_33"
+  },
+  {
+    "id": "102",
+    "monsterID": "8001024",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "skillDmg_-100"
+  },
+  {
+    "id": "103",
+    "monsterID": "8001025",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "skillDmg_-100"
+  },
+  {
+    "id": "104",
+    "monsterID": "8001002",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-80|skillDmg_-50"
+  },
+  {
+    "id": "105",
+    "monsterID": "8001003",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-80|skillDmg_-50"
+  },
+  {
+    "id": "106",
+    "monsterID": "8001004",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-80|skillDmg_-50"
+  },
+  {
+    "id": "107",
+    "monsterID": "8001005",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-200|skillDmg_-20"
+  },
+  {
+    "id": "108",
+    "monsterID": "8001006",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-200|skillDmg_-20"
+  },
+  {
+    "id": "109",
+    "monsterID": "8001007",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-200|skillDmg_-20"
+  },
+  {
+    "id": "110",
+    "monsterID": "8001008",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-250|skillDmg_-10"
+  },
+  {
+    "id": "111",
+    "monsterID": "8001009",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-250|skillDmg_-10"
+  },
+  {
+    "id": "112",
+    "monsterID": "8001010",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-300|skillDmg_-10"
+  },
+  {
+    "id": "113",
+    "monsterID": "8001011",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-300|skillDmg_-10"
+  },
+  {
+    "id": "114",
+    "monsterID": "8001012",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-400|skillDmg_-20"
+  },
+  {
+    "id": "115",
+    "monsterID": "8001013",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-300"
+  },
+  {
+    "id": "116",
+    "monsterID": "8002001|8002002|8002003|8002004|8002005|8002006|8002007|8002008|8002009|8002010|8002011|8002012|8002013|8002014|8002015|8002016|8002017|8002018|8002019|8002020|8002021|8002022|8002023|8002024|8002025|8002026",
+    "diff": "5",
+    "grade": "1",
+    "unitAttr": "hp_-50"
+  },
+  {
+    "id": "117",
+    "monsterID": "8002001|8002002|8002003|8002004|8002005|8002006|8002007|8002008|8002009|8002010|8002011|8002012|8002013|8002014|8002015|8002016|8002017|8002018|8002019|8002020|8002021|8002022|8002023|8002024|8002025|8002026",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-100"
+  },
+  {
+    "id": "118",
+    "monsterID": "8002001|8002002|8002003|8002004|8002005|8002006|8002007|8002008|8002009|8002010|8002011|8002012|8002013|8002014|8002015|8002016|8002017|8002018|8002019|8002020|8002021|8002022|8002023|8002024|8002025|8002026",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-300"
+  },
+  {
+    "id": "119",
+    "monsterID": "8002001|8002002|8002003|8002004|8002005|8002006|8002007|8002008|8002009|8002010|8002011|8002012|8002013|8002014|8002015|8002016|8002017|8002018|8002019|8002020|8002021|8002022|8002023|8002024|8002025|8002026",
+    "diff": "5",
+    "grade": "4",
+    "unitAttr": "hp_-500"
+  },
+  {
+    "id": "120",
+    "monsterID": "8002001|8002002|8002003|8002004|8002005|8002006|8002007|8002008|8002009|8002010|8002011|8002012|8002013|8002014|8002015|8002016|8002017|8002018|8002019|8002020|8002021|8002022|8002023|8002024|8002025|8002026",
+    "diff": "5",
+    "grade": "5",
+    "unitAttr": "hp_-700"
+  },
+  {
+    "id": "121",
+    "monsterID": "8002001|8002002|8002003|8002004|8002005|8002006|8002007|8002008|8002009|8002010|8002011|8002012|8002013|8002014|8002015|8002016|8002017|8002018|8002019|8002020|8002021|8002022|8002023|8002024|8002025|8002026",
+    "diff": "5",
+    "grade": "6",
+    "unitAttr": "hp_-700"
+  },
+  {
+    "id": "122",
+    "monsterID": "8002001|8002002|8002003|8002004|8002005|8002006|8002007|8002008|8002009|8002010|8002011|8002012|8002013|8002014|8002015|8002016|8002017|8002018|8002019|8002020|8002021|8002022|8002023|8002024|8002025|8002026",
+    "diff": "5",
+    "grade": "7",
+    "unitAttr": "hp_-700"
+  },
+  {
+    "id": "123",
+    "monsterID": "8002001|8002002|8002003|8002004|8002005|8002006|8002007|8002008|8002009|8002010|8002011|8002012|8002013|8002014|8002015|8002016|8002017|8002018|8002019|8002020|8002021|8002022|8002023|8002024|8002025|8002026",
+    "diff": "5",
+    "grade": "8",
+    "unitAttr": "hp_-700"
+  },
+  {
+    "id": "124",
+    "monsterID": "8002001|8002002|8002003|8002004|8002005|8002006|8002007|8002008|8002009|8002010|8002011|8002012|8002013|8002014|8002015|8002016|8002017|8002018|8002019|8002020|8002021|8002022|8002023|8002024|8002025|8002026",
+    "diff": "5",
+    "grade": "9",
+    "unitAttr": "hp_-700"
+  },
+  {
+    "id": "125",
+    "monsterID": "8002001|8002002|8002003|8002004|8002005|8002006|8002007|8002008|8002009|8002010|8002011|8002012|8002013|8002014|8002015|8002016|8002017|8002018|8002019|8002020|8002021|8002022|8002023|8002024|8002025|8002026",
+    "diff": "5",
+    "grade": "10",
+    "unitAttr": "hp_-700"
+  },
+  {
+    "id": "126",
+    "monsterID": "8002102",
+    "diff": "5",
+    "grade": "2",
+    "unitAttr": "hp_-100"
+  },
+  {
+    "id": "127",
+    "monsterID": "8002102",
+    "diff": "5",
+    "grade": "3",
+    "unitAttr": "hp_-100"
+  },
+  {
+    "id": "128",
+    "monsterID": "8002101",
+    "diff": "5",
+    "grade": "4",
+    "unitAttr": "hp_-105"
+  },
+  {
+    "id": "129",
+    "monsterID": "8571",
+    "diff": "1",
+    "grade": "10",
+    "unitAttr": "hp_180"
+  },
+  {
+    "id": "130",
+    "monsterID": "8581",
+    "diff": "1",
+    "grade": "10",
+    "unitAttr": "hp_180"
+  },
+  {
+    "id": "131",
+    "monsterID": "8591",
+    "diff": "1",
+    "grade": "10",
+    "unitAttr": "hp_180"
+  },
+  {
+    "id": "132",
+    "monsterID": "8601",
+    "diff": "1",
+    "grade": "10",
+    "unitAttr": "hp_180"
+  },
+  {
+    "id": "133",
+    "monsterID": "8611",
+    "diff": "1",
+    "grade": "10",
+    "unitAttr": "hp_180"
+  },
+  {
+    "id": "134",
+    "monsterID": "86111",
+    "diff": "1",
+    "grade": "10",
+    "unitAttr": "hp_180"
+  },
+  {
+    "id": "135",
+    "monsterID": "8621",
+    "diff": "1",
+    "grade": "10",
+    "unitAttr": "hp_180"
+  },
+  {
+    "id": "136",
+    "monsterID": "86211",
+    "diff": "1",
+    "grade": "10",
+    "unitAttr": "hp_180"
+  },
+  {
+    "id": "137",
+    "monsterID": "8631",
+    "diff": "1",
+    "grade": "10",
+    "unitAttr": "hp_180"
+  },
+  {
+    "id": "138",
+    "monsterID": "8641",
+    "diff": "1",
+    "grade": "10",
+    "unitAttr": "hp_180"
+  },
+  {
+    "id": "139",
+    "monsterID": "86011",
+    "diff": "1",
+    "grade": "10",
+    "unitAttr": "hp_180"
+  },
+  {
+    "id": "140",
+    "monsterID": "8571",
+    "diff": "2",
+    "grade": "10",
+    "unitAttr": "hp_500"
+  },
+  {
+    "id": "141",
+    "monsterID": "8581",
+    "diff": "2",
+    "grade": "10",
+    "unitAttr": "hp_500"
+  },
+  {
+    "id": "142",
+    "monsterID": "8591",
+    "diff": "2",
+    "grade": "10",
+    "unitAttr": "hp_500"
+  },
+  {
+    "id": "143",
+    "monsterID": "8601",
+    "diff": "2",
+    "grade": "10",
+    "unitAttr": "hp_500"
+  },
+  {
+    "id": "144",
+    "monsterID": "8611",
+    "diff": "2",
+    "grade": "10",
+    "unitAttr": "hp_500"
+  },
+  {
+    "id": "145",
+    "monsterID": "86111",
+    "diff": "2",
+    "grade": "10",
+    "unitAttr": "hp_500"
+  },
+  {
+    "id": "146",
+    "monsterID": "8621",
+    "diff": "2",
+    "grade": "10",
+    "unitAttr": "hp_500"
+  },
+  {
+    "id": "147",
+    "monsterID": "86211",
+    "diff": "2",
+    "grade": "10",
+    "unitAttr": "hp_500"
+  },
+  {
+    "id": "148",
+    "monsterID": "8631",
+    "diff": "2",
+    "grade": "10",
+    "unitAttr": "hp_500"
+  },
+  {
+    "id": "149",
+    "monsterID": "8641",
+    "diff": "2",
+    "grade": "10",
+    "unitAttr": "hp_500"
+  },
+  {
+    "id": "150",
+    "monsterID": "86011",
+    "diff": "2",
+    "grade": "10",
+    "unitAttr": "hp_500"
+  },
+  {
+    "id": "151",
+    "monsterID": "8571",
+    "diff": "3",
+    "grade": "10",
+    "unitAttr": "hp_900"
+  },
+  {
+    "id": "152",
+    "monsterID": "8581",
+    "diff": "3",
+    "grade": "10",
+    "unitAttr": "hp_900"
+  },
+  {
+    "id": "153",
+    "monsterID": "8591",
+    "diff": "3",
+    "grade": "10",
+    "unitAttr": "hp_900"
+  },
+  {
+    "id": "154",
+    "monsterID": "8601",
+    "diff": "3",
+    "grade": "10",
+    "unitAttr": "hp_900"
+  },
+  {
+    "id": "155",
+    "monsterID": "8611",
+    "diff": "3",
+    "grade": "10",
+    "unitAttr": "hp_900"
+  },
+  {
+    "id": "156",
+    "monsterID": "86111",
+    "diff": "3",
+    "grade": "10",
+    "unitAttr": "hp_900"
+  },
+  {
+    "id": "157",
+    "monsterID": "8621",
+    "diff": "3",
+    "grade": "10",
+    "unitAttr": "hp_900"
+  },
+  {
+    "id": "158",
+    "monsterID": "86211",
+    "diff": "3",
+    "grade": "10",
+    "unitAttr": "hp_900"
+  },
+  {
+    "id": "159",
+    "monsterID": "8631",
+    "diff": "3",
+    "grade": "10",
+    "unitAttr": "hp_900"
+  },
+  {
+    "id": "160",
+    "monsterID": "8641",
+    "diff": "3",
+    "grade": "10",
+    "unitAttr": "hp_900"
+  },
+  {
+    "id": "161",
+    "monsterID": "86011",
+    "diff": "3",
+    "grade": "10",
+    "unitAttr": "hp_900"
+  },
+  {
+    "id": "162",
+    "monsterID": "8571",
+    "diff": "4",
+    "grade": "10",
+    "unitAttr": "hp_1500"
+  },
+  {
+    "id": "163",
+    "monsterID": "8581",
+    "diff": "4",
+    "grade": "10",
+    "unitAttr": "hp_1500"
+  },
+  {
+    "id": "164",
+    "monsterID": "8591",
+    "diff": "4",
+    "grade": "10",
+    "unitAttr": "hp_1500"
+  },
+  {
+    "id": "165",
+    "monsterID": "8601",
+    "diff": "4",
+    "grade": "10",
+    "unitAttr": "hp_1500"
+  },
+  {
+    "id": "166",
+    "monsterID": "8611",
+    "diff": "4",
+    "grade": "10",
+    "unitAttr": "hp_1500"
+  },
+  {
+    "id": "167",
+    "monsterID": "86111",
+    "diff": "4",
+    "grade": "10",
+    "unitAttr": "hp_1500"
+  },
+  {
+    "id": "168",
+    "monsterID": "8621",
+    "diff": "4",
+    "grade": "10",
+    "unitAttr": "hp_1500"
+  },
+  {
+    "id": "169",
+    "monsterID": "86211",
+    "diff": "4",
+    "grade": "10",
+    "unitAttr": "hp_1500"
+  },
+  {
+    "id": "170",
+    "monsterID": "8631",
+    "diff": "4",
+    "grade": "10",
+    "unitAttr": "hp_1500"
+  },
+  {
+    "id": "171",
+    "monsterID": "8641",
+    "diff": "4",
+    "grade": "10",
+    "unitAttr": "hp_1500"
+  },
+  {
+    "id": "172",
+    "monsterID": "86011",
+    "diff": "4",
+    "grade": "10",
+    "unitAttr": "hp_1500"
+  }
+]

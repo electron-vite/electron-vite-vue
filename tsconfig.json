@@ -9,12 +9,33 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "esModuleInterop": true,
-    "lib": ["ESNext", "DOM"],
+    "baseUrl": ".",
+    "lib": [
+      "ESNext",
+      "DOM"
+    ],
     "skipLibCheck": true,
-    "noEmit": true
+    "noEmit": true,
+    "typeRoots": [
+      "typings/",
+      "electron/electron-env.d.ts"
+    ],
+    "paths": {
+      "@/*": [
+        "src/*"
+      ],
+      "%/*": [
+        "electron/common/*"
+      ]
+    }
   },
-  "include": ["src"],
+  "include": [
+    "src",
+    "typings"
+  ],
   "references": [
-    { "path": "./tsconfig.node.json" }
+    {
+      "path": "./tsconfig.node.json"
+    }
   ]
 }

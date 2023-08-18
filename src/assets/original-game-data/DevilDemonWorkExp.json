@@ -1,0 +1,882 @@
+[
+  {
+    "id": "1",
+    "workArea": "1",
+    "workGrade": "1",
+    "expRate": "70",
+    "minExp": "300",
+    "maxExp": "450"
+  },
+  {
+    "id": "2",
+    "workArea": "1",
+    "workGrade": "2",
+    "expRate": "70",
+    "minExp": "400",
+    "maxExp": "600"
+  },
+  {
+    "id": "3",
+    "workArea": "1",
+    "workGrade": "3",
+    "expRate": "60",
+    "minExp": "500",
+    "maxExp": "750"
+  },
+  {
+    "id": "4",
+    "workArea": "1",
+    "workGrade": "4",
+    "expRate": "60",
+    "minExp": "600",
+    "maxExp": "900"
+  },
+  {
+    "id": "5",
+    "workArea": "1",
+    "workGrade": "5",
+    "expRate": "50",
+    "minExp": "700",
+    "maxExp": "1050"
+  },
+  {
+    "id": "6",
+    "workArea": "1",
+    "workGrade": "6",
+    "expRate": "40",
+    "minExp": "800",
+    "maxExp": "1200"
+  },
+  {
+    "id": "7",
+    "workArea": "1",
+    "workGrade": "7",
+    "expRate": "30",
+    "minExp": "900",
+    "maxExp": "1350"
+  },
+  {
+    "id": "8",
+    "workArea": "1",
+    "workGrade": "8",
+    "expRate": "20",
+    "minExp": "1000",
+    "maxExp": "1500"
+  },
+  {
+    "id": "9",
+    "workArea": "1",
+    "workGrade": "9",
+    "expRate": "10",
+    "minExp": "1100",
+    "maxExp": "1650"
+  },
+  {
+    "id": "10",
+    "workArea": "1",
+    "workGrade": "10",
+    "expRate": "5",
+    "minExp": "1100",
+    "maxExp": "1650"
+  },
+  {
+    "id": "11",
+    "workArea": "2",
+    "workGrade": "1",
+    "expRate": "70",
+    "minExp": "300",
+    "maxExp": "450"
+  },
+  {
+    "id": "12",
+    "workArea": "2",
+    "workGrade": "2",
+    "expRate": "70",
+    "minExp": "400",
+    "maxExp": "600"
+  },
+  {
+    "id": "13",
+    "workArea": "2",
+    "workGrade": "3",
+    "expRate": "60",
+    "minExp": "500",
+    "maxExp": "750"
+  },
+  {
+    "id": "14",
+    "workArea": "2",
+    "workGrade": "4",
+    "expRate": "60",
+    "minExp": "600",
+    "maxExp": "900"
+  },
+  {
+    "id": "15",
+    "workArea": "2",
+    "workGrade": "5",
+    "expRate": "50",
+    "minExp": "700",
+    "maxExp": "1050"
+  },
+  {
+    "id": "16",
+    "workArea": "2",
+    "workGrade": "6",
+    "expRate": "40",
+    "minExp": "800",
+    "maxExp": "1200"
+  },
+  {
+    "id": "17",
+    "workArea": "2",
+    "workGrade": "7",
+    "expRate": "30",
+    "minExp": "900",
+    "maxExp": "1350"
+  },
+  {
+    "id": "18",
+    "workArea": "2",
+    "workGrade": "8",
+    "expRate": "20",
+    "minExp": "1000",
+    "maxExp": "1500"
+  },
+  {
+    "id": "19",
+    "workArea": "2",
+    "workGrade": "9",
+    "expRate": "10",
+    "minExp": "1100",
+    "maxExp": "1650"
+  },
+  {
+    "id": "20",
+    "workArea": "2",
+    "workGrade": "10",
+    "expRate": "5",
+    "minExp": "1100",
+    "maxExp": "1650"
+  },
+  {
+    "id": "21",
+    "workArea": "3",
+    "workGrade": "1",
+    "expRate": "50",
+    "minExp": "600",
+    "maxExp": "900"
+  },
+  {
+    "id": "22",
+    "workArea": "3",
+    "workGrade": "2",
+    "expRate": "50",
+    "minExp": "800",
+    "maxExp": "1200"
+  },
+  {
+    "id": "23",
+    "workArea": "3",
+    "workGrade": "3",
+    "expRate": "70",
+    "minExp": "1000",
+    "maxExp": "1500"
+  },
+  {
+    "id": "24",
+    "workArea": "3",
+    "workGrade": "4",
+    "expRate": "70",
+    "minExp": "1200",
+    "maxExp": "1800"
+  },
+  {
+    "id": "25",
+    "workArea": "3",
+    "workGrade": "5",
+    "expRate": "60",
+    "minExp": "1400",
+    "maxExp": "2100"
+  },
+  {
+    "id": "26",
+    "workArea": "3",
+    "workGrade": "6",
+    "expRate": "50",
+    "minExp": "1600",
+    "maxExp": "2400"
+  },
+  {
+    "id": "27",
+    "workArea": "3",
+    "workGrade": "7",
+    "expRate": "40",
+    "minExp": "1800",
+    "maxExp": "2700"
+  },
+  {
+    "id": "28",
+    "workArea": "3",
+    "workGrade": "8",
+    "expRate": "30",
+    "minExp": "2000",
+    "maxExp": "3000"
+  },
+  {
+    "id": "29",
+    "workArea": "3",
+    "workGrade": "9",
+    "expRate": "20",
+    "minExp": "2200",
+    "maxExp": "3300"
+  },
+  {
+    "id": "30",
+    "workArea": "3",
+    "workGrade": "10",
+    "expRate": "10",
+    "minExp": "2200",
+    "maxExp": "3300"
+  },
+  {
+    "id": "31",
+    "workArea": "4",
+    "workGrade": "1",
+    "expRate": "50",
+    "minExp": "600",
+    "maxExp": "900"
+  },
+  {
+    "id": "32",
+    "workArea": "4",
+    "workGrade": "2",
+    "expRate": "50",
+    "minExp": "800",
+    "maxExp": "1200"
+  },
+  {
+    "id": "33",
+    "workArea": "4",
+    "workGrade": "3",
+    "expRate": "70",
+    "minExp": "1000",
+    "maxExp": "1500"
+  },
+  {
+    "id": "34",
+    "workArea": "4",
+    "workGrade": "4",
+    "expRate": "70",
+    "minExp": "1200",
+    "maxExp": "1800"
+  },
+  {
+    "id": "35",
+    "workArea": "4",
+    "workGrade": "5",
+    "expRate": "60",
+    "minExp": "1400",
+    "maxExp": "2100"
+  },
+  {
+    "id": "36",
+    "workArea": "4",
+    "workGrade": "6",
+    "expRate": "50",
+    "minExp": "1600",
+    "maxExp": "2400"
+  },
+  {
+    "id": "37",
+    "workArea": "4",
+    "workGrade": "7",
+    "expRate": "40",
+    "minExp": "1800",
+    "maxExp": "2700"
+  },
+  {
+    "id": "38",
+    "workArea": "4",
+    "workGrade": "8",
+    "expRate": "30",
+    "minExp": "2000",
+    "maxExp": "3000"
+  },
+  {
+    "id": "39",
+    "workArea": "4",
+    "workGrade": "9",
+    "expRate": "20",
+    "minExp": "2200",
+    "maxExp": "3300"
+  },
+  {
+    "id": "40",
+    "workArea": "4",
+    "workGrade": "10",
+    "expRate": "10",
+    "minExp": "2200",
+    "maxExp": "3300"
+  },
+  {
+    "id": "41",
+    "workArea": "5",
+    "workGrade": "1",
+    "expRate": "40",
+    "minExp": "900",
+    "maxExp": "1350"
+  },
+  {
+    "id": "42",
+    "workArea": "5",
+    "workGrade": "2",
+    "expRate": "50",
+    "minExp": "1200",
+    "maxExp": "1800"
+  },
+  {
+    "id": "43",
+    "workArea": "5",
+    "workGrade": "3",
+    "expRate": "60",
+    "minExp": "1500",
+    "maxExp": "2250"
+  },
+  {
+    "id": "44",
+    "workArea": "5",
+    "workGrade": "4",
+    "expRate": "70",
+    "minExp": "1800",
+    "maxExp": "2700"
+  },
+  {
+    "id": "45",
+    "workArea": "5",
+    "workGrade": "5",
+    "expRate": "70",
+    "minExp": "2100",
+    "maxExp": "3150"
+  },
+  {
+    "id": "46",
+    "workArea": "5",
+    "workGrade": "6",
+    "expRate": "70",
+    "minExp": "2400",
+    "maxExp": "3600"
+  },
+  {
+    "id": "47",
+    "workArea": "5",
+    "workGrade": "7",
+    "expRate": "60",
+    "minExp": "2700",
+    "maxExp": "4050"
+  },
+  {
+    "id": "48",
+    "workArea": "5",
+    "workGrade": "8",
+    "expRate": "40",
+    "minExp": "3000",
+    "maxExp": "4500"
+  },
+  {
+    "id": "49",
+    "workArea": "5",
+    "workGrade": "9",
+    "expRate": "20",
+    "minExp": "3300",
+    "maxExp": "4950"
+  },
+  {
+    "id": "50",
+    "workArea": "5",
+    "workGrade": "10",
+    "expRate": "10",
+    "minExp": "3300",
+    "maxExp": "4950"
+  },
+  {
+    "id": "51",
+    "workArea": "6",
+    "workGrade": "1",
+    "expRate": "40",
+    "minExp": "900",
+    "maxExp": "1350"
+  },
+  {
+    "id": "52",
+    "workArea": "6",
+    "workGrade": "2",
+    "expRate": "50",
+    "minExp": "1200",
+    "maxExp": "1800"
+  },
+  {
+    "id": "53",
+    "workArea": "6",
+    "workGrade": "3",
+    "expRate": "60",
+    "minExp": "1500",
+    "maxExp": "2250"
+  },
+  {
+    "id": "54",
+    "workArea": "6",
+    "workGrade": "4",
+    "expRate": "70",
+    "minExp": "1800",
+    "maxExp": "2700"
+  },
+  {
+    "id": "55",
+    "workArea": "6",
+    "workGrade": "5",
+    "expRate": "70",
+    "minExp": "2100",
+    "maxExp": "3150"
+  },
+  {
+    "id": "56",
+    "workArea": "6",
+    "workGrade": "6",
+    "expRate": "70",
+    "minExp": "2400",
+    "maxExp": "3600"
+  },
+  {
+    "id": "57",
+    "workArea": "6",
+    "workGrade": "7",
+    "expRate": "60",
+    "minExp": "2700",
+    "maxExp": "4050"
+  },
+  {
+    "id": "58",
+    "workArea": "6",
+    "workGrade": "8",
+    "expRate": "40",
+    "minExp": "3000",
+    "maxExp": "4500"
+  },
+  {
+    "id": "59",
+    "workArea": "6",
+    "workGrade": "9",
+    "expRate": "20",
+    "minExp": "3300",
+    "maxExp": "4950"
+  },
+  {
+    "id": "60",
+    "workArea": "6",
+    "workGrade": "10",
+    "expRate": "10",
+    "minExp": "3300",
+    "maxExp": "4950"
+  },
+  {
+    "id": "61",
+    "workArea": "7",
+    "workGrade": "1",
+    "expRate": "20",
+    "minExp": "1200",
+    "maxExp": "1800"
+  },
+  {
+    "id": "62",
+    "workArea": "7",
+    "workGrade": "2",
+    "expRate": "30",
+    "minExp": "1600",
+    "maxExp": "2400"
+  },
+  {
+    "id": "63",
+    "workArea": "7",
+    "workGrade": "3",
+    "expRate": "40",
+    "minExp": "2000",
+    "maxExp": "3000"
+  },
+  {
+    "id": "64",
+    "workArea": "7",
+    "workGrade": "4",
+    "expRate": "50",
+    "minExp": "2400",
+    "maxExp": "3600"
+  },
+  {
+    "id": "65",
+    "workArea": "7",
+    "workGrade": "5",
+    "expRate": "60",
+    "minExp": "2800",
+    "maxExp": "4200"
+  },
+  {
+    "id": "66",
+    "workArea": "7",
+    "workGrade": "6",
+    "expRate": "70",
+    "minExp": "3200",
+    "maxExp": "4800"
+  },
+  {
+    "id": "67",
+    "workArea": "7",
+    "workGrade": "7",
+    "expRate": "70",
+    "minExp": "3600",
+    "maxExp": "5400"
+  },
+  {
+    "id": "68",
+    "workArea": "7",
+    "workGrade": "8",
+    "expRate": "70",
+    "minExp": "4000",
+    "maxExp": "6000"
+  },
+  {
+    "id": "69",
+    "workArea": "7",
+    "workGrade": "9",
+    "expRate": "50",
+    "minExp": "4400",
+    "maxExp": "6600"
+  },
+  {
+    "id": "70",
+    "workArea": "7",
+    "workGrade": "10",
+    "expRate": "40",
+    "minExp": "4400",
+    "maxExp": "6600"
+  },
+  {
+    "id": "71",
+    "workArea": "8",
+    "workGrade": "1",
+    "expRate": "20",
+    "minExp": "1200",
+    "maxExp": "1800"
+  },
+  {
+    "id": "72",
+    "workArea": "8",
+    "workGrade": "2",
+    "expRate": "30",
+    "minExp": "1600",
+    "maxExp": "2400"
+  },
+  {
+    "id": "73",
+    "workArea": "8",
+    "workGrade": "3",
+    "expRate": "40",
+    "minExp": "2000",
+    "maxExp": "3000"
+  },
+  {
+    "id": "74",
+    "workArea": "8",
+    "workGrade": "4",
+    "expRate": "50",
+    "minExp": "2400",
+    "maxExp": "3600"
+  },
+  {
+    "id": "75",
+    "workArea": "8",
+    "workGrade": "5",
+    "expRate": "60",
+    "minExp": "2800",
+    "maxExp": "4200"
+  },
+  {
+    "id": "76",
+    "workArea": "8",
+    "workGrade": "6",
+    "expRate": "70",
+    "minExp": "3200",
+    "maxExp": "4800"
+  },
+  {
+    "id": "77",
+    "workArea": "8",
+    "workGrade": "7",
+    "expRate": "70",
+    "minExp": "3600",
+    "maxExp": "5400"
+  },
+  {
+    "id": "78",
+    "workArea": "8",
+    "workGrade": "8",
+    "expRate": "70",
+    "minExp": "4000",
+    "maxExp": "6000"
+  },
+  {
+    "id": "79",
+    "workArea": "8",
+    "workGrade": "9",
+    "expRate": "50",
+    "minExp": "4400",
+    "maxExp": "6600"
+  },
+  {
+    "id": "80",
+    "workArea": "8",
+    "workGrade": "10",
+    "expRate": "40",
+    "minExp": "4400",
+    "maxExp": "6600"
+  },
+  {
+    "id": "81",
+    "workArea": "9",
+    "workGrade": "1",
+    "expRate": "10",
+    "minExp": "1500",
+    "maxExp": "2250"
+  },
+  {
+    "id": "82",
+    "workArea": "9",
+    "workGrade": "2",
+    "expRate": "20",
+    "minExp": "2000",
+    "maxExp": "3000"
+  },
+  {
+    "id": "83",
+    "workArea": "9",
+    "workGrade": "3",
+    "expRate": "30",
+    "minExp": "2500",
+    "maxExp": "3750"
+  },
+  {
+    "id": "84",
+    "workArea": "9",
+    "workGrade": "4",
+    "expRate": "40",
+    "minExp": "3000",
+    "maxExp": "4500"
+  },
+  {
+    "id": "85",
+    "workArea": "9",
+    "workGrade": "5",
+    "expRate": "50",
+    "minExp": "3500",
+    "maxExp": "5250"
+  },
+  {
+    "id": "86",
+    "workArea": "9",
+    "workGrade": "6",
+    "expRate": "60",
+    "minExp": "4000",
+    "maxExp": "6000"
+  },
+  {
+    "id": "87",
+    "workArea": "9",
+    "workGrade": "7",
+    "expRate": "60",
+    "minExp": "4500",
+    "maxExp": "6750"
+  },
+  {
+    "id": "88",
+    "workArea": "9",
+    "workGrade": "8",
+    "expRate": "70",
+    "minExp": "5000",
+    "maxExp": "7500"
+  },
+  {
+    "id": "89",
+    "workArea": "9",
+    "workGrade": "9",
+    "expRate": "70",
+    "minExp": "5500",
+    "maxExp": "8250"
+  },
+  {
+    "id": "90",
+    "workArea": "9",
+    "workGrade": "10",
+    "expRate": "70",
+    "minExp": "5500",
+    "maxExp": "8250"
+  },
+  {
+    "id": "91",
+    "workArea": "10",
+    "workGrade": "1",
+    "expRate": "10",
+    "minExp": "1500",
+    "maxExp": "2250"
+  },
+  {
+    "id": "92",
+    "workArea": "10",
+    "workGrade": "2",
+    "expRate": "20",
+    "minExp": "2000",
+    "maxExp": "3000"
+  },
+  {
+    "id": "93",
+    "workArea": "10",
+    "workGrade": "3",
+    "expRate": "30",
+    "minExp": "2500",
+    "maxExp": "3750"
+  },
+  {
+    "id": "94",
+    "workArea": "10",
+    "workGrade": "4",
+    "expRate": "40",
+    "minExp": "3000",
+    "maxExp": "4500"
+  },
+  {
+    "id": "95",
+    "workArea": "10",
+    "workGrade": "5",
+    "expRate": "50",
+    "minExp": "3500",
+    "maxExp": "5250"
+  },
+  {
+    "id": "96",
+    "workArea": "10",
+    "workGrade": "6",
+    "expRate": "60",
+    "minExp": "4000",
+    "maxExp": "6000"
+  },
+  {
+    "id": "97",
+    "workArea": "10",
+    "workGrade": "7",
+    "expRate": "60",
+    "minExp": "4500",
+    "maxExp": "6750"
+  },
+  {
+    "id": "98",
+    "workArea": "10",
+    "workGrade": "8",
+    "expRate": "70",
+    "minExp": "5000",
+    "maxExp": "7500"
+  },
+  {
+    "id": "99",
+    "workArea": "10",
+    "workGrade": "9",
+    "expRate": "70",
+    "minExp": "5500",
+    "maxExp": "8250"
+  },
+  {
+    "id": "100",
+    "workArea": "10",
+    "workGrade": "10",
+    "expRate": "70",
+    "minExp": "5500",
+    "maxExp": "8250"
+  },
+  {
+    "id": "101",
+    "workArea": "11",
+    "workGrade": "1",
+    "expRate": "100",
+    "minExp": "1500",
+    "maxExp": "2250"
+  },
+  {
+    "id": "102",
+    "workArea": "11",
+    "workGrade": "2",
+    "expRate": "100",
+    "minExp": "2000",
+    "maxExp": "3000"
+  },
+  {
+    "id": "103",
+    "workArea": "11",
+    "workGrade": "3",
+    "expRate": "100",
+    "minExp": "2500",
+    "maxExp": "3750"
+  },
+  {
+    "id": "104",
+    "workArea": "11",
+    "workGrade": "4",
+    "expRate": "100",
+    "minExp": "3000",
+    "maxExp": "4500"
+  },
+  {
+    "id": "105",
+    "workArea": "11",
+    "workGrade": "5",
+    "expRate": "100",
+    "minExp": "3500",
+    "maxExp": "5250"
+  },
+  {
+    "id": "106",
+    "workArea": "11",
+    "workGrade": "6",
+    "expRate": "100",
+    "minExp": "4000",
+    "maxExp": "6000"
+  },
+  {
+    "id": "107",
+    "workArea": "11",
+    "workGrade": "7",
+    "expRate": "100",
+    "minExp": "4500",
+    "maxExp": "6750"
+  },
+  {
+    "id": "108",
+    "workArea": "11",
+    "workGrade": "8",
+    "expRate": "100",
+    "minExp": "5000",
+    "maxExp": "7500"
+  },
+  {
+    "id": "109",
+    "workArea": "11",
+    "workGrade": "9",
+    "expRate": "100",
+    "minExp": "5500",
+    "maxExp": "8250"
+  },
+  {
+    "id": "110",
+    "workArea": "11",
+    "workGrade": "10",
+    "expRate": "100",
+    "minExp": "5500",
+    "maxExp": "8250"
+  }
+]

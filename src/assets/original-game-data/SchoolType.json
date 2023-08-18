@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "scale": "4",
+    "name": "schoolLastName1",
+    "stand": "1"
+  },
+  {
+    "id": "2",
+    "scale": "4",
+    "name": "schoolLastName2",
+    "stand": "2"
+  },
+  {
+    "id": "3",
+    "scale": "3",
+    "name": "schoolLastName3",
+    "stand": "1"
+  },
+  {
+    "id": "4",
+    "scale": "3",
+    "name": "schoolLastName4",
+    "stand": "2"
+  },
+  {
+    "id": "5",
+    "scale": "2",
+    "name": "schoolLastName5",
+    "stand": "1"
+  },
+  {
+    "id": "6",
+    "scale": "2",
+    "name": "schoolLastName6",
+    "stand": "2"
+  },
+  {
+    "id": "7",
+    "scale": "5",
+    "name": "schoolLastName7",
+    "stand": "1"
+  },
+  {
+    "id": "8",
+    "scale": "5",
+    "name": "schoolLastName8",
+    "stand": "2"
+  },
+  {
+    "id": "9",
+    "scale": "5",
+    "name": "schoolLastName9",
+    "stand": "1"
+  },
+  {
+    "id": "10",
+    "scale": "5",
+    "name": "schoolLastName10",
+    "stand": "2"
+  },
+  {
+    "id": "11",
+    "scale": "1",
+    "name": "schoolLastName11",
+    "stand": "1"
+  }
+]

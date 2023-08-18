@@ -1,0 +1,227 @@
+[
+  {
+    "id": "1",
+    "condition": "scene_pointRaceBegin",
+    "dramaId": "1009008"
+  },
+  {
+    "id": "2",
+    "condition": "scene_mobilizationAfter",
+    "dramaId": "1009001"
+  },
+  {
+    "id": "3",
+    "condition": "scene_schoolLose",
+    "dramaId": "1009002"
+  },
+  {
+    "id": "4",
+    "condition": "scene_schoolWin",
+    "dramaId": "1009003"
+  },
+  {
+    "id": "5",
+    "condition": "scene_unitFirst",
+    "dramaId": "1009004"
+  },
+  {
+    "id": "6",
+    "condition": "scene_mobilizationBegin|isMain_A_1",
+    "dramaId": "1009018"
+  },
+  {
+    "id": "7",
+    "condition": "scene_mobilizationBegin|isMain_A_0",
+    "dramaId": "1009019"
+  },
+  {
+    "id": "8",
+    "condition": "scene_mystGiveAfter|countLimit_1",
+    "dramaId": "1009010"
+  },
+  {
+    "id": "9",
+    "condition": "scene_playerConfirm",
+    "dramaId": "1009007"
+  },
+  {
+    "id": "10",
+    "condition": "scene_playerConfirm10",
+    "dramaId": "1009601"
+  },
+  {
+    "id": "11",
+    "condition": "scene_mystExitFirst|post_A_1_2_3",
+    "dramaId": "1009009"
+  },
+  {
+    "id": "12",
+    "condition": "scene_arenaEnter",
+    "dramaId": "1009014"
+  },
+  {
+    "id": "13",
+    "condition": "scene_pointRaceEnter",
+    "dramaId": "1009017"
+  },
+  {
+    "id": "14",
+    "condition": "scene_mystExitFirst",
+    "dramaId": "1009020"
+  },
+  {
+    "id": "15",
+    "condition": "scene_pointRaceBattleEnd|round_1|order_1",
+    "dramaId": "1009029"
+  },
+  {
+    "id": "16",
+    "condition": "scene_mystGet|countLimit_1",
+    "dramaId": "1009043"
+  },
+  {
+    "id": "17",
+    "condition": "scene_pointRaceOver",
+    "dramaId": "1009026"
+  },
+  {
+    "id": "18",
+    "condition": "scene_mystBegin|post_A_1_2_3",
+    "dramaId": "1009032"
+  },
+  {
+    "id": "19",
+    "condition": "scene_mystBegin|post_A_4_5_6",
+    "dramaId": "1009034"
+  },
+  {
+    "id": "20",
+    "condition": "scene_fightEnd",
+    "dramaId": "0"
+  },
+  {
+    "id": "21",
+    "condition": "scene_fightEndMvp",
+    "dramaId": "0"
+  },
+  {
+    "id": "22",
+    "condition": "scene_score|schoolRank_1",
+    "dramaId": "1009201"
+  },
+  {
+    "id": "23",
+    "condition": "scene_score|schoolRank_2",
+    "dramaId": "1009301"
+  },
+  {
+    "id": "24",
+    "condition": "scene_score|schoolRank_3",
+    "dramaId": "1009401"
+  },
+  {
+    "id": "25",
+    "condition": "scene_score|isPlayer_1|unitRank_1|area_4",
+    "dramaId": "1009109"
+  },
+  {
+    "id": "26",
+    "condition": "scene_score|isPlayer_1|unitRank_1|area_6",
+    "dramaId": "1009110"
+  },
+  {
+    "id": "27",
+    "condition": "scene_score|isPlayer_1|unitRank_1|area_8",
+    "dramaId": "1009111"
+  },
+  {
+    "id": "28",
+    "condition": "scene_score|isPlayer_1|unitRank_1|area_9_10",
+    "dramaId": "1009113"
+  },
+  {
+    "id": "29",
+    "condition": "scene_give0",
+    "dramaId": "drama_dialogue7004102"
+  },
+  {
+    "id": "30",
+    "condition": "scene_give1",
+    "dramaId": "drama_dialogue7005107"
+  },
+  {
+    "id": "31",
+    "condition": "scene_give2",
+    "dramaId": "drama_dialogue7005108"
+  },
+  {
+    "id": "32",
+    "condition": "scene_give3",
+    "dramaId": "drama_dialogue7005109"
+  },
+  {
+    "id": "33",
+    "condition": "scene_give4",
+    "dramaId": "drama_dialogue7005109"
+  },
+  {
+    "id": "34",
+    "condition": "scene_mobilizationMainTalk17000111",
+    "dramaId": "drama_dialogue1009033|drama_dialogue1009034|drama_dialogue1009035"
+  },
+  {
+    "id": "35",
+    "condition": "scene_mobilizationMainTalk17000112",
+    "dramaId": "drama_dialogue1009033|drama_dialogue1009034|drama_dialogue1009035"
+  },
+  {
+    "id": "36",
+    "condition": "scene_mobilizationMainTalk17000113",
+    "dramaId": "drama_dialogue1009033|drama_dialogue1009034|drama_dialogue1009035"
+  },
+  {
+    "id": "37",
+    "condition": "scene_arenaPlayerLast",
+    "dramaId": "drama_dialogue6200015"
+  },
+  {
+    "id": "38",
+    "condition": "scene_arenaAppointSuperTalk",
+    "dramaId": "drama_dialogue6200016"
+  },
+  {
+    "id": "39",
+    "condition": "scene_arenaAppointStudTalk",
+    "dramaId": "drama_dialogue6200017"
+  },
+  {
+    "id": "40",
+    "condition": "scene_arenaChallengerEnter",
+    "dramaId": "drama_dialogue6200018"
+  },
+  {
+    "id": "41",
+    "condition": "scene_arenaNpcExitBattle",
+    "dramaId": "drama_dialogue6200019"
+  },
+  {
+    "id": "42",
+    "condition": "scene_arenaLoserTalk",
+    "dramaId": "drama_dialogue6200020"
+  },
+  {
+    "id": "43",
+    "condition": "scene_arenaWinnerTalk",
+    "dramaId": "drama_dialogue6200021"
+  },
+  {
+    "id": "44",
+    "condition": "scene_arenaSurrenderTalk",
+    "dramaId": "drama_dialogue1009060"
+  },
+  {
+    "id": "45",
+    "condition": "scene_arenaSurrenderReply",
+    "dramaId": "drama_dialogue1009061"
+  }
+]

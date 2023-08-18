@@ -1,0 +1,357 @@
+[
+  {
+    "id": "1",
+    "key": "lostItemCountMin",
+    "value": "0"
+  },
+  {
+    "id": "2",
+    "key": "lostItemCountMax",
+    "value": "3"
+  },
+  {
+    "id": "3",
+    "key": "lostItemPercentMin",
+    "value": "20"
+  },
+  {
+    "id": "4",
+    "key": "lostItemPercentMax",
+    "value": "100"
+  },
+  {
+    "id": "5",
+    "key": "hurtFeatureID",
+    "value": "5011"
+  },
+  {
+    "id": "6",
+    "key": "hateAddMin",
+    "value": "60"
+  },
+  {
+    "id": "7",
+    "key": "hateAddMax",
+    "value": "60"
+  },
+  {
+    "id": "8",
+    "key": "hateLimited",
+    "value": "-999"
+  },
+  {
+    "id": "9",
+    "key": "failListMin",
+    "value": "8"
+  },
+  {
+    "id": "10",
+    "key": "failListMax",
+    "value": "12"
+  },
+  {
+    "id": "11",
+    "key": "abuseMaxhpDecMin",
+    "value": "25"
+  },
+  {
+    "id": "12",
+    "key": "abuseMaxhpDecMax",
+    "value": "40"
+  },
+  {
+    "id": "13",
+    "key": "abuseReputationDecMin",
+    "value": "500"
+  },
+  {
+    "id": "14",
+    "key": "abuseAddHate",
+    "value": "300"
+  },
+  {
+    "id": "15",
+    "key": "abuseAddFeature1",
+    "value": "9001101"
+  },
+  {
+    "id": "16",
+    "key": "abuseAddFeature2",
+    "value": "9001102"
+  },
+  {
+    "id": "17",
+    "key": "abuseAddFeature3",
+    "value": "0"
+  },
+  {
+    "id": "18",
+    "key": "abuseUpFeatureProbability1",
+    "value": "50"
+  },
+  {
+    "id": "19",
+    "key": "abuseUpFeatureProbability2",
+    "value": "50"
+  },
+  {
+    "id": "20",
+    "key": "eliteAbuseReputationDecMin",
+    "value": "500"
+  },
+  {
+    "id": "21",
+    "key": "eliteAbuseAddHate",
+    "value": "300"
+  },
+  {
+    "id": "22",
+    "key": "eliteAbuseAddFeature1",
+    "value": "0"
+  },
+  {
+    "id": "23",
+    "key": "eliteAbuseAddFeature2",
+    "value": "0"
+  },
+  {
+    "id": "24",
+    "key": "eliteAbuseAddFeature3",
+    "value": "0"
+  },
+  {
+    "id": "25",
+    "key": "eliteAbuseUpFeatureProbability1",
+    "value": "0"
+  },
+  {
+    "id": "26",
+    "key": "eliteAbuseUpFeatureProbability2",
+    "value": "0"
+  },
+  {
+    "id": "27",
+    "key": "trashEliteAbuseAddFeature1",
+    "value": "9001001"
+  },
+  {
+    "id": "28",
+    "key": "trashEliteAbuseAddFeature2",
+    "value": "9001002"
+  },
+  {
+    "id": "29",
+    "key": "trashEliteAbuseAddFeature3",
+    "value": "0"
+  },
+  {
+    "id": "30",
+    "key": "trashEliteAbuseUpFeatureProbability1",
+    "value": "50"
+  },
+  {
+    "id": "31",
+    "key": "trashEliteAbuseUpFeatureProbability2",
+    "value": "0"
+  },
+  {
+    "id": "32",
+    "key": "eventLogRoleBattle21311",
+    "value": "0"
+  },
+  {
+    "id": "33",
+    "key": "eventLogRoleBattle21321",
+    "value": "0"
+  },
+  {
+    "id": "34",
+    "key": "eventLogRoleBattle21331",
+    "value": "0"
+  },
+  {
+    "id": "35",
+    "key": "eventLogRoleBattle21341",
+    "value": "0"
+  },
+  {
+    "id": "36",
+    "key": "eventLogRoleBattle21312",
+    "value": "0"
+  },
+  {
+    "id": "37",
+    "key": "eventLogRoleBattle21322",
+    "value": "0"
+  },
+  {
+    "id": "38",
+    "key": "eventLogRoleBattle21332",
+    "value": "0"
+  },
+  {
+    "id": "39",
+    "key": "eventLogRoleBattle21342",
+    "value": "0"
+  },
+  {
+    "id": "40",
+    "key": "abuseDialogueID",
+    "value": "22656"
+  },
+  {
+    "id": "41",
+    "key": "abuseCounterDialogueID",
+    "value": "22657"
+  },
+  {
+    "id": "42",
+    "key": "abuseCounterCDMin",
+    "value": "25"
+  },
+  {
+    "id": "43",
+    "key": "abuseCounterCDMax",
+    "value": "40"
+  },
+  {
+    "id": "44",
+    "key": "abuseCounterMaxhpDecMin",
+    "value": "5"
+  },
+  {
+    "id": "45",
+    "key": "abuseCounterMaxhpDecMax",
+    "value": "12"
+  },
+  {
+    "id": "46",
+    "key": "abuseCounterReputationDecMin",
+    "value": "500"
+  },
+  {
+    "id": "47",
+    "key": "abuseCounterAddHate",
+    "value": "300"
+  },
+  {
+    "id": "48",
+    "key": "abuseCounterAddFeature1",
+    "value": "0"
+  },
+  {
+    "id": "49",
+    "key": "abuseCounterAddFeature2",
+    "value": "0"
+  },
+  {
+    "id": "50",
+    "key": "abuseCounterAddFeature3",
+    "value": "0"
+  },
+  {
+    "id": "51",
+    "key": "abuseCounterValue1",
+    "value": "5"
+  },
+  {
+    "id": "52",
+    "key": "abuseCounterValue2",
+    "value": "10"
+  },
+  {
+    "id": "53",
+    "key": "eliteAbuseCounterReputationDecMin",
+    "value": "500"
+  },
+  {
+    "id": "54",
+    "key": "eliteAbuseCounterAddHate",
+    "value": "180"
+  },
+  {
+    "id": "55",
+    "key": "eliteAbuseCounterAddFeature1",
+    "value": "0"
+  },
+  {
+    "id": "56",
+    "key": "eliteAbuseCounterAddFeature2",
+    "value": "0"
+  },
+  {
+    "id": "57",
+    "key": "eliteAbuseCounterAddFeature3",
+    "value": "0"
+  },
+  {
+    "id": "58",
+    "key": "schoolPenaltyValue10",
+    "value": "-10"
+  },
+  {
+    "id": "59",
+    "key": "schoolPenaltyValue20",
+    "value": "-60"
+  },
+  {
+    "id": "60",
+    "key": "schoolPenaltyValue30",
+    "value": "120"
+  },
+  {
+    "id": "61",
+    "key": "schoolPenaltyValue40",
+    "value": "0"
+  },
+  {
+    "id": "62",
+    "key": "schoolPenaltyValue50",
+    "value": "0"
+  },
+  {
+    "id": "63",
+    "key": "schoolPenaltyValue60",
+    "value": "0"
+  },
+  {
+    "id": "64",
+    "key": "schoolPenaltyValue70",
+    "value": "-30"
+  },
+  {
+    "id": "65",
+    "key": "schoolPenaltyValue80",
+    "value": "-120"
+  },
+  {
+    "id": "66",
+    "key": "schoolPenaltyValue90",
+    "value": "-60"
+  },
+  {
+    "id": "67",
+    "key": "schoolPenaltyValue100",
+    "value": "120"
+  },
+  {
+    "id": "68",
+    "key": "schoolPenaltyValue110",
+    "value": "-10"
+  },
+  {
+    "id": "69",
+    "key": "schoolPenaltyValue120",
+    "value": "-30"
+  },
+  {
+    "id": "70",
+    "key": "schoolPenaltyValue130",
+    "value": "-20"
+  },
+  {
+    "id": "71",
+    "key": "schoolPenaltyValue140",
+    "value": "60"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "key": "schoolBanDir",
+    "value": "6"
+  },
+  {
+    "id": "2",
+    "key": "buildMinDir",
+    "value": "3"
+  },
+  {
+    "id": "3",
+    "key": "pointMinDir",
+    "value": "20"
+  },
+  {
+    "id": "4",
+    "key": "schoolLimitDir",
+    "value": "12"
+  },
+  {
+    "id": "5",
+    "key": "schoolLimitCount",
+    "value": "2"
+  },
+  {
+    "id": "6",
+    "key": "areaMaxPoint",
+    "value": "8"
+  },
+  {
+    "id": "7",
+    "key": "attackProtectionTime",
+    "value": "0"
+  },
+  {
+    "id": "8",
+    "key": "defenseProtectionTime",
+    "value": "0"
+  },
+  {
+    "id": "9",
+    "key": "attackPrepareTime",
+    "value": "2"
+  },
+  {
+    "id": "10",
+    "key": "attackOneYear",
+    "value": "99"
+  },
+  {
+    "id": "11",
+    "key": "attackCycle",
+    "value": "12"
+  },
+  {
+    "id": "12",
+    "key": "rewardCycle",
+    "value": "3"
+  },
+  {
+    "id": "13",
+    "key": "schoolDemandDegreeMin",
+    "value": "0"
+  },
+  {
+    "id": "14",
+    "key": "schoolDemandDegreeMax",
+    "value": "30"
+  },
+  {
+    "id": "15",
+    "key": "guardType",
+    "value": "4"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "health": "50",
+    "hpReduce": "10",
+    "lifeReduce": "0"
+  },
+  {
+    "id": "2",
+    "health": "30",
+    "hpReduce": "15",
+    "lifeReduce": "1"
+  },
+  {
+    "id": "3",
+    "health": "20",
+    "hpReduce": "20",
+    "lifeReduce": "2"
+  },
+  {
+    "id": "4",
+    "health": "10",
+    "hpReduce": "25",
+    "lifeReduce": "3"
+  }
+]

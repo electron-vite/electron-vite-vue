@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "key": "maskParticleMin",
+    "value": "1"
+  },
+  {
+    "id": "2",
+    "key": "maskParticleMax",
+    "value": "3.5"
+  },
+  {
+    "id": "3",
+    "key": "maskScaleMin",
+    "value": "0.2"
+  },
+  {
+    "id": "4",
+    "key": "maskScaleMax",
+    "value": "1.5"
+  },
+  {
+    "id": "5",
+    "key": "recoverSpoitScale",
+    "value": "1.4"
+  }
+]

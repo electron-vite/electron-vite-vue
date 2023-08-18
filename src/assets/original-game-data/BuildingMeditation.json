@@ -1,0 +1,632 @@
+[
+  {
+    "id": "1",
+    "group": "1",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "2",
+    "group": "1",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "3",
+    "group": "1",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "4",
+    "group": "1",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "5",
+    "group": "1",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "6",
+    "group": "1",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "7",
+    "group": "2",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "8",
+    "group": "2",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "9",
+    "group": "2",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "10",
+    "group": "2",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "11",
+    "group": "2",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "12",
+    "group": "2",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "13",
+    "group": "3",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "14",
+    "group": "3",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "15",
+    "group": "3",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "16",
+    "group": "3",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "17",
+    "group": "3",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "18",
+    "group": "3",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "19",
+    "group": "4",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "20",
+    "group": "4",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "21",
+    "group": "4",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "22",
+    "group": "4",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "23",
+    "group": "4",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "24",
+    "group": "4",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "25",
+    "group": "5",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "26",
+    "group": "5",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "27",
+    "group": "5",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "28",
+    "group": "5",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "29",
+    "group": "5",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "30",
+    "group": "5",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "31",
+    "group": "6",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "32",
+    "group": "6",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "33",
+    "group": "6",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "34",
+    "group": "6",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "35",
+    "group": "6",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "36",
+    "group": "6",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "37",
+    "group": "7",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "38",
+    "group": "7",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "39",
+    "group": "7",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "40",
+    "group": "7",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "41",
+    "group": "7",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "42",
+    "group": "7",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "43",
+    "group": "8",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "44",
+    "group": "8",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "45",
+    "group": "8",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "46",
+    "group": "8",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "47",
+    "group": "8",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "48",
+    "group": "8",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "49",
+    "group": "9",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "50",
+    "group": "9",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "51",
+    "group": "9",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "52",
+    "group": "9",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "53",
+    "group": "9",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "54",
+    "group": "9",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "55",
+    "group": "10",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "56",
+    "group": "10",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "57",
+    "group": "10",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "58",
+    "group": "10",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "59",
+    "group": "10",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "60",
+    "group": "10",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "61",
+    "group": "11",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "62",
+    "group": "11",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "63",
+    "group": "11",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "64",
+    "group": "11",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "65",
+    "group": "11",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "66",
+    "group": "11",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "67",
+    "group": "12",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "68",
+    "group": "12",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "69",
+    "group": "12",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "70",
+    "group": "12",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "71",
+    "group": "12",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "72",
+    "group": "12",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "73",
+    "group": "13",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "74",
+    "group": "13",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "75",
+    "group": "13",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "76",
+    "group": "13",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "77",
+    "group": "13",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "78",
+    "group": "13",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "79",
+    "group": "14",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "80",
+    "group": "14",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "81",
+    "group": "14",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "82",
+    "group": "14",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "83",
+    "group": "14",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "84",
+    "group": "14",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "85",
+    "group": "15",
+    "areaID": "2",
+    "exp": "80",
+    "costContribution": "5"
+  },
+  {
+    "id": "86",
+    "group": "15",
+    "areaID": "4",
+    "exp": "200",
+    "costContribution": "10"
+  },
+  {
+    "id": "87",
+    "group": "15",
+    "areaID": "6",
+    "exp": "500",
+    "costContribution": "25"
+  },
+  {
+    "id": "88",
+    "group": "15",
+    "areaID": "8",
+    "exp": "1250",
+    "costContribution": "50"
+  },
+  {
+    "id": "89",
+    "group": "15",
+    "areaID": "9",
+    "exp": "3500",
+    "costContribution": "125"
+  },
+  {
+    "id": "90",
+    "group": "15",
+    "areaID": "10",
+    "exp": "3500",
+    "costContribution": "125"
+  }
+]

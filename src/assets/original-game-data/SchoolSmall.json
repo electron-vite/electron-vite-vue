@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1103",
+    "condition": "positionPoint_30_55_10_10",
+    "group": "13",
+    "lastName": "schoolLastName1",
+    "TaoistHeart": "0",
+    "feature": "1019",
+    "mustskillType": "0",
+    "playerSkill": "0",
+    "skillType": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "specialBuilder": "0",
+    "needFate": "-1",
+    "applySchoolCondition": "0",
+    "applySchoolDrama": "0",
+    "dungeonID": "0"
+  },
+  {
+    "id": "1101",
+    "condition": "positionPoint_30_55_10_10",
+    "group": "13",
+    "lastName": "schoolLastName1",
+    "TaoistHeart": "0",
+    "feature": "1019",
+    "mustskillType": "0",
+    "playerSkill": "0",
+    "skillType": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "specialBuilder": "0",
+    "needFate": "0",
+    "applySchoolCondition": "0",
+    "applySchoolDrama": "0",
+    "dungeonID": "0"
+  },
+  {
+    "id": "1201",
+    "condition": "positionPoint_30_55_10_10",
+    "group": "14",
+    "lastName": "schoolLastName11",
+    "TaoistHeart": "0",
+    "feature": "0",
+    "mustskillType": "2",
+    "playerSkill": "11",
+    "skillType": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "specialBuilder": "1112",
+    "needFate": "2803",
+    "applySchoolCondition": "dialogue_1500031_0|dialogue_1500001_0|dialogue_1500011_0|school_0_0",
+    "applySchoolDrama": "1500012",
+    "dungeonID": "100501"
+  }
+]

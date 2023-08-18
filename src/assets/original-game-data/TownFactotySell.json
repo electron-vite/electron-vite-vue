@@ -1,0 +1,224 @@
+[
+  {
+    "id": "6051011",
+    "level": "1",
+    "mainTown": "0",
+    "makePrice": "400"
+  },
+  {
+    "id": "6051021",
+    "level": "2",
+    "mainTown": "0",
+    "makePrice": "1200"
+  },
+  {
+    "id": "6051031",
+    "level": "3",
+    "mainTown": "0",
+    "makePrice": "3600"
+  },
+  {
+    "id": "6051041",
+    "level": "4",
+    "mainTown": "0",
+    "makePrice": "11500"
+  },
+  {
+    "id": "6051051",
+    "level": "5",
+    "mainTown": "0",
+    "makePrice": "36000"
+  },
+  {
+    "id": "6051071",
+    "level": "1",
+    "mainTown": "0",
+    "makePrice": "400"
+  },
+  {
+    "id": "6051081",
+    "level": "2",
+    "mainTown": "0",
+    "makePrice": "1200"
+  },
+  {
+    "id": "6051091",
+    "level": "3",
+    "mainTown": "0",
+    "makePrice": "3600"
+  },
+  {
+    "id": "6051101",
+    "level": "4",
+    "mainTown": "0",
+    "makePrice": "11500"
+  },
+  {
+    "id": "6051111",
+    "level": "5",
+    "mainTown": "0",
+    "makePrice": "36000"
+  },
+  {
+    "id": "6051121",
+    "level": "1",
+    "mainTown": "0",
+    "makePrice": "400"
+  },
+  {
+    "id": "6051131",
+    "level": "2",
+    "mainTown": "0",
+    "makePrice": "1200"
+  },
+  {
+    "id": "6051141",
+    "level": "3",
+    "mainTown": "0",
+    "makePrice": "3600"
+  },
+  {
+    "id": "6051151",
+    "level": "4",
+    "mainTown": "0",
+    "makePrice": "11500"
+  },
+  {
+    "id": "6051161",
+    "level": "5",
+    "mainTown": "0",
+    "makePrice": "36000"
+  },
+  {
+    "id": "6051181",
+    "level": "1",
+    "mainTown": "0",
+    "makePrice": "400"
+  },
+  {
+    "id": "6051191",
+    "level": "2",
+    "mainTown": "0",
+    "makePrice": "1200"
+  },
+  {
+    "id": "6051201",
+    "level": "3",
+    "mainTown": "0",
+    "makePrice": "3600"
+  },
+  {
+    "id": "6051211",
+    "level": "4",
+    "mainTown": "0",
+    "makePrice": "11500"
+  },
+  {
+    "id": "6051221",
+    "level": "5",
+    "mainTown": "0",
+    "makePrice": "36000"
+  },
+  {
+    "id": "6051421",
+    "level": "1",
+    "mainTown": "1",
+    "makePrice": "400"
+  },
+  {
+    "id": "6051431",
+    "level": "1",
+    "mainTown": "1",
+    "makePrice": "1200"
+  },
+  {
+    "id": "6051491",
+    "level": "2",
+    "mainTown": "1",
+    "makePrice": "2400"
+  },
+  {
+    "id": "6051501",
+    "level": "2",
+    "mainTown": "1",
+    "makePrice": "1800"
+  },
+  {
+    "id": "6051511",
+    "level": "2",
+    "mainTown": "1",
+    "makePrice": "-1"
+  },
+  {
+    "id": "6051541",
+    "level": "3",
+    "mainTown": "1",
+    "makePrice": "-1"
+  },
+  {
+    "id": "6051551",
+    "level": "3",
+    "mainTown": "1",
+    "makePrice": "-1"
+  },
+  {
+    "id": "6051561",
+    "level": "4",
+    "mainTown": "1",
+    "makePrice": "-1"
+  },
+  {
+    "id": "6051611",
+    "level": "0",
+    "mainTown": "0",
+    "makePrice": "200"
+  },
+  {
+    "id": "6051621",
+    "level": "0",
+    "mainTown": "0",
+    "makePrice": "500"
+  },
+  {
+    "id": "6051631",
+    "level": "0",
+    "mainTown": "0",
+    "makePrice": "1250"
+  },
+  {
+    "id": "6051641",
+    "level": "0",
+    "mainTown": "0",
+    "makePrice": "3000"
+  },
+  {
+    "id": "6051651",
+    "level": "0",
+    "mainTown": "0",
+    "makePrice": "7500"
+  },
+  {
+    "id": "6051681",
+    "level": "2",
+    "mainTown": "1",
+    "makePrice": "1500"
+  },
+  {
+    "id": "6051682",
+    "level": "3",
+    "mainTown": "1",
+    "makePrice": "3750"
+  },
+  {
+    "id": "6051683",
+    "level": "4",
+    "mainTown": "1",
+    "makePrice": "9000"
+  },
+  {
+    "id": "6051684",
+    "level": "5",
+    "mainTown": "1",
+    "makePrice": "23000"
+  }
+]

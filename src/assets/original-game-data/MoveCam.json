@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1001",
+    "type": "3",
+    "value": "0",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "0"
+  },
+  {
+    "id": "1002",
+    "type": "3",
+    "value": "1",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "0"
+  },
+  {
+    "id": "1003",
+    "type": "-1",
+    "value": "0",
+    "unlockView": "0",
+    "endMoveToPlayer": "1",
+    "dramaID": "610284"
+  },
+  {
+    "id": "1004",
+    "type": "1",
+    "value": "1001",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "610286"
+  },
+  {
+    "id": "1005",
+    "type": "1",
+    "value": "1002",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "0"
+  },
+  {
+    "id": "1006",
+    "type": "1",
+    "value": "1004",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "610387"
+  },
+  {
+    "id": "1007",
+    "type": "1",
+    "value": "1006",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "0"
+  },
+  {
+    "id": "1008",
+    "type": "1",
+    "value": "1042",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "720102"
+  },
+  {
+    "id": "1009",
+    "type": "1",
+    "value": "1043",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "720112"
+  },
+  {
+    "id": "1010",
+    "type": "1",
+    "value": "1043",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "720122"
+  },
+  {
+    "id": "1011",
+    "type": "1",
+    "value": "1043",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "0"
+  },
+  {
+    "id": "1012",
+    "type": "1",
+    "value": "1064",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "0"
+  },
+  {
+    "id": "1013",
+    "type": "1",
+    "value": "1082",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "0"
+  },
+  {
+    "id": "1014",
+    "type": "1",
+    "value": "1081",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "0"
+  },
+  {
+    "id": "1015",
+    "type": "1",
+    "value": "1079",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "760101"
+  },
+  {
+    "id": "1016",
+    "type": "1",
+    "value": "1084",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "760351"
+  },
+  {
+    "id": "1017",
+    "type": "1",
+    "value": "1087",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "760671"
+  },
+  {
+    "id": "1018",
+    "type": "1",
+    "value": "1088",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "760901"
+  },
+  {
+    "id": "1019",
+    "type": "1",
+    "value": "1078",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "760601"
+  },
+  {
+    "id": "1020",
+    "type": "1",
+    "value": "1078",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "760101"
+  },
+  {
+    "id": "1021",
+    "type": "1",
+    "value": "1078",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "760351"
+  },
+  {
+    "id": "1022",
+    "type": "1",
+    "value": "1241",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "0"
+  },
+  {
+    "id": "1023",
+    "type": "1",
+    "value": "1601",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "0"
+  },
+  {
+    "id": "1024",
+    "type": "1",
+    "value": "1602",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "0"
+  },
+  {
+    "id": "1025",
+    "type": "1",
+    "value": "1603",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "0"
+  },
+  {
+    "id": "1026",
+    "type": "1",
+    "value": "1604",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "0"
+  },
+  {
+    "id": "1027",
+    "type": "1",
+    "value": "1605",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "0"
+  },
+  {
+    "id": "1028",
+    "type": "1",
+    "value": "1606",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "0"
+  },
+  {
+    "id": "1029",
+    "type": "1",
+    "value": "1607",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "0"
+  },
+  {
+    "id": "1030",
+    "type": "1",
+    "value": "1512",
+    "unlockView": "1",
+    "endMoveToPlayer": "0",
+    "dramaID": "0"
+  },
+  {
+    "id": "1031",
+    "type": "1",
+    "value": "1501",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "0"
+  },
+  {
+    "id": "1032",
+    "type": "-1",
+    "value": "0",
+    "unlockView": "0",
+    "endMoveToPlayer": "1",
+    "dramaID": "0"
+  },
+  {
+    "id": "1033",
+    "type": "1",
+    "value": "2021",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "2115352"
+  },
+  {
+    "id": "1034",
+    "type": "1",
+    "value": "2022",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "2117414"
+  },
+  {
+    "id": "1035",
+    "type": "1",
+    "value": "2300",
+    "unlockView": "1",
+    "endMoveToPlayer": "1",
+    "dramaID": "2211173"
+  }
+]

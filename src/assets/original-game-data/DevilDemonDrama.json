@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "key": "feedDrama",
+    "value": "0"
+  },
+  {
+    "id": "2",
+    "key": "studyDrama",
+    "value": "7006101|7006102"
+  },
+  {
+    "id": "3",
+    "key": "battleDrama",
+    "value": "7006001|7006002"
+  },
+  {
+    "id": "4",
+    "key": "giveUpDrama",
+    "value": "7006201|7006202"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "1",
+    "name": "makePillName1",
+    "desc": "makePillDesc1",
+    "trigger": "passive",
+    "effect": "mastery_10",
+    "isHide": "0"
+  },
+  {
+    "id": "2",
+    "name": "makePillName2",
+    "desc": "makePillDesc2",
+    "trigger": "mix_30",
+    "effect": "increase_12_0_1_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "3",
+    "name": "makePillName3",
+    "desc": "makePillDesc3",
+    "trigger": "passive",
+    "effect": "bombDurable_2",
+    "isHide": "0"
+  },
+  {
+    "id": "4",
+    "name": "makePillName4",
+    "desc": "makePillDesc4",
+    "trigger": "mix_30",
+    "effect": "increase_12_0_1_200_200",
+    "isHide": "0"
+  },
+  {
+    "id": "5",
+    "name": "makePillName5",
+    "desc": "makePillDesc5",
+    "trigger": "mix_20",
+    "effect": "increase_10_0_1_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "6",
+    "name": "makePillName6",
+    "desc": "makePillDesc6",
+    "trigger": "passive",
+    "effect": "bomb_-5",
+    "isHide": "0"
+  },
+  {
+    "id": "7",
+    "name": "makePillName7",
+    "desc": "makePillDesc7",
+    "trigger": "click_1_3",
+    "effect": "increase_11_0_0_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "8",
+    "name": "makePillName8",
+    "desc": "makePillDesc8",
+    "trigger": "click_1_1",
+    "effect": "addHole_1",
+    "isHide": "0"
+  },
+  {
+    "id": "9",
+    "name": "makePillName9",
+    "desc": "makePillDesc9",
+    "trigger": "mix_100",
+    "effect": "increase_9_0_1_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "10",
+    "name": "makePillName10",
+    "desc": "makePillDesc10",
+    "trigger": "passive",
+    "effect": "mastery_40",
+    "isHide": "0"
+  },
+  {
+    "id": "11",
+    "name": "makePillName11",
+    "desc": "makePillDesc11",
+    "trigger": "passive",
+    "effect": "bombDurable_1",
+    "isHide": "0"
+  },
+  {
+    "id": "12",
+    "name": "makePillName12",
+    "desc": "makePillDesc12",
+    "trigger": "mix_100",
+    "effect": "increase_1_0_1_20_50",
+    "isHide": "0"
+  },
+  {
+    "id": "13",
+    "name": "makePillName13",
+    "desc": "makePillDesc13",
+    "trigger": "mix_100",
+    "effect": "increase_2_0_1_20_50",
+    "isHide": "0"
+  },
+  {
+    "id": "14",
+    "name": "makePillName14",
+    "desc": "makePillDesc14",
+    "trigger": "mix_100",
+    "effect": "increase_3_0_1_20_50",
+    "isHide": "0"
+  },
+  {
+    "id": "15",
+    "name": "makePillName15",
+    "desc": "makePillDesc15",
+    "trigger": "mix_100",
+    "effect": "increase_4_0_1_20_50",
+    "isHide": "0"
+  },
+  {
+    "id": "16",
+    "name": "makePillName16",
+    "desc": "makePillDesc16",
+    "trigger": "mix_100",
+    "effect": "increase_5_0_1_20_50",
+    "isHide": "0"
+  },
+  {
+    "id": "17",
+    "name": "makePillName17",
+    "desc": "makePillDesc17",
+    "trigger": "mix_100",
+    "effect": "increase_6_0_1_20_50",
+    "isHide": "0"
+  },
+  {
+    "id": "18",
+    "name": "makePillName18",
+    "desc": "makePillDesc18",
+    "trigger": "click_3_1",
+    "effect": "convert_2_1_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "19",
+    "name": "makePillName19",
+    "desc": "makePillDesc19",
+    "trigger": "mix_20",
+    "effect": "increase_2_1_0_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "20",
+    "name": "makePillName20",
+    "desc": "makePillDesc20",
+    "trigger": "click_3_1",
+    "effect": "convert_1_2_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "21",
+    "name": "makePillName21",
+    "desc": "makePillDesc21",
+    "trigger": "mix_20",
+    "effect": "increase_1_1_0_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "22",
+    "name": "makePillName22",
+    "desc": "makePillDesc22",
+    "trigger": "click_3_1",
+    "effect": "convert_3_4_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "23",
+    "name": "makePillName23",
+    "desc": "makePillDesc23",
+    "trigger": "mix_20",
+    "effect": "increase_3_1_0_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "24",
+    "name": "makePillName24",
+    "desc": "makePillDesc24",
+    "trigger": "click_3_1",
+    "effect": "convert_4_3_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "25",
+    "name": "makePillName25",
+    "desc": "makePillDesc25",
+    "trigger": "mix_20",
+    "effect": "increase_4_1_0_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "26",
+    "name": "makePillName26",
+    "desc": "makePillDesc26",
+    "trigger": "click_3_1",
+    "effect": "convert_5_6_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "27",
+    "name": "makePillName27",
+    "desc": "makePillDesc27",
+    "trigger": "mix_20",
+    "effect": "increase_5_1_0_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "28",
+    "name": "makePillName28",
+    "desc": "makePillDesc28",
+    "trigger": "click_3_1",
+    "effect": "convert_6_5_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "29",
+    "name": "makePillName29",
+    "desc": "makePillDesc29",
+    "trigger": "mix_20",
+    "effect": "increase_6_1_0_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "30",
+    "name": "makePillName30",
+    "desc": "makePillDesc30",
+    "trigger": "mix_10",
+    "effect": "increase_10_0_0_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "31",
+    "name": "makePillName31",
+    "desc": "makePillDesc31",
+    "trigger": "passive",
+    "effect": "bomb_-10",
+    "isHide": "0"
+  },
+  {
+    "id": "32",
+    "name": "makePillName32",
+    "desc": "makePillDesc32",
+    "trigger": "passive",
+    "effect": "energy_-100",
+    "isHide": "0"
+  },
+  {
+    "id": "33",
+    "name": "makePillName33",
+    "desc": "makePillDesc33",
+    "trigger": "passive",
+    "effect": "bombDurable_8",
+    "isHide": "0"
+  },
+  {
+    "id": "34",
+    "name": "makePillName34",
+    "desc": "makePillDesc34",
+    "trigger": "click_3_1",
+    "effect": "increase_12_0_1_100_300",
+    "isHide": "0"
+  },
+  {
+    "id": "35",
+    "name": "makePillName35",
+    "desc": "makePillDesc35",
+    "trigger": "click_2_1",
+    "effect": "addHole_1",
+    "isHide": "0"
+  },
+  {
+    "id": "36",
+    "name": "makePillName36",
+    "desc": "makePillDesc36",
+    "trigger": "mix_20",
+    "effect": "increase_10_0_0_-10_-10",
+    "isHide": "0"
+  },
+  {
+    "id": "37",
+    "name": "makePillName37",
+    "desc": "makePillDesc37",
+    "trigger": "passive",
+    "effect": "addHole_1",
+    "isHide": "0"
+  },
+  {
+    "id": "38",
+    "name": "makePillName38",
+    "desc": "makePillDesc38",
+    "trigger": "passive",
+    "effect": "energy_30",
+    "isHide": "0"
+  },
+  {
+    "id": "39",
+    "name": "makePillName39",
+    "desc": "makePillDesc39",
+    "trigger": "click_1_4",
+    "effect": "increase_10_0_1_300_300",
+    "isHide": "0"
+  },
+  {
+    "id": "40",
+    "name": "makePillName40",
+    "desc": "makePillDesc40",
+    "trigger": "passive",
+    "effect": "energy_-30",
+    "isHide": "0"
+  },
+  {
+    "id": "41",
+    "name": "makePillName41",
+    "desc": "makePillDesc41",
+    "trigger": "click_2_1",
+    "effect": "increase_1_0_1_200_400",
+    "isHide": "0"
+  },
+  {
+    "id": "42",
+    "name": "makePillName42",
+    "desc": "makePillDesc42",
+    "trigger": "click_2_1",
+    "effect": "increase_2_0_1_200_400",
+    "isHide": "0"
+  },
+  {
+    "id": "43",
+    "name": "makePillName43",
+    "desc": "makePillDesc43",
+    "trigger": "click_2_1",
+    "effect": "increase_3_0_1_200_400",
+    "isHide": "0"
+  },
+  {
+    "id": "44",
+    "name": "makePillName44",
+    "desc": "makePillDesc44",
+    "trigger": "click_2_1",
+    "effect": "increase_4_0_1_200_400",
+    "isHide": "0"
+  },
+  {
+    "id": "45",
+    "name": "makePillName45",
+    "desc": "makePillDesc45",
+    "trigger": "click_2_1",
+    "effect": "increase_5_0_1_200_400",
+    "isHide": "0"
+  },
+  {
+    "id": "46",
+    "name": "makePillName46",
+    "desc": "makePillDesc46",
+    "trigger": "click_2_1",
+    "effect": "increase_6_0_1_200_400",
+    "isHide": "0"
+  },
+  {
+    "id": "47",
+    "name": "makePillName47",
+    "desc": "makePillDesc47",
+    "trigger": "click_2_1",
+    "effect": "increase_7_0_1_200_400",
+    "isHide": "0"
+  },
+  {
+    "id": "48",
+    "name": "makePillName48",
+    "desc": "makePillDesc48",
+    "trigger": "mix_100",
+    "effect": "convert_8_7_0_0_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "49",
+    "name": "makePillName49",
+    "desc": "makePillDesc49",
+    "trigger": "click_2_1",
+    "effect": "increase_8_0_1_200_400",
+    "isHide": "0"
+  },
+  {
+    "id": "50",
+    "name": "makePillName50",
+    "desc": "makePillDesc50",
+    "trigger": "mix_100",
+    "effect": "convert_7_8_0_0_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "51",
+    "name": "makePillName51",
+    "desc": "makePillDesc51",
+    "trigger": "passive",
+    "effect": "bas_30",
+    "isHide": "0"
+  },
+  {
+    "id": "52",
+    "name": "makePillName52",
+    "desc": "makePillDesc52",
+    "trigger": "mix_20",
+    "effect": "increase_10_0_0_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "53",
+    "name": "makePillName53",
+    "desc": "makePillDesc53",
+    "trigger": "passive",
+    "effect": "bomb_-15",
+    "isHide": "0"
+  },
+  {
+    "id": "54",
+    "name": "makePillName54",
+    "desc": "makePillDesc54",
+    "trigger": "passive",
+    "effect": "mastery_80",
+    "isHide": "0"
+  },
+  {
+    "id": "55",
+    "name": "makePillName55",
+    "desc": "makePillDesc55",
+    "trigger": "click_2_1",
+    "effect": "increase_1_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "56",
+    "name": "makePillName56",
+    "desc": "makePillDesc56",
+    "trigger": "click_2_1",
+    "effect": "increase_3_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "57",
+    "name": "makePillName57",
+    "desc": "makePillDesc57",
+    "trigger": "click_2_1",
+    "effect": "increase_5_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "58",
+    "name": "makePillName58",
+    "desc": "makePillDesc58",
+    "trigger": "click_2_1",
+    "effect": "increase_2_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "59",
+    "name": "makePillName59",
+    "desc": "makePillDesc59",
+    "trigger": "click_2_1",
+    "effect": "increase_4_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "60",
+    "name": "makePillName60",
+    "desc": "makePillDesc60",
+    "trigger": "click_2_1",
+    "effect": "increase_6_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "61",
+    "name": "makePillName61",
+    "desc": "makePillDesc61",
+    "trigger": "click_2_1",
+    "effect": "increase_8_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "62",
+    "name": "makePillName62",
+    "desc": "makePillDesc62",
+    "trigger": "click_2_1",
+    "effect": "increase_7_0_0_50_50",
+    "isHide": "0"
+  },
+  {
+    "id": "63",
+    "name": "makePillName63",
+    "desc": "makePillDesc63",
+    "trigger": "click_1_9",
+    "effect": "increase_10_0_0_100_100",
+    "isHide": "0"
+  },
+  {
+    "id": "64",
+    "name": "makePillName64",
+    "desc": "makePillDesc64",
+    "trigger": "passive",
+    "effect": "bas_90",
+    "isHide": "0"
+  },
+  {
+    "id": "65",
+    "name": "makePillName65",
+    "desc": "makePillDesc65",
+    "trigger": "passive",
+    "effect": "energy_100",
+    "isHide": "0"
+  },
+  {
+    "id": "66",
+    "name": "makePillName66",
+    "desc": "makePillDesc66",
+    "trigger": "passive",
+    "effect": "bas_60",
+    "isHide": "0"
+  },
+  {
+    "id": "67",
+    "name": "makePillName67",
+    "desc": "makePillDesc67",
+    "trigger": "passive",
+    "effect": "bomb_-100",
+    "isHide": "0"
+  },
+  {
+    "id": "68",
+    "name": "makePillName68",
+    "desc": "makePillDesc68",
+    "trigger": "passive",
+    "effect": "infiniteDurable",
+    "isHide": "1"
+  },
+  {
+    "id": "69",
+    "name": "makePillName69",
+    "desc": "makePillDesc69",
+    "trigger": "passive",
+    "effect": "quality_1",
+    "isHide": "0"
+  },
+  {
+    "id": "70",
+    "name": "makePillName70",
+    "desc": "makePillDesc70",
+    "trigger": "passive",
+    "effect": "count_0_100",
+    "isHide": "0"
+  }
+]

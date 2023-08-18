@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "schoolArea": "2",
+    "dungeonID": "0",
+    "drama1": "6360301",
+    "drama2": "6360302",
+    "inheritIntim": "180",
+    "inheritProp": "15",
+    "competitorMin": "4"
+  },
+  {
+    "id": "2",
+    "schoolArea": "4",
+    "dungeonID": "0",
+    "drama1": "6360301",
+    "drama2": "6360302",
+    "inheritIntim": "180",
+    "inheritProp": "15",
+    "competitorMin": "4"
+  },
+  {
+    "id": "3",
+    "schoolArea": "6",
+    "dungeonID": "0",
+    "drama1": "6360301",
+    "drama2": "6360302",
+    "inheritIntim": "180",
+    "inheritProp": "15",
+    "competitorMin": "4"
+  },
+  {
+    "id": "4",
+    "schoolArea": "8",
+    "dungeonID": "0",
+    "drama1": "6360301",
+    "drama2": "6360302",
+    "inheritIntim": "180",
+    "inheritProp": "15",
+    "competitorMin": "4"
+  },
+  {
+    "id": "5",
+    "schoolArea": "10",
+    "dungeonID": "0",
+    "drama1": "6360301",
+    "drama2": "6360302",
+    "inheritIntim": "180",
+    "inheritProp": "15",
+    "competitorMin": "4"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "39",
+    "range": "1",
+    "npcParaA": "1",
+    "npcParaB": "0",
+    "duration": "12",
+    "relative": "abSchool_1",
+    "effect": "abClose_0_1_5_10",
+    "goal": "301",
+    "dialogue": "roleEventLog39"
+  }
+]

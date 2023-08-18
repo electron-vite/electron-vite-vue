@@ -1,0 +1,646 @@
+[
+  {
+    "id": "1",
+    "attrKey": "atk",
+    "attrText": "modEffectType1Name_atk",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "2",
+    "attrKey": "def",
+    "attrText": "modEffectType1Name_def",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "3",
+    "attrKey": "hpMax",
+    "attrText": "modEffectType1Name_hpMax",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "4",
+    "attrKey": "mpMax",
+    "attrText": "modEffectType1Name_mpMax",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "5",
+    "attrKey": "spMax",
+    "attrText": "modEffectType1Name_spMax",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "6",
+    "attrKey": "dpMax",
+    "attrText": "modEffectType1Name_dpMax",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "7",
+    "attrKey": "hp",
+    "attrText": "modEffectType1Name_hp",
+    "attrDesc": "0",
+    "types": "101"
+  },
+  {
+    "id": "8",
+    "attrKey": "mp",
+    "attrText": "modEffectType1Name_mp",
+    "attrDesc": "0",
+    "types": "101"
+  },
+  {
+    "id": "9",
+    "attrKey": "sp",
+    "attrText": "modEffectType1Name_sp",
+    "attrDesc": "0",
+    "types": "101"
+  },
+  {
+    "id": "10",
+    "attrKey": "dp",
+    "attrText": "modEffectType1Name_dp",
+    "attrDesc": "0",
+    "types": "101"
+  },
+  {
+    "id": "11",
+    "attrKey": "life",
+    "attrText": "modEffectType1Name_life",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "12",
+    "attrKey": "exp",
+    "attrText": "modEffectType1Name_exp",
+    "attrDesc": "0",
+    "types": "101"
+  },
+  {
+    "id": "13",
+    "attrKey": "talent",
+    "attrText": "modEffectType1Name_talent",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "14",
+    "attrKey": "health",
+    "attrText": "modEffectType1Name_health",
+    "attrDesc": "0",
+    "types": "101"
+  },
+  {
+    "id": "15",
+    "attrKey": "healthMax",
+    "attrText": "modEffectType1Name_healthMax",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "16",
+    "attrKey": "luck",
+    "attrText": "modEffectType1Name_luck",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "17",
+    "attrKey": "mood",
+    "attrText": "modEffectType1Name_mood",
+    "attrDesc": "0",
+    "types": "101"
+  },
+  {
+    "id": "18",
+    "attrKey": "moodMax",
+    "attrText": "modEffectType1Name_moodMax",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "19",
+    "attrKey": "energy",
+    "attrText": "modEffectType1Name_energy",
+    "attrDesc": "0",
+    "types": "101"
+  },
+  {
+    "id": "20",
+    "attrKey": "energyMax",
+    "attrText": "modEffectType1Name_energyMax",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "21",
+    "attrKey": "msp",
+    "attrText": "modEffectType1Name_msp",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "22",
+    "attrKey": "fsp",
+    "attrText": "modEffectType1Name_fsp",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "23",
+    "attrKey": "hpRes",
+    "attrText": "modEffectType1Name_hpRes",
+    "attrDesc": "0",
+    "types": "-1"
+  },
+  {
+    "id": "24",
+    "attrKey": "mpRes",
+    "attrText": "modEffectType1Name_mpRes",
+    "attrDesc": "0",
+    "types": "-1"
+  },
+  {
+    "id": "25",
+    "attrKey": "spRes",
+    "attrText": "modEffectType1Name_spRes",
+    "attrDesc": "0",
+    "types": "-1"
+  },
+  {
+    "id": "26",
+    "attrKey": "crit",
+    "attrText": "modEffectType1Name_crit",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "27",
+    "attrKey": "guard",
+    "attrText": "modEffectType1Name_guard",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "28",
+    "attrKey": "critV",
+    "attrText": "modEffectType1Name_critV",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "29",
+    "attrKey": "guardV",
+    "attrText": "modEffectType1Name_guardV",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "30",
+    "attrKey": "basPil",
+    "attrText": "modEffectType1Name_basPil",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "31",
+    "attrKey": "basEqp",
+    "attrText": "modEffectType1Name_basEqp",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "32",
+    "attrKey": "basGeo",
+    "attrText": "modEffectType1Name_basGeo",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "33",
+    "attrKey": "basSym",
+    "attrText": "modEffectType1Name_basSym",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "34",
+    "attrKey": "basHerb",
+    "attrText": "modEffectType1Name_basHerb",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "35",
+    "attrKey": "basMine",
+    "attrText": "modEffectType1Name_basMine",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "36",
+    "attrKey": "basSword",
+    "attrText": "modEffectType1Name_basSword",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "37",
+    "attrKey": "basSpear",
+    "attrText": "modEffectType1Name_basSpear",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "38",
+    "attrKey": "basBlade",
+    "attrText": "modEffectType1Name_basBlade",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "39",
+    "attrKey": "basFist",
+    "attrText": "modEffectType1Name_basFist",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "40",
+    "attrKey": "basPalm",
+    "attrText": "modEffectType1Name_basPalm",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "41",
+    "attrKey": "basFinger",
+    "attrText": "modEffectType1Name_basFinger",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "42",
+    "attrKey": "basFire",
+    "attrText": "modEffectType1Name_basFire",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "43",
+    "attrKey": "basFroze",
+    "attrText": "modEffectType1Name_basFroze",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "44",
+    "attrKey": "basThunder",
+    "attrText": "modEffectType1Name_basThunder",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "45",
+    "attrKey": "basWind",
+    "attrText": "modEffectType1Name_basWind",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "46",
+    "attrKey": "basEarth",
+    "attrText": "modEffectType1Name_basEarth",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "47",
+    "attrKey": "basWood",
+    "attrText": "modEffectType1Name_basWood",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "48",
+    "attrKey": "beauty",
+    "attrText": "modEffectType1Name_beauty",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "49",
+    "attrKey": "standUp",
+    "attrText": "modEffectType1Name_standUp",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "50",
+    "attrKey": "standDown",
+    "attrText": "modEffectType1Name_standDown",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "51",
+    "attrKey": "closeStable",
+    "attrText": "modEffectType1Name_closeStable",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "52",
+    "attrKey": "hateStable",
+    "attrText": "modEffectType1Name_hateStable",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "53",
+    "attrKey": "moodUpStable",
+    "attrText": "modEffectType1Name_moodUpStable",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "54",
+    "attrKey": "moodDownStable",
+    "attrText": "modEffectType1Name_moodDownStable",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "55",
+    "attrKey": "basMgAll",
+    "attrText": "modEffectType1Name_basMgAll",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "56",
+    "attrKey": "basWpAll",
+    "attrText": "modEffectType1Name_basWpAll",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "57",
+    "attrKey": "basMgMax",
+    "attrText": "modEffectType1Name_basMgMax",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "58",
+    "attrKey": "basWpMax",
+    "attrText": "modEffectType1Name_basWpMax",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "59",
+    "attrKey": "basAllMax",
+    "attrText": "modEffectType1Name_basAllMax",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "60",
+    "attrKey": "basArtMax",
+    "attrText": "modEffectType1Name_basArtMax",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "61",
+    "attrKey": "basMgMin",
+    "attrText": "modEffectType1Name_basMgMin",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "62",
+    "attrKey": "basWpMin",
+    "attrText": "modEffectType1Name_basWpMin",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "63",
+    "attrKey": "basAllMin",
+    "attrText": "modEffectType1Name_basAllMin",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "64",
+    "attrKey": "basArtMin",
+    "attrText": "modEffectType1Name_basArtMin",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "65",
+    "attrKey": "pfr",
+    "attrText": "modEffectType1Name_pfr",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "66",
+    "attrKey": "mfr",
+    "attrText": "modEffectType1Name_mfr",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "67",
+    "attrKey": "reputation",
+    "attrText": "modEffectType1Name_reputation",
+    "attrDesc": "0",
+    "types": "101"
+  },
+  {
+    "id": "68",
+    "attrKey": "abilityPoint",
+    "attrText": "modEffectType1Name_abilityPoint",
+    "attrDesc": "0",
+    "types": "101"
+  },
+  {
+    "id": "69",
+    "attrKey": "abilityExp",
+    "attrText": "modEffectType1Name_abilityExp",
+    "attrDesc": "0",
+    "types": "101"
+  },
+  {
+    "id": "70",
+    "attrKey": "basArtAll",
+    "attrText": "modEffectType1Name_basArtAll",
+    "attrDesc": "0",
+    "types": "0"
+  },
+  {
+    "id": "71",
+    "attrKey": "swordGrow",
+    "attrText": "modEffectType1Name_swordGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "72",
+    "attrKey": "spearGrow",
+    "attrText": "modEffectType1Name_spearGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "73",
+    "attrKey": "bladeGrow",
+    "attrText": "modEffectType1Name_bladeGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "74",
+    "attrKey": "fistGrow",
+    "attrText": "modEffectType1Name_fistGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "75",
+    "attrKey": "palmGrow",
+    "attrText": "modEffectType1Name_palmGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "76",
+    "attrKey": "fingerGrow",
+    "attrText": "modEffectType1Name_fingerGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "77",
+    "attrKey": "fireGrow",
+    "attrText": "modEffectType1Name_fireGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "78",
+    "attrKey": "frozeGrow",
+    "attrText": "modEffectType1Name_frozeGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "79",
+    "attrKey": "thunderGrow",
+    "attrText": "modEffectType1Name_thunderGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "80",
+    "attrKey": "windGrow",
+    "attrText": "modEffectType1Name_windGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "81",
+    "attrKey": "earthGrow",
+    "attrText": "modEffectType1Name_earthGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "82",
+    "attrKey": "woodGrow",
+    "attrText": "modEffectType1Name_woodGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "83",
+    "attrKey": "expGrow",
+    "attrText": "modEffectType1Name_expGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "84",
+    "attrKey": "healthUpStable",
+    "attrText": "modEffectType1Name_healthUpStable",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "85",
+    "attrKey": "healthDownStable",
+    "attrText": "modEffectType1Name_healthDownStable",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "86",
+    "attrKey": "townBuyDecline",
+    "attrText": "modEffectType1Name_townBuyDecline",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "87",
+    "attrKey": "energyUpStable",
+    "attrText": "modEffectType1Name_energyUpStable",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "88",
+    "attrKey": "energyDownStable",
+    "attrText": "modEffectType1Name_energyDownStable",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "89",
+    "attrKey": "stepGrow",
+    "attrText": "modEffectType1Name_stepGrow",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "90",
+    "attrKey": "lockInitScore",
+    "attrText": "modEffectType1Name_lockInitScore",
+    "attrDesc": "modEffectType1Desc_lockInitScore",
+    "types": "1"
+  },
+  {
+    "id": "91",
+    "attrKey": "propGridNum",
+    "attrText": "modEffectType1Name_propGridNum",
+    "attrDesc": "0",
+    "types": "1"
+  },
+  {
+    "id": "92",
+    "attrKey": "pillLayer",
+    "attrText": "modEffectType1Name_pillLayer",
+    "attrDesc": "0",
+    "types": "1"
+  }
+]

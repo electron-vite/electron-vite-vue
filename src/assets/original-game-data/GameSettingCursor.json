@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "cursorMap": "shubiao_2M",
+    "cursorMapLed": "shubiao_3M",
+    "cursorBattle": "shubiao_5M",
+    "cursorBattleLed": "shubiao_4M"
+  },
+  {
+    "id": "2",
+    "cursorMap": "shubiao_2",
+    "cursorMapLed": "shubiao_3",
+    "cursorBattle": "shubiao_5",
+    "cursorBattleLed": "shubiao_4"
+  },
+  {
+    "id": "3",
+    "cursorMap": "shubiao_2L",
+    "cursorMapLed": "shubiao_3L",
+    "cursorBattle": "shubiao_5L",
+    "cursorBattleLed": "shubiao_4L"
+  },
+  {
+    "id": "4",
+    "cursorMap": "shubiao_8",
+    "cursorMapLed": "shubiao_9",
+    "cursorBattle": "shubiao_6",
+    "cursorBattleLed": "shubiao_7"
+  },
+  {
+    "id": "5",
+    "cursorMap": "shubiao_8M",
+    "cursorMapLed": "shubiao_9M",
+    "cursorBattle": "shubiao_6M",
+    "cursorBattleLed": "shubiao_7M"
+  },
+  {
+    "id": "6",
+    "cursorMap": "shubiao_8L",
+    "cursorMapLed": "shubiao_9L",
+    "cursorBattle": "shubiao_6L",
+    "cursorBattleLed": "shubiao_7L"
+  },
+  {
+    "id": "7",
+    "cursorMap": "shubiao_10",
+    "cursorMapLed": "shubiao_11",
+    "cursorBattle": "shubiao_12",
+    "cursorBattleLed": "shubiao_13"
+  },
+  {
+    "id": "8",
+    "cursorMap": "shubiao_10M",
+    "cursorMapLed": "shubiao_11M",
+    "cursorBattle": "shubiao_12M",
+    "cursorBattleLed": "shubiao_13M"
+  },
+  {
+    "id": "9",
+    "cursorMap": "shubiao_10L",
+    "cursorMapLed": "shubiao_11L",
+    "cursorBattle": "shubiao_12L",
+    "cursorBattleLed": "shubiao_13L"
+  },
+  {
+    "id": "10",
+    "cursorMap": "shubiao_14",
+    "cursorMapLed": "shubiao_15",
+    "cursorBattle": "shubiao_16",
+    "cursorBattleLed": "shubiao_17"
+  },
+  {
+    "id": "11",
+    "cursorMap": "shubiao_14M",
+    "cursorMapLed": "shubiao_15M",
+    "cursorBattle": "shubiao_16M",
+    "cursorBattleLed": "shubiao_17M"
+  },
+  {
+    "id": "12",
+    "cursorMap": "shubiao_14L",
+    "cursorMapLed": "shubiao_15L",
+    "cursorBattle": "shubiao_16L",
+    "cursorBattleLed": "shubiao_17L"
+  },
+  {
+    "id": "13",
+    "cursorMap": "shubiao_18",
+    "cursorMapLed": "shubiao_19",
+    "cursorBattle": "shubiao_21",
+    "cursorBattleLed": "shubiao_20"
+  },
+  {
+    "id": "14",
+    "cursorMap": "shubiao_18M",
+    "cursorMapLed": "shubiao_19M",
+    "cursorBattle": "shubiao_21M",
+    "cursorBattleLed": "shubiao_20M"
+  },
+  {
+    "id": "15",
+    "cursorMap": "shubiao_18L",
+    "cursorMapLed": "shubiao_19L",
+    "cursorBattle": "shubiao_21L",
+    "cursorBattleLed": "shubiao_20L"
+  }
+]

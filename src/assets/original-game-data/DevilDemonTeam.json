@@ -1,0 +1,68 @@
+[
+  {
+    "id": "0",
+    "teamCount": "1",
+    "unitCount": "2",
+    "potmonMaxCount": "20"
+  },
+  {
+    "id": "1",
+    "teamCount": "1",
+    "unitCount": "2",
+    "potmonMaxCount": "20"
+  },
+  {
+    "id": "2",
+    "teamCount": "2",
+    "unitCount": "2",
+    "potmonMaxCount": "24"
+  },
+  {
+    "id": "3",
+    "teamCount": "2",
+    "unitCount": "3",
+    "potmonMaxCount": "28"
+  },
+  {
+    "id": "4",
+    "teamCount": "3",
+    "unitCount": "3",
+    "potmonMaxCount": "32"
+  },
+  {
+    "id": "5",
+    "teamCount": "3",
+    "unitCount": "4",
+    "potmonMaxCount": "36"
+  },
+  {
+    "id": "6",
+    "teamCount": "4",
+    "unitCount": "4",
+    "potmonMaxCount": "40"
+  },
+  {
+    "id": "7",
+    "teamCount": "4",
+    "unitCount": "4",
+    "potmonMaxCount": "44"
+  },
+  {
+    "id": "8",
+    "teamCount": "4",
+    "unitCount": "4",
+    "potmonMaxCount": "48"
+  },
+  {
+    "id": "9",
+    "teamCount": "4",
+    "unitCount": "4",
+    "potmonMaxCount": "52"
+  },
+  {
+    "id": "10",
+    "teamCount": "4",
+    "unitCount": "4",
+    "potmonMaxCount": "56"
+  }
+]

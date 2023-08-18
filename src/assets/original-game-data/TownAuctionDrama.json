@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "key": "addPriceProb",
+    "value": "20"
+  },
+  {
+    "id": "2",
+    "key": "addPriceProbMax",
+    "value": "80"
+  },
+  {
+    "id": "3",
+    "key": "addPriceHateMin",
+    "value": "5"
+  },
+  {
+    "id": "4",
+    "key": "addPriceHateMax",
+    "value": "15"
+  },
+  {
+    "id": "5",
+    "key": "addPriceNpcHate",
+    "value": "10"
+  },
+  {
+    "id": "6",
+    "key": "angryAdd",
+    "value": "1"
+  },
+  {
+    "id": "7",
+    "key": "angryMax",
+    "value": "10"
+  },
+  {
+    "id": "8",
+    "key": "happyTimeMax",
+    "value": "5"
+  },
+  {
+    "id": "9",
+    "key": "happyTimeMin",
+    "value": "1"
+  },
+  {
+    "id": "10",
+    "key": "happyAddProb",
+    "value": "10"
+  },
+  {
+    "id": "11",
+    "key": "happyProbMax",
+    "value": "60"
+  },
+  {
+    "id": "12",
+    "key": "dialogueNum",
+    "value": "20"
+  },
+  {
+    "id": "13",
+    "key": "askEnergy",
+    "value": "10"
+  },
+  {
+    "id": "14",
+    "key": "threatEnergy",
+    "value": "10"
+  },
+  {
+    "id": "15",
+    "key": "threatHateMin",
+    "value": "30"
+  },
+  {
+    "id": "16",
+    "key": "threatHateMax",
+    "value": "60"
+  },
+  {
+    "id": "17",
+    "key": "dramaID1",
+    "value": "730131"
+  },
+  {
+    "id": "18",
+    "key": "dramaID2",
+    "value": "730141"
+  },
+  {
+    "id": "19",
+    "key": "dramaID3",
+    "value": "730151"
+  },
+  {
+    "id": "20",
+    "key": "dramaID4",
+    "value": "730161"
+  },
+  {
+    "id": "21",
+    "key": "dramaID5",
+    "value": "730171"
+  },
+  {
+    "id": "22",
+    "key": "dramaID6",
+    "value": "730181"
+  },
+  {
+    "id": "23",
+    "key": "dramaID7",
+    "value": "730191"
+  },
+  {
+    "id": "24",
+    "key": "dramaID8",
+    "value": "730201"
+  },
+  {
+    "id": "25",
+    "key": "dramaID9",
+    "value": "730211"
+  },
+  {
+    "id": "26",
+    "key": "dramaID10",
+    "value": "730221"
+  },
+  {
+    "id": "27",
+    "key": "dramaID11",
+    "value": "730231"
+  },
+  {
+    "id": "28",
+    "key": "dramaPlayer",
+    "value": "730132"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "96001",
+    "dmgInit": "&54112_cssh",
+    "scaleInit": "&54112_csbl",
+    "growTime": "&54112_czsj",
+    "effect": "344113|3641121|3541124",
+    "halo": "0",
+    "haloInit": "0",
+    "lastTime": "&54112_cssj",
+    "removeEffect": "3541122",
+    "follow": "1",
+    "rangeCheck": "0",
+    "lerp": "1"
+  },
+  {
+    "id": "96002",
+    "dmgInit": "&54112_cssh",
+    "scaleInit": "&54112_csbl",
+    "growTime": "&54112_czsj",
+    "effect": "344113|3641121",
+    "halo": "0",
+    "haloInit": "0",
+    "lastTime": "&54112_cxsj",
+    "removeEffect": "3541138|3541133",
+    "follow": "1",
+    "rangeCheck": "0",
+    "lerp": "1"
+  },
+  {
+    "id": "96003",
+    "dmgInit": "&54112_cssh",
+    "scaleInit": "&54112_csbl",
+    "growTime": "&54112_czsj",
+    "effect": "344113|3641121",
+    "halo": "541141",
+    "haloInit": "&54112_csbl",
+    "lastTime": "&54112_cssj",
+    "removeEffect": "3541142",
+    "follow": "0",
+    "rangeCheck": "1",
+    "lerp": "0"
+  },
+  {
+    "id": "96004",
+    "dmgInit": "&54112_cssh",
+    "scaleInit": "&54112_csbl",
+    "growTime": "&54112_czsj",
+    "effect": "344113|3641121",
+    "halo": "541152",
+    "haloInit": "&54112_csbl",
+    "lastTime": "&54112_cxsj",
+    "removeEffect": "3541155",
+    "follow": "0",
+    "rangeCheck": "1",
+    "lerp": "0"
+  }
+]

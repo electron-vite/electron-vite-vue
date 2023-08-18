@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "actionType": "1",
+    "afterActionType": "2",
+    "afterActionParam": "1_0",
+    "condition": "0"
+  },
+  {
+    "id": "2",
+    "actionType": "2",
+    "afterActionType": "2",
+    "afterActionParam": "1_0",
+    "condition": "0"
+  },
+  {
+    "id": "3",
+    "actionType": "3",
+    "afterActionType": "2",
+    "afterActionParam": "1_0",
+    "condition": "0"
+  },
+  {
+    "id": "4",
+    "actionType": "4",
+    "afterActionType": "2",
+    "afterActionParam": "1_0",
+    "condition": "0"
+  },
+  {
+    "id": "5",
+    "actionType": "5",
+    "afterActionType": "2",
+    "afterActionParam": "1_0",
+    "condition": "0"
+  },
+  {
+    "id": "6",
+    "actionType": "6",
+    "afterActionType": "1",
+    "afterActionParam": "6",
+    "condition": "gender_0_1"
+  },
+  {
+    "id": "7",
+    "actionType": "6",
+    "afterActionType": "1",
+    "afterActionParam": "7",
+    "condition": "0"
+  },
+  {
+    "id": "8",
+    "actionType": "6",
+    "afterActionType": "1",
+    "afterActionParam": "8",
+    "condition": "0"
+  },
+  {
+    "id": "9",
+    "actionType": "6",
+    "afterActionType": "1",
+    "afterActionParam": "9",
+    "condition": "0"
+  }
+]

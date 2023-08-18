@@ -1,0 +1,206 @@
+[
+  {
+    "id": "1",
+    "spriteID": "1001",
+    "skillIndex": "1",
+    "skillID": "91014"
+  },
+  {
+    "id": "2",
+    "spriteID": "1001",
+    "skillIndex": "2",
+    "skillID": "91015"
+  },
+  {
+    "id": "3",
+    "spriteID": "1002",
+    "skillIndex": "1",
+    "skillID": "91062"
+  },
+  {
+    "id": "4",
+    "spriteID": "1002",
+    "skillIndex": "2",
+    "skillID": "91063"
+  },
+  {
+    "id": "5",
+    "spriteID": "1003",
+    "skillIndex": "1",
+    "skillID": "91042"
+  },
+  {
+    "id": "6",
+    "spriteID": "1003",
+    "skillIndex": "2",
+    "skillID": "91023"
+  },
+  {
+    "id": "7",
+    "spriteID": "1004",
+    "skillIndex": "1",
+    "skillID": "91032"
+  },
+  {
+    "id": "8",
+    "spriteID": "1004",
+    "skillIndex": "2",
+    "skillID": "91033"
+  },
+  {
+    "id": "9",
+    "spriteID": "1005",
+    "skillIndex": "1",
+    "skillID": "91042"
+  },
+  {
+    "id": "10",
+    "spriteID": "1005",
+    "skillIndex": "2",
+    "skillID": "91043"
+  },
+  {
+    "id": "11",
+    "spriteID": "1006",
+    "skillIndex": "1",
+    "skillID": "91052"
+  },
+  {
+    "id": "12",
+    "spriteID": "1006",
+    "skillIndex": "2",
+    "skillID": "91053"
+  },
+  {
+    "id": "13",
+    "spriteID": "1007",
+    "skillIndex": "1",
+    "skillID": "91072"
+  },
+  {
+    "id": "14",
+    "spriteID": "1007",
+    "skillIndex": "2",
+    "skillID": "91073"
+  },
+  {
+    "id": "15",
+    "spriteID": "2001",
+    "skillIndex": "1",
+    "skillID": "92012"
+  },
+  {
+    "id": "16",
+    "spriteID": "2002",
+    "skillIndex": "1",
+    "skillID": "92022"
+  },
+  {
+    "id": "17",
+    "spriteID": "2003",
+    "skillIndex": "1",
+    "skillID": "92032"
+  },
+  {
+    "id": "18",
+    "spriteID": "2004",
+    "skillIndex": "1",
+    "skillID": "92072"
+  },
+  {
+    "id": "19",
+    "spriteID": "2005",
+    "skillIndex": "1",
+    "skillID": "92082"
+  },
+  {
+    "id": "20",
+    "spriteID": "2006",
+    "skillIndex": "1",
+    "skillID": "92092"
+  },
+  {
+    "id": "21",
+    "spriteID": "2007",
+    "skillIndex": "1",
+    "skillID": "92042"
+  },
+  {
+    "id": "22",
+    "spriteID": "2008",
+    "skillIndex": "1",
+    "skillID": "92052"
+  },
+  {
+    "id": "23",
+    "spriteID": "2009",
+    "skillIndex": "1",
+    "skillID": "92062"
+  },
+  {
+    "id": "24",
+    "spriteID": "2010",
+    "skillIndex": "1",
+    "skillID": "92132"
+  },
+  {
+    "id": "25",
+    "spriteID": "2011",
+    "skillIndex": "1",
+    "skillID": "92142"
+  },
+  {
+    "id": "26",
+    "spriteID": "2012",
+    "skillIndex": "1",
+    "skillID": "92152"
+  },
+  {
+    "id": "27",
+    "spriteID": "2013",
+    "skillIndex": "1",
+    "skillID": "92162"
+  },
+  {
+    "id": "28",
+    "spriteID": "2014",
+    "skillIndex": "1",
+    "skillID": "92172"
+  },
+  {
+    "id": "29",
+    "spriteID": "2015",
+    "skillIndex": "1",
+    "skillID": "92182"
+  },
+  {
+    "id": "30",
+    "spriteID": "2016",
+    "skillIndex": "1",
+    "skillID": "92102"
+  },
+  {
+    "id": "31",
+    "spriteID": "2017",
+    "skillIndex": "1",
+    "skillID": "92112"
+  },
+  {
+    "id": "32",
+    "spriteID": "2018",
+    "skillIndex": "1",
+    "skillID": "92122"
+  },
+  {
+    "id": "33",
+    "spriteID": "1008",
+    "skillIndex": "1",
+    "skillID": "91082"
+  },
+  {
+    "id": "34",
+    "spriteID": "1008",
+    "skillIndex": "1",
+    "skillID": "91083"
+  }
+]

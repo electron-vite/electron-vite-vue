@@ -4,6 +4,7 @@ import vue from '@vitejs/plugin-vue'
 import electron from 'vite-plugin-electron'
 import renderer from 'vite-plugin-electron-renderer'
 import pkg from './package.json'
+import { fileURLToPath, URL } from 'node:url'
 
 // https://vitejs.dev/config/
 export default defineConfig(({ command }) => {
@@ -14,6 +15,21 @@ export default defineConfig(({ command }) => {
   const sourcemap = isServe || !!process.env.VSCODE_DEBUG
 
   return {
+    css: {
+      preprocessorOptions: {
+        less: {
+          javascriptEnabled: true,
+        }
+      },
+    },
+    resolve: {
+      alias: {
+        '@': fileURLToPath(new URL('./src', import.meta.url)),
+        '%': fileURLToPath(new URL('./electron/common', import.meta.url)),
+        '@public': fileURLToPath(new URL('./public', import.meta.url)),
+      },
+      dedupe: ['vue'],
+    },
     plugins: [
       vue(),
       electron([

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "point": "4_0",
+    "monsterID": "7821",
+    "position": "0_1_0_0",
+    "offset": "13_9.6",
+    "toward": "1_1_1"
+  },
+  {
+    "id": "2",
+    "point": "4_2",
+    "monsterID": "7841",
+    "position": "0_0_1_0",
+    "offset": "-5_3.8",
+    "toward": "-1.5_1.5_1.5"
+  },
+  {
+    "id": "3",
+    "point": "4_4",
+    "monsterID": "7831",
+    "position": "0_1_0_0",
+    "offset": "0_-0.54",
+    "toward": "1.5_1.5_1.5"
+  },
+  {
+    "id": "4",
+    "point": "4_6",
+    "monsterID": "7831",
+    "position": "0_1_0_0",
+    "offset": "0_-0.54",
+    "toward": "-1.5_1.5_1.5"
+  },
+  {
+    "id": "5",
+    "point": "4_8",
+    "monsterID": "7841",
+    "position": "1_0_0_0",
+    "offset": "4_4.16",
+    "toward": "1.5_1.5_1.5"
+  },
+  {
+    "id": "6",
+    "point": "4_10",
+    "monsterID": "7851",
+    "position": "1_0_0_0",
+    "offset": "0.6_-4.58",
+    "toward": "1.5_1.5_1.5"
+  }
+]

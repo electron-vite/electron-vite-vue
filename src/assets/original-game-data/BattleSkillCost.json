@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "1",
+    "grade": "1",
+    "level": "1",
+    "type": "1",
+    "money": "50",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "2",
+    "grade": "1",
+    "level": "2",
+    "type": "1",
+    "money": "100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "3",
+    "grade": "1",
+    "level": "3",
+    "type": "1",
+    "money": "150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "4",
+    "grade": "1",
+    "level": "4",
+    "type": "1",
+    "money": "200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "5",
+    "grade": "1",
+    "level": "5",
+    "type": "1",
+    "money": "300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "6",
+    "grade": "1",
+    "level": "6",
+    "type": "1",
+    "money": "400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "7",
+    "grade": "2",
+    "level": "1",
+    "type": "1",
+    "money": "50",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "8",
+    "grade": "2",
+    "level": "2",
+    "type": "1",
+    "money": "150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "9",
+    "grade": "2",
+    "level": "3",
+    "type": "1",
+    "money": "200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "10",
+    "grade": "2",
+    "level": "4",
+    "type": "1",
+    "money": "300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "11",
+    "grade": "2",
+    "level": "5",
+    "type": "1",
+    "money": "450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "12",
+    "grade": "2",
+    "level": "6",
+    "type": "1",
+    "money": "600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "13",
+    "grade": "3",
+    "level": "1",
+    "type": "1",
+    "money": "100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "14",
+    "grade": "3",
+    "level": "2",
+    "type": "1",
+    "money": "200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "15",
+    "grade": "3",
+    "level": "3",
+    "type": "1",
+    "money": "300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "16",
+    "grade": "3",
+    "level": "4",
+    "type": "1",
+    "money": "450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "17",
+    "grade": "3",
+    "level": "5",
+    "type": "1",
+    "money": "650",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "18",
+    "grade": "3",
+    "level": "6",
+    "type": "1",
+    "money": "900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "19",
+    "grade": "4",
+    "level": "1",
+    "type": "1",
+    "money": "150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "20",
+    "grade": "4",
+    "level": "2",
+    "type": "1",
+    "money": "300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "21",
+    "grade": "4",
+    "level": "3",
+    "type": "1",
+    "money": "500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "22",
+    "grade": "4",
+    "level": "4",
+    "type": "1",
+    "money": "650",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "23",
+    "grade": "4",
+    "level": "5",
+    "type": "1",
+    "money": "1000",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "24",
+    "grade": "4",
+    "level": "6",
+    "type": "1",
+    "money": "1350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "25",
+    "grade": "5",
+    "level": "1",
+    "type": "1",
+    "money": "250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "26",
+    "grade": "5",
+    "level": "2",
+    "type": "1",
+    "money": "500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "27",
+    "grade": "5",
+    "level": "3",
+    "type": "1",
+    "money": "750",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "28",
+    "grade": "5",
+    "level": "4",
+    "type": "1",
+    "money": "1000",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "29",
+    "grade": "5",
+    "level": "5",
+    "type": "1",
+    "money": "1500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "30",
+    "grade": "5",
+    "level": "6",
+    "type": "1",
+    "money": "2000",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "31",
+    "grade": "6",
+    "level": "1",
+    "type": "1",
+    "money": "350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "32",
+    "grade": "6",
+    "level": "2",
+    "type": "1",
+    "money": "750",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "33",
+    "grade": "6",
+    "level": "3",
+    "type": "1",
+    "money": "1100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "34",
+    "grade": "6",
+    "level": "4",
+    "type": "1",
+    "money": "1500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "35",
+    "grade": "6",
+    "level": "5",
+    "type": "1",
+    "money": "2250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "36",
+    "grade": "6",
+    "level": "6",
+    "type": "1",
+    "money": "3000",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "37",
+    "grade": "7",
+    "level": "1",
+    "type": "1",
+    "money": "550",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "38",
+    "grade": "7",
+    "level": "2",
+    "type": "1",
+    "money": "1100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "39",
+    "grade": "7",
+    "level": "3",
+    "type": "1",
+    "money": "1700",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "40",
+    "grade": "7",
+    "level": "4",
+    "type": "1",
+    "money": "2250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "41",
+    "grade": "7",
+    "level": "5",
+    "type": "1",
+    "money": "3400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "42",
+    "grade": "7",
+    "level": "6",
+    "type": "1",
+    "money": "4550",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "43",
+    "grade": "8",
+    "level": "1",
+    "type": "1",
+    "money": "850",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "44",
+    "grade": "8",
+    "level": "2",
+    "type": "1",
+    "money": "1700",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "45",
+    "grade": "8",
+    "level": "3",
+    "type": "1",
+    "money": "2550",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "46",
+    "grade": "8",
+    "level": "4",
+    "type": "1",
+    "money": "3400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "47",
+    "grade": "8",
+    "level": "5",
+    "type": "1",
+    "money": "5100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "48",
+    "grade": "8",
+    "level": "6",
+    "type": "1",
+    "money": "6800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "49",
+    "grade": "9",
+    "level": "1",
+    "type": "1",
+    "money": "1250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "50",
+    "grade": "9",
+    "level": "2",
+    "type": "1",
+    "money": "2550",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "51",
+    "grade": "9",
+    "level": "3",
+    "type": "1",
+    "money": "3800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "52",
+    "grade": "9",
+    "level": "4",
+    "type": "1",
+    "money": "5100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "53",
+    "grade": "9",
+    "level": "5",
+    "type": "1",
+    "money": "7650",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "54",
+    "grade": "9",
+    "level": "6",
+    "type": "1",
+    "money": "10250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "55",
+    "grade": "10",
+    "level": "1",
+    "type": "1",
+    "money": "1900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "56",
+    "grade": "10",
+    "level": "2",
+    "type": "1",
+    "money": "3800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "57",
+    "grade": "10",
+    "level": "3",
+    "type": "1",
+    "money": "5750",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "58",
+    "grade": "10",
+    "level": "4",
+    "type": "1",
+    "money": "7650",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "59",
+    "grade": "10",
+    "level": "5",
+    "type": "1",
+    "money": "11500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "60",
+    "grade": "10",
+    "level": "6",
+    "type": "1",
+    "money": "15350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "61",
+    "grade": "1",
+    "level": "1",
+    "type": "2",
+    "money": "50",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "62",
+    "grade": "1",
+    "level": "2",
+    "type": "2",
+    "money": "100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "63",
+    "grade": "1",
+    "level": "3",
+    "type": "2",
+    "money": "150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "64",
+    "grade": "1",
+    "level": "4",
+    "type": "2",
+    "money": "200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "65",
+    "grade": "1",
+    "level": "5",
+    "type": "2",
+    "money": "350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "66",
+    "grade": "1",
+    "level": "6",
+    "type": "2",
+    "money": "450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "67",
+    "grade": "2",
+    "level": "1",
+    "type": "2",
+    "money": "50",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "68",
+    "grade": "2",
+    "level": "2",
+    "type": "2",
+    "money": "150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "69",
+    "grade": "2",
+    "level": "3",
+    "type": "2",
+    "money": "250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "70",
+    "grade": "2",
+    "level": "4",
+    "type": "2",
+    "money": "350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "71",
+    "grade": "2",
+    "level": "5",
+    "type": "2",
+    "money": "500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "72",
+    "grade": "2",
+    "level": "6",
+    "type": "2",
+    "money": "700",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "73",
+    "grade": "3",
+    "level": "1",
+    "type": "2",
+    "money": "100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "74",
+    "grade": "3",
+    "level": "2",
+    "type": "2",
+    "money": "250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "75",
+    "grade": "3",
+    "level": "3",
+    "type": "2",
+    "money": "400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "76",
+    "grade": "3",
+    "level": "4",
+    "type": "2",
+    "money": "500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "77",
+    "grade": "3",
+    "level": "5",
+    "type": "2",
+    "money": "800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "78",
+    "grade": "3",
+    "level": "6",
+    "type": "2",
+    "money": "1050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "79",
+    "grade": "4",
+    "level": "1",
+    "type": "2",
+    "money": "200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "80",
+    "grade": "4",
+    "level": "2",
+    "type": "2",
+    "money": "400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "81",
+    "grade": "4",
+    "level": "3",
+    "type": "2",
+    "money": "600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "82",
+    "grade": "4",
+    "level": "4",
+    "type": "2",
+    "money": "800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "83",
+    "grade": "4",
+    "level": "5",
+    "type": "2",
+    "money": "1200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "84",
+    "grade": "4",
+    "level": "6",
+    "type": "2",
+    "money": "1600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "85",
+    "grade": "5",
+    "level": "1",
+    "type": "2",
+    "money": "300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "86",
+    "grade": "5",
+    "level": "2",
+    "type": "2",
+    "money": "600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "87",
+    "grade": "5",
+    "level": "3",
+    "type": "2",
+    "money": "900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "88",
+    "grade": "5",
+    "level": "4",
+    "type": "2",
+    "money": "1200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "89",
+    "grade": "5",
+    "level": "5",
+    "type": "2",
+    "money": "1800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "90",
+    "grade": "5",
+    "level": "6",
+    "type": "2",
+    "money": "2400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "91",
+    "grade": "6",
+    "level": "1",
+    "type": "2",
+    "money": "450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "92",
+    "grade": "6",
+    "level": "2",
+    "type": "2",
+    "money": "900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "93",
+    "grade": "6",
+    "level": "3",
+    "type": "2",
+    "money": "1350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "94",
+    "grade": "6",
+    "level": "4",
+    "type": "2",
+    "money": "1800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "95",
+    "grade": "6",
+    "level": "5",
+    "type": "2",
+    "money": "2700",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "96",
+    "grade": "6",
+    "level": "6",
+    "type": "2",
+    "money": "3600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "97",
+    "grade": "7",
+    "level": "1",
+    "type": "2",
+    "money": "650",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "98",
+    "grade": "7",
+    "level": "2",
+    "type": "2",
+    "money": "1350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "99",
+    "grade": "7",
+    "level": "3",
+    "type": "2",
+    "money": "2050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "100",
+    "grade": "7",
+    "level": "4",
+    "type": "2",
+    "money": "2700",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "101",
+    "grade": "7",
+    "level": "5",
+    "type": "2",
+    "money": "4100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "102",
+    "grade": "7",
+    "level": "6",
+    "type": "2",
+    "money": "5450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "103",
+    "grade": "8",
+    "level": "1",
+    "type": "2",
+    "money": "1000",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "104",
+    "grade": "8",
+    "level": "2",
+    "type": "2",
+    "money": "2050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "105",
+    "grade": "8",
+    "level": "3",
+    "type": "2",
+    "money": "3050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "106",
+    "grade": "8",
+    "level": "4",
+    "type": "2",
+    "money": "4100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "107",
+    "grade": "8",
+    "level": "5",
+    "type": "2",
+    "money": "6150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "108",
+    "grade": "8",
+    "level": "6",
+    "type": "2",
+    "money": "8200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "109",
+    "grade": "9",
+    "level": "1",
+    "type": "2",
+    "money": "1500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "110",
+    "grade": "9",
+    "level": "2",
+    "type": "2",
+    "money": "3050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "111",
+    "grade": "9",
+    "level": "3",
+    "type": "2",
+    "money": "4600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "112",
+    "grade": "9",
+    "level": "4",
+    "type": "2",
+    "money": "6150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "113",
+    "grade": "9",
+    "level": "5",
+    "type": "2",
+    "money": "9200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "114",
+    "grade": "9",
+    "level": "6",
+    "type": "2",
+    "money": "12300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "115",
+    "grade": "10",
+    "level": "1",
+    "type": "2",
+    "money": "2300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "116",
+    "grade": "10",
+    "level": "2",
+    "type": "2",
+    "money": "4600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "117",
+    "grade": "10",
+    "level": "3",
+    "type": "2",
+    "money": "6900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "118",
+    "grade": "10",
+    "level": "4",
+    "type": "2",
+    "money": "9200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "119",
+    "grade": "10",
+    "level": "5",
+    "type": "2",
+    "money": "13800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "120",
+    "grade": "10",
+    "level": "6",
+    "type": "2",
+    "money": "18450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "121",
+    "grade": "1",
+    "level": "1",
+    "type": "5",
+    "money": "100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "122",
+    "grade": "1",
+    "level": "2",
+    "type": "5",
+    "money": "250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "123",
+    "grade": "1",
+    "level": "3",
+    "type": "5",
+    "money": "400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "124",
+    "grade": "1",
+    "level": "4",
+    "type": "5",
+    "money": "500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "125",
+    "grade": "1",
+    "level": "5",
+    "type": "5",
+    "money": "800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "126",
+    "grade": "1",
+    "level": "6",
+    "type": "5",
+    "money": "1050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "127",
+    "grade": "2",
+    "level": "1",
+    "type": "5",
+    "money": "200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "128",
+    "grade": "2",
+    "level": "2",
+    "type": "5",
+    "money": "400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "129",
+    "grade": "2",
+    "level": "3",
+    "type": "5",
+    "money": "600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "130",
+    "grade": "2",
+    "level": "4",
+    "type": "5",
+    "money": "800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "131",
+    "grade": "2",
+    "level": "5",
+    "type": "5",
+    "money": "1200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "132",
+    "grade": "2",
+    "level": "6",
+    "type": "5",
+    "money": "1600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "133",
+    "grade": "3",
+    "level": "1",
+    "type": "5",
+    "money": "300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "134",
+    "grade": "3",
+    "level": "2",
+    "type": "5",
+    "money": "600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "135",
+    "grade": "3",
+    "level": "3",
+    "type": "5",
+    "money": "900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "136",
+    "grade": "3",
+    "level": "4",
+    "type": "5",
+    "money": "1200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "137",
+    "grade": "3",
+    "level": "5",
+    "type": "5",
+    "money": "1800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "138",
+    "grade": "3",
+    "level": "6",
+    "type": "5",
+    "money": "2400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "139",
+    "grade": "4",
+    "level": "1",
+    "type": "5",
+    "money": "450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "140",
+    "grade": "4",
+    "level": "2",
+    "type": "5",
+    "money": "900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "141",
+    "grade": "4",
+    "level": "3",
+    "type": "5",
+    "money": "1350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "142",
+    "grade": "4",
+    "level": "4",
+    "type": "5",
+    "money": "1800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "143",
+    "grade": "4",
+    "level": "5",
+    "type": "5",
+    "money": "2700",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "144",
+    "grade": "4",
+    "level": "6",
+    "type": "5",
+    "money": "3600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "145",
+    "grade": "5",
+    "level": "1",
+    "type": "5",
+    "money": "650",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "146",
+    "grade": "5",
+    "level": "2",
+    "type": "5",
+    "money": "1350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "147",
+    "grade": "5",
+    "level": "3",
+    "type": "5",
+    "money": "2050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "148",
+    "grade": "5",
+    "level": "4",
+    "type": "5",
+    "money": "2700",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "149",
+    "grade": "5",
+    "level": "5",
+    "type": "5",
+    "money": "4100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "150",
+    "grade": "5",
+    "level": "6",
+    "type": "5",
+    "money": "5450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "151",
+    "grade": "6",
+    "level": "1",
+    "type": "5",
+    "money": "1000",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "152",
+    "grade": "6",
+    "level": "2",
+    "type": "5",
+    "money": "2050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "153",
+    "grade": "6",
+    "level": "3",
+    "type": "5",
+    "money": "3050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "154",
+    "grade": "6",
+    "level": "4",
+    "type": "5",
+    "money": "4100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "155",
+    "grade": "6",
+    "level": "5",
+    "type": "5",
+    "money": "6150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "156",
+    "grade": "6",
+    "level": "6",
+    "type": "5",
+    "money": "8200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "157",
+    "grade": "7",
+    "level": "1",
+    "type": "5",
+    "money": "1500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "158",
+    "grade": "7",
+    "level": "2",
+    "type": "5",
+    "money": "3050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "159",
+    "grade": "7",
+    "level": "3",
+    "type": "5",
+    "money": "4600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "160",
+    "grade": "7",
+    "level": "4",
+    "type": "5",
+    "money": "6150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "161",
+    "grade": "7",
+    "level": "5",
+    "type": "5",
+    "money": "9200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "162",
+    "grade": "7",
+    "level": "6",
+    "type": "5",
+    "money": "12300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "163",
+    "grade": "8",
+    "level": "1",
+    "type": "5",
+    "money": "2300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "164",
+    "grade": "8",
+    "level": "2",
+    "type": "5",
+    "money": "4600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "165",
+    "grade": "8",
+    "level": "3",
+    "type": "5",
+    "money": "6900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "166",
+    "grade": "8",
+    "level": "4",
+    "type": "5",
+    "money": "9200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "167",
+    "grade": "8",
+    "level": "5",
+    "type": "5",
+    "money": "13800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "168",
+    "grade": "8",
+    "level": "6",
+    "type": "5",
+    "money": "18450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "169",
+    "grade": "9",
+    "level": "1",
+    "type": "5",
+    "money": "3450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "170",
+    "grade": "9",
+    "level": "2",
+    "type": "5",
+    "money": "6900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "171",
+    "grade": "9",
+    "level": "3",
+    "type": "5",
+    "money": "10350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "172",
+    "grade": "9",
+    "level": "4",
+    "type": "5",
+    "money": "13800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "173",
+    "grade": "9",
+    "level": "5",
+    "type": "5",
+    "money": "20750",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "174",
+    "grade": "9",
+    "level": "6",
+    "type": "5",
+    "money": "27650",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "175",
+    "grade": "10",
+    "level": "1",
+    "type": "5",
+    "money": "5150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "176",
+    "grade": "10",
+    "level": "2",
+    "type": "5",
+    "money": "10350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "177",
+    "grade": "10",
+    "level": "3",
+    "type": "5",
+    "money": "15550",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "178",
+    "grade": "10",
+    "level": "4",
+    "type": "5",
+    "money": "20750",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "179",
+    "grade": "10",
+    "level": "5",
+    "type": "5",
+    "money": "31100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "180",
+    "grade": "10",
+    "level": "6",
+    "type": "5",
+    "money": "41500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "181",
+    "grade": "1",
+    "level": "1",
+    "type": "3",
+    "money": "50",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "182",
+    "grade": "1",
+    "level": "2",
+    "type": "3",
+    "money": "100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "183",
+    "grade": "1",
+    "level": "3",
+    "type": "3",
+    "money": "200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "184",
+    "grade": "1",
+    "level": "4",
+    "type": "3",
+    "money": "250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "185",
+    "grade": "1",
+    "level": "5",
+    "type": "3",
+    "money": "400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "186",
+    "grade": "1",
+    "level": "6",
+    "type": "3",
+    "money": "550",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "187",
+    "grade": "2",
+    "level": "1",
+    "type": "3",
+    "money": "100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "188",
+    "grade": "2",
+    "level": "2",
+    "type": "3",
+    "money": "200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "189",
+    "grade": "2",
+    "level": "3",
+    "type": "3",
+    "money": "300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "190",
+    "grade": "2",
+    "level": "4",
+    "type": "3",
+    "money": "400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "191",
+    "grade": "2",
+    "level": "5",
+    "type": "3",
+    "money": "600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "192",
+    "grade": "2",
+    "level": "6",
+    "type": "3",
+    "money": "850",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "193",
+    "grade": "3",
+    "level": "1",
+    "type": "3",
+    "money": "150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "194",
+    "grade": "3",
+    "level": "2",
+    "type": "3",
+    "money": "300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "195",
+    "grade": "3",
+    "level": "3",
+    "type": "3",
+    "money": "450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "196",
+    "grade": "3",
+    "level": "4",
+    "type": "3",
+    "money": "600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "197",
+    "grade": "3",
+    "level": "5",
+    "type": "3",
+    "money": "950",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "198",
+    "grade": "3",
+    "level": "6",
+    "type": "3",
+    "money": "1250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "199",
+    "grade": "4",
+    "level": "1",
+    "type": "3",
+    "money": "200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "200",
+    "grade": "4",
+    "level": "2",
+    "type": "3",
+    "money": "450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "201",
+    "grade": "4",
+    "level": "3",
+    "type": "3",
+    "money": "700",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "202",
+    "grade": "4",
+    "level": "4",
+    "type": "3",
+    "money": "950",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "203",
+    "grade": "4",
+    "level": "5",
+    "type": "3",
+    "money": "1450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "204",
+    "grade": "4",
+    "level": "6",
+    "type": "3",
+    "money": "1900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "205",
+    "grade": "5",
+    "level": "1",
+    "type": "3",
+    "money": "350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "206",
+    "grade": "5",
+    "level": "2",
+    "type": "3",
+    "money": "700",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "207",
+    "grade": "5",
+    "level": "3",
+    "type": "3",
+    "money": "1050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "208",
+    "grade": "5",
+    "level": "4",
+    "type": "3",
+    "money": "1450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "209",
+    "grade": "5",
+    "level": "5",
+    "type": "3",
+    "money": "2150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "210",
+    "grade": "5",
+    "level": "6",
+    "type": "3",
+    "money": "2900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "211",
+    "grade": "6",
+    "level": "1",
+    "type": "3",
+    "money": "500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "212",
+    "grade": "6",
+    "level": "2",
+    "type": "3",
+    "money": "1050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "213",
+    "grade": "6",
+    "level": "3",
+    "type": "3",
+    "money": "1600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "214",
+    "grade": "6",
+    "level": "4",
+    "type": "3",
+    "money": "2150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "215",
+    "grade": "6",
+    "level": "5",
+    "type": "3",
+    "money": "3250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "216",
+    "grade": "6",
+    "level": "6",
+    "type": "3",
+    "money": "4350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "217",
+    "grade": "7",
+    "level": "1",
+    "type": "3",
+    "money": "800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "218",
+    "grade": "7",
+    "level": "2",
+    "type": "3",
+    "money": "1600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "219",
+    "grade": "7",
+    "level": "3",
+    "type": "3",
+    "money": "2450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "220",
+    "grade": "7",
+    "level": "4",
+    "type": "3",
+    "money": "3250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "221",
+    "grade": "7",
+    "level": "5",
+    "type": "3",
+    "money": "4900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "222",
+    "grade": "7",
+    "level": "6",
+    "type": "3",
+    "money": "6550",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "223",
+    "grade": "8",
+    "level": "1",
+    "type": "3",
+    "money": "1200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "224",
+    "grade": "8",
+    "level": "2",
+    "type": "3",
+    "money": "2450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "225",
+    "grade": "8",
+    "level": "3",
+    "type": "3",
+    "money": "3650",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "226",
+    "grade": "8",
+    "level": "4",
+    "type": "3",
+    "money": "4900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "227",
+    "grade": "8",
+    "level": "5",
+    "type": "3",
+    "money": "7350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "228",
+    "grade": "8",
+    "level": "6",
+    "type": "3",
+    "money": "9800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "229",
+    "grade": "9",
+    "level": "1",
+    "type": "3",
+    "money": "1800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "230",
+    "grade": "9",
+    "level": "2",
+    "type": "3",
+    "money": "3650",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "231",
+    "grade": "9",
+    "level": "3",
+    "type": "3",
+    "money": "5500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "232",
+    "grade": "9",
+    "level": "4",
+    "type": "3",
+    "money": "7350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "233",
+    "grade": "9",
+    "level": "5",
+    "type": "3",
+    "money": "11050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "234",
+    "grade": "9",
+    "level": "6",
+    "type": "3",
+    "money": "14750",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "235",
+    "grade": "10",
+    "level": "1",
+    "type": "3",
+    "money": "2750",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "236",
+    "grade": "10",
+    "level": "2",
+    "type": "3",
+    "money": "5500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "237",
+    "grade": "10",
+    "level": "3",
+    "type": "3",
+    "money": "8300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "238",
+    "grade": "10",
+    "level": "4",
+    "type": "3",
+    "money": "11050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "239",
+    "grade": "10",
+    "level": "5",
+    "type": "3",
+    "money": "16600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "240",
+    "grade": "10",
+    "level": "6",
+    "type": "3",
+    "money": "22100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "241",
+    "grade": "1",
+    "level": "1",
+    "type": "4",
+    "money": "50",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "242",
+    "grade": "1",
+    "level": "2",
+    "type": "4",
+    "money": "150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "243",
+    "grade": "1",
+    "level": "3",
+    "type": "4",
+    "money": "250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "244",
+    "grade": "1",
+    "level": "4",
+    "type": "4",
+    "money": "350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "245",
+    "grade": "1",
+    "level": "5",
+    "type": "4",
+    "money": "500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "246",
+    "grade": "1",
+    "level": "6",
+    "type": "4",
+    "money": "700",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "247",
+    "grade": "2",
+    "level": "1",
+    "type": "4",
+    "money": "100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "248",
+    "grade": "2",
+    "level": "2",
+    "type": "4",
+    "money": "250",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "249",
+    "grade": "2",
+    "level": "3",
+    "type": "4",
+    "money": "400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "250",
+    "grade": "2",
+    "level": "4",
+    "type": "4",
+    "money": "500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "251",
+    "grade": "2",
+    "level": "5",
+    "type": "4",
+    "money": "800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "252",
+    "grade": "2",
+    "level": "6",
+    "type": "4",
+    "money": "1050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "253",
+    "grade": "3",
+    "level": "1",
+    "type": "4",
+    "money": "200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "254",
+    "grade": "3",
+    "level": "2",
+    "type": "4",
+    "money": "400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "255",
+    "grade": "3",
+    "level": "3",
+    "type": "4",
+    "money": "600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "256",
+    "grade": "3",
+    "level": "4",
+    "type": "4",
+    "money": "800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "257",
+    "grade": "3",
+    "level": "5",
+    "type": "4",
+    "money": "1200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "258",
+    "grade": "3",
+    "level": "6",
+    "type": "4",
+    "money": "1600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "259",
+    "grade": "4",
+    "level": "1",
+    "type": "4",
+    "money": "300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "260",
+    "grade": "4",
+    "level": "2",
+    "type": "4",
+    "money": "600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "261",
+    "grade": "4",
+    "level": "3",
+    "type": "4",
+    "money": "900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "262",
+    "grade": "4",
+    "level": "4",
+    "type": "4",
+    "money": "1200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "263",
+    "grade": "4",
+    "level": "5",
+    "type": "4",
+    "money": "1800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "264",
+    "grade": "4",
+    "level": "6",
+    "type": "4",
+    "money": "2400",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "265",
+    "grade": "5",
+    "level": "1",
+    "type": "4",
+    "money": "450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "266",
+    "grade": "5",
+    "level": "2",
+    "type": "4",
+    "money": "900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "267",
+    "grade": "5",
+    "level": "3",
+    "type": "4",
+    "money": "1350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "268",
+    "grade": "5",
+    "level": "4",
+    "type": "4",
+    "money": "1800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "269",
+    "grade": "5",
+    "level": "5",
+    "type": "4",
+    "money": "2700",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "270",
+    "grade": "5",
+    "level": "6",
+    "type": "4",
+    "money": "3600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "271",
+    "grade": "6",
+    "level": "1",
+    "type": "4",
+    "money": "650",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "272",
+    "grade": "6",
+    "level": "2",
+    "type": "4",
+    "money": "1350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "273",
+    "grade": "6",
+    "level": "3",
+    "type": "4",
+    "money": "2050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "274",
+    "grade": "6",
+    "level": "4",
+    "type": "4",
+    "money": "2700",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "275",
+    "grade": "6",
+    "level": "5",
+    "type": "4",
+    "money": "4100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "276",
+    "grade": "6",
+    "level": "6",
+    "type": "4",
+    "money": "5450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "277",
+    "grade": "7",
+    "level": "1",
+    "type": "4",
+    "money": "1000",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "278",
+    "grade": "7",
+    "level": "2",
+    "type": "4",
+    "money": "2050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "279",
+    "grade": "7",
+    "level": "3",
+    "type": "4",
+    "money": "3050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "280",
+    "grade": "7",
+    "level": "4",
+    "type": "4",
+    "money": "4100",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "281",
+    "grade": "7",
+    "level": "5",
+    "type": "4",
+    "money": "6150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "282",
+    "grade": "7",
+    "level": "6",
+    "type": "4",
+    "money": "8200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "283",
+    "grade": "8",
+    "level": "1",
+    "type": "4",
+    "money": "1500",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "284",
+    "grade": "8",
+    "level": "2",
+    "type": "4",
+    "money": "3050",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "285",
+    "grade": "8",
+    "level": "3",
+    "type": "4",
+    "money": "4600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "286",
+    "grade": "8",
+    "level": "4",
+    "type": "4",
+    "money": "6150",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "287",
+    "grade": "8",
+    "level": "5",
+    "type": "4",
+    "money": "9200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "288",
+    "grade": "8",
+    "level": "6",
+    "type": "4",
+    "money": "12300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "289",
+    "grade": "9",
+    "level": "1",
+    "type": "4",
+    "money": "2300",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "290",
+    "grade": "9",
+    "level": "2",
+    "type": "4",
+    "money": "4600",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "291",
+    "grade": "9",
+    "level": "3",
+    "type": "4",
+    "money": "6900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "292",
+    "grade": "9",
+    "level": "4",
+    "type": "4",
+    "money": "9200",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "293",
+    "grade": "9",
+    "level": "5",
+    "type": "4",
+    "money": "13800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "294",
+    "grade": "9",
+    "level": "6",
+    "type": "4",
+    "money": "18450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "295",
+    "grade": "10",
+    "level": "1",
+    "type": "4",
+    "money": "3450",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "296",
+    "grade": "10",
+    "level": "2",
+    "type": "4",
+    "money": "6900",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "297",
+    "grade": "10",
+    "level": "3",
+    "type": "4",
+    "money": "10350",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "298",
+    "grade": "10",
+    "level": "4",
+    "type": "4",
+    "money": "13800",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "299",
+    "grade": "10",
+    "level": "5",
+    "type": "4",
+    "money": "20750",
+    "days": "15",
+    "talentExp": "10"
+  },
+  {
+    "id": "300",
+    "grade": "10",
+    "level": "6",
+    "type": "4",
+    "money": "27650",
+    "days": "15",
+    "talentExp": "10"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "key": "communicationMin",
+    "value": "6"
+  },
+  {
+    "id": "2",
+    "key": "communicationMax",
+    "value": "6"
+  }
+]

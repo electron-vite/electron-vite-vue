@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1",
+    "level": "1",
+    "name": "town_refine_name1",
+    "rewardID": "5031724",
+    " probability": "100",
+    "itemCostID": "5071015_100",
+    "moneyCost": "400"
+  },
+  {
+    "id": "2",
+    "level": "1",
+    "name": "town_refine_name2",
+    "rewardID": "5031734",
+    " probability": "100",
+    "itemCostID": "5071025_100",
+    "moneyCost": "400"
+  },
+  {
+    "id": "3",
+    "level": "1",
+    "name": "town_refine_name3",
+    "rewardID": "5031744",
+    " probability": "100",
+    "itemCostID": "5071035_100",
+    "moneyCost": "400"
+  },
+  {
+    "id": "4",
+    "level": "1",
+    "name": "town_refine_name4",
+    "rewardID": "5031754",
+    " probability": "100",
+    "itemCostID": "5071045_100",
+    "moneyCost": "400"
+  },
+  {
+    "id": "5",
+    "level": "1",
+    "name": "town_refine_name5",
+    "rewardID": "5031764",
+    " probability": "100",
+    "itemCostID": "5071055_100",
+    "moneyCost": "400"
+  },
+  {
+    "id": "6",
+    "level": "1",
+    "name": "town_refine_name6",
+    "rewardID": "5031774",
+    " probability": "100",
+    "itemCostID": "5071065_100",
+    "moneyCost": "400"
+  },
+  {
+    "id": "7",
+    "level": "2",
+    "name": "town_refine_name7",
+    "rewardID": "5031784",
+    " probability": "100",
+    "itemCostID": "5071075_100",
+    "moneyCost": "1000"
+  },
+  {
+    "id": "8",
+    "level": "2",
+    "name": "town_refine_name8",
+    "rewardID": "5031794",
+    " probability": "100",
+    "itemCostID": "5071085_100",
+    "moneyCost": "1000"
+  },
+  {
+    "id": "9",
+    "level": "2",
+    "name": "town_refine_name9",
+    "rewardID": "5031804",
+    " probability": "100",
+    "itemCostID": "5071095_100",
+    "moneyCost": "1000"
+  },
+  {
+    "id": "10",
+    "level": "2",
+    "name": "town_refine_name10",
+    "rewardID": "5031814",
+    " probability": "100",
+    "itemCostID": "5071105_100",
+    "moneyCost": "1000"
+  },
+  {
+    "id": "11",
+    "level": "2",
+    "name": "town_refine_name11",
+    "rewardID": "5031824",
+    " probability": "100",
+    "itemCostID": "5071115_100",
+    "moneyCost": "1000"
+  },
+  {
+    "id": "12",
+    "level": "2",
+    "name": "town_refine_name12",
+    "rewardID": "5031834",
+    " probability": "100",
+    "itemCostID": "5071125_100",
+    "moneyCost": "1000"
+  },
+  {
+    "id": "13",
+    "level": "3",
+    "name": "town_refine_name13",
+    "rewardID": "5031964",
+    " probability": "100",
+    "itemCostID": "5071255_100",
+    "moneyCost": "12500"
+  },
+  {
+    "id": "14",
+    "level": "3",
+    "name": "town_refine_name14",
+    "rewardID": "5031974",
+    " probability": "100",
+    "itemCostID": "5071265_100",
+    "moneyCost": "12500"
+  },
+  {
+    "id": "27",
+    "level": "1",
+    "name": "town_refine_name27",
+    "rewardID": "5021414",
+    " probability": "100",
+    "itemCostID": "5021413_5",
+    "moneyCost": "0"
+  },
+  {
+    "id": "28",
+    "level": "1",
+    "name": "town_refine_name28",
+    "rewardID": "5021415",
+    " probability": "100",
+    "itemCostID": "5021414_5",
+    "moneyCost": "0"
+  },
+  {
+    "id": "29",
+    "level": "2",
+    "name": "town_refine_name29",
+    "rewardID": "5021424",
+    " probability": "100",
+    "itemCostID": "5021423_5",
+    "moneyCost": "0"
+  },
+  {
+    "id": "30",
+    "level": "2",
+    "name": "town_refine_name30",
+    "rewardID": "5021425",
+    " probability": "100",
+    "itemCostID": "5021424_5",
+    "moneyCost": "0"
+  },
+  {
+    "id": "31",
+    "level": "3",
+    "name": "town_refine_name31",
+    "rewardID": "5021434",
+    " probability": "100",
+    "itemCostID": "5021433_5",
+    "moneyCost": "0"
+  },
+  {
+    "id": "32",
+    "level": "3",
+    "name": "town_refine_name32",
+    "rewardID": "5021435",
+    " probability": "100",
+    "itemCostID": "5021434_5",
+    "moneyCost": "0"
+  },
+  {
+    "id": "33",
+    "level": "4",
+    "name": "town_refine_name33",
+    "rewardID": "5021444",
+    " probability": "100",
+    "itemCostID": "5021443_5",
+    "moneyCost": "0"
+  },
+  {
+    "id": "34",
+    "level": "4",
+    "name": "town_refine_name34",
+    "rewardID": "5021445",
+    " probability": "100",
+    "itemCostID": "5021444_5",
+    "moneyCost": "0"
+  },
+  {
+    "id": "35",
+    "level": "5",
+    "name": "town_refine_name35",
+    "rewardID": "5021454",
+    " probability": "100",
+    "itemCostID": "5021453_5",
+    "moneyCost": "0"
+  },
+  {
+    "id": "36",
+    "level": "5",
+    "name": "town_refine_name36",
+    "rewardID": "5021455",
+    " probability": "100",
+    "itemCostID": "5021454_5",
+    "moneyCost": "0"
+  }
+]

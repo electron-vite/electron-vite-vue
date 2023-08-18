@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "close": "0",
+    "multiple": "10000"
+  },
+  {
+    "id": "2",
+    "close": "10",
+    "multiple": "7500"
+  },
+  {
+    "id": "3",
+    "close": "30",
+    "multiple": "6000"
+  },
+  {
+    "id": "4",
+    "close": "60",
+    "multiple": "4000"
+  },
+  {
+    "id": "5",
+    "close": "100",
+    "multiple": "3000"
+  },
+  {
+    "id": "6",
+    "close": "200",
+    "multiple": "2000"
+  },
+  {
+    "id": "7",
+    "close": "300",
+    "multiple": "1500"
+  },
+  {
+    "id": "8",
+    "close": "500",
+    "multiple": "1000"
+  }
+]

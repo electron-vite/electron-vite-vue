@@ -1,0 +1,707 @@
+[
+  {
+    "id": "8",
+    "keyText": "keyboard_Backspace",
+    "custon": "1"
+  },
+  {
+    "id": "9",
+    "keyText": "keyboard_Tab",
+    "custon": "1"
+  },
+  {
+    "id": "12",
+    "keyText": "keyboard_Clear",
+    "custon": "1"
+  },
+  {
+    "id": "13",
+    "keyText": "keyboard_Return",
+    "custon": "1"
+  },
+  {
+    "id": "19",
+    "keyText": "keyboard_Pause",
+    "custon": "1"
+  },
+  {
+    "id": "27",
+    "keyText": "keyboard_Escape",
+    "custon": "0"
+  },
+  {
+    "id": "32",
+    "keyText": "keyboard_Space",
+    "custon": "1"
+  },
+  {
+    "id": "33",
+    "keyText": "keyboard_Exclaim",
+    "custon": "1"
+  },
+  {
+    "id": "34",
+    "keyText": "keyboard_DoubleQuote",
+    "custon": "1"
+  },
+  {
+    "id": "35",
+    "keyText": "keyboard_Hash",
+    "custon": "1"
+  },
+  {
+    "id": "36",
+    "keyText": "keyboard_Dollar",
+    "custon": "1"
+  },
+  {
+    "id": "37",
+    "keyText": "keyboard_Percent",
+    "custon": "1"
+  },
+  {
+    "id": "38",
+    "keyText": "keyboard_Ampersand",
+    "custon": "1"
+  },
+  {
+    "id": "39",
+    "keyText": "keyboard_Quote",
+    "custon": "1"
+  },
+  {
+    "id": "40",
+    "keyText": "keyboard_LeftParen",
+    "custon": "1"
+  },
+  {
+    "id": "41",
+    "keyText": "keyboard_RightParen",
+    "custon": "1"
+  },
+  {
+    "id": "42",
+    "keyText": "keyboard_Asterisk",
+    "custon": "1"
+  },
+  {
+    "id": "43",
+    "keyText": "keyboard_Plus",
+    "custon": "1"
+  },
+  {
+    "id": "44",
+    "keyText": "keyboard_Comma",
+    "custon": "1"
+  },
+  {
+    "id": "45",
+    "keyText": "keyboard_Minus",
+    "custon": "1"
+  },
+  {
+    "id": "46",
+    "keyText": "keyboard_Period",
+    "custon": "1"
+  },
+  {
+    "id": "47",
+    "keyText": "keyboard_Slash",
+    "custon": "1"
+  },
+  {
+    "id": "48",
+    "keyText": "keyboard_Alpha0",
+    "custon": "1"
+  },
+  {
+    "id": "49",
+    "keyText": "keyboard_Alpha1",
+    "custon": "1"
+  },
+  {
+    "id": "50",
+    "keyText": "keyboard_Alpha2",
+    "custon": "1"
+  },
+  {
+    "id": "51",
+    "keyText": "keyboard_Alpha3",
+    "custon": "1"
+  },
+  {
+    "id": "52",
+    "keyText": "keyboard_Alpha4",
+    "custon": "1"
+  },
+  {
+    "id": "53",
+    "keyText": "keyboard_Alpha5",
+    "custon": "1"
+  },
+  {
+    "id": "54",
+    "keyText": "keyboard_Alpha6",
+    "custon": "1"
+  },
+  {
+    "id": "55",
+    "keyText": "keyboard_Alpha7",
+    "custon": "1"
+  },
+  {
+    "id": "56",
+    "keyText": "keyboard_Alpha8",
+    "custon": "1"
+  },
+  {
+    "id": "57",
+    "keyText": "keyboard_Alpha9",
+    "custon": "1"
+  },
+  {
+    "id": "58",
+    "keyText": "keyboard_Colon",
+    "custon": "1"
+  },
+  {
+    "id": "59",
+    "keyText": "keyboard_Semicolon",
+    "custon": "1"
+  },
+  {
+    "id": "60",
+    "keyText": "keyboard_Less",
+    "custon": "1"
+  },
+  {
+    "id": "61",
+    "keyText": "keyboard_Equals",
+    "custon": "1"
+  },
+  {
+    "id": "62",
+    "keyText": "keyboard_Greater",
+    "custon": "1"
+  },
+  {
+    "id": "63",
+    "keyText": "keyboard_Question",
+    "custon": "1"
+  },
+  {
+    "id": "64",
+    "keyText": "keyboard_At",
+    "custon": "1"
+  },
+  {
+    "id": "91",
+    "keyText": "keyboard_LeftBracket",
+    "custon": "1"
+  },
+  {
+    "id": "92",
+    "keyText": "keyboard_Backslash",
+    "custon": "1"
+  },
+  {
+    "id": "93",
+    "keyText": "keyboard_RightBracket",
+    "custon": "1"
+  },
+  {
+    "id": "94",
+    "keyText": "keyboard_Caret",
+    "custon": "1"
+  },
+  {
+    "id": "95",
+    "keyText": "keyboard_Underscore",
+    "custon": "1"
+  },
+  {
+    "id": "96",
+    "keyText": "keyboard_BackQuote",
+    "custon": "1"
+  },
+  {
+    "id": "97",
+    "keyText": "keyboard_A",
+    "custon": "1"
+  },
+  {
+    "id": "98",
+    "keyText": "keyboard_B",
+    "custon": "1"
+  },
+  {
+    "id": "99",
+    "keyText": "keyboard_C",
+    "custon": "1"
+  },
+  {
+    "id": "100",
+    "keyText": "keyboard_D",
+    "custon": "1"
+  },
+  {
+    "id": "101",
+    "keyText": "keyboard_E",
+    "custon": "1"
+  },
+  {
+    "id": "102",
+    "keyText": "keyboard_F",
+    "custon": "1"
+  },
+  {
+    "id": "103",
+    "keyText": "keyboard_G",
+    "custon": "1"
+  },
+  {
+    "id": "104",
+    "keyText": "keyboard_H",
+    "custon": "1"
+  },
+  {
+    "id": "105",
+    "keyText": "keyboard_I",
+    "custon": "1"
+  },
+  {
+    "id": "106",
+    "keyText": "keyboard_J",
+    "custon": "1"
+  },
+  {
+    "id": "107",
+    "keyText": "keyboard_K",
+    "custon": "1"
+  },
+  {
+    "id": "108",
+    "keyText": "keyboard_L",
+    "custon": "1"
+  },
+  {
+    "id": "109",
+    "keyText": "keyboard_M",
+    "custon": "1"
+  },
+  {
+    "id": "110",
+    "keyText": "keyboard_N",
+    "custon": "1"
+  },
+  {
+    "id": "111",
+    "keyText": "keyboard_O",
+    "custon": "1"
+  },
+  {
+    "id": "112",
+    "keyText": "keyboard_P",
+    "custon": "1"
+  },
+  {
+    "id": "113",
+    "keyText": "keyboard_Q",
+    "custon": "1"
+  },
+  {
+    "id": "114",
+    "keyText": "keyboard_R",
+    "custon": "1"
+  },
+  {
+    "id": "115",
+    "keyText": "keyboard_S",
+    "custon": "1"
+  },
+  {
+    "id": "116",
+    "keyText": "keyboard_T",
+    "custon": "1"
+  },
+  {
+    "id": "117",
+    "keyText": "keyboard_U",
+    "custon": "1"
+  },
+  {
+    "id": "118",
+    "keyText": "keyboard_V",
+    "custon": "1"
+  },
+  {
+    "id": "119",
+    "keyText": "keyboard_W",
+    "custon": "1"
+  },
+  {
+    "id": "120",
+    "keyText": "keyboard_X",
+    "custon": "1"
+  },
+  {
+    "id": "121",
+    "keyText": "keyboard_Y",
+    "custon": "1"
+  },
+  {
+    "id": "122",
+    "keyText": "keyboard_Z",
+    "custon": "1"
+  },
+  {
+    "id": "123",
+    "keyText": "keyboard_LeftCurlyBracket",
+    "custon": "1"
+  },
+  {
+    "id": "124",
+    "keyText": "keyboard_Pipe",
+    "custon": "1"
+  },
+  {
+    "id": "125",
+    "keyText": "keyboard_RightCurlyBracket",
+    "custon": "1"
+  },
+  {
+    "id": "126",
+    "keyText": "keyboard_Tilde",
+    "custon": "1"
+  },
+  {
+    "id": "127",
+    "keyText": "keyboard_Delete",
+    "custon": "1"
+  },
+  {
+    "id": "256",
+    "keyText": "keyboard_Keypad0",
+    "custon": "1"
+  },
+  {
+    "id": "257",
+    "keyText": "keyboard_Keypad1",
+    "custon": "1"
+  },
+  {
+    "id": "258",
+    "keyText": "keyboard_Keypad2",
+    "custon": "1"
+  },
+  {
+    "id": "259",
+    "keyText": "keyboard_Keypad3",
+    "custon": "1"
+  },
+  {
+    "id": "260",
+    "keyText": "keyboard_Keypad4",
+    "custon": "1"
+  },
+  {
+    "id": "261",
+    "keyText": "keyboard_Keypad5",
+    "custon": "1"
+  },
+  {
+    "id": "262",
+    "keyText": "keyboard_Keypad6",
+    "custon": "1"
+  },
+  {
+    "id": "263",
+    "keyText": "keyboard_Keypad7",
+    "custon": "1"
+  },
+  {
+    "id": "264",
+    "keyText": "keyboard_Keypad8",
+    "custon": "1"
+  },
+  {
+    "id": "265",
+    "keyText": "keyboard_Keypad9",
+    "custon": "1"
+  },
+  {
+    "id": "266",
+    "keyText": "keyboard_KeypadPeriod",
+    "custon": "1"
+  },
+  {
+    "id": "267",
+    "keyText": "keyboard_KeypadDivide",
+    "custon": "1"
+  },
+  {
+    "id": "268",
+    "keyText": "keyboard_KeypadMultiply",
+    "custon": "1"
+  },
+  {
+    "id": "269",
+    "keyText": "keyboard_KeypadMinus",
+    "custon": "1"
+  },
+  {
+    "id": "270",
+    "keyText": "keyboard_KeypadPlus",
+    "custon": "1"
+  },
+  {
+    "id": "271",
+    "keyText": "keyboard_KeypadEnter",
+    "custon": "1"
+  },
+  {
+    "id": "272",
+    "keyText": "keyboard_KeypadEquals",
+    "custon": "1"
+  },
+  {
+    "id": "273",
+    "keyText": "keyboard_UpArrow",
+    "custon": "1"
+  },
+  {
+    "id": "274",
+    "keyText": "keyboard_DownArrow",
+    "custon": "1"
+  },
+  {
+    "id": "275",
+    "keyText": "keyboard_RightArrow",
+    "custon": "1"
+  },
+  {
+    "id": "276",
+    "keyText": "keyboard_LeftArrow",
+    "custon": "1"
+  },
+  {
+    "id": "277",
+    "keyText": "keyboard_Insert",
+    "custon": "1"
+  },
+  {
+    "id": "278",
+    "keyText": "keyboard_Home",
+    "custon": "1"
+  },
+  {
+    "id": "279",
+    "keyText": "keyboard_End",
+    "custon": "1"
+  },
+  {
+    "id": "280",
+    "keyText": "keyboard_PageUp",
+    "custon": "1"
+  },
+  {
+    "id": "281",
+    "keyText": "keyboard_PageDown",
+    "custon": "1"
+  },
+  {
+    "id": "282",
+    "keyText": "keyboard_F1",
+    "custon": "1"
+  },
+  {
+    "id": "283",
+    "keyText": "keyboard_F2",
+    "custon": "1"
+  },
+  {
+    "id": "284",
+    "keyText": "keyboard_F3",
+    "custon": "1"
+  },
+  {
+    "id": "285",
+    "keyText": "keyboard_F4",
+    "custon": "1"
+  },
+  {
+    "id": "286",
+    "keyText": "keyboard_F5",
+    "custon": "1"
+  },
+  {
+    "id": "287",
+    "keyText": "keyboard_F6",
+    "custon": "1"
+  },
+  {
+    "id": "288",
+    "keyText": "keyboard_F7",
+    "custon": "1"
+  },
+  {
+    "id": "289",
+    "keyText": "keyboard_F8",
+    "custon": "1"
+  },
+  {
+    "id": "290",
+    "keyText": "keyboard_F9",
+    "custon": "1"
+  },
+  {
+    "id": "291",
+    "keyText": "keyboard_F10",
+    "custon": "1"
+  },
+  {
+    "id": "292",
+    "keyText": "keyboard_F11",
+    "custon": "1"
+  },
+  {
+    "id": "293",
+    "keyText": "keyboard_F12",
+    "custon": "1"
+  },
+  {
+    "id": "294",
+    "keyText": "keyboard_F13",
+    "custon": "1"
+  },
+  {
+    "id": "295",
+    "keyText": "keyboard_F14",
+    "custon": "1"
+  },
+  {
+    "id": "296",
+    "keyText": "keyboard_F15",
+    "custon": "1"
+  },
+  {
+    "id": "300",
+    "keyText": "keyboard_Numlock",
+    "custon": "1"
+  },
+  {
+    "id": "301",
+    "keyText": "keyboard_CapsLock",
+    "custon": "1"
+  },
+  {
+    "id": "302",
+    "keyText": "keyboard_ScrollLock",
+    "custon": "1"
+  },
+  {
+    "id": "303",
+    "keyText": "keyboard_RightShift",
+    "custon": "1"
+  },
+  {
+    "id": "304",
+    "keyText": "keyboard_LeftShift",
+    "custon": "1"
+  },
+  {
+    "id": "305",
+    "keyText": "keyboard_RightControl",
+    "custon": "1"
+  },
+  {
+    "id": "306",
+    "keyText": "keyboard_LeftControl",
+    "custon": "1"
+  },
+  {
+    "id": "307",
+    "keyText": "keyboard_RightAlt",
+    "custon": "1"
+  },
+  {
+    "id": "308",
+    "keyText": "keyboard_LeftAlt",
+    "custon": "1"
+  },
+  {
+    "id": "311",
+    "keyText": "keyboard_LeftWindows",
+    "custon": "1"
+  },
+  {
+    "id": "312",
+    "keyText": "keyboard_RightWindows",
+    "custon": "1"
+  },
+  {
+    "id": "313",
+    "keyText": "keyboard_AltGr",
+    "custon": "1"
+  },
+  {
+    "id": "315",
+    "keyText": "keyboard_Help",
+    "custon": "1"
+  },
+  {
+    "id": "316",
+    "keyText": "keyboard_Print",
+    "custon": "1"
+  },
+  {
+    "id": "317",
+    "keyText": "keyboard_SysReq",
+    "custon": "1"
+  },
+  {
+    "id": "318",
+    "keyText": "keyboard_Break",
+    "custon": "1"
+  },
+  {
+    "id": "319",
+    "keyText": "keyboard_Menu",
+    "custon": "1"
+  },
+  {
+    "id": "323",
+    "keyText": "keyboard_Mouse0",
+    "custon": "0"
+  },
+  {
+    "id": "324",
+    "keyText": "keyboard_Mouse1",
+    "custon": "0"
+  },
+  {
+    "id": "325",
+    "keyText": "keyboard_Mouse2",
+    "custon": "0"
+  },
+  {
+    "id": "326",
+    "keyText": "keyboard_Mouse3",
+    "custon": "1"
+  },
+  {
+    "id": "327",
+    "keyText": "keyboard_Mouse4",
+    "custon": "1"
+  },
+  {
+    "id": "328",
+    "keyText": "keyboard_Mouse5",
+    "custon": "0"
+  },
+  {
+    "id": "329",
+    "keyText": "keyboard_Mouse6",
+    "custon": "0"
+  }
+]

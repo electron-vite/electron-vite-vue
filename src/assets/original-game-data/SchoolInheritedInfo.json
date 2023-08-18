@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "schoolBas": "1",
+    "dungeonID": "100411",
+    "levelShift": "0",
+    "inheritEffect": "61201013",
+    "effectID": "6120101",
+    "effectCD": "24",
+    "inheritEffectDesc": "inheriteffect_desc1"
+  },
+  {
+    "id": "2",
+    "schoolBas": "2",
+    "dungeonID": "100412",
+    "levelShift": "0",
+    "inheritEffect": "61201023",
+    "effectID": "6120102",
+    "effectCD": "24",
+    "inheritEffectDesc": "inheriteffect_desc2"
+  },
+  {
+    "id": "3",
+    "schoolBas": "3",
+    "dungeonID": "100413",
+    "levelShift": "0",
+    "inheritEffect": "61201031",
+    "effectID": "6120103",
+    "effectCD": "24",
+    "inheritEffectDesc": "inheriteffect_desc3"
+  },
+  {
+    "id": "4",
+    "schoolBas": "4",
+    "dungeonID": "100414",
+    "levelShift": "0",
+    "inheritEffect": "61201041",
+    "effectID": "6120104",
+    "effectCD": "24",
+    "inheritEffectDesc": "inheriteffect_desc4"
+  },
+  {
+    "id": "5",
+    "schoolBas": "5",
+    "dungeonID": "100415",
+    "levelShift": "0",
+    "inheritEffect": "61201052",
+    "effectID": "6120105",
+    "effectCD": "24",
+    "inheritEffectDesc": "inheriteffect_desc5"
+  },
+  {
+    "id": "6",
+    "schoolBas": "6",
+    "dungeonID": "100416",
+    "levelShift": "0",
+    "inheritEffect": "61201063",
+    "effectID": "6120106",
+    "effectCD": "24",
+    "inheritEffectDesc": "inheriteffect_desc6"
+  },
+  {
+    "id": "7",
+    "schoolBas": "11",
+    "dungeonID": "100421",
+    "levelShift": "0",
+    "inheritEffect": "61201072",
+    "effectID": "6120107",
+    "effectCD": "24",
+    "inheritEffectDesc": "inheriteffect_desc7"
+  },
+  {
+    "id": "8",
+    "schoolBas": "12",
+    "dungeonID": "100422",
+    "levelShift": "0",
+    "inheritEffect": "61201083",
+    "effectID": "6120108",
+    "effectCD": "24",
+    "inheritEffectDesc": "inheriteffect_desc8"
+  },
+  {
+    "id": "9",
+    "schoolBas": "13",
+    "dungeonID": "100423",
+    "levelShift": "0",
+    "inheritEffect": "61201093",
+    "effectID": "6120109",
+    "effectCD": "24",
+    "inheritEffectDesc": "inheriteffect_desc9"
+  },
+  {
+    "id": "10",
+    "schoolBas": "14",
+    "dungeonID": "100424",
+    "levelShift": "0",
+    "inheritEffect": "61201104",
+    "effectID": "6120110",
+    "effectCD": "24",
+    "inheritEffectDesc": "inheriteffect_desc10"
+  },
+  {
+    "id": "11",
+    "schoolBas": "15",
+    "dungeonID": "100425",
+    "levelShift": "0",
+    "inheritEffect": "61201111",
+    "effectID": "6120111",
+    "effectCD": "24",
+    "inheritEffectDesc": "inheriteffect_desc11"
+  },
+  {
+    "id": "12",
+    "schoolBas": "16",
+    "dungeonID": "100426",
+    "levelShift": "0",
+    "inheritEffect": "61201123",
+    "effectID": "6120112",
+    "effectCD": "24",
+    "inheritEffectDesc": "inheriteffect_desc12"
+  }
+]

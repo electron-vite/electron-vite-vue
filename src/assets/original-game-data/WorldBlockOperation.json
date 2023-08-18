@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "operation": "world_block_operation1",
+    "cost": "5"
+  },
+  {
+    "id": "2",
+    "operation": "world_block_operation2",
+    "cost": "5"
+  },
+  {
+    "id": "3",
+    "operation": "world_block_operation3",
+    "cost": "5"
+  },
+  {
+    "id": "4",
+    "operation": "world_block_operation4",
+    "cost": "5"
+  }
+]

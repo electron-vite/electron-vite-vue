@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "costItem": "5131101",
+    "itemNum": "10",
+    "money": "200"
+  },
+  {
+    "id": "2",
+    "costItem": "5131101",
+    "itemNum": "10",
+    "money": "400"
+  },
+  {
+    "id": "3",
+    "costItem": "5131101",
+    "itemNum": "10",
+    "money": "600"
+  },
+  {
+    "id": "4",
+    "costItem": "5131101",
+    "itemNum": "10",
+    "money": "1000"
+  },
+  {
+    "id": "5",
+    "costItem": "5131102",
+    "itemNum": "10",
+    "money": "1500"
+  },
+  {
+    "id": "6",
+    "costItem": "5131102",
+    "itemNum": "10",
+    "money": "2500"
+  },
+  {
+    "id": "7",
+    "costItem": "5131103",
+    "itemNum": "10",
+    "money": "4000"
+  },
+  {
+    "id": "8",
+    "costItem": "5131103",
+    "itemNum": "10",
+    "money": "6500"
+  },
+  {
+    "id": "9",
+    "costItem": "5131104",
+    "itemNum": "10",
+    "money": "10000"
+  },
+  {
+    "id": "10",
+    "costItem": "5131104",
+    "itemNum": "10",
+    "money": "15000"
+  }
+]

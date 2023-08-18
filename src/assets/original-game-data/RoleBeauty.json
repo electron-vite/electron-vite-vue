@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "beauty": "-9999",
+    "text": "role_beauty_name1"
+  },
+  {
+    "id": "2",
+    "beauty": "-120",
+    "text": "role_beauty_name2"
+  },
+  {
+    "id": "3",
+    "beauty": "-30",
+    "text": "role_beauty_name3"
+  },
+  {
+    "id": "4",
+    "beauty": "50",
+    "text": "role_beauty_name4"
+  },
+  {
+    "id": "5",
+    "beauty": "250",
+    "text": "role_beauty_name5"
+  },
+  {
+    "id": "6",
+    "beauty": "450",
+    "text": "role_beauty_name6"
+  },
+  {
+    "id": "7",
+    "beauty": "650",
+    "text": "role_beauty_name7"
+  }
+]

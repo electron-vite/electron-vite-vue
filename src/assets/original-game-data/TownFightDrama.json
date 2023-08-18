@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "key": "threatProb",
+    "value": "50"
+  },
+  {
+    "id": "2",
+    "key": "threatHateMin",
+    "value": "60"
+  },
+  {
+    "id": "3",
+    "key": "threatHateMax",
+    "value": "100"
+  },
+  {
+    "id": "4",
+    "key": "threatScore",
+    "value": "540"
+  },
+  {
+    "id": "5",
+    "key": "threatMatchScoreParaA",
+    "value": "10000"
+  },
+  {
+    "id": "6",
+    "key": "threatMatchScoreParaB",
+    "value": "100"
+  },
+  {
+    "id": "7",
+    "key": "threatCloseScorePara",
+    "value": "-20"
+  },
+  {
+    "id": "8",
+    "key": "threatDramaID",
+    "value": "730091"
+  },
+  {
+    "id": "9",
+    "key": "buyOverProb",
+    "value": "30"
+  },
+  {
+    "id": "10",
+    "key": "buyOverHateMin",
+    "value": "90"
+  },
+  {
+    "id": "11",
+    "key": "buyOverHateMax",
+    "value": "120"
+  },
+  {
+    "id": "12",
+    "key": "buyOverCloseMin",
+    "value": "60"
+  },
+  {
+    "id": "13",
+    "key": "buyOverCloseMax",
+    "value": "90"
+  },
+  {
+    "id": "14",
+    "key": "buyOverDramaID",
+    "value": "730101"
+  },
+  {
+    "id": "15",
+    "key": "buyOverDramaID1",
+    "value": "730111"
+  },
+  {
+    "id": "16",
+    "key": "buyOverDramaID2",
+    "value": "730121"
+  }
+]

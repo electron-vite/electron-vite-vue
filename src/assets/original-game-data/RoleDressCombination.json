@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "dressID": "58017|58018|58019",
+    "dressID2": "56002",
+    "dressID3": "0",
+    "dressID4": "0",
+    "dressID5": "0",
+    "dressID6": "0",
+    "dressID7": "0",
+    "beauty": "50"
+  },
+  {
+    "id": "2",
+    "dressID": "57015|57016|57018",
+    "dressID2": "56015",
+    "dressID3": "0",
+    "dressID4": "0",
+    "dressID5": "0",
+    "dressID6": "0",
+    "dressID7": "0",
+    "beauty": "-30"
+  },
+  {
+    "id": "3",
+    "dressID": "57022|57023|57024",
+    "dressID2": "56016|56017",
+    "dressID3": "0",
+    "dressID4": "0",
+    "dressID5": "0",
+    "dressID6": "0",
+    "dressID7": "0",
+    "beauty": "40"
+  },
+  {
+    "id": "4",
+    "dressID": "57056|57057|57058",
+    "dressID2": "0",
+    "dressID3": "91006",
+    "dressID4": "0",
+    "dressID5": "0",
+    "dressID6": "0",
+    "dressID7": "0",
+    "beauty": "30"
+  },
+  {
+    "id": "5",
+    "dressID": "18049|18050|18051",
+    "dressID2": "16001",
+    "dressID3": "0",
+    "dressID4": "0",
+    "dressID5": "0",
+    "dressID6": "0",
+    "dressID7": "0",
+    "beauty": "50"
+  },
+  {
+    "id": "6",
+    "dressID": "0",
+    "dressID2": "0",
+    "dressID3": "0",
+    "dressID4": "0",
+    "dressID5": "0",
+    "dressID6": "14002|14003|14004|14005|14006|14007|14008",
+    "dressID7": "11006",
+    "beauty": "40"
+  },
+  {
+    "id": "7",
+    "dressID": "0",
+    "dressID2": "0",
+    "dressID3": "0",
+    "dressID4": "0",
+    "dressID5": "0",
+    "dressID6": "14002|14003|14004|14005|14006|14007|14008",
+    "dressID7": "11004",
+    "beauty": "20"
+  },
+  {
+    "id": "8",
+    "dressID": "0",
+    "dressID2": "0",
+    "dressID3": "0",
+    "dressID4": "0",
+    "dressID5": "0",
+    "dressID6": "14002|14003|14004|14005|14006|14007|14008",
+    "dressID7": "11001",
+    "beauty": "-40"
+  }
+]

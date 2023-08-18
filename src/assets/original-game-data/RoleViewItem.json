@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "key": "lockInitScore",
+    "value": "50"
+  },
+  {
+    "id": "2",
+    "key": "unlockCloseParaA",
+    "value": "10"
+  }
+]

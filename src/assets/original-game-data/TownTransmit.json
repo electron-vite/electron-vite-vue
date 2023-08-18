@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "key": "transmitCost",
+    "value": "100"
+  },
+  {
+    "id": "2",
+    "key": "transmitCost1",
+    "value": "50"
+  },
+  {
+    "id": "3",
+    "key": "transmitCost2",
+    "value": "50"
+  },
+  {
+    "id": "4",
+    "key": "transmitCost3",
+    "value": "125"
+  },
+  {
+    "id": "5",
+    "key": "transmitCost4",
+    "value": "300"
+  },
+  {
+    "id": "6",
+    "key": "transmitCost5",
+    "value": "800"
+  },
+  {
+    "id": "7",
+    "key": "transmitCost6",
+    "value": "2000"
+  },
+  {
+    "id": "8",
+    "key": "shoolNeed",
+    "value": "10"
+  }
+]

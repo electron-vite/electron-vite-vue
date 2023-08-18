@@ -1,0 +1,926 @@
+[
+  {
+    "id": "6141012",
+    "effectValue": "61410121|61410122",
+    "hobbyID": "211",
+    "level": "1",
+    "lasting": "1"
+  },
+  {
+    "id": "6141013",
+    "effectValue": "61410131|61410132",
+    "hobbyID": "211",
+    "level": "2",
+    "lasting": "1"
+  },
+  {
+    "id": "6141014",
+    "effectValue": "61410141|61410142",
+    "hobbyID": "211",
+    "level": "3",
+    "lasting": "1"
+  },
+  {
+    "id": "6141015",
+    "effectValue": "61410151|61410152",
+    "hobbyID": "211",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6141025",
+    "effectValue": "61410251|61410252",
+    "hobbyID": "211",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6151012",
+    "effectValue": "61510121|61510122",
+    "hobbyID": "210",
+    "level": "1",
+    "lasting": "1"
+  },
+  {
+    "id": "6151013",
+    "effectValue": "61510131|61510132",
+    "hobbyID": "210",
+    "level": "2",
+    "lasting": "1"
+  },
+  {
+    "id": "6151014",
+    "effectValue": "61510141|61510142",
+    "hobbyID": "210",
+    "level": "3",
+    "lasting": "1"
+  },
+  {
+    "id": "6151015",
+    "effectValue": "61510151|61510152",
+    "hobbyID": "210",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6151016",
+    "effectValue": "61510161|61510162",
+    "hobbyID": "210",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6151026",
+    "effectValue": "61510261|61510262",
+    "hobbyID": "210",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6151036",
+    "effectValue": "61510361|61510362",
+    "hobbyID": "210",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6161012",
+    "effectValue": "61610121|61610122",
+    "hobbyID": "201",
+    "level": "1",
+    "lasting": "1"
+  },
+  {
+    "id": "6161013",
+    "effectValue": "61610131|61610132",
+    "hobbyID": "201",
+    "level": "2",
+    "lasting": "1"
+  },
+  {
+    "id": "6161014",
+    "effectValue": "61610141|61610142",
+    "hobbyID": "201",
+    "level": "3",
+    "lasting": "1"
+  },
+  {
+    "id": "6161015",
+    "effectValue": "61610151|61610152",
+    "hobbyID": "201",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6161025",
+    "effectValue": "61610251|61610252",
+    "hobbyID": "201",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6161035",
+    "effectValue": "61610351|61610352",
+    "hobbyID": "201",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6171012",
+    "effectValue": "61710121|61710122",
+    "hobbyID": "202",
+    "level": "1",
+    "lasting": "1"
+  },
+  {
+    "id": "6171013",
+    "effectValue": "61710131|61710132",
+    "hobbyID": "202",
+    "level": "2",
+    "lasting": "1"
+  },
+  {
+    "id": "6171014",
+    "effectValue": "61710141|61710142",
+    "hobbyID": "202",
+    "level": "3",
+    "lasting": "1"
+  },
+  {
+    "id": "6171015",
+    "effectValue": "61710151|61710152",
+    "hobbyID": "202",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6171025",
+    "effectValue": "61710251|61710252",
+    "hobbyID": "202",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6181012",
+    "effectValue": "61810121|61810122",
+    "hobbyID": "203",
+    "level": "1",
+    "lasting": "1"
+  },
+  {
+    "id": "6181013",
+    "effectValue": "61810131|61810132",
+    "hobbyID": "203",
+    "level": "2",
+    "lasting": "1"
+  },
+  {
+    "id": "6181014",
+    "effectValue": "61810141|61810142",
+    "hobbyID": "203",
+    "level": "3",
+    "lasting": "1"
+  },
+  {
+    "id": "6181015",
+    "effectValue": "61810151|61810152",
+    "hobbyID": "203",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6181025",
+    "effectValue": "61810251|61810252",
+    "hobbyID": "203",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6191012",
+    "effectValue": "61910121|61910122",
+    "hobbyID": "204",
+    "level": "1",
+    "lasting": "1"
+  },
+  {
+    "id": "6191013",
+    "effectValue": "61910131|61910132",
+    "hobbyID": "204",
+    "level": "2",
+    "lasting": "1"
+  },
+  {
+    "id": "6191014",
+    "effectValue": "61910141|61910142",
+    "hobbyID": "204",
+    "level": "3",
+    "lasting": "1"
+  },
+  {
+    "id": "6191024",
+    "effectValue": "61910241|61910242",
+    "hobbyID": "204",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6201012",
+    "effectValue": "62010121|62010122",
+    "hobbyID": "213",
+    "level": "1",
+    "lasting": "1"
+  },
+  {
+    "id": "6201022",
+    "effectValue": "62010221|62010222",
+    "hobbyID": "213",
+    "level": "1",
+    "lasting": "1"
+  },
+  {
+    "id": "6201023",
+    "effectValue": "62010231|62010232",
+    "hobbyID": "213",
+    "level": "2",
+    "lasting": "1"
+  },
+  {
+    "id": "6201033",
+    "effectValue": "62010331|62010332",
+    "hobbyID": "213",
+    "level": "2",
+    "lasting": "1"
+  },
+  {
+    "id": "6201034",
+    "effectValue": "62010341|62010342",
+    "hobbyID": "213",
+    "level": "3",
+    "lasting": "1"
+  },
+  {
+    "id": "6201044",
+    "effectValue": "62010441|62010442",
+    "hobbyID": "213",
+    "level": "3",
+    "lasting": "1"
+  },
+  {
+    "id": "6201045",
+    "effectValue": "62010451|62010452",
+    "hobbyID": "213",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6201055",
+    "effectValue": "62010551|62010552",
+    "hobbyID": "213",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6201056",
+    "effectValue": "62010561|62010562",
+    "hobbyID": "213",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6201066",
+    "effectValue": "62010661|62010662",
+    "hobbyID": "213",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6201076",
+    "effectValue": "62010761|62010762",
+    "hobbyID": "213",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6211012",
+    "effectValue": "62110121|62110122",
+    "hobbyID": "212",
+    "level": "1",
+    "lasting": "1"
+  },
+  {
+    "id": "6211013",
+    "effectValue": "62110131|62110132",
+    "hobbyID": "212",
+    "level": "2",
+    "lasting": "1"
+  },
+  {
+    "id": "6211014",
+    "effectValue": "62110141|62110142",
+    "hobbyID": "212",
+    "level": "3",
+    "lasting": "1"
+  },
+  {
+    "id": "6211015",
+    "effectValue": "62110151|62110152",
+    "hobbyID": "212",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6211025",
+    "effectValue": "62110251|62110252",
+    "hobbyID": "212",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6211035",
+    "effectValue": "62110351|62110352",
+    "hobbyID": "212",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6221012",
+    "effectValue": "62210121|62210122",
+    "hobbyID": "205",
+    "level": "1",
+    "lasting": "1"
+  },
+  {
+    "id": "6221022",
+    "effectValue": "62210221|62210222",
+    "hobbyID": "205",
+    "level": "1",
+    "lasting": "1"
+  },
+  {
+    "id": "6221023",
+    "effectValue": "62210231|62210232",
+    "hobbyID": "205",
+    "level": "2",
+    "lasting": "1"
+  },
+  {
+    "id": "6221033",
+    "effectValue": "62210331|62210332",
+    "hobbyID": "205",
+    "level": "2",
+    "lasting": "1"
+  },
+  {
+    "id": "6221034",
+    "effectValue": "62210341|62210342",
+    "hobbyID": "205",
+    "level": "3",
+    "lasting": "1"
+  },
+  {
+    "id": "6221044",
+    "effectValue": "62210441|62210442",
+    "hobbyID": "205",
+    "level": "3",
+    "lasting": "1"
+  },
+  {
+    "id": "6221045",
+    "effectValue": "62210451|62210452",
+    "hobbyID": "205",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6221055",
+    "effectValue": "62210551|62210552",
+    "hobbyID": "205",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6221065",
+    "effectValue": "62210651|62210652",
+    "hobbyID": "205",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6221066",
+    "effectValue": "62210661|62210662",
+    "hobbyID": "205",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6221076",
+    "effectValue": "62210761|62210762",
+    "hobbyID": "205",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6221086",
+    "effectValue": "62210861|62210862",
+    "hobbyID": "205",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "6231012",
+    "effectValue": "62310121|62310122",
+    "hobbyID": "209",
+    "level": "1",
+    "lasting": "1"
+  },
+  {
+    "id": "6231013",
+    "effectValue": "62310131|62310132",
+    "hobbyID": "209",
+    "level": "2",
+    "lasting": "1"
+  },
+  {
+    "id": "6231014",
+    "effectValue": "62310141|62310142",
+    "hobbyID": "209",
+    "level": "3",
+    "lasting": "1"
+  },
+  {
+    "id": "6231024",
+    "effectValue": "62310241|62310242",
+    "hobbyID": "209",
+    "level": "4",
+    "lasting": "1"
+  },
+  {
+    "id": "6231034",
+    "effectValue": "62310341|62310342",
+    "hobbyID": "209",
+    "level": "5",
+    "lasting": "1"
+  },
+  {
+    "id": "7011012",
+    "effectValue": "70110121",
+    "hobbyID": "211",
+    "level": "1",
+    "lasting": "0"
+  },
+  {
+    "id": "7011013",
+    "effectValue": "70110131",
+    "hobbyID": "211",
+    "level": "2",
+    "lasting": "0"
+  },
+  {
+    "id": "7011014",
+    "effectValue": "70110141",
+    "hobbyID": "211",
+    "level": "3",
+    "lasting": "0"
+  },
+  {
+    "id": "7011015",
+    "effectValue": "70110151",
+    "hobbyID": "211",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7011025",
+    "effectValue": "70110251",
+    "hobbyID": "211",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7021012",
+    "effectValue": "70210121",
+    "hobbyID": "210",
+    "level": "1",
+    "lasting": "0"
+  },
+  {
+    "id": "7021013",
+    "effectValue": "70210131",
+    "hobbyID": "210",
+    "level": "2",
+    "lasting": "0"
+  },
+  {
+    "id": "7021014",
+    "effectValue": "70210141",
+    "hobbyID": "210",
+    "level": "3",
+    "lasting": "0"
+  },
+  {
+    "id": "7021015",
+    "effectValue": "70210151",
+    "hobbyID": "210",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7021016",
+    "effectValue": "70210161",
+    "hobbyID": "210",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7021026",
+    "effectValue": "70210261",
+    "hobbyID": "210",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7021036",
+    "effectValue": "70210361",
+    "hobbyID": "210",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7031012",
+    "effectValue": "70310121",
+    "hobbyID": "201",
+    "level": "1",
+    "lasting": "0"
+  },
+  {
+    "id": "7031013",
+    "effectValue": "70310131",
+    "hobbyID": "201",
+    "level": "2",
+    "lasting": "0"
+  },
+  {
+    "id": "7031014",
+    "effectValue": "70310141",
+    "hobbyID": "201",
+    "level": "3",
+    "lasting": "0"
+  },
+  {
+    "id": "7031015",
+    "effectValue": "70310151",
+    "hobbyID": "201",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7031016",
+    "effectValue": "70310161",
+    "hobbyID": "201",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7031026",
+    "effectValue": "70310261",
+    "hobbyID": "201",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7041012",
+    "effectValue": "70410121",
+    "hobbyID": "202",
+    "level": "1",
+    "lasting": "0"
+  },
+  {
+    "id": "7041013",
+    "effectValue": "70410131",
+    "hobbyID": "202",
+    "level": "2",
+    "lasting": "0"
+  },
+  {
+    "id": "7041014",
+    "effectValue": "70410141",
+    "hobbyID": "202",
+    "level": "3",
+    "lasting": "0"
+  },
+  {
+    "id": "7041015",
+    "effectValue": "70410151",
+    "hobbyID": "202",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7041016",
+    "effectValue": "70410161",
+    "hobbyID": "202",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7051012",
+    "effectValue": "70510121",
+    "hobbyID": "203",
+    "level": "1",
+    "lasting": "0"
+  },
+  {
+    "id": "7051013",
+    "effectValue": "70510131",
+    "hobbyID": "203",
+    "level": "2",
+    "lasting": "0"
+  },
+  {
+    "id": "7051014",
+    "effectValue": "70510141",
+    "hobbyID": "203",
+    "level": "3",
+    "lasting": "0"
+  },
+  {
+    "id": "7051015",
+    "effectValue": "70510151",
+    "hobbyID": "203",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7051016",
+    "effectValue": "70510161",
+    "hobbyID": "203",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7061012",
+    "effectValue": "70610121",
+    "hobbyID": "204",
+    "level": "1",
+    "lasting": "0"
+  },
+  {
+    "id": "7061013",
+    "effectValue": "70610131",
+    "hobbyID": "204",
+    "level": "2",
+    "lasting": "0"
+  },
+  {
+    "id": "7061014",
+    "effectValue": "70610141",
+    "hobbyID": "204",
+    "level": "3",
+    "lasting": "0"
+  },
+  {
+    "id": "7061015",
+    "effectValue": "70610151",
+    "hobbyID": "204",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7071012",
+    "effectValue": "70710121",
+    "hobbyID": "213",
+    "level": "1",
+    "lasting": "0"
+  },
+  {
+    "id": "7071022",
+    "effectValue": "70710221",
+    "hobbyID": "213",
+    "level": "1",
+    "lasting": "0"
+  },
+  {
+    "id": "7071023",
+    "effectValue": "70710231",
+    "hobbyID": "213",
+    "level": "2",
+    "lasting": "0"
+  },
+  {
+    "id": "7071033",
+    "effectValue": "70710331",
+    "hobbyID": "213",
+    "level": "2",
+    "lasting": "0"
+  },
+  {
+    "id": "7071034",
+    "effectValue": "70710341",
+    "hobbyID": "213",
+    "level": "3",
+    "lasting": "0"
+  },
+  {
+    "id": "7071044",
+    "effectValue": "70710441",
+    "hobbyID": "213",
+    "level": "3",
+    "lasting": "0"
+  },
+  {
+    "id": "7071045",
+    "effectValue": "70710451",
+    "hobbyID": "213",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7071055",
+    "effectValue": "70710551",
+    "hobbyID": "213",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7071056",
+    "effectValue": "70710561",
+    "hobbyID": "213",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7071066",
+    "effectValue": "70710661",
+    "hobbyID": "213",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7071076",
+    "effectValue": "70710761",
+    "hobbyID": "213",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7081012",
+    "effectValue": "70810121",
+    "hobbyID": "212",
+    "level": "1",
+    "lasting": "0"
+  },
+  {
+    "id": "7081013",
+    "effectValue": "70810131",
+    "hobbyID": "212",
+    "level": "2",
+    "lasting": "0"
+  },
+  {
+    "id": "7081014",
+    "effectValue": "70810141",
+    "hobbyID": "212",
+    "level": "3",
+    "lasting": "0"
+  },
+  {
+    "id": "7081015",
+    "effectValue": "70810151",
+    "hobbyID": "212",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7081016",
+    "effectValue": "70810161",
+    "hobbyID": "212",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7081026",
+    "effectValue": "70810261",
+    "hobbyID": "212",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7091012",
+    "effectValue": "70910121",
+    "hobbyID": "205",
+    "level": "1",
+    "lasting": "0"
+  },
+  {
+    "id": "7091022",
+    "effectValue": "70910221",
+    "hobbyID": "205",
+    "level": "1",
+    "lasting": "0"
+  },
+  {
+    "id": "7091023",
+    "effectValue": "70910231",
+    "hobbyID": "205",
+    "level": "2",
+    "lasting": "0"
+  },
+  {
+    "id": "7091033",
+    "effectValue": "70910331",
+    "hobbyID": "205",
+    "level": "2",
+    "lasting": "0"
+  },
+  {
+    "id": "7091034",
+    "effectValue": "70910341",
+    "hobbyID": "205",
+    "level": "3",
+    "lasting": "0"
+  },
+  {
+    "id": "7091044",
+    "effectValue": "70910441",
+    "hobbyID": "205",
+    "level": "3",
+    "lasting": "0"
+  },
+  {
+    "id": "7091045",
+    "effectValue": "70910451",
+    "hobbyID": "205",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7091055",
+    "effectValue": "70910551",
+    "hobbyID": "205",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7091065",
+    "effectValue": "70910651",
+    "hobbyID": "205",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7091066",
+    "effectValue": "70910661",
+    "hobbyID": "205",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7091076",
+    "effectValue": "70910761",
+    "hobbyID": "205",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7091086",
+    "effectValue": "70910861",
+    "hobbyID": "205",
+    "level": "5",
+    "lasting": "0"
+  },
+  {
+    "id": "7101012",
+    "effectValue": "71010121",
+    "hobbyID": "209",
+    "level": "1",
+    "lasting": "0"
+  },
+  {
+    "id": "7101013",
+    "effectValue": "71010131",
+    "hobbyID": "209",
+    "level": "2",
+    "lasting": "0"
+  },
+  {
+    "id": "7101014",
+    "effectValue": "71010141",
+    "hobbyID": "209",
+    "level": "3",
+    "lasting": "0"
+  },
+  {
+    "id": "7101015",
+    "effectValue": "71010151",
+    "hobbyID": "209",
+    "level": "4",
+    "lasting": "0"
+  },
+  {
+    "id": "7101016",
+    "effectValue": "71010161",
+    "hobbyID": "209",
+    "level": "5",
+    "lasting": "0"
+  }
+]

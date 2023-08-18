@@ -1,0 +1,362 @@
+[
+  {
+    "id": "1021",
+    "weight": "3800",
+    "item": "5031011",
+    "number": "20",
+    "requireLevel": "1",
+    "requireNumber": "30",
+    "className": "503",
+    "herbalWorth": "1000"
+  },
+  {
+    "id": "1022",
+    "weight": "2800",
+    "item": "5031012",
+    "number": "20",
+    "requireLevel": "2",
+    "requireNumber": "20",
+    "className": "503",
+    "herbalWorth": "2000"
+  },
+  {
+    "id": "1023",
+    "weight": "1800",
+    "item": "5031013",
+    "number": "20",
+    "requireLevel": "3",
+    "requireNumber": "10",
+    "className": "503",
+    "herbalWorth": "3000"
+  },
+  {
+    "id": "1024",
+    "weight": "1000",
+    "item": "5031014",
+    "number": "20",
+    "requireLevel": "4",
+    "requireNumber": "5",
+    "className": "503",
+    "herbalWorth": "4000"
+  },
+  {
+    "id": "1025",
+    "weight": "500",
+    "item": "5031015",
+    "number": "20",
+    "requireLevel": "5",
+    "requireNumber": "3",
+    "className": "503",
+    "herbalWorth": "5000"
+  },
+  {
+    "id": "1026",
+    "weight": "100",
+    "item": "5031016",
+    "number": "20",
+    "requireLevel": "6",
+    "requireNumber": "1",
+    "className": "503",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10201",
+    "weight": "1000",
+    "item": "5021124",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10202",
+    "weight": "1000",
+    "item": "5021144",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10203",
+    "weight": "1000",
+    "item": "5021294",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10204",
+    "weight": "1000",
+    "item": "5021486",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10205",
+    "weight": "1000",
+    "item": "5021032",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10206",
+    "weight": "1000",
+    "item": "5021674",
+    "number": "1",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10207",
+    "weight": "1000",
+    "item": "5021534",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10208",
+    "weight": "1000",
+    "item": "5021134",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10209",
+    "weight": "1000",
+    "item": "5021684",
+    "number": "1",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10210",
+    "weight": "1000",
+    "item": "5021506",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10211",
+    "weight": "1000",
+    "item": "5021284",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10212",
+    "weight": "1000",
+    "item": "5021274",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10213",
+    "weight": "1000",
+    "item": "5021694",
+    "number": "1",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10214",
+    "weight": "1000",
+    "item": "5021314",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10215",
+    "weight": "1000",
+    "item": "5021204",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10216",
+    "weight": "1000",
+    "item": "5021244",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10217",
+    "weight": "1000",
+    "item": "5021704",
+    "number": "1",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10218",
+    "weight": "1000",
+    "item": "5021184",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10219",
+    "weight": "1000",
+    "item": "5021194",
+    "number": "20",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10220",
+    "weight": "1000",
+    "item": "5021714",
+    "number": "1",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "502",
+    "herbalWorth": "6000"
+  },
+  {
+    "id": "10250",
+    "weight": "5000",
+    "item": "5031112",
+    "number": "10",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "503",
+    "herbalWorth": "1000"
+  },
+  {
+    "id": "10251",
+    "weight": "5000",
+    "item": "5031112",
+    "number": "10",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "503",
+    "herbalWorth": "1000"
+  },
+  {
+    "id": "10252",
+    "weight": "5000",
+    "item": "5031112",
+    "number": "10",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "503",
+    "herbalWorth": "1000"
+  },
+  {
+    "id": "10253",
+    "weight": "5000",
+    "item": "5031112",
+    "number": "10",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "503",
+    "herbalWorth": "1000"
+  },
+  {
+    "id": "10254",
+    "weight": "5000",
+    "item": "5031112",
+    "number": "10",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "503",
+    "herbalWorth": "1000"
+  },
+  {
+    "id": "10270",
+    "weight": "5000",
+    "item": "5031041",
+    "number": "10",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "503",
+    "herbalWorth": "1000"
+  },
+  {
+    "id": "10271",
+    "weight": "5000",
+    "item": "5031041",
+    "number": "10",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "503",
+    "herbalWorth": "1000"
+  },
+  {
+    "id": "10272",
+    "weight": "5000",
+    "item": "5031041",
+    "number": "10",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "503",
+    "herbalWorth": "1000"
+  },
+  {
+    "id": "10273",
+    "weight": "5000",
+    "item": "5031041",
+    "number": "10",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "503",
+    "herbalWorth": "1000"
+  },
+  {
+    "id": "10274",
+    "weight": "5000",
+    "item": "5031041",
+    "number": "10",
+    "requireLevel": "0",
+    "requireNumber": "10",
+    "className": "503",
+    "herbalWorth": "1000"
+  }
+]

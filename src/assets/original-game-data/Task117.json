@@ -1,0 +1,57 @@
+[
+  {
+    "id": "117001",
+    "closeMinBA": "20",
+    "closeMaxBA": "30",
+    "accomplishDialogueA": "30208",
+    "accomplishDialogueB1": "30207",
+    "accomplishDialogueB2": "30219",
+    "itemID": "6241026",
+    "luckID": "119",
+    "moveGhostRevengeRate": "50"
+  },
+  {
+    "id": "117002",
+    "closeMinBA": "20",
+    "closeMaxBA": "30",
+    "accomplishDialogueA": "30208",
+    "accomplishDialogueB1": "30207",
+    "accomplishDialogueB2": "30219",
+    "itemID": "6241026",
+    "luckID": "119",
+    "moveGhostRevengeRate": "50"
+  },
+  {
+    "id": "117003",
+    "closeMinBA": "20",
+    "closeMaxBA": "30",
+    "accomplishDialogueA": "30208",
+    "accomplishDialogueB1": "30207",
+    "accomplishDialogueB2": "30219",
+    "itemID": "6241026",
+    "luckID": "119",
+    "moveGhostRevengeRate": "50"
+  },
+  {
+    "id": "117004",
+    "closeMinBA": "20",
+    "closeMaxBA": "30",
+    "accomplishDialogueA": "30208",
+    "accomplishDialogueB1": "30207",
+    "accomplishDialogueB2": "30219",
+    "itemID": "6241026",
+    "luckID": "119",
+    "moveGhostRevengeRate": "50"
+  },
+  {
+    "id": "117005",
+    "closeMinBA": "20",
+    "closeMaxBA": "30",
+    "accomplishDialogueA": "30208",
+    "accomplishDialogueB1": "30207",
+    "accomplishDialogueB2": "30219",
+    "itemID": "6241026",
+    "luckID": "119",
+    "moveGhostRevengeRate": "50"
+  }
+]

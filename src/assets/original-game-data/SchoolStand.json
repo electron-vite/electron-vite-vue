@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "differValue": "50",
+    "differPercent": "10",
+    "contributionReduce": "3",
+    "letterIDA": "202",
+    "letterIDB": "204",
+    "costMoney": "0",
+    "captivity": "0"
+  },
+  {
+    "id": "2",
+    "differValue": "100",
+    "differPercent": "20",
+    "contributionReduce": "6",
+    "letterIDA": "202",
+    "letterIDB": "204",
+    "costMoney": "0",
+    "captivity": "0"
+  },
+  {
+    "id": "3",
+    "differValue": "150",
+    "differPercent": "30",
+    "contributionReduce": "9",
+    "letterIDA": "202",
+    "letterIDB": "204",
+    "costMoney": "0",
+    "captivity": "0"
+  },
+  {
+    "id": "4",
+    "differValue": "250",
+    "differPercent": "50",
+    "contributionReduce": "12",
+    "letterIDA": "203",
+    "letterIDB": "205",
+    "costMoney": "10",
+    "captivity": "3"
+  },
+  {
+    "id": "5",
+    "differValue": "400",
+    "differPercent": "80",
+    "contributionReduce": "15",
+    "letterIDA": "203",
+    "letterIDB": "205",
+    "costMoney": "15",
+    "captivity": "3"
+  },
+  {
+    "id": "6",
+    "differValue": "600",
+    "differPercent": "120",
+    "contributionReduce": "20",
+    "letterIDA": "203",
+    "letterIDB": "205",
+    "costMoney": "20",
+    "captivity": "4"
+  },
+  {
+    "id": "7",
+    "differValue": "800",
+    "differPercent": "160",
+    "contributionReduce": "25",
+    "letterIDA": "203",
+    "letterIDB": "205",
+    "costMoney": "25",
+    "captivity": "4"
+  },
+  {
+    "id": "8",
+    "differValue": "1000",
+    "differPercent": "200",
+    "contributionReduce": "30",
+    "letterIDA": "203",
+    "letterIDB": "205",
+    "costMoney": "30",
+    "captivity": "5"
+  },
+  {
+    "id": "9",
+    "differValue": "1500",
+    "differPercent": "300",
+    "contributionReduce": "35",
+    "letterIDA": "203",
+    "letterIDB": "205",
+    "costMoney": "35",
+    "captivity": "5"
+  }
+]

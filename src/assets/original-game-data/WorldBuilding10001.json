@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "item": "5021114",
+    "dungeonID": "320101",
+    "level": "20",
+    "weight": "1000",
+    "duration": "3"
+  },
+  {
+    "id": "2",
+    "item": "5021114",
+    "dungeonID": "320102",
+    "level": "20",
+    "weight": "1000",
+    "duration": "3"
+  },
+  {
+    "id": "3",
+    "item": "5021114",
+    "dungeonID": "320103",
+    "level": "20",
+    "weight": "1000",
+    "duration": "3"
+  },
+  {
+    "id": "4",
+    "item": "5021114",
+    "dungeonID": "320104",
+    "level": "20",
+    "weight": "1000",
+    "duration": "3"
+  },
+  {
+    "id": "5",
+    "item": "5021114",
+    "dungeonID": "320105",
+    "level": "20",
+    "weight": "1000",
+    "duration": "3"
+  },
+  {
+    "id": "6",
+    "item": "5021114",
+    "dungeonID": "320106",
+    "level": "20",
+    "weight": "1000",
+    "duration": "3"
+  },
+  {
+    "id": "7",
+    "item": "5021114",
+    "dungeonID": "320101",
+    "level": "25",
+    "weight": "200",
+    "duration": "3"
+  },
+  {
+    "id": "8",
+    "item": "5021114",
+    "dungeonID": "320102",
+    "level": "25",
+    "weight": "200",
+    "duration": "3"
+  },
+  {
+    "id": "9",
+    "item": "5021114",
+    "dungeonID": "320103",
+    "level": "25",
+    "weight": "200",
+    "duration": "3"
+  },
+  {
+    "id": "10",
+    "item": "5021114",
+    "dungeonID": "320104",
+    "level": "25",
+    "weight": "200",
+    "duration": "3"
+  },
+  {
+    "id": "11",
+    "item": "5021114",
+    "dungeonID": "320105",
+    "level": "25",
+    "weight": "200",
+    "duration": "3"
+  },
+  {
+    "id": "12",
+    "item": "5021114",
+    "dungeonID": "320106",
+    "level": "25",
+    "weight": "200",
+    "duration": "3"
+  },
+  {
+    "id": "13",
+    "item": "5021114",
+    "dungeonID": "320101",
+    "level": "30",
+    "weight": "50",
+    "duration": "3"
+  },
+  {
+    "id": "14",
+    "item": "5021114",
+    "dungeonID": "320102",
+    "level": "30",
+    "weight": "50",
+    "duration": "3"
+  },
+  {
+    "id": "15",
+    "item": "5021114",
+    "dungeonID": "320103",
+    "level": "30",
+    "weight": "50",
+    "duration": "3"
+  },
+  {
+    "id": "16",
+    "item": "5021114",
+    "dungeonID": "320104",
+    "level": "30",
+    "weight": "50",
+    "duration": "3"
+  },
+  {
+    "id": "17",
+    "item": "5021114",
+    "dungeonID": "320105",
+    "level": "30",
+    "weight": "50",
+    "duration": "3"
+  },
+  {
+    "id": "18",
+    "item": "5021114",
+    "dungeonID": "320106",
+    "level": "30",
+    "weight": "50",
+    "duration": "3"
+  }
+]

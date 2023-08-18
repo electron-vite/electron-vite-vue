@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "ghost": "0",
+    "letterID": "1001",
+    "goalID": "201",
+    "matchScore": "3000",
+    "ghostLife": "0",
+    "deadFeatureID": "101",
+    "itemID": "1011721"
+  },
+  {
+    "id": "2",
+    "ghost": "0",
+    "letterID": "1001",
+    "goalID": "201",
+    "matchScore": "3000",
+    "ghostLife": "0",
+    "deadFeatureID": "101",
+    "itemID": "1011721"
+  },
+  {
+    "id": "3",
+    "ghost": "0",
+    "letterID": "1001",
+    "goalID": "201",
+    "matchScore": "3000",
+    "ghostLife": "0",
+    "deadFeatureID": "101",
+    "itemID": "1011721"
+  },
+  {
+    "id": "4",
+    "ghost": "1",
+    "letterID": "1001",
+    "goalID": "201",
+    "matchScore": "3000",
+    "ghostLife": "24",
+    "deadFeatureID": "101",
+    "itemID": "1011721"
+  },
+  {
+    "id": "5",
+    "ghost": "1",
+    "letterID": "1001",
+    "goalID": "201",
+    "matchScore": "3000",
+    "ghostLife": "24",
+    "deadFeatureID": "1011",
+    "itemID": "1011722"
+  },
+  {
+    "id": "6",
+    "ghost": "1",
+    "letterID": "1001",
+    "goalID": "201",
+    "matchScore": "3000",
+    "ghostLife": "36",
+    "deadFeatureID": "1011",
+    "itemID": "1011722"
+  },
+  {
+    "id": "7",
+    "ghost": "1",
+    "letterID": "1001",
+    "goalID": "201",
+    "matchScore": "3000",
+    "ghostLife": "36",
+    "deadFeatureID": "1012",
+    "itemID": "1011723"
+  },
+  {
+    "id": "8",
+    "ghost": "1",
+    "letterID": "1001",
+    "goalID": "201",
+    "matchScore": "3000",
+    "ghostLife": "48",
+    "deadFeatureID": "1012",
+    "itemID": "1011723"
+  },
+  {
+    "id": "9",
+    "ghost": "1",
+    "letterID": "1001",
+    "goalID": "201",
+    "matchScore": "3000",
+    "ghostLife": "48",
+    "deadFeatureID": "1013",
+    "itemID": "1011724"
+  },
+  {
+    "id": "10",
+    "ghost": "1",
+    "letterID": "1001",
+    "goalID": "201",
+    "matchScore": "3000",
+    "ghostLife": "60",
+    "deadFeatureID": "1013",
+    "itemID": "1011724"
+  }
+]

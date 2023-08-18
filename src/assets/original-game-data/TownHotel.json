@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "level  ": "0",
+    "hospitalID": "2001",
+    "costMoney": "50"
+  },
+  {
+    "id": "2",
+    "level  ": "1",
+    "hospitalID": "2001",
+    "costMoney": "50"
+  },
+  {
+    "id": "3",
+    "level  ": "2",
+    "hospitalID": "2002",
+    "costMoney": "125"
+  },
+  {
+    "id": "4",
+    "level  ": "3",
+    "hospitalID": "2003",
+    "costMoney": "300"
+  },
+  {
+    "id": "5",
+    "level  ": "4",
+    "hospitalID": "2004",
+    "costMoney": "800"
+  },
+  {
+    "id": "6",
+    "level  ": "5",
+    "hospitalID": "2005",
+    "costMoney": "2000"
+  }
+]

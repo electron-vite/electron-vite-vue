@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "rewardID": "7100125",
+    "price": "10",
+    "weight": "10000",
+    "onlyOne": "1"
+  },
+  {
+    "id": "2",
+    "rewardID": "900004",
+    "price": "5",
+    "weight": "1000",
+    "onlyOne": "0"
+  },
+  {
+    "id": "3",
+    "rewardID": "900004",
+    "price": "5",
+    "weight": "1000",
+    "onlyOne": "0"
+  },
+  {
+    "id": "4",
+    "rewardID": "900004",
+    "price": "5",
+    "weight": "1000",
+    "onlyOne": "0"
+  },
+  {
+    "id": "5",
+    "rewardID": "900004",
+    "price": "5",
+    "weight": "1000",
+    "onlyOne": "0"
+  },
+  {
+    "id": "6",
+    "rewardID": "900004",
+    "price": "5",
+    "weight": "1000",
+    "onlyOne": "0"
+  },
+  {
+    "id": "7",
+    "rewardID": "900004",
+    "price": "5",
+    "weight": "1000",
+    "onlyOne": "0"
+  },
+  {
+    "id": "8",
+    "rewardID": "900004",
+    "price": "5",
+    "weight": "1000",
+    "onlyOne": "0"
+  },
+  {
+    "id": "9",
+    "rewardID": "900004",
+    "price": "5",
+    "weight": "1000",
+    "onlyOne": "0"
+  }
+]

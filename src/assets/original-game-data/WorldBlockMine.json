@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "area": "1",
+    "terrainID": "-1",
+    "item": "5011011",
+    "pricePara": "40",
+    "limitMin": "50",
+    "limitMax": "70",
+    "costDay": "5"
+  },
+  {
+    "id": "2",
+    "area": "2",
+    "terrainID": "-1",
+    "item": "5011011",
+    "pricePara": "40",
+    "limitMin": "50",
+    "limitMax": "70",
+    "costDay": "5"
+  },
+  {
+    "id": "3",
+    "area": "3",
+    "terrainID": "-1",
+    "item": "5261102_5271102_5281102_5281102_5011012",
+    "pricePara": "40",
+    "limitMin": "50",
+    "limitMax": "70",
+    "costDay": "5"
+  },
+  {
+    "id": "4",
+    "area": "4",
+    "terrainID": "-1",
+    "item": "5261102_5271102_5281102_5281102_5011012",
+    "pricePara": "40",
+    "limitMin": "50",
+    "limitMax": "70",
+    "costDay": "5"
+  },
+  {
+    "id": "5",
+    "area": "5",
+    "terrainID": "-1",
+    "item": "5261103_5271103_5281103_5281102_5011013",
+    "pricePara": "40",
+    "limitMin": "50",
+    "limitMax": "70",
+    "costDay": "5"
+  },
+  {
+    "id": "6",
+    "area": "6",
+    "terrainID": "-1",
+    "item": "5261103_5271103_5281103_5281102_5011013",
+    "pricePara": "40",
+    "limitMin": "50",
+    "limitMax": "70",
+    "costDay": "5"
+  },
+  {
+    "id": "7",
+    "area": "7",
+    "terrainID": "-1",
+    "item": "5261104_5271104_5281104_5281103_5011014",
+    "pricePara": "40",
+    "limitMin": "50",
+    "limitMax": "70",
+    "costDay": "5"
+  },
+  {
+    "id": "8",
+    "area": "8",
+    "terrainID": "-1",
+    "item": "5261104_5271104_5281104_5281103_5011014",
+    "pricePara": "40",
+    "limitMin": "50",
+    "limitMax": "70",
+    "costDay": "5"
+  },
+  {
+    "id": "9",
+    "area": "9",
+    "terrainID": "-1",
+    "item": "5261105_5271105_5281105_5281103_5011015",
+    "pricePara": "40",
+    "limitMin": "50",
+    "limitMax": "70",
+    "costDay": "5"
+  },
+  {
+    "id": "10",
+    "area": "10",
+    "terrainID": "-1",
+    "item": "5261105_5271105_5281105_5281103_5011015",
+    "pricePara": "40",
+    "limitMin": "50",
+    "limitMax": "70",
+    "costDay": "5"
+  },
+  {
+    "id": "11",
+    "area": "11",
+    "terrainID": "-1",
+    "item": "5011011",
+    "pricePara": "40",
+    "limitMin": "50",
+    "limitMax": "70",
+    "costDay": "5"
+  },
+  {
+    "id": "12",
+    "area": "12",
+    "terrainID": "-1",
+    "item": "5011011",
+    "pricePara": "40",
+    "limitMin": "50",
+    "limitMax": "70",
+    "costDay": "5"
+  },
+  {
+    "id": "13",
+    "area": "13",
+    "terrainID": "-1",
+    "item": "5011011",
+    "pricePara": "40",
+    "limitMin": "50",
+    "limitMax": "70",
+    "costDay": "5"
+  }
+]

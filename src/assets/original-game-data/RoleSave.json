@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "key": "reviveTimeMin",
+    "value": "6"
+  },
+  {
+    "id": "2",
+    "key": "reviveTimeMax",
+    "value": "6"
+  },
+  {
+    "id": "3",
+    "key": "reviveFeatureID",
+    "value": "102"
+  },
+  {
+    "id": "4",
+    "key": "addClose",
+    "value": "200"
+  },
+  {
+    "id": "5",
+    "key": "eventLogRoleSave21311",
+    "value": "0"
+  },
+  {
+    "id": "6",
+    "key": "eventLogRoleSave22311",
+    "value": "0"
+  },
+  {
+    "id": "7",
+    "key": "eventLogRoleSave22312",
+    "value": "0"
+  },
+  {
+    "id": "8",
+    "key": "reviveFavor",
+    "value": "-500"
+  },
+  {
+    "id": "9",
+    "key": "reviveFamilyFavor",
+    "value": "-100"
+  }
+]

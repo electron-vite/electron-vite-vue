@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1001",
+    "icon": "xinqingdiluo",
+    "type": "1",
+    "desc": "herdBattlelog1001"
+  },
+  {
+    "id": "1002",
+    "icon": "xinqingdiluo",
+    "type": "2",
+    "desc": "herdBattlelog1002"
+  },
+  {
+    "id": "1003",
+    "icon": "xinqingdiluo",
+    "type": "3",
+    "desc": "herdBattlelog1003"
+  },
+  {
+    "id": "1004",
+    "icon": "xinqingdiluo",
+    "type": "4",
+    "desc": "herdBattlelog1004"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1001",
+    "eventCondition": "0",
+    "itemGroup": "2824001",
+    "eventId": "72101",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "1002",
+    "eventCondition": "0",
+    "itemGroup": "2824001",
+    "eventId": "72101",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "1003",
+    "eventCondition": "0",
+    "itemGroup": "2824001",
+    "eventId": "72101",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "1004",
+    "eventCondition": "0",
+    "itemGroup": "2824001",
+    "eventId": "801001",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "1005",
+    "eventCondition": "npcConditionIndex_700301_0",
+    "itemGroup": "2824001",
+    "eventId": "72301",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "1006",
+    "eventCondition": "0",
+    "itemGroup": "2824001",
+    "eventId": "72311",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "1007",
+    "eventCondition": "dialogue_2117405_1",
+    "itemGroup": "2824001",
+    "eventId": "72101",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2001",
+    "eventCondition": "0",
+    "itemGroup": "2824002",
+    "eventId": "72101",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2002",
+    "eventCondition": "0",
+    "itemGroup": "2824002",
+    "eventId": "72101",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2003",
+    "eventCondition": "0",
+    "itemGroup": "2824002",
+    "eventId": "801001",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2004",
+    "eventCondition": "npcConditionIndex_700301_0",
+    "itemGroup": "2824002",
+    "eventId": "72301",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2005",
+    "eventCondition": "0",
+    "itemGroup": "2824002",
+    "eventId": "72311",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2006",
+    "eventCondition": "grade_0_7_10",
+    "itemGroup": "2824002",
+    "eventId": "72101",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "2007",
+    "eventCondition": "area_8|area_9|area_10",
+    "itemGroup": "2824002",
+    "eventId": "72101",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3001",
+    "eventCondition": "0",
+    "itemGroup": "2824003",
+    "eventId": "72101",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3002",
+    "eventCondition": "0",
+    "itemGroup": "2824003",
+    "eventId": "72101",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3003",
+    "eventCondition": "0",
+    "itemGroup": "2824003",
+    "eventId": "72101",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3004",
+    "eventCondition": "0",
+    "itemGroup": "2824003",
+    "eventId": "72101",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3005",
+    "eventCondition": "npcConditionIndex_700301_0",
+    "itemGroup": "2824003",
+    "eventId": "72301",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "3006",
+    "eventCondition": "0",
+    "itemGroup": "2824003",
+    "eventId": "72311",
+    "cd": "0",
+    "weight": "10000"
+  },
+  {
+    "id": "4001",
+    "eventCondition": "isLeagueLeader_1|isEventExist_60601_0|npcConditionIndex_100801_0_1|npcConditionIndex_100821_0_1",
+    "itemGroup": "2824004",
+    "eventId": "60601",
+    "cd": "24",
+    "weight": "10000"
+  },
+  {
+    "id": "4002",
+    "eventCondition": "0",
+    "itemGroup": "2824004",
+    "eventId": "72101",
+    "cd": "0",
+    "weight": "10000"
+  }
+]

@@ -1,6 +1,8 @@
-import { app, BrowserWindow, shell, ipcMain } from 'electron'
+import { app, BrowserWindow, shell, ipcMain, dialog, ipcRenderer } from 'electron'
 import { release } from 'node:os'
 import { join } from 'node:path'
+import { EditorEvent } from '../common/api-name'
+import { useBridgeApi } from './bridge-api'
 
 // The built directory structure
 //
@@ -44,6 +46,8 @@ async function createWindow() {
   win = new BrowserWindow({
     title: 'Main window',
     icon: join(process.env.VITE_PUBLIC, 'favicon.ico'),
+    minWidth: 800,
+    minHeight: 600,
     webPreferences: {
       preload,
       // Warning: Enable nodeIntegration and disable contextIsolation is not secure in production
@@ -73,6 +77,15 @@ async function createWindow() {
     return { action: 'deny' }
   })
   // win.webContents.on('will-navigate', (event, url) => { }) #344
+
+  ipcMain.on(EditorEvent.SELECT_PATH, async (event, arg) => {
+    const result = await dialog.showOpenDialog(win, {
+      properties: ['openDirectory']
+    })
+    win.webContents.send(EditorEvent.PATH_SELECTED, result.filePaths)
+  })
+
+  useBridgeApi(win)
 }
 
 app.whenReady().then(createWindow)

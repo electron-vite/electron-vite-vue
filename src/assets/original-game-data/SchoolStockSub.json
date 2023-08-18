@@ -1,0 +1,56 @@
+[
+  {
+    "id": "2",
+    "herbCostMax": "2500",
+    "herbAdd": "300",
+    "herbRefreshCD": "12",
+    "mineCostMax": "2500",
+    "mineAdd": "300",
+    "mineRefreshCD": "12"
+  },
+  {
+    "id": "4",
+    "herbCostMax": "6500",
+    "herbAdd": "780",
+    "herbRefreshCD": "12",
+    "mineCostMax": "6500",
+    "mineAdd": "780",
+    "mineRefreshCD": "12"
+  },
+  {
+    "id": "6",
+    "herbCostMax": "15000",
+    "herbAdd": "1800",
+    "herbRefreshCD": "12",
+    "mineCostMax": "15000",
+    "mineAdd": "1800",
+    "mineRefreshCD": "12"
+  },
+  {
+    "id": "8",
+    "herbCostMax": "30000",
+    "herbAdd": "3600",
+    "herbRefreshCD": "12",
+    "mineCostMax": "30000",
+    "mineAdd": "3600",
+    "mineRefreshCD": "12"
+  },
+  {
+    "id": "9",
+    "herbCostMax": "60000",
+    "herbAdd": "7200",
+    "herbRefreshCD": "12",
+    "mineCostMax": "60000",
+    "mineAdd": "7200",
+    "mineRefreshCD": "12"
+  },
+  {
+    "id": "10",
+    "herbCostMax": "60000",
+    "herbAdd": "7200",
+    "herbRefreshCD": "12",
+    "mineCostMax": "60000",
+    "mineAdd": "7200",
+    "mineRefreshCD": "12"
+  }
+]

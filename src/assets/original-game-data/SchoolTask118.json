@@ -1,0 +1,152 @@
+[
+  {
+    "id": "11801",
+    "weight": "5000",
+    "mapEventID": "100101",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11802",
+    "weight": "5000",
+    "mapEventID": "100102",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11803",
+    "weight": "5000",
+    "mapEventID": "100103",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11804",
+    "weight": "5000",
+    "mapEventID": "100104",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11805",
+    "weight": "5000",
+    "mapEventID": "100105",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11806",
+    "weight": "5000",
+    "mapEventID": "100111",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11807",
+    "weight": "5000",
+    "mapEventID": "100112",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11808",
+    "weight": "5000",
+    "mapEventID": "100113",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11809",
+    "weight": "5000",
+    "mapEventID": "100114",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11810",
+    "weight": "5000",
+    "mapEventID": "100115",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11811",
+    "weight": "5000",
+    "mapEventID": "100121",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11812",
+    "weight": "5000",
+    "mapEventID": "100122",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11813",
+    "weight": "5000",
+    "mapEventID": "100123",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11814",
+    "weight": "5000",
+    "mapEventID": "100124",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  },
+  {
+    "id": "11815",
+    "weight": "5000",
+    "mapEventID": "100125",
+    "minIconRange": "4",
+    "maxIonRange": "6",
+    "condition1": "abRelation_0_108",
+    "condition2": "schoolPost_1_4_2",
+    "condition3": "0"
+  }
+]

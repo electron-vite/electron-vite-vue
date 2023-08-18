@@ -1,0 +1,121 @@
+[
+  {
+    "id": "6301015",
+    "eventID": "4101",
+    "pointType": "1",
+    "pointValues": "180_135_15",
+    "cost": "2_6301015"
+  },
+  {
+    "id": "6301025",
+    "eventID": "4101",
+    "pointType": "1",
+    "pointValues": "138_117_15",
+    "cost": "2_6301015"
+  },
+  {
+    "id": "6301035",
+    "eventID": "4101",
+    "pointType": "1",
+    "pointValues": "140_81_15",
+    "cost": "2_6301015"
+  },
+  {
+    "id": "6301045",
+    "eventID": "4101",
+    "pointType": "1",
+    "pointValues": "180_172_15",
+    "cost": "2_6301015"
+  },
+  {
+    "id": "6301046",
+    "eventID": "4102",
+    "pointType": "1",
+    "pointValues": "163_128_15",
+    "cost": "2_6301015"
+  },
+  {
+    "id": "6301055",
+    "eventID": "4103",
+    "pointType": "1",
+    "pointValues": "180_180_15",
+    "cost": "2_6301055"
+  },
+  {
+    "id": "6301065",
+    "eventID": "4103",
+    "pointType": "1",
+    "pointValues": "129_185_15",
+    "cost": "2_6301055"
+  },
+  {
+    "id": "6301075",
+    "eventID": "4103",
+    "pointType": "1",
+    "pointValues": "158_166_15",
+    "cost": "2_6301055"
+  },
+  {
+    "id": "6301085",
+    "eventID": "4103",
+    "pointType": "1",
+    "pointValues": "164_183_15",
+    "cost": "2_6301055"
+  },
+  {
+    "id": "6301086",
+    "eventID": "4104",
+    "pointType": "1",
+    "pointValues": "169_180_15",
+    "cost": "2_6301055"
+  },
+  {
+    "id": "6321016",
+    "eventID": "4551",
+    "pointType": "2",
+    "pointValues": "2",
+    "cost": "0"
+  },
+  {
+    "id": "6321026",
+    "eventID": "4551",
+    "pointType": "2",
+    "pointValues": "4",
+    "cost": "0"
+  },
+  {
+    "id": "6321036",
+    "eventID": "4551",
+    "pointType": "2",
+    "pointValues": "6",
+    "cost": "0"
+  },
+  {
+    "id": "6321046",
+    "eventID": "4551",
+    "pointType": "2",
+    "pointValues": "8",
+    "cost": "0"
+  },
+  {
+    "id": "6321056",
+    "eventID": "4551",
+    "pointType": "2",
+    "pointValues": "10",
+    "cost": "0"
+  },
+  {
+    "id": "6321066",
+    "eventID": "35",
+    "pointType": "2",
+    "pointValues": "8",
+    "cost": "0"
+  },
+  {
+    "id": "6321076",
+    "eventID": "4621",
+    "pointType": "2",
+    "pointValues": "6",
+    "cost": "2_6301055"
+  }
+]

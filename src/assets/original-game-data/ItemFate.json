@@ -1,0 +1,22 @@
+[
+  {
+    "id": "6381001",
+    "modifyGrade": "2|3|4",
+    "requireGrade": "4"
+  },
+  {
+    "id": "6381002",
+    "modifyGrade": "2|3|4|5|6",
+    "requireGrade": "6"
+  },
+  {
+    "id": "6381003",
+    "modifyGrade": "2|3|4|5|6|7|8",
+    "requireGrade": "8"
+  },
+  {
+    "id": "6381004",
+    "modifyGrade": "2|3|4|5|6|7|8|9|10",
+    "requireGrade": "10"
+  }
+]

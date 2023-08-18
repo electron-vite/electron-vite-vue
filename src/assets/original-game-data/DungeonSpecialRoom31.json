@@ -1,0 +1,83 @@
+[
+  {
+    "id": "900001",
+    "condition": "dungeonDialogue_90051_0",
+    "npcConditionID": "40001",
+    "npcPosi": "13_4",
+    "battleFunction": "unitAnim_3_Die_1",
+    "roomDramaID": "90001",
+    "npcDramaID": "90031"
+  },
+  {
+    "id": "900002",
+    "condition": "dungeonDialogue_90051_0",
+    "npcConditionID": "40002",
+    "npcPosi": "13_4",
+    "battleFunction": "unitAnim_3_Die_1",
+    "roomDramaID": "90001",
+    "npcDramaID": "90031"
+  },
+  {
+    "id": "900003",
+    "condition": "dungeonDialogue_90051_0",
+    "npcConditionID": "40003",
+    "npcPosi": "13_4",
+    "battleFunction": "unitAnim_3_Die_1",
+    "roomDramaID": "90001",
+    "npcDramaID": "90031"
+  },
+  {
+    "id": "900004",
+    "condition": "dungeonDialogue_90051_0",
+    "npcConditionID": "40004",
+    "npcPosi": "13_4",
+    "battleFunction": "unitAnim_3_Die_1",
+    "roomDramaID": "90001",
+    "npcDramaID": "90031"
+  },
+  {
+    "id": "900005",
+    "condition": "dungeonDialogue_90051_0",
+    "npcConditionID": "40005",
+    "npcPosi": "13_4",
+    "battleFunction": "unitAnim_3_Die_1",
+    "roomDramaID": "90001",
+    "npcDramaID": "90031"
+  },
+  {
+    "id": "1000001",
+    "condition": "noWorldData_rescueStory1|npcConditionSave_300001_1",
+    "npcConditionID": "300001",
+    "npcPosi": "11_5",
+    "battleFunction": "unitAnim_3_Die_1|addAttribute_3_6_0_100_1|addAttribute_3_6_0_-60_1|setBattleData_interact_0|setBattleData_NPC_300001",
+    "roomDramaID": "980001",
+    "npcDramaID": "980011"
+  },
+  {
+    "id": "1000002",
+    "condition": "noWorldData_rescueStory2|npcConditionSave_300002_1",
+    "npcConditionID": "300002",
+    "npcPosi": "14_6",
+    "battleFunction": "unitAnim_3_Die_1|addAttribute_3_6_0_100_1|addAttribute_3_6_0_-20_1|setBattleData_interact_0|setBattleData_NPC_300002",
+    "roomDramaID": "980001",
+    "npcDramaID": "980011"
+  },
+  {
+    "id": "1000003",
+    "condition": "noWorldData_rescueStory3|npcConditionSave_300003_1",
+    "npcConditionID": "300003",
+    "npcPosi": "11_3",
+    "battleFunction": "unitAnim_3_Die_1|addAttribute_3_6_0_100_1|addAttribute_3_6_0_-20_1|setBattleData_interact_0|setBattleData_NPC_300003",
+    "roomDramaID": "980001",
+    "npcDramaID": "980011"
+  },
+  {
+    "id": "1000004",
+    "condition": "noWorldData_rescueStory4|npcConditionSave_300004_1",
+    "npcConditionID": "300004",
+    "npcPosi": "14_4",
+    "battleFunction": "unitAnim_3_Die_1|addAttribute_3_6_0_100_1|addAttribute_3_6_0_-15_1|setBattleData_interact_0|setBattleData_NPC_300004",
+    "roomDramaID": "980001",
+    "npcDramaID": "980011"
+  }
+]

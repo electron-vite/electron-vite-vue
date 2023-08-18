@@ -1,0 +1,122 @@
+[
+  {
+    "id": "11201",
+    "dungeonID": "2101",
+    "dungeonLevel": "3",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11202",
+    "dungeonID": "2101",
+    "dungeonLevel": "6",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11203",
+    "dungeonID": "2102",
+    "dungeonLevel": "8",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11204",
+    "dungeonID": "2103",
+    "dungeonLevel": "13",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11205",
+    "dungeonID": "2103",
+    "dungeonLevel": "16",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11206",
+    "dungeonID": "2104",
+    "dungeonLevel": "18",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11207",
+    "dungeonID": "2105",
+    "dungeonLevel": "23",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11208",
+    "dungeonID": "2105",
+    "dungeonLevel": "26",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11209",
+    "dungeonID": "2106",
+    "dungeonLevel": "28",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11210",
+    "dungeonID": "2107",
+    "dungeonLevel": "33",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11211",
+    "dungeonID": "2107",
+    "dungeonLevel": "36",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11212",
+    "dungeonID": "2108",
+    "dungeonLevel": "38",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11213",
+    "dungeonID": "2109",
+    "dungeonLevel": "43",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11214",
+    "dungeonID": "2109",
+    "dungeonLevel": "46",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  },
+  {
+    "id": "11215",
+    "dungeonID": "2110",
+    "dungeonLevel": "48",
+    "taskCount": "3",
+    "minIconRange": "4",
+    "maxIonRange": "6"
+  }
+]

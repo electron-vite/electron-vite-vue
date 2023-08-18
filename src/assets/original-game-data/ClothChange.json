@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "key": "keepAmount",
+    "value": "5"
+  },
+  {
+    "id": "2",
+    "key": "intermission",
+    "value": "12_18"
+  },
+  {
+    "id": "3",
+    "key": "dropRate",
+    "value": "15"
+  },
+  {
+    "id": "4",
+    "key": "feedbackProbability",
+    "value": "100"
+  },
+  {
+    "id": "5",
+    "key": "feedbackNpcAmount",
+    "value": "10"
+  },
+  {
+    "id": "6",
+    "key": "feedbackDialogue",
+    "value": "6321001"
+  }
+]

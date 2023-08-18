@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "key": "costEnergy",
+    "value": "10"
+  },
+  {
+    "id": "2",
+    "key": "closeParaA",
+    "value": "8"
+  },
+  {
+    "id": "3",
+    "key": "closeParaB",
+    "value": "-8"
+  },
+  {
+    "id": "4",
+    "key": "closeParaC",
+    "value": "-25"
+  },
+  {
+    "id": "5",
+    "key": "eventLogRoleAskfor21311",
+    "value": "0"
+  },
+  {
+    "id": "6",
+    "key": "eventLogRoleAskfor21321",
+    "value": "0"
+  },
+  {
+    "id": "7",
+    "key": "eventLogRoleAskfor21312",
+    "value": "0"
+  },
+  {
+    "id": "8",
+    "key": "eventLogRoleAskfor21322",
+    "value": "0"
+  },
+  {
+    "id": "9",
+    "key": "itemScoreParaA",
+    "value": "100"
+  },
+  {
+    "id": "10",
+    "key": "itemScoreParaB",
+    "value": "1"
+  },
+  {
+    "id": "11",
+    "key": "closeAddMax",
+    "value": "120"
+  },
+  {
+    "id": "12",
+    "key": "closeReduceMax",
+    "value": "30"
+  },
+  {
+    "id": "13",
+    "key": "favorParaA",
+    "value": "896"
+  },
+  {
+    "id": "14",
+    "key": "favorParaB",
+    "value": "160"
+  },
+  {
+    "id": "15",
+    "key": "favorParaC",
+    "value": "30"
+  },
+  {
+    "id": "16",
+    "key": "favorMax",
+    "value": "100"
+  }
+]

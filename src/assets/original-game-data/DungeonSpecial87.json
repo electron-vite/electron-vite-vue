@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "key": "fixedMoveSpeed",
+    "value": "500"
+  },
+  {
+    "id": "2",
+    "key": "bossFocusTriggerRange",
+    "value": "1"
+  },
+  {
+    "id": "3",
+    "key": "bossFocusDelay",
+    "value": "1000"
+  },
+  {
+    "id": "4",
+    "key": "bossFocusSpeed",
+    "value": "5"
+  },
+  {
+    "id": "5",
+    "key": "bossFocusZoom",
+    "value": "5.4"
+  },
+  {
+    "id": "6",
+    "key": "bossFocusZoomIn",
+    "value": "500"
+  },
+  {
+    "id": "7",
+    "key": "bossFocusZoomStay",
+    "value": "500"
+  },
+  {
+    "id": "8",
+    "key": "bossFocusZoomOut",
+    "value": "100"
+  },
+  {
+    "id": "9",
+    "key": "bossDefeatedFocusDelay",
+    "value": "1000"
+  },
+  {
+    "id": "10",
+    "key": "bossDefeatedFocusSpeed",
+    "value": "5"
+  },
+  {
+    "id": "11",
+    "key": "bossDefeatedFocusStay",
+    "value": "1000"
+  },
+  {
+    "id": "12",
+    "key": "bossDialogueDistance",
+    "value": "2"
+  },
+  {
+    "id": "13",
+    "key": "bossDialogueDrama",
+    "value": "2211031|2211032|2211033|2211034|2211800"
+  },
+  {
+    "id": "14",
+    "key": "bossDialogueDrama1",
+    "value": "2210406"
+  },
+  {
+    "id": "15",
+    "key": "boss2DefeatedFocusSpeed",
+    "value": "5"
+  },
+  {
+    "id": "16",
+    "key": "boss2DefeatedFocusZoom",
+    "value": "5.4"
+  },
+  {
+    "id": "17",
+    "key": "drama1",
+    "value": "2210001"
+  },
+  {
+    "id": "18",
+    "key": "drama1Delay",
+    "value": "700"
+  },
+  {
+    "id": "19",
+    "key": "drama2",
+    "value": "2210341|2210231"
+  },
+  {
+    "id": "20",
+    "key": "drama2Branch1",
+    "value": "22103411"
+  },
+  {
+    "id": "21",
+    "key": "drama2Branch2",
+    "value": "22101341|22102541"
+  },
+  {
+    "id": "22",
+    "key": "drama2Delay",
+    "value": "1000"
+  },
+  {
+    "id": "23",
+    "key": "drama3",
+    "value": "2210342"
+  },
+  {
+    "id": "24",
+    "key": "drama3Delay",
+    "value": "200"
+  },
+  {
+    "id": "25",
+    "key": "drama4",
+    "value": "2210401"
+  },
+  {
+    "id": "26",
+    "key": "drama5",
+    "value": "0"
+  },
+  {
+    "id": "27",
+    "key": "drama5Delay",
+    "value": "1000"
+  },
+  {
+    "id": "28",
+    "key": "bossSkillDuration",
+    "value": "9000"
+  }
+]

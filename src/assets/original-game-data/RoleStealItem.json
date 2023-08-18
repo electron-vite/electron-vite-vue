@@ -1,0 +1,227 @@
+[
+  {
+    "id": "1",
+    "key": "succeedClosePara",
+    "value": "3000"
+  },
+  {
+    "id": "2",
+    "key": "exposeBeautyParaA",
+    "value": "3500"
+  },
+  {
+    "id": "3",
+    "key": "exposeBeautyParaB",
+    "value": "5000"
+  },
+  {
+    "id": "4",
+    "key": "exposeReduceClosePara",
+    "value": "100"
+  },
+  {
+    "id": "5",
+    "key": "stealSucceedMin",
+    "value": "10"
+  },
+  {
+    "id": "6",
+    "key": "stealSucceedMax",
+    "value": "90"
+  },
+  {
+    "id": "7",
+    "key": "stealCountMin",
+    "value": "20"
+  },
+  {
+    "id": "8",
+    "key": "stealCountMax",
+    "value": "40"
+  },
+  {
+    "id": "9",
+    "key": "stealMoneySpMin",
+    "value": "70"
+  },
+  {
+    "id": "10",
+    "key": "stealMoneySpMax",
+    "value": "100"
+  },
+  {
+    "id": "11",
+    "key": "stealMoneyPercentMin",
+    "value": "20"
+  },
+  {
+    "id": "12",
+    "key": "stealMoneyPercentMax",
+    "value": "35"
+  },
+  {
+    "id": "13",
+    "key": "hateAddPara",
+    "value": "10"
+  },
+  {
+    "id": "14",
+    "key": "stealCostEnergy",
+    "value": "10"
+  },
+  {
+    "id": "15",
+    "key": "hateLimited",
+    "value": "-999"
+  },
+  {
+    "id": "16",
+    "key": "itemScoreParaA",
+    "value": "1"
+  },
+  {
+    "id": "17",
+    "key": "itemScoreParaB",
+    "value": "1"
+  },
+  {
+    "id": "18",
+    "key": "eventLogRoleStealItem11111",
+    "value": "0"
+  },
+  {
+    "id": "19",
+    "key": "eventLogRoleStealItem11121",
+    "value": "0"
+  },
+  {
+    "id": "20",
+    "key": "eventLogRoleStealItem11131",
+    "value": "0"
+  },
+  {
+    "id": "21",
+    "key": "eventLogRoleStealItem11210",
+    "value": "0"
+  },
+  {
+    "id": "22",
+    "key": "eventLogRoleStealItem11310",
+    "value": "0"
+  },
+  {
+    "id": "23",
+    "key": "eventLogRoleStealItem11320",
+    "value": "0"
+  },
+  {
+    "id": "24",
+    "key": "eventLogRoleStealItem12111",
+    "value": "0"
+  },
+  {
+    "id": "25",
+    "key": "eventLogRoleStealItem12210",
+    "value": "0"
+  },
+  {
+    "id": "26",
+    "key": "eventLogRoleStealItem12311",
+    "value": "0"
+  },
+  {
+    "id": "27",
+    "key": "eventLogRoleStealItem12321",
+    "value": "0"
+  },
+  {
+    "id": "28",
+    "key": "eventLogRoleStealItem11112",
+    "value": "0"
+  },
+  {
+    "id": "29",
+    "key": "eventLogRoleStealItem11122",
+    "value": "0"
+  },
+  {
+    "id": "30",
+    "key": "eventLogRoleStealItem11132",
+    "value": "0"
+  },
+  {
+    "id": "31",
+    "key": "eventLogRoleStealItem12112",
+    "value": "0"
+  },
+  {
+    "id": "32",
+    "key": "eventLogRoleStealItem12312",
+    "value": "0"
+  },
+  {
+    "id": "33",
+    "key": "eventLogRoleStealItem12322",
+    "value": "0"
+  },
+  {
+    "id": "34",
+    "key": "eventLogRoleStealItem21311",
+    "value": "0"
+  },
+  {
+    "id": "35",
+    "key": "eventLogRoleStealItem21321",
+    "value": "0"
+  },
+  {
+    "id": "36",
+    "key": "eventLogRoleStealItem22311",
+    "value": "0"
+  },
+  {
+    "id": "37",
+    "key": "eventLogRoleStealItem22321",
+    "value": "0"
+  },
+  {
+    "id": "38",
+    "key": "eventLogRoleStealItem23311",
+    "value": "0"
+  },
+  {
+    "id": "39",
+    "key": "eventLogRoleStealItem23321",
+    "value": "0"
+  },
+  {
+    "id": "40",
+    "key": "eventLogRoleStealItem21312",
+    "value": "0"
+  },
+  {
+    "id": "41",
+    "key": "eventLogRoleStealItem21322",
+    "value": "0"
+  },
+  {
+    "id": "42",
+    "key": "eventLogRoleStealItem22312",
+    "value": "0"
+  },
+  {
+    "id": "43",
+    "key": "eventLogRoleStealItem22322",
+    "value": "0"
+  },
+  {
+    "id": "44",
+    "key": "eventLogRoleStealItem23312",
+    "value": "0"
+  },
+  {
+    "id": "45",
+    "key": "eventLogRoleStealItem23322",
+    "value": "0"
+  }
+]

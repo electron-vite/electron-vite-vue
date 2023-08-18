@@ -1,0 +1,16 @@
+[
+  {
+    "id": "41001",
+    "rebounds": "10",
+    "reboundEff": "Unit/miemeng_gongji3rebound",
+    "reboundEffDur": "5000",
+    "interval": "0"
+  },
+  {
+    "id": "41002",
+    "rebounds": "&800031_tscs",
+    "reboundEff": "Unit/miemeng_gongji3rebound",
+    "reboundEffDur": "5000",
+    "interval": "&32000024_shjg"
+  }
+]

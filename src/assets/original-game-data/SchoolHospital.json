@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "level  ": "1",
+    "hospitalID": "1001",
+    "cost": "0",
+    "deathReduce": "100"
+  },
+  {
+    "id": "2",
+    "level  ": "2",
+    "hospitalID": "1002",
+    "cost": "0",
+    "deathReduce": "98"
+  },
+  {
+    "id": "3",
+    "level  ": "3",
+    "hospitalID": "1003",
+    "cost": "0",
+    "deathReduce": "96"
+  },
+  {
+    "id": "4",
+    "level  ": "4",
+    "hospitalID": "1004",
+    "cost": "0",
+    "deathReduce": "94"
+  },
+  {
+    "id": "5",
+    "level  ": "5",
+    "hospitalID": "1005",
+    "cost": "0",
+    "deathReduce": "92"
+  },
+  {
+    "id": "6",
+    "level  ": "6",
+    "hospitalID": "1006",
+    "cost": "0",
+    "deathReduce": "90"
+  },
+  {
+    "id": "7",
+    "level  ": "7",
+    "hospitalID": "1007",
+    "cost": "0",
+    "deathReduce": "88"
+  },
+  {
+    "id": "8",
+    "level  ": "8",
+    "hospitalID": "1008",
+    "cost": "0",
+    "deathReduce": "86"
+  },
+  {
+    "id": "9",
+    "level  ": "9",
+    "hospitalID": "1009",
+    "cost": "0",
+    "deathReduce": "84"
+  },
+  {
+    "id": "10",
+    "level  ": "10",
+    "hospitalID": "1010",
+    "cost": "0",
+    "deathReduce": "82"
+  },
+  {
+    "id": "11",
+    "level  ": "11",
+    "hospitalID": "1011",
+    "cost": "0",
+    "deathReduce": "80"
+  },
+  {
+    "id": "12",
+    "level  ": "12",
+    "hospitalID": "1012",
+    "cost": "0",
+    "deathReduce": "78"
+  },
+  {
+    "id": "13",
+    "level  ": "13",
+    "hospitalID": "1013",
+    "cost": "0",
+    "deathReduce": "76"
+  },
+  {
+    "id": "14",
+    "level  ": "14",
+    "hospitalID": "1014",
+    "cost": "0",
+    "deathReduce": "74"
+  },
+  {
+    "id": "15",
+    "level  ": "15",
+    "hospitalID": "1015",
+    "cost": "0",
+    "deathReduce": "72"
+  }
+]

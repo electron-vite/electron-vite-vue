@@ -1,0 +1,266 @@
+[
+  {
+    "id": "100",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_100",
+    "keyID": "119"
+  },
+  {
+    "id": "101",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_101",
+    "keyID": "115"
+  },
+  {
+    "id": "102",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_102",
+    "keyID": "97"
+  },
+  {
+    "id": "103",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_103",
+    "keyID": "100"
+  },
+  {
+    "id": "104",
+    "group": "1",
+    "custom": "0",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_104",
+    "keyID": "323"
+  },
+  {
+    "id": "105",
+    "group": "1",
+    "custom": "0",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_105",
+    "keyID": "324"
+  },
+  {
+    "id": "106",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_106",
+    "keyID": "32"
+  },
+  {
+    "id": "107",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_107",
+    "keyID": "114"
+  },
+  {
+    "id": "114",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_114",
+    "keyID": "113"
+  },
+  {
+    "id": "115",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_115",
+    "keyID": "102"
+  },
+  {
+    "id": "116",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_116",
+    "keyID": "304"
+  },
+  {
+    "id": "108",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_108",
+    "keyID": "49"
+  },
+  {
+    "id": "109",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_109",
+    "keyID": "50"
+  },
+  {
+    "id": "110",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_110",
+    "keyID": "51"
+  },
+  {
+    "id": "111",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_111",
+    "keyID": "52"
+  },
+  {
+    "id": "112",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_112",
+    "keyID": "53"
+  },
+  {
+    "id": "113",
+    "group": "1",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_1",
+    "keyText": "defaultKeysKeyText_113",
+    "keyID": "101"
+  },
+  {
+    "id": "200",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_200",
+    "keyID": "119"
+  },
+  {
+    "id": "201",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_201",
+    "keyID": "115"
+  },
+  {
+    "id": "202",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_202",
+    "keyID": "97"
+  },
+  {
+    "id": "203",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_203",
+    "keyID": "100"
+  },
+  {
+    "id": "204",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_204",
+    "keyID": "105"
+  },
+  {
+    "id": "205",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_205",
+    "keyID": "120"
+  },
+  {
+    "id": "206",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_206",
+    "keyID": "98"
+  },
+  {
+    "id": "207",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_207",
+    "keyID": "108"
+  },
+  {
+    "id": "208",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_208",
+    "keyID": "104"
+  },
+  {
+    "id": "209",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_209",
+    "keyID": "110"
+  },
+  {
+    "id": "210",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_210",
+    "keyID": "109"
+  },
+  {
+    "id": "211",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_211",
+    "keyID": "111"
+  },
+  {
+    "id": "212",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_212",
+    "keyID": "122"
+  },
+  {
+    "id": "213",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_213",
+    "keyID": "106"
+  },
+  {
+    "id": "214",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_214",
+    "keyID": "102"
+  },
+  {
+    "id": "215",
+    "group": "2",
+    "custom": "1",
+    "groupText": "defaultKeysGroupText_2",
+    "keyText": "defaultKeysKeyText_215",
+    "keyID": "116"
+  }
+]

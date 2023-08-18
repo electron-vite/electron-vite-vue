@@ -1,0 +1,128 @@
+[
+  {
+    "id": "906001",
+    "bulletNum": "2",
+    "radius": "100",
+    "radiusGrow": "0",
+    "angularSpeed": "360",
+    "radiusMax": "-1",
+    "time": "-1"
+  },
+  {
+    "id": "906002",
+    "bulletNum": "&55111_ddsl",
+    "radius": "&55111_range",
+    "radiusGrow": "0",
+    "angularSpeed": "0",
+    "radiusMax": "-1",
+    "time": "-1"
+  },
+  {
+    "id": "906003",
+    "bulletNum": "&700119_lqsl",
+    "radius": "10",
+    "radiusGrow": "&700119_lqsd",
+    "angularSpeed": "360",
+    "radiusMax": "&700119_lqbj",
+    "time": "-1"
+  },
+  {
+    "id": "906004",
+    "bulletNum": "&31304_lqsl",
+    "radius": "10",
+    "radiusGrow": "&31304_xzbj",
+    "angularSpeed": "360",
+    "radiusMax": "&31304_zdbj",
+    "time": "-1"
+  },
+  {
+    "id": "906005",
+    "bulletNum": "7",
+    "radius": "10",
+    "radiusGrow": "240",
+    "angularSpeed": "360",
+    "radiusMax": "-1",
+    "time": "-1"
+  },
+  {
+    "id": "906006",
+    "bulletNum": "&9901132_lzsl",
+    "radius": "10",
+    "radiusGrow": "240",
+    "angularSpeed": "360",
+    "radiusMax": "&9901132_zdbj",
+    "time": "-1"
+  },
+  {
+    "id": "906007",
+    "bulletNum": "&700191_fjsl",
+    "radius": "10",
+    "radiusGrow": "&700191_bjbh",
+    "angularSpeed": "&700191_xzsd",
+    "radiusMax": "&700191_zdbj",
+    "time": "-1"
+  },
+  {
+    "id": "906008",
+    "bulletNum": "1",
+    "radius": "&700191_zdbj",
+    "radiusGrow": "240",
+    "angularSpeed": "0",
+    "radiusMax": "&700191_zdbj",
+    "time": "-1"
+  },
+  {
+    "id": "906009",
+    "bulletNum": "6",
+    "radius": "300",
+    "radiusGrow": "240",
+    "angularSpeed": "180",
+    "radiusMax": "300",
+    "time": "-1"
+  },
+  {
+    "id": "906010",
+    "bulletNum": "&906010_ddsl",
+    "radius": "&906010_csbj",
+    "radiusGrow": "&906010_bjbh",
+    "angularSpeed": "&906010_jsd",
+    "radiusMax": "&906010_zdbj",
+    "time": "-1"
+  },
+  {
+    "id": "906011",
+    "bulletNum": "6",
+    "radius": "2000",
+    "radiusGrow": "-500",
+    "angularSpeed": "30",
+    "radiusMax": "-1",
+    "time": "-1"
+  },
+  {
+    "id": "906012",
+    "bulletNum": "3",
+    "radius": "500",
+    "radiusGrow": "0",
+    "angularSpeed": "240",
+    "radiusMax": "500",
+    "time": "-1"
+  },
+  {
+    "id": "906013",
+    "bulletNum": "&907004_zdsl",
+    "radius": "2000",
+    "radiusGrow": "-500",
+    "angularSpeed": "30",
+    "radiusMax": "-1",
+    "time": "-1"
+  },
+  {
+    "id": "906014",
+    "bulletNum": "3",
+    "radius": "300",
+    "radiusGrow": "0",
+    "angularSpeed": "360",
+    "radiusMax": "300",
+    "time": "-1"
+  }
+]

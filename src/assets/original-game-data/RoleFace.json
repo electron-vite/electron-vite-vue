@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "key": "offsetMouthLevel1",
+    "value": "30"
+  },
+  {
+    "id": "2",
+    "key": "offsetMouthLevel2",
+    "value": "60"
+  },
+  {
+    "id": "3",
+    "key": "offsetMouthLevel3",
+    "value": "120"
+  },
+  {
+    "id": "4",
+    "key": "offsetNoseLevel1",
+    "value": "20"
+  },
+  {
+    "id": "5",
+    "key": "offsetNoseLevel2",
+    "value": "50"
+  },
+  {
+    "id": "6",
+    "key": "offsetNoseLevel3",
+    "value": "100"
+  },
+  {
+    "id": "7",
+    "key": "offsetEyesLevel1",
+    "value": "50"
+  },
+  {
+    "id": "8",
+    "key": "offsetEyesLevel2",
+    "value": "100"
+  },
+  {
+    "id": "9",
+    "key": "offsetEyesLevel3",
+    "value": "200"
+  },
+  {
+    "id": "10",
+    "key": "offsetEyebrowsLevel1",
+    "value": "50"
+  },
+  {
+    "id": "11",
+    "key": "offsetEyebrowsLevel2",
+    "value": "100"
+  },
+  {
+    "id": "12",
+    "key": "offsetEyebrowsLevel3",
+    "value": "200"
+  },
+  {
+    "id": "13",
+    "key": "offsetLevel1Weight",
+    "value": "100"
+  },
+  {
+    "id": "14",
+    "key": "offsetLevel2Weight",
+    "value": "30"
+  },
+  {
+    "id": "15",
+    "key": "offsetLevel3Weight",
+    "value": "10"
+  }
+]

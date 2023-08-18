@@ -1,0 +1,362 @@
+[
+  {
+    "id": "3021011",
+    "effectValue": "30210111|30210112",
+    "feature": "0",
+    "model": "zouwu",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_3021011",
+    "grade": "5"
+  },
+  {
+    "id": "3021021",
+    "effectValue": "30210211|30210212",
+    "feature": "0",
+    "model": "chenghuang",
+    "mapMoveSounds": "zuoqi/chenghuangyidong",
+    "desc": "item_horse_desc_3021021",
+    "grade": "8"
+  },
+  {
+    "id": "3021031",
+    "effectValue": "30210311|30210312",
+    "feature": "8501",
+    "model": "longyu",
+    "mapMoveSounds": "zuoqi/longyuyidong",
+    "desc": "item_horse_desc_3021031",
+    "grade": "6"
+  },
+  {
+    "id": "3021041",
+    "effectValue": "30210411|30210412|30210413",
+    "feature": "8501",
+    "model": "feijian1",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021041",
+    "grade": "1"
+  },
+  {
+    "id": "3021051",
+    "effectValue": "30210511|30210512|30210513",
+    "feature": "8501",
+    "model": "feijian2",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021051",
+    "grade": "1"
+  },
+  {
+    "id": "3021061",
+    "effectValue": "30210611|30210612|30210613",
+    "feature": "8501",
+    "model": "feijian3",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021061",
+    "grade": "1"
+  },
+  {
+    "id": "3021071",
+    "effectValue": "30210711|30210712|30210713",
+    "feature": "8501",
+    "model": "feijian4",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021071",
+    "grade": "1"
+  },
+  {
+    "id": "3021081",
+    "effectValue": "30210811|30210812|30210813",
+    "feature": "0",
+    "model": "feijian5",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021081",
+    "grade": "1"
+  },
+  {
+    "id": "3021091",
+    "effectValue": "30210911|30210912|30210913",
+    "feature": "0",
+    "model": "feijian6",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021091",
+    "grade": "1"
+  },
+  {
+    "id": "3021101",
+    "effectValue": "30211011|30211012",
+    "feature": "0",
+    "model": "jiliang",
+    "mapMoveSounds": "zuoqi/mapiyidong",
+    "desc": "item_horse_desc_3021101",
+    "grade": "7"
+  },
+  {
+    "id": "3021111",
+    "effectValue": "30211111|30211112",
+    "feature": "0",
+    "model": "dangkang",
+    "mapMoveSounds": "zuoqi/yezhuyidong",
+    "desc": "item_horse_desc_3021111",
+    "grade": "4"
+  },
+  {
+    "id": "3021121",
+    "effectValue": "30211211|30211212",
+    "feature": "0",
+    "model": "quanshu",
+    "mapMoveSounds": "zuoqi/mapiyidong",
+    "desc": "item_horse_desc_3021121",
+    "grade": "3"
+  },
+  {
+    "id": "3021131",
+    "effectValue": "30211311|30211312",
+    "feature": "8501",
+    "model": "hulu",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021131",
+    "grade": "2"
+  },
+  {
+    "id": "3021141",
+    "effectValue": "30211411|30211412",
+    "feature": "0",
+    "model": "xuangui",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021141",
+    "grade": "1"
+  },
+  {
+    "id": "3021151",
+    "effectValue": "30211511|30211512",
+    "feature": "8501",
+    "model": "xiangyun",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021151",
+    "grade": "1"
+  },
+  {
+    "id": "3021161",
+    "effectValue": "30211611|30211612",
+    "feature": "8501",
+    "model": "feizhou",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021161",
+    "grade": "1"
+  },
+  {
+    "id": "3021176",
+    "effectValue": "30211761|30211762",
+    "feature": "8501",
+    "model": "lilong",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021176",
+    "grade": "8"
+  },
+  {
+    "id": "3021226",
+    "effectValue": "62410161|62410162|85021",
+    "feature": "8501|8502",
+    "model": "danghu",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021226",
+    "grade": "6"
+  },
+  {
+    "id": "3021236",
+    "effectValue": "62410261|62410262|85031",
+    "feature": "8503",
+    "model": "bibi",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021236",
+    "grade": "6"
+  },
+  {
+    "id": "3021186",
+    "effectValue": "30211861|30211862|30211863",
+    "feature": "8501",
+    "model": "yun",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021186",
+    "grade": "2"
+  },
+  {
+    "id": "3021196",
+    "effectValue": "30211961|30211962|30211963",
+    "feature": "8501",
+    "model": "dan",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021196",
+    "grade": "4"
+  },
+  {
+    "id": "3021206",
+    "effectValue": "30212061|30212062|30212063",
+    "feature": "8501",
+    "model": "feizhou",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021206",
+    "grade": "6"
+  },
+  {
+    "id": "3021216",
+    "effectValue": "30212161|30212162|30212163",
+    "feature": "8501",
+    "model": "xiangyun",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021216",
+    "grade": "8"
+  },
+  {
+    "id": "7000005",
+    "effectValue": "70000051|70000052",
+    "feature": "0",
+    "model": "youlingzouwu",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000005",
+    "grade": "1"
+  },
+  {
+    "id": "7000006",
+    "effectValue": "70000061|70000062",
+    "feature": "0",
+    "model": "youlingzouwu",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000006",
+    "grade": "2"
+  },
+  {
+    "id": "7000007",
+    "effectValue": "70000071|70000072",
+    "feature": "0",
+    "model": "youlingzouwu",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000007",
+    "grade": "3"
+  },
+  {
+    "id": "7000008",
+    "effectValue": "70000081|70000082",
+    "feature": "0",
+    "model": "youlingzouwu",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000008",
+    "grade": "4"
+  },
+  {
+    "id": "7000009",
+    "effectValue": "70000091|70000092",
+    "feature": "0",
+    "model": "youlingzouwu",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000009",
+    "grade": "5"
+  },
+  {
+    "id": "7000010",
+    "effectValue": "70000101|70000102",
+    "feature": "0",
+    "model": "youlingzouwu",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000010",
+    "grade": "6"
+  },
+  {
+    "id": "7000011",
+    "effectValue": "70000111|70000112",
+    "feature": "0",
+    "model": "youlingzouwu",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000011",
+    "grade": "7"
+  },
+  {
+    "id": "7000012",
+    "effectValue": "70000121|70000122",
+    "feature": "0",
+    "model": "youlingzouwu",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000012",
+    "grade": "8"
+  },
+  {
+    "id": "7000013",
+    "effectValue": "70000131|70000132",
+    "feature": "0",
+    "model": "youlingzouwu",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000013",
+    "grade": "9"
+  },
+  {
+    "id": "7000014",
+    "effectValue": "70000141|70000142",
+    "feature": "0",
+    "model": "youlingzouwu",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000014",
+    "grade": "10"
+  },
+  {
+    "id": "7000050",
+    "effectValue": "70000501|70000502",
+    "feature": "0",
+    "model": "anyingshou",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000050",
+    "grade": "1"
+  },
+  {
+    "id": "7000051",
+    "effectValue": "70000511|70000512",
+    "feature": "0",
+    "model": "anyingshou",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000051",
+    "grade": "3"
+  },
+  {
+    "id": "7000052",
+    "effectValue": "70000521|70000522",
+    "feature": "0",
+    "model": "anyingshou",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000052",
+    "grade": "5"
+  },
+  {
+    "id": "7000053",
+    "effectValue": "70000531|70000532",
+    "feature": "0",
+    "model": "anyingshou",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000053",
+    "grade": "7"
+  },
+  {
+    "id": "7000054",
+    "effectValue": "70000541|70000542",
+    "feature": "0",
+    "model": "anyingshou",
+    "mapMoveSounds": "zuoqi/zouwuyidong",
+    "desc": "item_horse_desc_7000054",
+    "grade": "9"
+  },
+  {
+    "id": "3021241",
+    "effectValue": "30212411|30212412",
+    "feature": "8501",
+    "model": "dengxianjian",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021241",
+    "grade": "9"
+  },
+  {
+    "id": "3021256",
+    "effectValue": "30212561|30212562|30212563|30212564",
+    "feature": "8501|8504",
+    "model": "luopan",
+    "mapMoveSounds": "0",
+    "desc": "item_horse_desc_3021256",
+    "grade": "10"
+  }
+]

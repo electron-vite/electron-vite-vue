@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "closeMin": "-300",
+    "closeIncrease": "6.25",
+    "closeReduce": "6.25",
+    "hateIncrease": "6.25",
+    "hateReduce": "6.25"
+  },
+  {
+    "id": "2",
+    "closeMin": "-240",
+    "closeIncrease": "12.5",
+    "closeReduce": "12.5",
+    "hateIncrease": "12.5",
+    "hateReduce": "12.5"
+  },
+  {
+    "id": "3",
+    "closeMin": "-180",
+    "closeIncrease": "25",
+    "closeReduce": "25",
+    "hateIncrease": "25",
+    "hateReduce": "25"
+  },
+  {
+    "id": "4",
+    "closeMin": "-120",
+    "closeIncrease": "50",
+    "closeReduce": "50",
+    "hateIncrease": "50",
+    "hateReduce": "50"
+  },
+  {
+    "id": "5",
+    "closeMin": "-60",
+    "closeIncrease": "100",
+    "closeReduce": "100",
+    "hateIncrease": "100",
+    "hateReduce": "100"
+  },
+  {
+    "id": "6",
+    "closeMin": "0",
+    "closeIncrease": "100",
+    "closeReduce": "100",
+    "hateIncrease": "100",
+    "hateReduce": "100"
+  },
+  {
+    "id": "7",
+    "closeMin": "60",
+    "closeIncrease": "50",
+    "closeReduce": "50",
+    "hateIncrease": "50",
+    "hateReduce": "50"
+  },
+  {
+    "id": "8",
+    "closeMin": "120",
+    "closeIncrease": "25",
+    "closeReduce": "25",
+    "hateIncrease": "25",
+    "hateReduce": "25"
+  },
+  {
+    "id": "9",
+    "closeMin": "180",
+    "closeIncrease": "12.5",
+    "closeReduce": "12.5",
+    "hateIncrease": "12.5",
+    "hateReduce": "12.5"
+  },
+  {
+    "id": "10",
+    "closeMin": "240",
+    "closeIncrease": "6.25",
+    "closeReduce": "6.25",
+    "hateIncrease": "6.25",
+    "hateReduce": "6.25"
+  },
+  {
+    "id": "11",
+    "closeMin": "300",
+    "closeIncrease": "6.25",
+    "closeReduce": "6.25",
+    "hateIncrease": "6.25",
+    "hateReduce": "6.25"
+  }
+]

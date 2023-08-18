@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2",
+    "needMoneyCount": "30000",
+    "needMedicineCount": "0",
+    "needMineCount": "0",
+    "awayMoneyCount": "0.1_0.8",
+    "awayMedicineCount": "0.1_0.8",
+    "awayMineCount": "0.1_0.8",
+    "awayPopulationCount": "0.1_0.8"
+  },
+  {
+    "id": "4",
+    "needMoneyCount": "90000",
+    "needMedicineCount": "0",
+    "needMineCount": "0",
+    "awayMoneyCount": "0.1_0.8",
+    "awayMedicineCount": "0.1_0.8",
+    "awayMineCount": "0.1_0.8",
+    "awayPopulationCount": "0.1_0.8"
+  },
+  {
+    "id": "6",
+    "needMoneyCount": "180000",
+    "needMedicineCount": "0",
+    "needMineCount": "0",
+    "awayMoneyCount": "0_1",
+    "awayMedicineCount": "0_1",
+    "awayMineCount": "0_1",
+    "awayPopulationCount": "0_1"
+  },
+  {
+    "id": "8",
+    "needMoneyCount": "350000",
+    "needMedicineCount": "0",
+    "needMineCount": "0",
+    "awayMoneyCount": "0_1",
+    "awayMedicineCount": "0_1",
+    "awayMineCount": "0_1",
+    "awayPopulationCount": "0_1"
+  },
+  {
+    "id": "10",
+    "needMoneyCount": "850000",
+    "needMedicineCount": "0",
+    "needMineCount": "0",
+    "awayMoneyCount": "0_1",
+    "awayMedicineCount": "0_1",
+    "awayMineCount": "0_1",
+    "awayPopulationCount": "0_1"
+  }
+]

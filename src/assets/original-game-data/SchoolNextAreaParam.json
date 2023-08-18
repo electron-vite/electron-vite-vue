@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "key": "nextAreaDrama1",
+    "value": "1706001"
+  },
+  {
+    "id": "2",
+    "key": "nextAreaPropItem",
+    "value": "1082001"
+  },
+  {
+    "id": "3",
+    "key": "nextAreaDrama2",
+    "value": "1706005"
+  },
+  {
+    "id": "4",
+    "key": "nextAreaDrama3",
+    "value": "1706011"
+  },
+  {
+    "id": "5",
+    "key": "nextAreaDrama4",
+    "value": "1706015"
+  },
+  {
+    "id": "6",
+    "key": "schoolMainDrama",
+    "value": "1706021"
+  },
+  {
+    "id": "7",
+    "key": "schoolRelocateFlagDrama",
+    "value": "1706020"
+  }
+]

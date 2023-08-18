@@ -1,0 +1,326 @@
+[
+  {
+    "id": "15001",
+    "bulletNum": "3",
+    "degreeRange": "10",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15002",
+    "bulletNum": "6",
+    "degreeRange": "15",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15003",
+    "bulletNum": "9",
+    "degreeRange": "20",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15004",
+    "bulletNum": "1",
+    "degreeRange": "45",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15005",
+    "bulletNum": "1",
+    "degreeRange": "35",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15006",
+    "bulletNum": "1",
+    "degreeRange": "25",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15007",
+    "bulletNum": "1",
+    "degreeRange": "15",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15008",
+    "bulletNum": "1",
+    "degreeRange": "10",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15009",
+    "bulletNum": "1",
+    "degreeRange": "20",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15010",
+    "bulletNum": "1",
+    "degreeRange": "30",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15011",
+    "bulletNum": "5",
+    "degreeRange": "45",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15013",
+    "bulletNum": "3",
+    "degreeRange": "30",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15014",
+    "bulletNum": "5",
+    "degreeRange": "90",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15016",
+    "bulletNum": "1",
+    "degreeRange": "360",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15017",
+    "bulletNum": "2",
+    "degreeRange": "40",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15019",
+    "bulletNum": "1",
+    "degreeRange": "360",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15020",
+    "bulletNum": "3",
+    "degreeRange": "60",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15021",
+    "bulletNum": "1",
+    "degreeRange": "40",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15022",
+    "bulletNum": "1",
+    "degreeRange": "30",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15023",
+    "bulletNum": "2",
+    "degreeRange": "360",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15024",
+    "bulletNum": "1",
+    "degreeRange": "70",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15025",
+    "bulletNum": "2",
+    "degreeRange": "120",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15026",
+    "bulletNum": "5",
+    "degreeRange": "360",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15027",
+    "bulletNum": "1",
+    "degreeRange": "70",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15028",
+    "bulletNum": "1",
+    "degreeRange": "30",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15029",
+    "bulletNum": "1",
+    "degreeRange": "30",
+    "resetNearEnemyDire": "1"
+  },
+  {
+    "id": "15030",
+    "bulletNum": "&7671_ddsl",
+    "degreeRange": "&7671_ddjd",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15031",
+    "bulletNum": "&70521_ddsl",
+    "degreeRange": "&70521_ddjd",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15032",
+    "bulletNum": "&7374_ddsl",
+    "degreeRange": "&7374_ddjd",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15033",
+    "bulletNum": "&7633_ddsl",
+    "degreeRange": "&7633_ddjd",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15034",
+    "bulletNum": "3",
+    "degreeRange": "360",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15035",
+    "bulletNum": "5",
+    "degreeRange": "70",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15036",
+    "bulletNum": "20",
+    "degreeRange": "360",
+    "resetNearEnemyDire": "1"
+  },
+  {
+    "id": "15037",
+    "bulletNum": "8",
+    "degreeRange": "360",
+    "resetNearEnemyDire": "1"
+  },
+  {
+    "id": "15038",
+    "bulletNum": "1",
+    "degreeRange": "0",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15039",
+    "bulletNum": "3",
+    "degreeRange": "360",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15040",
+    "bulletNum": "1",
+    "degreeRange": "&700199_fsjd",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15041",
+    "bulletNum": "9",
+    "degreeRange": "180",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15042",
+    "bulletNum": "1",
+    "degreeRange": "50",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15043",
+    "bulletNum": "1",
+    "degreeRange": "30",
+    "resetNearEnemyDire": "1"
+  },
+  {
+    "id": "15044",
+    "bulletNum": "1",
+    "degreeRange": "30",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15045",
+    "bulletNum": "9",
+    "degreeRange": "360",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15046",
+    "bulletNum": "5",
+    "degreeRange": "100",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15047",
+    "bulletNum": "2",
+    "degreeRange": "160",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15048",
+    "bulletNum": "15",
+    "degreeRange": "360",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15049",
+    "bulletNum": "1",
+    "degreeRange": "10",
+    "resetNearEnemyDire": "1"
+  },
+  {
+    "id": "15050",
+    "bulletNum": "1",
+    "degreeRange": "40",
+    "resetNearEnemyDire": "1"
+  },
+  {
+    "id": "15051",
+    "bulletNum": "1",
+    "degreeRange": "0",
+    "resetNearEnemyDire": "1"
+  },
+  {
+    "id": "15052",
+    "bulletNum": "1",
+    "degreeRange": "0",
+    "resetNearEnemyDire": "1"
+  },
+  {
+    "id": "15053",
+    "bulletNum": "1",
+    "degreeRange": "60",
+    "resetNearEnemyDire": "1"
+  },
+  {
+    "id": "15054",
+    "bulletNum": "1",
+    "degreeRange": "0",
+    "resetNearEnemyDire": "1"
+  },
+  {
+    "id": "15055",
+    "bulletNum": "1",
+    "degreeRange": "30",
+    "resetNearEnemyDire": "1"
+  },
+  {
+    "id": "15056",
+    "bulletNum": "1",
+    "degreeRange": "30",
+    "resetNearEnemyDire": "0"
+  },
+  {
+    "id": "15057",
+    "bulletNum": "2",
+    "degreeRange": "60",
+    "resetNearEnemyDire": "0"
+  }
+]

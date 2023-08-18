@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "basType": "1",
+    "dpMax": "30",
+    "chargeTime": "0",
+    "dpCost": "0",
+    "duration": "0",
+    "cd": "-10000",
+    "range": "0"
+  },
+  {
+    "id": "2",
+    "basType": "2",
+    "dpMax": "30",
+    "chargeTime": "0",
+    "dpCost": "0",
+    "duration": "2500",
+    "cd": "0",
+    "range": "0"
+  },
+  {
+    "id": "3",
+    "basType": "3",
+    "dpMax": "50",
+    "chargeTime": "0",
+    "dpCost": "0",
+    "duration": "0",
+    "cd": "0",
+    "range": "0"
+  },
+  {
+    "id": "4",
+    "basType": "4",
+    "dpMax": "30",
+    "chargeTime": "0",
+    "dpCost": "-5",
+    "duration": "0",
+    "cd": "0",
+    "range": "0"
+  },
+  {
+    "id": "5",
+    "basType": "5",
+    "dpMax": "30",
+    "chargeTime": "-2500",
+    "dpCost": "0",
+    "duration": "0",
+    "cd": "0",
+    "range": "0"
+  },
+  {
+    "id": "6",
+    "basType": "6",
+    "dpMax": "30",
+    "chargeTime": "0",
+    "dpCost": "0",
+    "duration": "0",
+    "cd": "0",
+    "range": "50"
+  },
+  {
+    "id": "11",
+    "basType": "11",
+    "dpMax": "30",
+    "chargeTime": "0",
+    "dpCost": "-5",
+    "duration": "0",
+    "cd": "0",
+    "range": "0"
+  },
+  {
+    "id": "12",
+    "basType": "12",
+    "dpMax": "30",
+    "chargeTime": "-2500",
+    "dpCost": "0",
+    "duration": "0",
+    "cd": "0",
+    "range": "0"
+  },
+  {
+    "id": "13",
+    "basType": "13",
+    "dpMax": "50",
+    "chargeTime": "0",
+    "dpCost": "0",
+    "duration": "0",
+    "cd": "0",
+    "range": "0"
+  },
+  {
+    "id": "14",
+    "basType": "14",
+    "dpMax": "30",
+    "chargeTime": "0",
+    "dpCost": "0",
+    "duration": "0",
+    "cd": "0",
+    "range": "50"
+  },
+  {
+    "id": "15",
+    "basType": "15",
+    "dpMax": "30",
+    "chargeTime": "0",
+    "dpCost": "0",
+    "duration": "0",
+    "cd": "-10000",
+    "range": "0"
+  },
+  {
+    "id": "16",
+    "basType": "16",
+    "dpMax": "30",
+    "chargeTime": "0",
+    "dpCost": "0",
+    "duration": "2500",
+    "cd": "0",
+    "range": "0"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "29001",
+    "popNum": "-1",
+    "repeatPop": "0",
+    "firstTarget": "0",
+    "lockTarget": "1",
+    "unitID": "36112",
+    "effectID": "110",
+    "popSelf": "0",
+    "popEffect": "0"
+  },
+  {
+    "id": "29002",
+    "popNum": "3",
+    "repeatPop": "0",
+    "firstTarget": "0",
+    "lockTarget": "1",
+    "unitID": "0",
+    "effectID": "0",
+    "popSelf": "0",
+    "popEffect": "0"
+  },
+  {
+    "id": "29004",
+    "popNum": "&53116_ttsl",
+    "repeatPop": "1",
+    "firstTarget": "0",
+    "lockTarget": "0",
+    "unitID": "0",
+    "effectID": "0",
+    "popSelf": "1",
+    "popEffect": "35311610"
+  }
+]

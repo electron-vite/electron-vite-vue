@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2",
+    "tendBaseProbability": "150",
+    "tendPostProbability": "-15"
+  },
+  {
+    "id": "4",
+    "tendBaseProbability": "160",
+    "tendPostProbability": "-15"
+  },
+  {
+    "id": "6",
+    "tendBaseProbability": "170",
+    "tendPostProbability": "-15"
+  },
+  {
+    "id": "8",
+    "tendBaseProbability": "180",
+    "tendPostProbability": "-15"
+  },
+  {
+    "id": "9",
+    "tendBaseProbability": "190",
+    "tendPostProbability": "-15"
+  },
+  {
+    "id": "10",
+    "tendBaseProbability": "190",
+    "tendPostProbability": "-15"
+  }
+]

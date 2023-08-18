@@ -1,0 +1,15 @@
+[
+  {
+    "id": "806001",
+    "range": "900",
+    "duration": "3000",
+    "interval": "1000",
+    "bulletNum": "90",
+    "subInterval": "10",
+    "delay": "1000",
+    "secDuration": "3000",
+    "secInterval": "1000",
+    "secBulletNum": "180",
+    "secSubInterval": "5"
+  }
+]

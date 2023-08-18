@@ -1,0 +1,254 @@
+[
+  {
+    "id": "1",
+    "townLevel": "0",
+    "grade": "1",
+    "phase": "1",
+    "weight": "5000"
+  },
+  {
+    "id": "2",
+    "townLevel": "0",
+    "grade": "1",
+    "phase": "2",
+    "weight": "3000"
+  },
+  {
+    "id": "3",
+    "townLevel": "0",
+    "grade": "1",
+    "phase": "3",
+    "weight": "1500"
+  },
+  {
+    "id": "4",
+    "townLevel": "0",
+    "grade": "1",
+    "phase": "1",
+    "weight": "400"
+  },
+  {
+    "id": "5",
+    "townLevel": "0",
+    "grade": "1",
+    "phase": "2",
+    "weight": "100"
+  },
+  {
+    "id": "6",
+    "townLevel": "0",
+    "grade": "1",
+    "phase": "3",
+    "weight": "0"
+  },
+  {
+    "id": "7",
+    "townLevel": "1",
+    "grade": "1",
+    "phase": "1",
+    "weight": "5000"
+  },
+  {
+    "id": "8",
+    "townLevel": "1",
+    "grade": "1",
+    "phase": "2",
+    "weight": "3000"
+  },
+  {
+    "id": "9",
+    "townLevel": "1",
+    "grade": "1",
+    "phase": "3",
+    "weight": "1500"
+  },
+  {
+    "id": "10",
+    "townLevel": "1",
+    "grade": "2",
+    "phase": "1",
+    "weight": "400"
+  },
+  {
+    "id": "11",
+    "townLevel": "1",
+    "grade": "2",
+    "phase": "2",
+    "weight": "100"
+  },
+  {
+    "id": "12",
+    "townLevel": "1",
+    "grade": "2",
+    "phase": "3",
+    "weight": "0"
+  },
+  {
+    "id": "13",
+    "townLevel": "2",
+    "grade": "3",
+    "phase": "1",
+    "weight": "5000"
+  },
+  {
+    "id": "14",
+    "townLevel": "2",
+    "grade": "3",
+    "phase": "2",
+    "weight": "3000"
+  },
+  {
+    "id": "15",
+    "townLevel": "2",
+    "grade": "3",
+    "phase": "3",
+    "weight": "1500"
+  },
+  {
+    "id": "16",
+    "townLevel": "2",
+    "grade": "4",
+    "phase": "1",
+    "weight": "400"
+  },
+  {
+    "id": "17",
+    "townLevel": "2",
+    "grade": "4",
+    "phase": "2",
+    "weight": "100"
+  },
+  {
+    "id": "18",
+    "townLevel": "2",
+    "grade": "4",
+    "phase": "3",
+    "weight": "0"
+  },
+  {
+    "id": "19",
+    "townLevel": "3",
+    "grade": "5",
+    "phase": "1",
+    "weight": "5000"
+  },
+  {
+    "id": "20",
+    "townLevel": "3",
+    "grade": "5",
+    "phase": "2",
+    "weight": "3000"
+  },
+  {
+    "id": "21",
+    "townLevel": "3",
+    "grade": "5",
+    "phase": "3",
+    "weight": "1500"
+  },
+  {
+    "id": "22",
+    "townLevel": "3",
+    "grade": "6",
+    "phase": "1",
+    "weight": "400"
+  },
+  {
+    "id": "23",
+    "townLevel": "3",
+    "grade": "6",
+    "phase": "2",
+    "weight": "100"
+  },
+  {
+    "id": "24",
+    "townLevel": "3",
+    "grade": "6",
+    "phase": "3",
+    "weight": "0"
+  },
+  {
+    "id": "25",
+    "townLevel": "4",
+    "grade": "7",
+    "phase": "1",
+    "weight": "5000"
+  },
+  {
+    "id": "26",
+    "townLevel": "4",
+    "grade": "7",
+    "phase": "2",
+    "weight": "3000"
+  },
+  {
+    "id": "27",
+    "townLevel": "4",
+    "grade": "7",
+    "phase": "3",
+    "weight": "1500"
+  },
+  {
+    "id": "28",
+    "townLevel": "4",
+    "grade": "8",
+    "phase": "1",
+    "weight": "400"
+  },
+  {
+    "id": "29",
+    "townLevel": "4",
+    "grade": "8",
+    "phase": "2",
+    "weight": "100"
+  },
+  {
+    "id": "30",
+    "townLevel": "4",
+    "grade": "8",
+    "phase": "3",
+    "weight": "0"
+  },
+  {
+    "id": "31",
+    "townLevel": "5",
+    "grade": "8",
+    "phase": "1",
+    "weight": "5000"
+  },
+  {
+    "id": "32",
+    "townLevel": "5",
+    "grade": "8",
+    "phase": "2",
+    "weight": "3000"
+  },
+  {
+    "id": "33",
+    "townLevel": "5",
+    "grade": "8",
+    "phase": "3",
+    "weight": "1500"
+  },
+  {
+    "id": "34",
+    "townLevel": "5",
+    "grade": "9",
+    "phase": "1",
+    "weight": "400"
+  },
+  {
+    "id": "35",
+    "townLevel": "5",
+    "grade": "9",
+    "phase": "2",
+    "weight": "100"
+  },
+  {
+    "id": "36",
+    "townLevel": "5",
+    "grade": "9",
+    "phase": "3",
+    "weight": "0"
+  }
+]

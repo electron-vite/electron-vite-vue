@@ -1,0 +1,429 @@
+[
+  {
+    "id": "1",
+    "building": "2001",
+    "scale": "0",
+    "dramaNpc": "20011",
+    "dialogueID": "24571"
+  },
+  {
+    "id": "2",
+    "building": "2001",
+    "scale": "1",
+    "dramaNpc": "20021",
+    "dialogueID": "24571"
+  },
+  {
+    "id": "3",
+    "building": "2001",
+    "scale": "2",
+    "dramaNpc": "20031",
+    "dialogueID": "24571"
+  },
+  {
+    "id": "4",
+    "building": "2001",
+    "scale": "3",
+    "dramaNpc": "20041",
+    "dialogueID": "24571"
+  },
+  {
+    "id": "5",
+    "building": "2001",
+    "scale": "4",
+    "dramaNpc": "20051",
+    "dialogueID": "24571"
+  },
+  {
+    "id": "6",
+    "building": "2001",
+    "scale": "5",
+    "dramaNpc": "20061",
+    "dialogueID": "24571"
+  },
+  {
+    "id": "7",
+    "building": "2002",
+    "scale": "0",
+    "dramaNpc": "20012",
+    "dialogueID": "24581"
+  },
+  {
+    "id": "8",
+    "building": "2002",
+    "scale": "1",
+    "dramaNpc": "20022",
+    "dialogueID": "24581"
+  },
+  {
+    "id": "9",
+    "building": "2002",
+    "scale": "2",
+    "dramaNpc": "20032",
+    "dialogueID": "24581"
+  },
+  {
+    "id": "10",
+    "building": "2002",
+    "scale": "3",
+    "dramaNpc": "20042",
+    "dialogueID": "24581"
+  },
+  {
+    "id": "11",
+    "building": "2002",
+    "scale": "4",
+    "dramaNpc": "20052",
+    "dialogueID": "24581"
+  },
+  {
+    "id": "12",
+    "building": "2002",
+    "scale": "5",
+    "dramaNpc": "20062",
+    "dialogueID": "24581"
+  },
+  {
+    "id": "13",
+    "building": "2003",
+    "scale": "0",
+    "dramaNpc": "20042",
+    "dialogueID": "24591"
+  },
+  {
+    "id": "14",
+    "building": "2003",
+    "scale": "1",
+    "dramaNpc": "20012",
+    "dialogueID": "24591"
+  },
+  {
+    "id": "15",
+    "building": "2003",
+    "scale": "2",
+    "dramaNpc": "20051",
+    "dialogueID": "24591"
+  },
+  {
+    "id": "16",
+    "building": "2003",
+    "scale": "3",
+    "dramaNpc": "20032",
+    "dialogueID": "24591"
+  },
+  {
+    "id": "17",
+    "building": "2003",
+    "scale": "4",
+    "dramaNpc": "20011",
+    "dialogueID": "24591"
+  },
+  {
+    "id": "18",
+    "building": "2003",
+    "scale": "5",
+    "dramaNpc": "20041",
+    "dialogueID": "24591"
+  },
+  {
+    "id": "19",
+    "building": "2004",
+    "scale": "0",
+    "dramaNpc": "20013",
+    "dialogueID": "24591"
+  },
+  {
+    "id": "20",
+    "building": "2004",
+    "scale": "1",
+    "dramaNpc": "20023",
+    "dialogueID": "24591"
+  },
+  {
+    "id": "21",
+    "building": "2004",
+    "scale": "2",
+    "dramaNpc": "20033",
+    "dialogueID": "24591"
+  },
+  {
+    "id": "22",
+    "building": "2004",
+    "scale": "3",
+    "dramaNpc": "20043",
+    "dialogueID": "24591"
+  },
+  {
+    "id": "23",
+    "building": "2004",
+    "scale": "4",
+    "dramaNpc": "20053",
+    "dialogueID": "24591"
+  },
+  {
+    "id": "24",
+    "building": "2004",
+    "scale": "5",
+    "dramaNpc": "20063",
+    "dialogueID": "24591"
+  },
+  {
+    "id": "25",
+    "building": "2006",
+    "scale": "0",
+    "dramaNpc": "20014",
+    "dialogueID": "24601"
+  },
+  {
+    "id": "26",
+    "building": "2006",
+    "scale": "1",
+    "dramaNpc": "20024",
+    "dialogueID": "24601"
+  },
+  {
+    "id": "27",
+    "building": "2006",
+    "scale": "2",
+    "dramaNpc": "20034",
+    "dialogueID": "24601"
+  },
+  {
+    "id": "28",
+    "building": "2006",
+    "scale": "3",
+    "dramaNpc": "20044",
+    "dialogueID": "24601"
+  },
+  {
+    "id": "29",
+    "building": "2006",
+    "scale": "4",
+    "dramaNpc": "20054",
+    "dialogueID": "24601"
+  },
+  {
+    "id": "30",
+    "building": "2006",
+    "scale": "5",
+    "dramaNpc": "20064",
+    "dialogueID": "24601"
+  },
+  {
+    "id": "31",
+    "building": "2008",
+    "scale": "0",
+    "dramaNpc": "20015",
+    "dialogueID": "24611"
+  },
+  {
+    "id": "32",
+    "building": "2008",
+    "scale": "1",
+    "dramaNpc": "20025",
+    "dialogueID": "24611"
+  },
+  {
+    "id": "33",
+    "building": "2008",
+    "scale": "2",
+    "dramaNpc": "20035",
+    "dialogueID": "24611"
+  },
+  {
+    "id": "34",
+    "building": "2008",
+    "scale": "3",
+    "dramaNpc": "20045",
+    "dialogueID": "24611"
+  },
+  {
+    "id": "35",
+    "building": "2008",
+    "scale": "4",
+    "dramaNpc": "20055",
+    "dialogueID": "24611"
+  },
+  {
+    "id": "36",
+    "building": "2008",
+    "scale": "5",
+    "dramaNpc": "20065",
+    "dialogueID": "24611"
+  },
+  {
+    "id": "37",
+    "building": "2009",
+    "scale": "0",
+    "dramaNpc": "20016",
+    "dialogueID": "24621"
+  },
+  {
+    "id": "38",
+    "building": "2009",
+    "scale": "1",
+    "dramaNpc": "20026",
+    "dialogueID": "24621"
+  },
+  {
+    "id": "39",
+    "building": "2009",
+    "scale": "2",
+    "dramaNpc": "20036",
+    "dialogueID": "24621"
+  },
+  {
+    "id": "40",
+    "building": "2009",
+    "scale": "3",
+    "dramaNpc": "20046",
+    "dialogueID": "24621"
+  },
+  {
+    "id": "41",
+    "building": "2009",
+    "scale": "4",
+    "dramaNpc": "20056",
+    "dialogueID": "24621"
+  },
+  {
+    "id": "42",
+    "building": "2009",
+    "scale": "5",
+    "dramaNpc": "20066",
+    "dialogueID": "24621"
+  },
+  {
+    "id": "43",
+    "building": "2010",
+    "scale": "0",
+    "dramaNpc": "20017",
+    "dialogueID": "24631"
+  },
+  {
+    "id": "44",
+    "building": "2010",
+    "scale": "1",
+    "dramaNpc": "20027",
+    "dialogueID": "24631"
+  },
+  {
+    "id": "45",
+    "building": "2010",
+    "scale": "2",
+    "dramaNpc": "20037",
+    "dialogueID": "24631"
+  },
+  {
+    "id": "46",
+    "building": "2010",
+    "scale": "3",
+    "dramaNpc": "20047",
+    "dialogueID": "24631"
+  },
+  {
+    "id": "47",
+    "building": "2010",
+    "scale": "4",
+    "dramaNpc": "20057",
+    "dialogueID": "24631"
+  },
+  {
+    "id": "48",
+    "building": "2010",
+    "scale": "5",
+    "dramaNpc": "20067",
+    "dialogueID": "24631"
+  },
+  {
+    "id": "50",
+    "building": "2012",
+    "scale": "0",
+    "dramaNpc": "2009",
+    "dialogueID": "24641"
+  },
+  {
+    "id": "51",
+    "building": "2012",
+    "scale": "1",
+    "dramaNpc": "2009",
+    "dialogueID": "24641"
+  },
+  {
+    "id": "52",
+    "building": "2012",
+    "scale": "2",
+    "dramaNpc": "2009",
+    "dialogueID": "24641"
+  },
+  {
+    "id": "53",
+    "building": "2012",
+    "scale": "3",
+    "dramaNpc": "2009",
+    "dialogueID": "24641"
+  },
+  {
+    "id": "54",
+    "building": "2012",
+    "scale": "4",
+    "dramaNpc": "2009",
+    "dialogueID": "24641"
+  },
+  {
+    "id": "55",
+    "building": "2012",
+    "scale": "5",
+    "dramaNpc": "2009",
+    "dialogueID": "24641"
+  },
+  {
+    "id": "56",
+    "building": "2013",
+    "scale": "2",
+    "dramaNpc": "2010",
+    "dialogueID": "24651"
+  },
+  {
+    "id": "57",
+    "building": "2013",
+    "scale": "3",
+    "dramaNpc": "2010",
+    "dialogueID": "24651"
+  },
+  {
+    "id": "58",
+    "building": "2013",
+    "scale": "4",
+    "dramaNpc": "2010",
+    "dialogueID": "24651"
+  },
+  {
+    "id": "59",
+    "building": "2013",
+    "scale": "5",
+    "dramaNpc": "2010",
+    "dialogueID": "24651"
+  },
+  {
+    "id": "60",
+    "building": "2018",
+    "scale": "1",
+    "dramaNpc": "2010",
+    "dialogueID": "9012031"
+  },
+  {
+    "id": "61",
+    "building": "2021",
+    "scale": "1",
+    "dramaNpc": "8204",
+    "dialogueID": "9012032"
+  },
+  {
+    "id": "62",
+    "building": "1001",
+    "scale": "0",
+    "dramaNpc": "2001",
+    "dialogueID": "9012185"
+  }
+]

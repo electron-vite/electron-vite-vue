@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "topest": "3",
+    "dialogue": "drama_dialogue1010301",
+    "condition": "quality_5"
+  },
+  {
+    "id": "2",
+    "topest": "2",
+    "dialogue": "drama_dialogue1010302",
+    "condition": "max_1000"
+  },
+  {
+    "id": "3",
+    "topest": "1",
+    "dialogue": "drama_dialogue1010303",
+    "condition": "count_200"
+  }
+]

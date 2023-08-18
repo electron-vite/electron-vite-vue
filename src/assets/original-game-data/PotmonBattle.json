@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "stayTime": "12",
+    "cd": "50",
+    "spCost": "12"
+  },
+  {
+    "id": "2",
+    "stayTime": "12",
+    "cd": "50",
+    "spCost": "18"
+  },
+  {
+    "id": "3",
+    "stayTime": "12",
+    "cd": "50",
+    "spCost": "26"
+  },
+  {
+    "id": "4",
+    "stayTime": "12",
+    "cd": "50",
+    "spCost": "40"
+  },
+  {
+    "id": "5",
+    "stayTime": "12",
+    "cd": "50",
+    "spCost": "60"
+  },
+  {
+    "id": "6",
+    "stayTime": "12",
+    "cd": "50",
+    "spCost": "90"
+  },
+  {
+    "id": "7",
+    "stayTime": "12",
+    "cd": "50",
+    "spCost": "140"
+  },
+  {
+    "id": "8",
+    "stayTime": "12",
+    "cd": "50",
+    "spCost": "200"
+  },
+  {
+    "id": "9",
+    "stayTime": "12",
+    "cd": "50",
+    "spCost": "300"
+  },
+  {
+    "id": "10",
+    "stayTime": "12",
+    "cd": "50",
+    "spCost": "450"
+  }
+]

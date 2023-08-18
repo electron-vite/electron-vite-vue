@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "key": "transmitCost1",
+    "value": "5"
+  },
+  {
+    "id": "2",
+    "key": "transmitCost2",
+    "value": "5"
+  },
+  {
+    "id": "3",
+    "key": "transmitCost3",
+    "value": "12"
+  },
+  {
+    "id": "4",
+    "key": "transmitCost4",
+    "value": "30"
+  },
+  {
+    "id": "5",
+    "key": "transmitCost5",
+    "value": "80"
+  },
+  {
+    "id": "6",
+    "key": "transmitCost6",
+    "value": "200"
+  }
+]

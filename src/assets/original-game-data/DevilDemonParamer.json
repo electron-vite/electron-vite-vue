@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "key": "initRepairMon",
+    "value": "1"
+  },
+  {
+    "id": "2",
+    "key": "addReppairMon",
+    "value": "1"
+  },
+  {
+    "id": "3",
+    "key": "unLockGrade",
+    "value": "5"
+  },
+  {
+    "id": "4",
+    "key": "unLockLevel",
+    "value": "5"
+  },
+  {
+    "id": "5",
+    "key": "activeDuration",
+    "value": "60"
+  },
+  {
+    "id": "6",
+    "key": "collectMonstRate",
+    "value": "50"
+  },
+  {
+    "id": "7",
+    "key": "reppairMonthMax",
+    "value": "6"
+  }
+]

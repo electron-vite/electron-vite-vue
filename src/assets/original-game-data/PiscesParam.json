@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "key": "npcIntimLimit",
+    "value": "180"
+  },
+  {
+    "id": "2",
+    "key": "playerTransCD",
+    "value": "1"
+  },
+  {
+    "id": "3",
+    "key": "npcSummonCD",
+    "value": "3"
+  },
+  {
+    "id": "4",
+    "key": "npcAddLuck",
+    "value": "150"
+  },
+  {
+    "id": "5",
+    "key": "giveSuccessDramaId",
+    "value": "7010001"
+  },
+  {
+    "id": "6",
+    "key": "giveFailDramaId",
+    "value": "7010101"
+  },
+  {
+    "id": "7",
+    "key": "recallDramaId",
+    "value": "7010201"
+  },
+  {
+    "id": "8",
+    "key": "relationBreakDramaId",
+    "value": "7010301"
+  },
+  {
+    "id": "9",
+    "key": "playerTransDramaId",
+    "value": "7010501"
+  },
+  {
+    "id": "10",
+    "key": "resurgeNpcDramaId",
+    "value": "7010401"
+  },
+  {
+    "id": "11",
+    "key": "summonUnitDieDramaId",
+    "value": "7010601"
+  }
+]

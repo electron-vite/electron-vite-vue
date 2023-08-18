@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "RuleDungeonName1",
+    "attr": "daofa",
+    "color": "daofachihong",
+    "itemIcon": "daohun_chihong",
+    "skillIcon": "dao"
+  },
+  {
+    "id": "2",
+    "name": "RuleDungeonName2",
+    "attr": "qiangfa",
+    "color": "daofadaizi",
+    "itemIcon": "daohun_daizi",
+    "skillIcon": "qiang"
+  },
+  {
+    "id": "3",
+    "name": "RuleDungeonName3",
+    "attr": "jianfa",
+    "color": "daofayuebai",
+    "itemIcon": "daohun_yuebai",
+    "skillIcon": "jian"
+  },
+  {
+    "id": "4",
+    "name": "RuleDungeonName4",
+    "attr": "quanfa",
+    "color": "daofacanghuang",
+    "itemIcon": "daohun_canghuang",
+    "skillIcon": "quan"
+  },
+  {
+    "id": "5",
+    "name": "RuleDungeonName5",
+    "attr": "zhangfa",
+    "color": "daofacuilv",
+    "itemIcon": "daohun_cuilv",
+    "skillIcon": "zhang"
+  },
+  {
+    "id": "6",
+    "name": "RuleDungeonName6",
+    "attr": "zhifa",
+    "color": "daofaxuanhei",
+    "itemIcon": "daohun_xuanhei",
+    "skillIcon": "zhi"
+  },
+  {
+    "id": "11",
+    "name": "RuleDungeonName11",
+    "attr": "huolinggen",
+    "color": "daofachihong",
+    "itemIcon": "daohun_chihong",
+    "skillIcon": "huo"
+  },
+  {
+    "id": "12",
+    "name": "RuleDungeonName12",
+    "attr": "shuilinggen",
+    "color": "daofaxuanhei",
+    "itemIcon": "daohun_xuanhei",
+    "skillIcon": "shui"
+  },
+  {
+    "id": "13",
+    "name": "RuleDungeonName13",
+    "attr": "leilinggen",
+    "color": "daofadaizi",
+    "itemIcon": "daohun_daizi",
+    "skillIcon": "lei"
+  },
+  {
+    "id": "14",
+    "name": "RuleDungeonName14",
+    "attr": "fenglinggen",
+    "color": "daofayuebai",
+    "itemIcon": "daohun_yuebai",
+    "skillIcon": "feng"
+  },
+  {
+    "id": "15",
+    "name": "RuleDungeonName15",
+    "attr": "tulinggen",
+    "color": "daofacanghuang",
+    "itemIcon": "daohun_canghuang",
+    "skillIcon": "tu"
+  },
+  {
+    "id": "16",
+    "name": "RuleDungeonName16",
+    "attr": "mulinggen",
+    "color": "daofacuilv",
+    "itemIcon": "daohun_cuilv",
+    "skillIcon": "mu"
+  }
+]

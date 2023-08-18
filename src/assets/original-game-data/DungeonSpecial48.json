@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4801",
+    "minDungeonLevel": "1",
+    "maxDungeonLevel": "99",
+    "rewardID": "11300101|11300102|11300103|11300104|11300105"
+  },
+  {
+    "id": "4802",
+    "minDungeonLevel": "1",
+    "maxDungeonLevel": "99",
+    "rewardID": "11300201|11300202|11300203|11300204|11300205"
+  },
+  {
+    "id": "4803",
+    "minDungeonLevel": "1",
+    "maxDungeonLevel": "99",
+    "rewardID": "11300301|11300302|11300303|11300304|11300305"
+  },
+  {
+    "id": "4804",
+    "minDungeonLevel": "1",
+    "maxDungeonLevel": "99",
+    "rewardID": "11300401|11300402|11300403|11300404|11300405"
+  },
+  {
+    "id": "4805",
+    "minDungeonLevel": "1",
+    "maxDungeonLevel": "99",
+    "rewardID": "11300501|11300502|11300503|11300504|11300505"
+  },
+  {
+    "id": "4806",
+    "minDungeonLevel": "1",
+    "maxDungeonLevel": "99",
+    "rewardID": "11300601|11300602|11300603|11300604|11300605"
+  },
+  {
+    "id": "4807",
+    "minDungeonLevel": "1",
+    "maxDungeonLevel": "99",
+    "rewardID": "11300701|11300702|11300703|11300704|11300705"
+  },
+  {
+    "id": "4808",
+    "minDungeonLevel": "1",
+    "maxDungeonLevel": "99",
+    "rewardID": "11300801|11300802|11300803|11300804|11300805"
+  },
+  {
+    "id": "4809",
+    "minDungeonLevel": "1",
+    "maxDungeonLevel": "99",
+    "rewardID": "11300901|11300902|11300903|11300904|11300905"
+  },
+  {
+    "id": "4810",
+    "minDungeonLevel": "1",
+    "maxDungeonLevel": "99",
+    "rewardID": "11301001|11301002|11301003|11301004|11301005"
+  }
+]

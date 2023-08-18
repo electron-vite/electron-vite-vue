@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "taskType": "101",
+    "className": "1",
+    "taskWeight": "100",
+    "weightGrow": "1",
+    "name": "schoolTaskName1"
+  },
+  {
+    "id": "2",
+    "taskType": "102",
+    "className": "4",
+    "taskWeight": "100",
+    "weightGrow": "1",
+    "name": "schoolTaskName2"
+  },
+  {
+    "id": "3",
+    "taskType": "103",
+    "className": "4",
+    "taskWeight": "100",
+    "weightGrow": "1",
+    "name": "schoolTaskName3"
+  },
+  {
+    "id": "4",
+    "taskType": "104",
+    "className": "2",
+    "taskWeight": "1000",
+    "weightGrow": "2",
+    "name": "schoolTaskName4"
+  },
+  {
+    "id": "5",
+    "taskType": "105",
+    "className": "2",
+    "taskWeight": "200",
+    "weightGrow": "2",
+    "name": "schoolTaskName5"
+  },
+  {
+    "id": "6",
+    "taskType": "106",
+    "className": "2",
+    "taskWeight": "5000",
+    "weightGrow": "25",
+    "name": "schoolTaskName6"
+  },
+  {
+    "id": "7",
+    "taskType": "107",
+    "className": "4",
+    "taskWeight": "1000",
+    "weightGrow": "10",
+    "name": "schoolTaskName7"
+  },
+  {
+    "id": "8",
+    "taskType": "108",
+    "className": "3",
+    "taskWeight": "1",
+    "weightGrow": "10",
+    "name": "schoolTaskName8"
+  },
+  {
+    "id": "9",
+    "taskType": "109",
+    "className": "3",
+    "taskWeight": "1000",
+    "weightGrow": "10",
+    "name": "schoolTaskName9"
+  },
+  {
+    "id": "11",
+    "taskType": "111",
+    "className": "4",
+    "taskWeight": "100",
+    "weightGrow": "1",
+    "name": "schoolTaskName11"
+  },
+  {
+    "id": "12",
+    "taskType": "112",
+    "className": "2",
+    "taskWeight": "1000",
+    "weightGrow": "2",
+    "name": "schoolTaskName12"
+  },
+  {
+    "id": "13",
+    "taskType": "113",
+    "className": "2",
+    "taskWeight": "1000",
+    "weightGrow": "2",
+    "name": "schoolTaskName13"
+  },
+  {
+    "id": "14",
+    "taskType": "114",
+    "className": "2",
+    "taskWeight": "1000",
+    "weightGrow": "2",
+    "name": "schoolTaskName14"
+  },
+  {
+    "id": "15",
+    "taskType": "115",
+    "className": "2",
+    "taskWeight": "500",
+    "weightGrow": "1",
+    "name": "schoolTaskName15"
+  },
+  {
+    "id": "16",
+    "taskType": "116",
+    "className": "1",
+    "taskWeight": "500",
+    "weightGrow": "1",
+    "name": "schoolTaskName16"
+  },
+  {
+    "id": "17",
+    "taskType": "117",
+    "className": "4",
+    "taskWeight": "1000",
+    "weightGrow": "10",
+    "name": "schoolTaskName17"
+  },
+  {
+    "id": "18",
+    "taskType": "118",
+    "className": "4",
+    "taskWeight": "1000",
+    "weightGrow": "1",
+    "name": "schoolTaskName18"
+  },
+  {
+    "id": "19",
+    "taskType": "119",
+    "className": "0",
+    "taskWeight": "1000",
+    "weightGrow": "1",
+    "name": "0"
+  }
+]

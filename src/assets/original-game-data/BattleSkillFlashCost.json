@@ -1,0 +1,362 @@
+[
+  {
+    "id": "1",
+    "grade": "1",
+    "level": "1",
+    "flashCost": "5"
+  },
+  {
+    "id": "2",
+    "grade": "1",
+    "level": "2",
+    "flashCost": "10"
+  },
+  {
+    "id": "3",
+    "grade": "1",
+    "level": "3",
+    "flashCost": "20"
+  },
+  {
+    "id": "4",
+    "grade": "1",
+    "level": "4",
+    "flashCost": "30"
+  },
+  {
+    "id": "5",
+    "grade": "1",
+    "level": "5",
+    "flashCost": "40"
+  },
+  {
+    "id": "6",
+    "grade": "1",
+    "level": "6",
+    "flashCost": "50"
+  },
+  {
+    "id": "7",
+    "grade": "2",
+    "level": "1",
+    "flashCost": "5"
+  },
+  {
+    "id": "8",
+    "grade": "2",
+    "level": "2",
+    "flashCost": "11"
+  },
+  {
+    "id": "9",
+    "grade": "2",
+    "level": "3",
+    "flashCost": "22"
+  },
+  {
+    "id": "10",
+    "grade": "2",
+    "level": "4",
+    "flashCost": "33"
+  },
+  {
+    "id": "11",
+    "grade": "2",
+    "level": "5",
+    "flashCost": "44"
+  },
+  {
+    "id": "12",
+    "grade": "2",
+    "level": "6",
+    "flashCost": "55"
+  },
+  {
+    "id": "13",
+    "grade": "3",
+    "level": "1",
+    "flashCost": "6"
+  },
+  {
+    "id": "14",
+    "grade": "3",
+    "level": "2",
+    "flashCost": "12"
+  },
+  {
+    "id": "15",
+    "grade": "3",
+    "level": "3",
+    "flashCost": "24"
+  },
+  {
+    "id": "16",
+    "grade": "3",
+    "level": "4",
+    "flashCost": "36"
+  },
+  {
+    "id": "17",
+    "grade": "3",
+    "level": "5",
+    "flashCost": "48"
+  },
+  {
+    "id": "18",
+    "grade": "3",
+    "level": "6",
+    "flashCost": "60"
+  },
+  {
+    "id": "19",
+    "grade": "4",
+    "level": "1",
+    "flashCost": "7"
+  },
+  {
+    "id": "20",
+    "grade": "4",
+    "level": "2",
+    "flashCost": "14"
+  },
+  {
+    "id": "21",
+    "grade": "4",
+    "level": "3",
+    "flashCost": "28"
+  },
+  {
+    "id": "22",
+    "grade": "4",
+    "level": "4",
+    "flashCost": "42"
+  },
+  {
+    "id": "23",
+    "grade": "4",
+    "level": "5",
+    "flashCost": "56"
+  },
+  {
+    "id": "24",
+    "grade": "4",
+    "level": "6",
+    "flashCost": "70"
+  },
+  {
+    "id": "25",
+    "grade": "5",
+    "level": "1",
+    "flashCost": "8"
+  },
+  {
+    "id": "26",
+    "grade": "5",
+    "level": "2",
+    "flashCost": "17"
+  },
+  {
+    "id": "27",
+    "grade": "5",
+    "level": "3",
+    "flashCost": "34"
+  },
+  {
+    "id": "28",
+    "grade": "5",
+    "level": "4",
+    "flashCost": "51"
+  },
+  {
+    "id": "29",
+    "grade": "5",
+    "level": "5",
+    "flashCost": "68"
+  },
+  {
+    "id": "30",
+    "grade": "5",
+    "level": "6",
+    "flashCost": "85"
+  },
+  {
+    "id": "31",
+    "grade": "6",
+    "level": "1",
+    "flashCost": "10"
+  },
+  {
+    "id": "32",
+    "grade": "6",
+    "level": "2",
+    "flashCost": "21"
+  },
+  {
+    "id": "33",
+    "grade": "6",
+    "level": "3",
+    "flashCost": "42"
+  },
+  {
+    "id": "34",
+    "grade": "6",
+    "level": "4",
+    "flashCost": "63"
+  },
+  {
+    "id": "35",
+    "grade": "6",
+    "level": "5",
+    "flashCost": "84"
+  },
+  {
+    "id": "36",
+    "grade": "6",
+    "level": "6",
+    "flashCost": "105"
+  },
+  {
+    "id": "37",
+    "grade": "7",
+    "level": "1",
+    "flashCost": "12"
+  },
+  {
+    "id": "38",
+    "grade": "7",
+    "level": "2",
+    "flashCost": "24"
+  },
+  {
+    "id": "39",
+    "grade": "7",
+    "level": "3",
+    "flashCost": "48"
+  },
+  {
+    "id": "40",
+    "grade": "7",
+    "level": "4",
+    "flashCost": "72"
+  },
+  {
+    "id": "41",
+    "grade": "7",
+    "level": "5",
+    "flashCost": "96"
+  },
+  {
+    "id": "42",
+    "grade": "7",
+    "level": "6",
+    "flashCost": "120"
+  },
+  {
+    "id": "43",
+    "grade": "8",
+    "level": "1",
+    "flashCost": "14"
+  },
+  {
+    "id": "44",
+    "grade": "8",
+    "level": "2",
+    "flashCost": "28"
+  },
+  {
+    "id": "45",
+    "grade": "8",
+    "level": "3",
+    "flashCost": "56"
+  },
+  {
+    "id": "46",
+    "grade": "8",
+    "level": "4",
+    "flashCost": "84"
+  },
+  {
+    "id": "47",
+    "grade": "8",
+    "level": "5",
+    "flashCost": "112"
+  },
+  {
+    "id": "48",
+    "grade": "8",
+    "level": "6",
+    "flashCost": "140"
+  },
+  {
+    "id": "49",
+    "grade": "9",
+    "level": "1",
+    "flashCost": "15"
+  },
+  {
+    "id": "50",
+    "grade": "9",
+    "level": "2",
+    "flashCost": "31"
+  },
+  {
+    "id": "51",
+    "grade": "9",
+    "level": "3",
+    "flashCost": "62"
+  },
+  {
+    "id": "52",
+    "grade": "9",
+    "level": "4",
+    "flashCost": "93"
+  },
+  {
+    "id": "53",
+    "grade": "9",
+    "level": "5",
+    "flashCost": "124"
+  },
+  {
+    "id": "54",
+    "grade": "9",
+    "level": "6",
+    "flashCost": "155"
+  },
+  {
+    "id": "55",
+    "grade": "10",
+    "level": "1",
+    "flashCost": "17"
+  },
+  {
+    "id": "56",
+    "grade": "10",
+    "level": "2",
+    "flashCost": "35"
+  },
+  {
+    "id": "57",
+    "grade": "10",
+    "level": "3",
+    "flashCost": "70"
+  },
+  {
+    "id": "58",
+    "grade": "10",
+    "level": "4",
+    "flashCost": "105"
+  },
+  {
+    "id": "59",
+    "grade": "10",
+    "level": "5",
+    "flashCost": "140"
+  },
+  {
+    "id": "60",
+    "grade": "10",
+    "level": "6",
+    "flashCost": "175"
+  }
+]

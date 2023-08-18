@@ -1,0 +1,47 @@
+[
+  {
+    "id": "903001",
+    "bulletNum": "36",
+    "shotCD": "0",
+    "wave": "3",
+    "interval": "200",
+    "rotateMin": "0",
+    "rotateMax": "0"
+  },
+  {
+    "id": "903002",
+    "bulletNum": "36",
+    "shotCD": "0",
+    "wave": "3",
+    "interval": "400",
+    "rotateMin": "0",
+    "rotateMax": "0"
+  },
+  {
+    "id": "903003",
+    "bulletNum": "36",
+    "shotCD": "0",
+    "wave": "3",
+    "interval": "300",
+    "rotateMin": "0",
+    "rotateMax": "0"
+  },
+  {
+    "id": "903004",
+    "bulletNum": "36",
+    "shotCD": "30",
+    "wave": "1",
+    "interval": "0",
+    "rotateMin": "0",
+    "rotateMax": "0"
+  },
+  {
+    "id": "903005",
+    "bulletNum": "&62111_mbsl|x62111_fbbs|f0",
+    "shotCD": "&62111_fbjg",
+    "wave": "&62111_fbbs",
+    "interval": "&62111_mbsl|x62111_fbjg|f0",
+    "rotateMin": "0",
+    "rotateMax": "45"
+  }
+]

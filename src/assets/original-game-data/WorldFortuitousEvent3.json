@@ -1,0 +1,11 @@
+[
+  {
+    "id": "201",
+    "minResource": "5000",
+    "maxResource": "10000",
+    "foundMaxValue": "3",
+    "maxValue": "6",
+    "weight": "500",
+    "maxTime": "12"
+  }
+]

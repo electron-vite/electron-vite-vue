@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "key": "brokeRequire",
+    "value": "100"
+  },
+  {
+    "id": "2",
+    "key": "brokeDmg",
+    "value": "1200"
+  },
+  {
+    "id": "3",
+    "key": "brokeBuffID",
+    "value": "12302|12303"
+  },
+  {
+    "id": "4",
+    "key": "enemyCD",
+    "value": "10"
+  },
+  {
+    "id": "5",
+    "key": "dizzinessCD",
+    "value": "20"
+  },
+  {
+    "id": "6",
+    "key": "actorDamage",
+    "value": "1"
+  },
+  {
+    "id": "7",
+    "key": "actorToBoss",
+    "value": "5000|8000"
+  },
+  {
+    "id": "8",
+    "key": "bossIDList",
+    "value": "7821|7831|7841|7851"
+  }
+]

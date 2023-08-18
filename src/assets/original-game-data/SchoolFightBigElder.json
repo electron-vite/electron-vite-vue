@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "schoolArea": "2",
+    "dungeonID": "100405",
+    "playerIninheritMax": "2",
+    "grandElderDiscipleMax": "4",
+    "close": "0",
+    "hateDialogue": "6361202",
+    "noHateDialogue": "6361201"
+  },
+  {
+    "id": "2",
+    "schoolArea": "4",
+    "dungeonID": "100405",
+    "playerIninheritMax": "2",
+    "grandElderDiscipleMax": "4",
+    "close": "0",
+    "hateDialogue": "6361202",
+    "noHateDialogue": "6361201"
+  },
+  {
+    "id": "3",
+    "schoolArea": "6",
+    "dungeonID": "100405",
+    "playerIninheritMax": "2",
+    "grandElderDiscipleMax": "4",
+    "close": "0",
+    "hateDialogue": "6361202",
+    "noHateDialogue": "6361201"
+  },
+  {
+    "id": "4",
+    "schoolArea": "8",
+    "dungeonID": "100405",
+    "playerIninheritMax": "2",
+    "grandElderDiscipleMax": "4",
+    "close": "0",
+    "hateDialogue": "6361202",
+    "noHateDialogue": "6361201"
+  },
+  {
+    "id": "5",
+    "schoolArea": "10",
+    "dungeonID": "100405",
+    "playerIninheritMax": "2",
+    "grandElderDiscipleMax": "4",
+    "close": "0",
+    "hateDialogue": "6361202",
+    "noHateDialogue": "6361201"
+  }
+]

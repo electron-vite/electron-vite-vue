@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "scoreStateA": "0",
+    "scoreStateB": "250",
+    "scoreStateC": "500"
+  },
+  {
+    "id": "2",
+    "scoreStateA": "0",
+    "scoreStateB": "300",
+    "scoreStateC": "600"
+  },
+  {
+    "id": "3",
+    "scoreStateA": "0",
+    "scoreStateB": "300",
+    "scoreStateC": "600"
+  },
+  {
+    "id": "4",
+    "scoreStateA": "0",
+    "scoreStateB": "300",
+    "scoreStateC": "600"
+  },
+  {
+    "id": "5",
+    "scoreStateA": "0",
+    "scoreStateB": "1500",
+    "scoreStateC": "3000"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "1",
+    "key": "matchScoreParaA",
+    "value": "2600"
+  },
+  {
+    "id": "2",
+    "key": "matchScoreParaB",
+    "value": "-2"
+  },
+  {
+    "id": "3",
+    "key": "closeScorePara",
+    "value": "50"
+  },
+  {
+    "id": "4",
+    "key": "hateScorePara",
+    "value": "100"
+  },
+  {
+    "id": "5",
+    "key": "closeParaA",
+    "value": "100"
+  },
+  {
+    "id": "6",
+    "key": "closeParaB",
+    "value": "15"
+  },
+  {
+    "id": "7",
+    "key": "hateParaC",
+    "value": "-100"
+  },
+  {
+    "id": "8",
+    "key": "hateParaD",
+    "value": "15"
+  },
+  {
+    "id": "9",
+    "key": "costEnergy",
+    "value": "5"
+  },
+  {
+    "id": "10",
+    "key": "hateLimited",
+    "value": "-30"
+  },
+  {
+    "id": "11",
+    "key": "closeLimited",
+    "value": "60"
+  },
+  {
+    "id": "12",
+    "key": "oldFriendCloseMin",
+    "value": "10"
+  },
+  {
+    "id": "13",
+    "key": "oldFriendCloseMax",
+    "value": "30"
+  },
+  {
+    "id": "14",
+    "key": "agreeABCloseMin",
+    "value": "5"
+  },
+  {
+    "id": "15",
+    "key": "agreeABCloseMax",
+    "value": "15"
+  },
+  {
+    "id": "16",
+    "key": "agreeBCCloseMin",
+    "value": "10"
+  },
+  {
+    "id": "17",
+    "key": "agreeBCCloseMax",
+    "value": "20"
+  },
+  {
+    "id": "18",
+    "key": "agreeACCloseMin",
+    "value": "5"
+  },
+  {
+    "id": "19",
+    "key": "agreeACCloseMax",
+    "value": "15"
+  },
+  {
+    "id": "20",
+    "key": "agreeBCHateMin",
+    "value": "20"
+  },
+  {
+    "id": "21",
+    "key": "agreeBCHateMax",
+    "value": "40"
+  },
+  {
+    "id": "22",
+    "key": "agreeACHateMin",
+    "value": "10"
+  },
+  {
+    "id": "23",
+    "key": "agreeACHateMax",
+    "value": "20"
+  },
+  {
+    "id": "24",
+    "key": "opposeABHateMin",
+    "value": "20"
+  },
+  {
+    "id": "25",
+    "key": "opposeABHateMax",
+    "value": "40"
+  },
+  {
+    "id": "26",
+    "key": "schoolBACloseMin",
+    "value": "20"
+  },
+  {
+    "id": "27",
+    "key": "schoolBACloseMax",
+    "value": "40"
+  },
+  {
+    "id": "28",
+    "key": "standBStandUpMin",
+    "value": "20"
+  },
+  {
+    "id": "29",
+    "key": "standBStandUpMax",
+    "value": "40"
+  },
+  {
+    "id": "30",
+    "key": "standBStandDownMin",
+    "value": "20"
+  },
+  {
+    "id": "31",
+    "key": "standBStandDownMax",
+    "value": "40"
+  },
+  {
+    "id": "32",
+    "key": "opposeABHatePer",
+    "value": "15"
+  },
+  {
+    "id": "33",
+    "key": "topicTotalMax",
+    "value": "4"
+  },
+  {
+    "id": "34",
+    "key": "topicRoleMax",
+    "value": "4"
+  },
+  {
+    "id": "35",
+    "key": "reflectRoleWeight",
+    "value": "3"
+  }
+]

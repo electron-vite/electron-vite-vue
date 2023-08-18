@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "grade": "1",
+    "costGasMin": "90",
+    "costGasMax": "100",
+    "expPerGas": "0.648148148148148",
+    "expBonus": "200",
+    "costDay": "5",
+    "mpGrow": "2"
+  },
+  {
+    "id": "2",
+    "grade": "2",
+    "costGasMin": "90",
+    "costGasMax": "100",
+    "expPerGas": "1.07592592592593",
+    "expBonus": "200",
+    "costDay": "5",
+    "mpGrow": "3"
+  },
+  {
+    "id": "3",
+    "grade": "3",
+    "costGasMin": "90",
+    "costGasMax": "100",
+    "expPerGas": "1.78240740740741",
+    "expBonus": "200",
+    "costDay": "5",
+    "mpGrow": "5"
+  },
+  {
+    "id": "4",
+    "grade": "4",
+    "costGasMin": "90",
+    "costGasMax": "100",
+    "expPerGas": "2.95555555555556",
+    "expBonus": "200",
+    "costDay": "5",
+    "mpGrow": "8"
+  },
+  {
+    "id": "5",
+    "grade": "5",
+    "costGasMin": "90",
+    "costGasMax": "100",
+    "expPerGas": "4.9",
+    "expBonus": "200",
+    "costDay": "5",
+    "mpGrow": "13"
+  },
+  {
+    "id": "6",
+    "grade": "6",
+    "costGasMin": "90",
+    "costGasMax": "100",
+    "expPerGas": "8.12777777777778",
+    "expBonus": "200",
+    "costDay": "5",
+    "mpGrow": "20"
+  },
+  {
+    "id": "7",
+    "grade": "7",
+    "costGasMin": "90",
+    "costGasMax": "100",
+    "expPerGas": "13.487962962963",
+    "expBonus": "200",
+    "costDay": "5",
+    "mpGrow": "33"
+  },
+  {
+    "id": "8",
+    "grade": "8",
+    "costGasMin": "90",
+    "costGasMax": "100",
+    "expPerGas": "22.387037037037",
+    "expBonus": "200",
+    "costDay": "5",
+    "mpGrow": "53"
+  },
+  {
+    "id": "9",
+    "grade": "9",
+    "costGasMin": "90",
+    "costGasMax": "100",
+    "expPerGas": "37.1583333333333",
+    "expBonus": "200",
+    "costDay": "5",
+    "mpGrow": "85"
+  },
+  {
+    "id": "10",
+    "grade": "10",
+    "costGasMin": "90",
+    "costGasMax": "100",
+    "expPerGas": "61.6777777777778",
+    "expBonus": "200",
+    "costDay": "5",
+    "mpGrow": "137"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "skillType": "1",
+    "skillTypeSmall": "2"
+  },
+  {
+    "id": "2",
+    "skillType": "2",
+    "skillTypeSmall": "4"
+  },
+  {
+    "id": "3",
+    "skillType": "4",
+    "skillTypeSmall": "6"
+  },
+  {
+    "id": "4",
+    "skillType": "6",
+    "skillTypeSmall": "6"
+  },
+  {
+    "id": "5",
+    "skillType": "6",
+    "skillTypeSmall": "6"
+  }
+]

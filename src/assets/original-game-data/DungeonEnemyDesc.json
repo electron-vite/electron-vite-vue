@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "dungeonScale": "0",
+    "desc": "dungeon_enemy_num1"
+  },
+  {
+    "id": "2",
+    "dungeonScale": "400",
+    "desc": "dungeon_enemy_num2"
+  },
+  {
+    "id": "3",
+    "dungeonScale": "800",
+    "desc": "dungeon_enemy_num3"
+  },
+  {
+    "id": "4",
+    "dungeonScale": "1400",
+    "desc": "dungeon_enemy_num4"
+  },
+  {
+    "id": "5",
+    "dungeonScale": "2000",
+    "desc": "dungeon_enemy_num5"
+  },
+  {
+    "id": "6",
+    "dungeonScale": "3000",
+    "desc": "dungeon_enemy_num6"
+  }
+]

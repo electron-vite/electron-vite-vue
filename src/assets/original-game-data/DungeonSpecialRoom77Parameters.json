@@ -1,0 +1,247 @@
+[
+  {
+    "id": "1",
+    "key": "startMonth",
+    "value": "12"
+  },
+  {
+    "id": "2",
+    "key": "playerReliveTime",
+    "value": "10"
+  },
+  {
+    "id": "3",
+    "key": "roomHumanCount",
+    "value": "1"
+  },
+  {
+    "id": "4",
+    "key": "roomHumanCountOperation",
+    "value": "4"
+  },
+  {
+    "id": "5",
+    "key": "changeCD",
+    "value": "5"
+  },
+  {
+    "id": "6",
+    "key": "humanDieRandom",
+    "value": "1500"
+  },
+  {
+    "id": "7",
+    "key": "fairyHpMax",
+    "value": "10000"
+  },
+  {
+    "id": "8",
+    "key": "battleTiming",
+    "value": "10"
+  },
+  {
+    "id": "9",
+    "key": "createAllyMonstTime",
+    "value": "2_6"
+  },
+  {
+    "id": "10",
+    "key": "createMonstTime",
+    "value": "2_6"
+  },
+  {
+    "id": "11",
+    "key": "createEliteMonstTime",
+    "value": "10_18"
+  },
+  {
+    "id": "12",
+    "key": "createBossTime",
+    "value": "5_10"
+  },
+  {
+    "id": "13",
+    "key": "bossCreateTime",
+    "value": "15_20"
+  },
+  {
+    "id": "14",
+    "key": "createMonstCount",
+    "value": "0_0"
+  },
+  {
+    "id": "15",
+    "key": "createEliteMonstCount",
+    "value": "6_9"
+  },
+  {
+    "id": "16",
+    "key": "allyMonstID",
+    "value": "10040111"
+  },
+  {
+    "id": "17",
+    "key": "monstID",
+    "value": "10040011|10040012|10040013|10040014|10040015|10040016|10040017|10040018|10040019|10040020|10040021"
+  },
+  {
+    "id": "18",
+    "key": "eliteMonstID",
+    "value": "10040051"
+  },
+  {
+    "id": "19",
+    "key": "BossID",
+    "value": "8511|85111|85121|85131|85141|85151"
+  },
+  {
+    "id": "20",
+    "key": "normalBossID",
+    "value": "10040101|10040102|10040103|10040104|10040105|10040106|10040107|10040108"
+  },
+  {
+    "id": "21",
+    "key": "atkDefenseMonstID",
+    "value": "10040011|10040012|10040013|10040014|10040015|10040016|10040017|10040018|10040019|10040020|10040021|10040022|10040023|10040024|10040025|10040026|10040027|10040028|10040029|10040030|10040031|10040032|10040033|10040034|10040035|10040036|10040037|10040038|10040039|10040040|10040041|10040042|10040054|10040059"
+  },
+  {
+    "id": "22",
+    "key": "AllyMonstCountMax",
+    "value": "2"
+  },
+  {
+    "id": "23",
+    "key": "monstCountMax",
+    "value": "20"
+  },
+  {
+    "id": "24",
+    "key": "eliteMonstCountMax",
+    "value": "20"
+  },
+  {
+    "id": "25",
+    "key": "monstBossCountMax",
+    "value": "20"
+  },
+  {
+    "id": "26",
+    "key": "createBossCreateCountMax",
+    "value": "15"
+  },
+  {
+    "id": "27",
+    "key": "createBossCount",
+    "value": "10"
+  },
+  {
+    "id": "28",
+    "key": "createHerdNpcProbability",
+    "value": "3000"
+  },
+  {
+    "id": "29",
+    "key": "herdBossBasereward",
+    "value": "200_400"
+  },
+  {
+    "id": "30",
+    "key": "eliteBossMonstCountMax",
+    "value": "5"
+  },
+  {
+    "id": "31",
+    "key": "createBossProbability",
+    "value": "5"
+  },
+  {
+    "id": "32",
+    "key": "createBossUpProbability",
+    "value": "10"
+  },
+  {
+    "id": "33",
+    "key": "reachTime",
+    "value": "10000"
+  },
+  {
+    "id": "34",
+    "key": "playerEnterMonstCount",
+    "value": "20_40"
+  },
+  {
+    "id": "35",
+    "key": "hpDecTiming",
+    "value": "3_8"
+  },
+  {
+    "id": "36",
+    "key": "roleGrade9HpDec",
+    "value": "3000_4400"
+  },
+  {
+    "id": "37",
+    "key": "roleGrade10HpDec",
+    "value": "1500_2900"
+  },
+  {
+    "id": "38",
+    "key": "eliteRoleHpDecAlter",
+    "value": "3000"
+  },
+  {
+    "id": "39",
+    "key": "defenseHpDecTime",
+    "value": "3_8"
+  },
+  {
+    "id": "40",
+    "key": "defenseHpDec",
+    "value": "1500_2900"
+  },
+  {
+    "id": "41",
+    "key": "defenseWait",
+    "value": "5"
+  },
+  {
+    "id": "42",
+    "key": "bossHpDecTiming",
+    "value": "3_8"
+  },
+  {
+    "id": "43",
+    "key": "bossHpDec",
+    "value": "1000_2000"
+  },
+  {
+    "id": "44",
+    "key": "fairyLeagueHpDec",
+    "value": "150_200"
+  },
+  {
+    "id": "45",
+    "key": "monstHpDecTiming",
+    "value": "3_8"
+  },
+  {
+    "id": "46",
+    "key": "monstHpDec",
+    "value": "1500_2900"
+  },
+  {
+    "id": "47",
+    "key": "eliteBaseReward",
+    "value": "10"
+  },
+  {
+    "id": "48",
+    "key": "bigMonstID",
+    "value": "11051001|11051002"
+  },
+  {
+    "id": "49",
+    "key": "bigMonstCreateTime",
+    "value": "2_3"
+  }
+]

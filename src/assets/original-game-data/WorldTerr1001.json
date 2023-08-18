@@ -1,0 +1,289 @@
+[
+  {
+    "id": "175101",
+    "name": "building1001Name1",
+    "probability": "20",
+    "function": "intoDungeon_4701_0_4",
+    "icon": "huo"
+  },
+  {
+    "id": "175102",
+    "name": "building1001Name1",
+    "probability": "20",
+    "function": "intoDungeon_4707_0_14",
+    "icon": "huo"
+  },
+  {
+    "id": "175103",
+    "name": "building1001Name1",
+    "probability": "20",
+    "function": "intoDungeon_4713_0_34",
+    "icon": "huo"
+  },
+  {
+    "id": "175104",
+    "name": "building1001Name1",
+    "probability": "20",
+    "function": "intoDungeon_4719_0_44",
+    "icon": "huo"
+  },
+  {
+    "id": "176101",
+    "name": "building1001Name2",
+    "probability": "20",
+    "function": "intoDungeon_4702_0_4",
+    "icon": "shui"
+  },
+  {
+    "id": "176102",
+    "name": "building1001Name2",
+    "probability": "20",
+    "function": "intoDungeon_4708_0_14",
+    "icon": "shui"
+  },
+  {
+    "id": "176103",
+    "name": "building1001Name2",
+    "probability": "20",
+    "function": "intoDungeon_4714_0_34",
+    "icon": "shui"
+  },
+  {
+    "id": "176104",
+    "name": "building1001Name2",
+    "probability": "20",
+    "function": "intoDungeon_4720_0_44",
+    "icon": "shui"
+  },
+  {
+    "id": "177101",
+    "name": "building1001Name3",
+    "probability": "20",
+    "function": "intoDungeon_4703_0_4",
+    "icon": "lei"
+  },
+  {
+    "id": "177102",
+    "name": "building1001Name3",
+    "probability": "20",
+    "function": "intoDungeon_4709_0_14",
+    "icon": "lei"
+  },
+  {
+    "id": "177103",
+    "name": "building1001Name3",
+    "probability": "20",
+    "function": "intoDungeon_4715_0_34",
+    "icon": "lei"
+  },
+  {
+    "id": "177104",
+    "name": "building1001Name3",
+    "probability": "20",
+    "function": "intoDungeon_4721_0_44",
+    "icon": "lei"
+  },
+  {
+    "id": "178101",
+    "name": "building1001Name4",
+    "probability": "20",
+    "function": "intoDungeon_4704_0_4",
+    "icon": "feng"
+  },
+  {
+    "id": "178102",
+    "name": "building1001Name4",
+    "probability": "20",
+    "function": "intoDungeon_4710_0_14",
+    "icon": "feng"
+  },
+  {
+    "id": "178103",
+    "name": "building1001Name4",
+    "probability": "20",
+    "function": "intoDungeon_4716_0_34",
+    "icon": "feng"
+  },
+  {
+    "id": "178104",
+    "name": "building1001Name4",
+    "probability": "20",
+    "function": "intoDungeon_4722_0_44",
+    "icon": "feng"
+  },
+  {
+    "id": "180101",
+    "name": "building1001Name5",
+    "probability": "20",
+    "function": "intoDungeon_4705_0_4",
+    "icon": "tu"
+  },
+  {
+    "id": "180102",
+    "name": "building1001Name5",
+    "probability": "20",
+    "function": "intoDungeon_4711_0_14",
+    "icon": "tu"
+  },
+  {
+    "id": "180103",
+    "name": "building1001Name5",
+    "probability": "20",
+    "function": "intoDungeon_4717_0_34",
+    "icon": "tu"
+  },
+  {
+    "id": "180104",
+    "name": "building1001Name5",
+    "probability": "20",
+    "function": "intoDungeon_4723_0_44",
+    "icon": "tu"
+  },
+  {
+    "id": "190101",
+    "name": "building1001Name6",
+    "probability": "20",
+    "function": "intoDungeon_4706_0_4",
+    "icon": "mu"
+  },
+  {
+    "id": "190102",
+    "name": "building1001Name6",
+    "probability": "20",
+    "function": "intoDungeon_4712_0_14",
+    "icon": "mu"
+  },
+  {
+    "id": "190103",
+    "name": "building1001Name6",
+    "probability": "20",
+    "function": "intoDungeon_4718_0_34",
+    "icon": "mu"
+  },
+  {
+    "id": "190104",
+    "name": "building1001Name6",
+    "probability": "20",
+    "function": "intoDungeon_4724_0_44",
+    "icon": "mu"
+  },
+  {
+    "id": "210101",
+    "name": "building1001Name7",
+    "probability": "20",
+    "function": "intoDungeon_4725_0_24",
+    "icon": "tian"
+  },
+  {
+    "id": "220101",
+    "name": "building1001Name8",
+    "probability": "20",
+    "function": "intoDungeon_4726_0_24",
+    "icon": "di"
+  },
+  {
+    "id": "2501",
+    "name": "building2501Name",
+    "probability": "20",
+    "function": "intoDungeon_2055_0_16",
+    "icon": "0"
+  },
+  {
+    "id": "2502",
+    "name": "building2501Name",
+    "probability": "20",
+    "function": "intoDungeon_2055_0_16",
+    "icon": "0"
+  },
+  {
+    "id": "2503",
+    "name": "building2501Name",
+    "probability": "20",
+    "function": "intoDungeon_2055_0_16",
+    "icon": "0"
+  },
+  {
+    "id": "2504",
+    "name": "building2501Name",
+    "probability": "20",
+    "function": "intoDungeon_2055_0_16",
+    "icon": "0"
+  },
+  {
+    "id": "2701",
+    "name": "building2501Name",
+    "probability": "20",
+    "function": "intoDungeon_2055_0_16",
+    "icon": "0"
+  },
+  {
+    "id": "2702",
+    "name": "building2501Name",
+    "probability": "20",
+    "function": "intoDungeon_2055_0_16",
+    "icon": "0"
+  },
+  {
+    "id": "2703",
+    "name": "building2501Name",
+    "probability": "20",
+    "function": "intoDungeon_2055_0_16",
+    "icon": "0"
+  },
+  {
+    "id": "2704",
+    "name": "building2501Name",
+    "probability": "20",
+    "function": "intoDungeon_2055_0_16",
+    "icon": "0"
+  },
+  {
+    "id": "2705",
+    "name": "building2501Name",
+    "probability": "20",
+    "function": "intoDungeon_2055_0_16",
+    "icon": "0"
+  },
+  {
+    "id": "2901",
+    "name": "0",
+    "probability": "0",
+    "function": "0",
+    "icon": "0"
+  },
+  {
+    "id": "3001",
+    "name": "0",
+    "probability": "0",
+    "function": "0",
+    "icon": "0"
+  },
+  {
+    "id": "3002",
+    "name": "0",
+    "probability": "0",
+    "function": "0",
+    "icon": "0"
+  },
+  {
+    "id": "3003",
+    "name": "0",
+    "probability": "0",
+    "function": "0",
+    "icon": "0"
+  },
+  {
+    "id": "3004",
+    "name": "0",
+    "probability": "0",
+    "function": "0",
+    "icon": "0"
+  },
+  {
+    "id": "3005",
+    "name": "0",
+    "probability": "0",
+    "function": "0",
+    "icon": "0"
+  }
+]

@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "1",
+    "rewardID": "900001",
+    "condition": "0",
+    "suitID": "10000",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "2",
+    "rewardID": "900001",
+    "condition": "0",
+    "suitID": "10003",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "3",
+    "rewardID": "900001",
+    "condition": "0",
+    "suitID": "10004",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "4",
+    "rewardID": "900002",
+    "condition": "0",
+    "suitID": "10005",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "5",
+    "rewardID": "900002",
+    "condition": "0",
+    "suitID": "10004",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "6",
+    "rewardID": "900002",
+    "condition": "0",
+    "suitID": "10005",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "7",
+    "rewardID": "900002",
+    "condition": "0",
+    "suitID": "10006",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "8",
+    "rewardID": "900002",
+    "condition": "0",
+    "suitID": "10007",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "9",
+    "rewardID": "900002",
+    "condition": "0",
+    "suitID": "10008",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "10",
+    "rewardID": "900002",
+    "condition": "0",
+    "suitID": "10009",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "11",
+    "rewardID": "900002",
+    "condition": "0",
+    "suitID": "10010",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "12",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10011",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "13",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10012",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "14",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10013",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "15",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10014",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "16",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10015",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "17",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10016",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "18",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10017",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "19",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10018",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "20",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10019",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "21",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10020",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "22",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10021",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "23",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10022",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "24",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10023",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "25",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10025",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "26",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10026",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "27",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10027",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "28",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10028",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "29",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10029",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "30",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10030",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "31",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10031",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "32",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10032",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "33",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10033",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "34",
+    "rewardID": "900003",
+    "condition": "area_10",
+    "suitID": "10034",
+    "level": "6",
+    "weight": "100",
+    "rate": "40"
+  },
+  {
+    "id": "35",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10011",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "36",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10012",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "37",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10013",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "38",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10014",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "39",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10015",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "40",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10016",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "41",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10017",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "42",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10018",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "43",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10019",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "44",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10020",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "45",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10021",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "46",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10022",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "47",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10023",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "48",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10024",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "49",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10025",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "50",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10026",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "51",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10027",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "52",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10028",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "53",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10029",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "54",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10030",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "55",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10031",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "56",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10032",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "57",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10033",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "58",
+    "rewardID": "900004",
+    "condition": "0",
+    "suitID": "10034",
+    "level": "6",
+    "weight": "432",
+    "rate": "100"
+  },
+  {
+    "id": "59",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10011",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "60",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10012",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "61",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10013",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "62",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10014",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "63",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10015",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "64",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10016",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "65",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10017",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "66",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10018",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "67",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10019",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "68",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10020",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "69",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10021",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "70",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10022",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "71",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10023",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "72",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10024",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "73",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10025",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "74",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10026",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "75",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10027",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "76",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10028",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "77",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10029",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "78",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10030",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "79",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10031",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "80",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10032",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "81",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10033",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "82",
+    "rewardID": "900017",
+    "condition": "0",
+    "suitID": "10034",
+    "level": "6",
+    "weight": "432",
+    "rate": "100"
+  },
+  {
+    "id": "83",
+    "rewardID": "6472101",
+    "condition": "0",
+    "suitID": "10000",
+    "level": "5",
+    "weight": "1111",
+    "rate": "100"
+  },
+  {
+    "id": "84",
+    "rewardID": "6472101",
+    "condition": "0",
+    "suitID": "10001",
+    "level": "5",
+    "weight": "1111",
+    "rate": "100"
+  },
+  {
+    "id": "85",
+    "rewardID": "6472101",
+    "condition": "0",
+    "suitID": "10002",
+    "level": "5",
+    "weight": "1111",
+    "rate": "100"
+  },
+  {
+    "id": "86",
+    "rewardID": "6472101",
+    "condition": "0",
+    "suitID": "10003",
+    "level": "5",
+    "weight": "1111",
+    "rate": "100"
+  },
+  {
+    "id": "87",
+    "rewardID": "6472101",
+    "condition": "0",
+    "suitID": "10006",
+    "level": "5",
+    "weight": "1111",
+    "rate": "100"
+  },
+  {
+    "id": "88",
+    "rewardID": "6472101",
+    "condition": "0",
+    "suitID": "10007",
+    "level": "5",
+    "weight": "1111",
+    "rate": "100"
+  },
+  {
+    "id": "89",
+    "rewardID": "6472101",
+    "condition": "0",
+    "suitID": "10008",
+    "level": "5",
+    "weight": "1111",
+    "rate": "100"
+  },
+  {
+    "id": "90",
+    "rewardID": "6472101",
+    "condition": "0",
+    "suitID": "10009",
+    "level": "5",
+    "weight": "1111",
+    "rate": "100"
+  },
+  {
+    "id": "91",
+    "rewardID": "6472101",
+    "condition": "0",
+    "suitID": "10010",
+    "level": "5",
+    "weight": "1112",
+    "rate": "100"
+  },
+  {
+    "id": "92",
+    "rewardID": "277002",
+    "condition": "0",
+    "suitID": "10000",
+    "level": "6",
+    "weight": "1111",
+    "rate": "50"
+  },
+  {
+    "id": "93",
+    "rewardID": "277002",
+    "condition": "0",
+    "suitID": "10001",
+    "level": "6",
+    "weight": "1111",
+    "rate": "50"
+  },
+  {
+    "id": "94",
+    "rewardID": "277002",
+    "condition": "0",
+    "suitID": "10002",
+    "level": "6",
+    "weight": "1111",
+    "rate": "50"
+  },
+  {
+    "id": "95",
+    "rewardID": "277002",
+    "condition": "0",
+    "suitID": "10003",
+    "level": "6",
+    "weight": "1111",
+    "rate": "50"
+  },
+  {
+    "id": "96",
+    "rewardID": "277002",
+    "condition": "0",
+    "suitID": "10006",
+    "level": "6",
+    "weight": "1111",
+    "rate": "50"
+  },
+  {
+    "id": "97",
+    "rewardID": "277002",
+    "condition": "0",
+    "suitID": "10007",
+    "level": "6",
+    "weight": "1111",
+    "rate": "50"
+  },
+  {
+    "id": "98",
+    "rewardID": "277002",
+    "condition": "0",
+    "suitID": "10008",
+    "level": "6",
+    "weight": "1111",
+    "rate": "50"
+  },
+  {
+    "id": "99",
+    "rewardID": "277002",
+    "condition": "0",
+    "suitID": "10009",
+    "level": "6",
+    "weight": "1111",
+    "rate": "50"
+  },
+  {
+    "id": "100",
+    "rewardID": "277002",
+    "condition": "0",
+    "suitID": "10010",
+    "level": "6",
+    "weight": "1112",
+    "rate": "50"
+  },
+  {
+    "id": "101",
+    "rewardID": "900005",
+    "condition": "0",
+    "suitID": "10013",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "102",
+    "rewardID": "900005",
+    "condition": "0",
+    "suitID": "10014",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "103",
+    "rewardID": "900006",
+    "condition": "0",
+    "suitID": "10015",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "104",
+    "rewardID": "900006",
+    "condition": "0",
+    "suitID": "10016",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "105",
+    "rewardID": "900007",
+    "condition": "0",
+    "suitID": "10011",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "106",
+    "rewardID": "900007",
+    "condition": "0",
+    "suitID": "10012",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "107",
+    "rewardID": "900008",
+    "condition": "0",
+    "suitID": "10017",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "108",
+    "rewardID": "900008",
+    "condition": "0",
+    "suitID": "10018",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "109",
+    "rewardID": "900009",
+    "condition": "0",
+    "suitID": "10019",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "110",
+    "rewardID": "900009",
+    "condition": "0",
+    "suitID": "10020",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "111",
+    "rewardID": "900010",
+    "condition": "0",
+    "suitID": "10021",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "112",
+    "rewardID": "900010",
+    "condition": "0",
+    "suitID": "10022",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "113",
+    "rewardID": "900011",
+    "condition": "0",
+    "suitID": "10025",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "114",
+    "rewardID": "900011",
+    "condition": "0",
+    "suitID": "10026",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "115",
+    "rewardID": "900012",
+    "condition": "0",
+    "suitID": "10027",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "116",
+    "rewardID": "900012",
+    "condition": "0",
+    "suitID": "10028",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "117",
+    "rewardID": "900013",
+    "condition": "0",
+    "suitID": "10033",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "118",
+    "rewardID": "900013",
+    "condition": "0",
+    "suitID": "10034",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "119",
+    "rewardID": "900014",
+    "condition": "0",
+    "suitID": "10029",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "120",
+    "rewardID": "900014",
+    "condition": "0",
+    "suitID": "10030",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "121",
+    "rewardID": "900015",
+    "condition": "0",
+    "suitID": "10031",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "122",
+    "rewardID": "900015",
+    "condition": "0",
+    "suitID": "10032",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "123",
+    "rewardID": "900016",
+    "condition": "0",
+    "suitID": "10023",
+    "level": "6",
+    "weight": "416",
+    "rate": "100"
+  },
+  {
+    "id": "124",
+    "rewardID": "900016",
+    "condition": "0",
+    "suitID": "10024",
+    "level": "6",
+    "weight": "432",
+    "rate": "100"
+  }
+]

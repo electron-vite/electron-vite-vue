@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "key": "holdAddTime",
+    "value": "10000"
+  },
+  {
+    "id": "2",
+    "key": "rebirthBasicTime",
+    "value": "20000"
+  },
+  {
+    "id": "3",
+    "key": "rebirthAddTime",
+    "value": "10000_1000"
+  },
+  {
+    "id": "4",
+    "key": "rebirthTimeMax",
+    "value": "40000"
+  },
+  {
+    "id": "5",
+    "key": "defRebirthBasicTime",
+    "value": "20000"
+  },
+  {
+    "id": "6",
+    "key": "defRebirthAddTime",
+    "value": "10000_1000"
+  },
+  {
+    "id": "7",
+    "key": "defRebirthTimeMax",
+    "value": "40000"
+  },
+  {
+    "id": "8",
+    "key": "killingTimeAstrict",
+    "value": "5000"
+  },
+  {
+    "id": "9",
+    "key": "killingBriefAddPower1",
+    "value": "5_1000_5000"
+  },
+  {
+    "id": "10",
+    "key": "killingBriefAddPower2",
+    "value": "5_2000_5000"
+  },
+  {
+    "id": "11",
+    "key": "killingBriefAddPower3",
+    "value": "5_4000_5000"
+  },
+  {
+    "id": "12",
+    "key": "killingBriefAddPower4",
+    "value": "5_8000_5000"
+  },
+  {
+    "id": "13",
+    "key": "killingBriefAddPower5",
+    "value": "5_16000_5000"
+  },
+  {
+    "id": "14",
+    "key": "killingAddBattleEffect",
+    "value": "5_10031111_5000|5_10031112_5000"
+  },
+  {
+    "id": "15",
+    "key": "killingAddBattleTime",
+    "value": "5_5000"
+  },
+  {
+    "id": "16",
+    "key": "killingLongAddPower1",
+    "value": "10_100_1000"
+  },
+  {
+    "id": "17",
+    "key": "killingLongAddPower2",
+    "value": "10_200_2000"
+  },
+  {
+    "id": "18",
+    "key": "killingLongAddPower3",
+    "value": "10_400_4000"
+  },
+  {
+    "id": "19",
+    "key": "killingLongAddPower4",
+    "value": "10_800_8000"
+  },
+  {
+    "id": "20",
+    "key": "killingLongAddPower5",
+    "value": "10_1600_16000"
+  },
+  {
+    "id": "21",
+    "key": "killingLongAddBattleEffect",
+    "value": "10_10031121_10|10_10031122_10"
+  },
+  {
+    "id": "22",
+    "key": "roleRebirthCount",
+    "value": "5"
+  }
+]

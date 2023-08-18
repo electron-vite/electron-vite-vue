@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "key": "level1MonstSkillCount",
+    "value": "1_2|2_1"
+  },
+  {
+    "id": "2",
+    "key": "level2NewSkill",
+    "value": "1_1|4_1"
+  },
+  {
+    "id": "3",
+    "key": "level3NewSkill",
+    "value": "2_1"
+  },
+  {
+    "id": "4",
+    "key": "level4NewSkill",
+    "value": "4_1"
+  },
+  {
+    "id": "5",
+    "key": "level5NewSkill",
+    "value": "2_1"
+  },
+  {
+    "id": "6",
+    "key": "level6NewSkill",
+    "value": "1_1|2_1"
+  },
+  {
+    "id": "7",
+    "key": "HerdNpcFleeProbability",
+    "value": "7500"
+  },
+  {
+    "id": "8",
+    "key": "HerdNpcFortuitousCount",
+    "value": "2_5"
+  },
+  {
+    "id": "9",
+    "key": "HerdNpcFortuitousProbability",
+    "value": "2000_3500"
+  },
+  {
+    "id": "10",
+    "key": "HerdNpcFortuitousCountMax",
+    "value": "10"
+  },
+  {
+    "id": "11",
+    "key": "killRoleAddAttr",
+    "value": "50"
+  },
+  {
+    "id": "12",
+    "key": "killRoleAddExp",
+    "value": "100"
+  },
+  {
+    "id": "13",
+    "key": "contributionRatio",
+    "value": "10_18"
+  },
+  {
+    "id": "15",
+    "key": "HerdNpcMaxNumTotal",
+    "value": "55"
+  },
+  {
+    "id": "16",
+    "key": "HerdNpcMaxNumLevel1",
+    "value": "15"
+  },
+  {
+    "id": "17",
+    "key": "HerdNpcMaxNumLevel2",
+    "value": "13"
+  },
+  {
+    "id": "18",
+    "key": "HerdNpcMaxNumLevel3",
+    "value": "9"
+  },
+  {
+    "id": "19",
+    "key": "HerdNpcMaxNumLevel4",
+    "value": "7"
+  },
+  {
+    "id": "20",
+    "key": "HerdNpcMaxNumLevel5",
+    "value": "5"
+  },
+  {
+    "id": "21",
+    "key": "HerdNpcMaxNumLevel6",
+    "value": "3"
+  },
+  {
+    "id": "22",
+    "key": "HerdNpcNumPost6",
+    "value": "1"
+  },
+  {
+    "id": "23",
+    "key": "HerdNpcNumPost5",
+    "value": "2"
+  },
+  {
+    "id": "24",
+    "key": "HerdNpcNumPost4",
+    "value": "4"
+  },
+  {
+    "id": "25",
+    "key": "HerdNpcNumPost3",
+    "value": "6"
+  },
+  {
+    "id": "26",
+    "key": "HerdNpcNumPost2",
+    "value": "8"
+  },
+  {
+    "id": "27",
+    "key": "HerdNpcNumPost1",
+    "value": "45"
+  },
+  {
+    "id": "28",
+    "key": "changePostMonthlog",
+    "value": "drama_monthLog21421"
+  },
+  {
+    "id": "29",
+    "key": "createHerdNPCMonth",
+    "value": "6"
+  },
+  {
+    "id": "30",
+    "key": "HerdNpcBattleMonthLog1",
+    "value": "drama_monthLog21422"
+  },
+  {
+    "id": "31",
+    "key": "HerdNpcBattleMonthLog2",
+    "value": "drama_monthLog21423"
+  }
+]

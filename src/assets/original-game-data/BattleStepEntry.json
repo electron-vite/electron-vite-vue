@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "entry": "range",
+    "title": "step_entry_title_1"
+  },
+  {
+    "id": "2",
+    "entry": "range",
+    "title": "step_entry_title_2"
+  },
+  {
+    "id": "3",
+    "entry": "duration",
+    "title": "step_entry_title_3"
+  },
+  {
+    "id": "4",
+    "entry": "duration",
+    "title": "step_entry_title_4"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "762602",
+    "roomIndex": "0",
+    "baseAttr": "hp_-30|skillDmg_-30",
+    "unitAttr": "hp_8|skillDmg_8",
+    "bossAttr": "hp_5|skillDmg_5|critV_-50"
+  },
+  {
+    "id": "766102",
+    "roomIndex": "1",
+    "baseAttr": "hp_-50|skillDmg_-20",
+    "unitAttr": "0",
+    "bossAttr": "hp_-60|skillDmg_-60|critV_-50"
+  },
+  {
+    "id": "766103",
+    "roomIndex": "2",
+    "baseAttr": "hp_-40|skillDmg_-15",
+    "unitAttr": "0",
+    "bossAttr": "hp_-60|skillDmg_-60|critV_-50"
+  },
+  {
+    "id": "766104",
+    "roomIndex": "3",
+    "baseAttr": "hp_-30|skillDmg_-10",
+    "unitAttr": "0",
+    "bossAttr": "hp_-60|skillDmg_-60|critV_-50"
+  },
+  {
+    "id": "766105",
+    "roomIndex": "4",
+    "baseAttr": "hp_-20|skillDmg_-5",
+    "unitAttr": "hp_-5|skillDmg_-5",
+    "bossAttr": "hp_-60|skillDmg_-60"
+  },
+  {
+    "id": "766106",
+    "roomIndex": "5",
+    "baseAttr": "hp_-10",
+    "unitAttr": "0",
+    "bossAttr": "hp_-40|skillDmg_-40|critV_-50"
+  },
+  {
+    "id": "10012201",
+    "roomIndex": "1",
+    "baseAttr": "hp_-50|skillDmg_-20",
+    "unitAttr": "0",
+    "bossAttr": "hp_-35|skillDmg_-35|critV_-85"
+  },
+  {
+    "id": "10012202",
+    "roomIndex": "2",
+    "baseAttr": "hp_-50|skillDmg_-20",
+    "unitAttr": "hp_8|skillDmg_8",
+    "bossAttr": "hp_-32|skillDmg_-32|critV_-82"
+  },
+  {
+    "id": "10012203",
+    "roomIndex": "3",
+    "baseAttr": "hp_-50|skillDmg_-20",
+    "unitAttr": "hp_8|skillDmg_8",
+    "bossAttr": "hp_-27|skillDmg_-27|critV_-77"
+  },
+  {
+    "id": "10012204",
+    "roomIndex": "4",
+    "baseAttr": "hp_-50|skillDmg_-20",
+    "unitAttr": "hp_8|skillDmg_8",
+    "bossAttr": "hp_-21|skillDmg_-21|critV_-71"
+  },
+  {
+    "id": "10012205",
+    "roomIndex": "5",
+    "baseAttr": "hp_-50|skillDmg_-20",
+    "unitAttr": "hp_8|skillDmg_8",
+    "bossAttr": "hp_-14|skillDmg_-14|critV_-64"
+  },
+  {
+    "id": "10012206",
+    "roomIndex": "6",
+    "baseAttr": "hp_-50|skillDmg_-20",
+    "unitAttr": "hp_8|skillDmg_8",
+    "bossAttr": "0"
+  },
+  {
+    "id": "10012207",
+    "roomIndex": "7",
+    "baseAttr": "hp_-50|skillDmg_-20",
+    "unitAttr": "hp_8|skillDmg_8",
+    "bossAttr": "0"
+  },
+  {
+    "id": "10012208",
+    "roomIndex": "8",
+    "baseAttr": "hp_-50|skillDmg_-20",
+    "unitAttr": "hp_8|skillDmg_8",
+    "bossAttr": "0"
+  },
+  {
+    "id": "10012209",
+    "roomIndex": "9",
+    "baseAttr": "hp_-50|skillDmg_-20",
+    "unitAttr": "hp_8|skillDmg_8",
+    "bossAttr": "0"
+  },
+  {
+    "id": "10012210",
+    "roomIndex": "10",
+    "baseAttr": "hp_-50|skillDmg_-20",
+    "unitAttr": "hp_8|skillDmg_8",
+    "bossAttr": "0"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "key": "fixedMoveSpeed",
+    "value": "500"
+  },
+  {
+    "id": "2",
+    "key": "drama1",
+    "value": "2200001"
+  },
+  {
+    "id": "3",
+    "key": "drama2",
+    "value": "2200012"
+  },
+  {
+    "id": "4",
+    "key": "drama3",
+    "value": "2200101"
+  },
+  {
+    "id": "5",
+    "key": "battleDramaOptions",
+    "value": "22000121"
+  },
+  {
+    "id": "6",
+    "key": "npcTalkInterval",
+    "value": "10000"
+  },
+  {
+    "id": "7",
+    "key": "npcTalkContents",
+    "value": "dialogRoleTalk9212001"
+  },
+  {
+    "id": "8",
+    "key": "focusNpcSpeed",
+    "value": "2"
+  },
+  {
+    "id": "9",
+    "key": "focusNpcDelay",
+    "value": "0"
+  },
+  {
+    "id": "10",
+    "key": "npcJumpDownDelay",
+    "value": "600"
+  },
+  {
+    "id": "11",
+    "key": "drama1Delay",
+    "value": "1000"
+  },
+  {
+    "id": "12",
+    "key": "drama2Delay",
+    "value": "1000"
+  },
+  {
+    "id": "13",
+    "key": "drama3Delay",
+    "value": "1000"
+  },
+  {
+    "id": "14",
+    "key": "startBattleDelay",
+    "value": "0"
+  },
+  {
+    "id": "15",
+    "key": "focusNpcCamSize",
+    "value": "8"
+  },
+  {
+    "id": "16",
+    "key": "bossEnterAnimDuration",
+    "value": "1000"
+  },
+  {
+    "id": "17",
+    "key": "enterFocusDuration",
+    "value": "2000"
+  }
+]

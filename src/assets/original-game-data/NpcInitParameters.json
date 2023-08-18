@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "key": "initNpcCount",
+    "value": "2000"
+  },
+  {
+    "id": "2",
+    "key": "townLevel0Npc",
+    "value": "5"
+  },
+  {
+    "id": "3",
+    "key": "townLevel1Npc",
+    "value": "25"
+  },
+  {
+    "id": "4",
+    "key": "townLevel2Npc",
+    "value": "25"
+  },
+  {
+    "id": "5",
+    "key": "townLevel3Npc",
+    "value": "17"
+  },
+  {
+    "id": "6",
+    "key": "townLevel4Npc",
+    "value": "17"
+  },
+  {
+    "id": "7",
+    "key": "townLevel5Npc",
+    "value": "11"
+  },
+  {
+    "id": "8",
+    "key": "initInTownNpc",
+    "value": "50"
+  },
+  {
+    "id": "9",
+    "key": "initOutTownRange",
+    "value": "25"
+  },
+  {
+    "id": "10",
+    "key": "initOutSchoolNpcPost1",
+    "value": "0"
+  },
+  {
+    "id": "11",
+    "key": "initOutSchoolNpcPost2",
+    "value": "0"
+  },
+  {
+    "id": "12",
+    "key": "initOutSchoolNpcPost3",
+    "value": "20"
+  },
+  {
+    "id": "13",
+    "key": "initOutSchoolNpcPost4",
+    "value": "40"
+  },
+  {
+    "id": "14",
+    "key": "initOutSchoolNpcPost5",
+    "value": "50"
+  },
+  {
+    "id": "15",
+    "key": "initOutSchoolNpcPost6",
+    "value": "50"
+  },
+  {
+    "id": "16",
+    "key": "initOutSchoolRange",
+    "value": "25"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1119001",
+    "condition1": "skillEquipType_1_1",
+    "condition2": "skillEquipType_2_1",
+    "positionID": "1001"
+  },
+  {
+    "id": "1119002",
+    "condition1": "dungeon_9999999",
+    "condition2": "0",
+    "positionID": "1090"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "key": "planAddValue",
+    "value": "1000_1"
+  },
+  {
+    "id": "2",
+    "key": "planValueMax",
+    "value": "80"
+  },
+  {
+    "id": "3",
+    "key": "planFinishValue",
+    "value": "40"
+  },
+  {
+    "id": "4",
+    "key": "roleBattleStartTime",
+    "value": "8000_10000"
+  },
+  {
+    "id": "5",
+    "key": "roleBattleRepetitionCount",
+    "value": "1_3"
+  },
+  {
+    "id": "6",
+    "key": "roleBattleRepetitionTime",
+    "value": "3000_8000"
+  },
+  {
+    "id": "7",
+    "key": "BattleStartDialogueID",
+    "value": "1210501|1210601"
+  },
+  {
+    "id": "8",
+    "key": "exReward",
+    "value": "10_200"
+  }
+]

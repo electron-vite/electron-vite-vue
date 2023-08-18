@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1001",
+    "itemCostID": "10001_100",
+    "cost": "100",
+    "addEffect": "8001|8002|8003",
+    "desc": "SchoolLuckyEffectDesc1001"
+  }
+]

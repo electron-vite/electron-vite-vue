@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "key": "roleRecruitDialogue",
+    "value": "22648"
+  },
+  {
+    "id": "2",
+    "key": "takeRecruitDialogue",
+    "value": "22649"
+  },
+  {
+    "id": "3",
+    "key": "turnRecruitDialogue",
+    "value": "22650"
+  },
+  {
+    "id": "4",
+    "key": "energyCost",
+    "value": "10"
+  }
+]

@@ -1,0 +1,1714 @@
+[
+  {
+    "id": "1",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "15000",
+    "weightGrade": "1000"
+  },
+  {
+    "id": "1101",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1102",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1103",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1104",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1105",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1106",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "1",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1201",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1202",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1203",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1204",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1301",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "1",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1302",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "2",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1303",
+    "type": "1",
+    "condition": "notTop_basThunder_0",
+    "forbitStand": "1",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1304",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "2",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1305",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1401",
+    "type": "1",
+    "condition": "top_basSword_1",
+    "forbitStand": "1",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1402",
+    "type": "1",
+    "condition": "top_basBlade_1",
+    "forbitStand": "1",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1403",
+    "type": "1",
+    "condition": "top_basSpear_1",
+    "forbitStand": "1",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1404",
+    "type": "1",
+    "condition": "top_basFist_1",
+    "forbitStand": "1",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1405",
+    "type": "1",
+    "condition": "top_basFinger_1",
+    "forbitStand": "1",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1406",
+    "type": "1",
+    "condition": "top_basPalm_1",
+    "forbitStand": "1",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1407",
+    "type": "1",
+    "condition": "top_basSword_1",
+    "forbitStand": "2",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1408",
+    "type": "1",
+    "condition": "top_basBlade_1",
+    "forbitStand": "2",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1409",
+    "type": "1",
+    "condition": "top_basSpear_1",
+    "forbitStand": "2",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1410",
+    "type": "1",
+    "condition": "top_basFist_1",
+    "forbitStand": "2",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1411",
+    "type": "1",
+    "condition": "top_basFinger_1",
+    "forbitStand": "2",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1412",
+    "type": "1",
+    "condition": "top_basPalm_1",
+    "forbitStand": "2",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1413",
+    "type": "1",
+    "condition": "top_basSword_1|top_basBlade_1",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1414",
+    "type": "1",
+    "condition": "top_basSpear_1|top_basFinger_1",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1415",
+    "type": "1",
+    "condition": "top_basFist_1|top_basPalm_1",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1416",
+    "type": "1",
+    "condition": "top_basSword_1|top_basBlade_1|top_basSpear_1",
+    "forbitStand": "2",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1417",
+    "type": "1",
+    "condition": "top_basFist_1|top_basPalm_1|top_basFinger_1",
+    "forbitStand": "1",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1418",
+    "type": "1",
+    "condition": "top_basWpAll_0",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1419",
+    "type": "1",
+    "condition": "top_basPalm_1|top_basFinger_1",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1420",
+    "type": "1",
+    "condition": "top_basFinger_1",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1421",
+    "type": "1",
+    "condition": "top_basFist_1",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1422",
+    "type": "1",
+    "condition": "top_basSpear_1",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1423",
+    "type": "1",
+    "condition": "top_basBlade_1",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1424",
+    "type": "1",
+    "condition": "top_basSword_1",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1425",
+    "type": "1",
+    "condition": "top_basSpear_1",
+    "forbitStand": "2",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1426",
+    "type": "1",
+    "condition": "top_basBlade_1|top_basSpear_1|top_basSword_1",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1427",
+    "type": "1",
+    "condition": "top_basBlade_1|top_basSword_1",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1428",
+    "type": "1",
+    "condition": "top_basSpear_1|top_basFinger_1",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1429",
+    "type": "1",
+    "condition": "top_basSword_1",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1430",
+    "type": "1",
+    "condition": "top_basFist_1",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1431",
+    "type": "1",
+    "condition": "top_basSword_1",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1432",
+    "type": "1",
+    "condition": "top_basBlade_1",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1433",
+    "type": "1",
+    "condition": "top_basSpear_1",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1434",
+    "type": "1",
+    "condition": "top_basWpAll_0",
+    "forbitStand": "2",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1435",
+    "type": "1",
+    "condition": "top_basWpAll_0",
+    "forbitStand": "1",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1501",
+    "type": "1",
+    "condition": "top_basThunder_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1502",
+    "type": "1",
+    "condition": "top_basEarth_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1503",
+    "type": "1",
+    "condition": "top_basFire_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1504",
+    "type": "1",
+    "condition": "top_basFroze_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1505",
+    "type": "1",
+    "condition": "top_basWind_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1506",
+    "type": "1",
+    "condition": "top_basWood_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1507",
+    "type": "1",
+    "condition": "top_basThunder_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1508",
+    "type": "1",
+    "condition": "top_basFire_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1509",
+    "type": "1",
+    "condition": "top_basFroze_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1510",
+    "type": "1",
+    "condition": "top_basEarth_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1511",
+    "type": "1",
+    "condition": "top_basWood_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1512",
+    "type": "1",
+    "condition": "top_basWind_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1513",
+    "type": "1",
+    "condition": "top_basThunder_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1514",
+    "type": "1",
+    "condition": "top_basFire_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1515",
+    "type": "1",
+    "condition": "top_basFroze_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1516",
+    "type": "1",
+    "condition": "top_basEarth_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1517",
+    "type": "1",
+    "condition": "top_basWood_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1518",
+    "type": "1",
+    "condition": "top_basWind_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1519",
+    "type": "1",
+    "condition": "top_basWind_2|top_basThunder_2",
+    "forbitStand": "2",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1520",
+    "type": "1",
+    "condition": "top_basEarth_2|top_basWood_2",
+    "forbitStand": "2",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1521",
+    "type": "1",
+    "condition": "top_basWind_2|top_basFire_2",
+    "forbitStand": "1",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1522",
+    "type": "1",
+    "condition": "top_basEarth_2|top_basFroze_2",
+    "forbitStand": "1",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1523",
+    "type": "1",
+    "condition": "top_basWind_2|top_basThunder_2|top_basFire_2",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1524",
+    "type": "1",
+    "condition": "top_basEarth_2|top_basWood_2|top_basFroze_2",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1525",
+    "type": "1",
+    "condition": "top_basMgAll_0",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1526",
+    "type": "1",
+    "condition": "top_basWpAll_0",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1527",
+    "type": "1",
+    "condition": "top_basMgAll_0",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1528",
+    "type": "1",
+    "condition": "top_basFroze_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1529",
+    "type": "1",
+    "condition": "top_basWood_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1530",
+    "type": "1",
+    "condition": "top_basFire_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1531",
+    "type": "1",
+    "condition": "top_basEarth_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1532",
+    "type": "1",
+    "condition": "top_basWind_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1533",
+    "type": "1",
+    "condition": "top_basThunder_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1601",
+    "type": "1",
+    "condition": "top_basPil_3",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1602",
+    "type": "1",
+    "condition": "top_basPil_3",
+    "forbitStand": "1",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1603",
+    "type": "1",
+    "condition": "top_basPil_3",
+    "forbitStand": "1",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1604",
+    "type": "1",
+    "condition": "top_basPil_3",
+    "forbitStand": "2",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1605",
+    "type": "1",
+    "condition": "top_basGeo_3",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1606",
+    "type": "1",
+    "condition": "top_basGeo_3",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1607",
+    "type": "1",
+    "condition": "top_basGeo_3",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1608",
+    "type": "1",
+    "condition": "top_basGeo_3",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1609",
+    "type": "1",
+    "condition": "top_basEqp_3",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1610",
+    "type": "1",
+    "condition": "top_basEqp_3|top_basPil_3",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1611",
+    "type": "1",
+    "condition": "top_basPil_3",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1701",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1702",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1703",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1704",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1705",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1706",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1707",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1708",
+    "type": "1",
+    "condition": "top_basMgAll_0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1709",
+    "type": "1",
+    "condition": "top_basWpAll_0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1710",
+    "type": "1",
+    "condition": "top_basMgAll_0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1711",
+    "type": "1",
+    "condition": "top_basMgAll_0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1712",
+    "type": "1",
+    "condition": "top_basWpAll_0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1713",
+    "type": "1",
+    "condition": "top_basWpAll_0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1714",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1715",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1716",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1717",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1718",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "1",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1719",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "2",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1720",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "10",
+    "weightGrade": "10"
+  },
+  {
+    "id": "1801",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1802",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1803",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1901",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1902",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1903",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1904",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1905",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1906",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1907",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1908",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1909",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1910",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "2001",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2002",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2003",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2004",
+    "type": "1",
+    "condition": "top_basMgAll_0|top_basWpAll_0",
+    "forbitStand": "1",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2005",
+    "type": "1",
+    "condition": "top_basMgAll_0|top_basWpAll_0",
+    "forbitStand": "1",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2006",
+    "type": "1",
+    "condition": "top_basFist_1|top_basPalm_1|top_basFinger_1",
+    "forbitStand": "1",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2007",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "2",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "2008",
+    "type": "1",
+    "condition": "top_basFist_1|top_basPalm_1|top_basFinger_1",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2009",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "2",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "2010",
+    "type": "1",
+    "condition": "top_basSword_1|top_basBlade_1|top_basSpear_1",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2101",
+    "type": "1",
+    "condition": "top_basPil_3",
+    "forbitStand": "2",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2102",
+    "type": "1",
+    "condition": "top_basEqp_3",
+    "forbitStand": "2",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2103",
+    "type": "1",
+    "condition": "top_basSym_3",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "2104",
+    "type": "1",
+    "condition": "top_basGeo_3",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "2105",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2106",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2107",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2108",
+    "type": "1",
+    "condition": "top_basWind_2|top_basSword_1",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2109",
+    "type": "1",
+    "condition": "top_basThunder_2|top_basSpear_1",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2110",
+    "type": "1",
+    "condition": "top_basFire_2|top_basBlade_1",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2111",
+    "type": "1",
+    "condition": "top_basEarth_2|top_basFist_1|top_basPalm_1|top_basFinger_1",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2112",
+    "type": "1",
+    "condition": "top_basEqp_3",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2113",
+    "type": "1",
+    "condition": "top_basEqp_3",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2201",
+    "type": "1",
+    "condition": "top_basThunder_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2202",
+    "type": "1",
+    "condition": "top_basThunder_2",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2203",
+    "type": "1",
+    "condition": "top_basFire_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2204",
+    "type": "1",
+    "condition": "top_basFire_2",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2205",
+    "type": "1",
+    "condition": "top_basFroze_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2206",
+    "type": "1",
+    "condition": "top_basFroze_2",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2207",
+    "type": "1",
+    "condition": "top_basWind_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2208",
+    "type": "1",
+    "condition": "top_basWind_2",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2209",
+    "type": "1",
+    "condition": "top_basEarth_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2210",
+    "type": "1",
+    "condition": "top_basEarth_2",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2211",
+    "type": "1",
+    "condition": "top_basWood_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2212",
+    "type": "1",
+    "condition": "top_basWood_2",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2301",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "2401",
+    "type": "1",
+    "condition": "top_basFroze_2|top_basWood_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2402",
+    "type": "1",
+    "condition": "top_basFroze_2|top_basWind_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2403",
+    "type": "1",
+    "condition": "top_basFire_2|top_basWind_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2404",
+    "type": "1",
+    "condition": "top_basFire_2|top_basThunder_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2405",
+    "type": "1",
+    "condition": "top_basEarth_2|top_basWood_2",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2406",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "1",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "2407",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "2408",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2409",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2410",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2411",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2412",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "100",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2413",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "2414",
+    "type": "1",
+    "condition": "top_basSpear_1",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2415",
+    "type": "1",
+    "condition": "top_basFire_2|top_basSword_1",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2501",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2502",
+    "type": "1",
+    "condition": "top_basWind_2",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2503",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2504",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2601",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2602",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2603",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2604",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "2",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2605",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "1",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1001",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1002",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1003",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "300",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1004",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "150",
+    "weightGrade": "100"
+  },
+  {
+    "id": "1005",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "2",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "1006",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "50",
+    "weightGrade": "100"
+  },
+  {
+    "id": "2708",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "2709",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "2801",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "2802",
+    "type": "1",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5001",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5002",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5003",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5004",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5005",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5006",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5007",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5008",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5009",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5010",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5011",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5012",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5013",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5014",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5015",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  },
+  {
+    "id": "5016",
+    "type": "2",
+    "condition": "0",
+    "forbitStand": "0",
+    "weightBase": "0",
+    "weightGrade": "0"
+  }
+]

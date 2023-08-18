@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1000",
+    "cardsCollected": "1",
+    "slotPosition": "3"
+  },
+  {
+    "id": "1001",
+    "cardsCollected": "2",
+    "slotPosition": "3"
+  },
+  {
+    "id": "1002",
+    "cardsCollected": "3",
+    "slotPosition": "3"
+  },
+  {
+    "id": "1003",
+    "cardsCollected": "4",
+    "slotPosition": "3"
+  },
+  {
+    "id": "1004",
+    "cardsCollected": "5",
+    "slotPosition": "3"
+  },
+  {
+    "id": "1005",
+    "cardsCollected": "6",
+    "slotPosition": "3"
+  },
+  {
+    "id": "1006",
+    "cardsCollected": "7",
+    "slotPosition": "3"
+  },
+  {
+    "id": "1007",
+    "cardsCollected": "8",
+    "slotPosition": "3"
+  },
+  {
+    "id": "1008",
+    "cardsCollected": "9",
+    "slotPosition": "3"
+  },
+  {
+    "id": "1009",
+    "cardsCollected": "10",
+    "slotPosition": "3"
+  },
+  {
+    "id": "1010",
+    "cardsCollected": "11",
+    "slotPosition": "4"
+  },
+  {
+    "id": "1011",
+    "cardsCollected": "12",
+    "slotPosition": "4"
+  },
+  {
+    "id": "1012",
+    "cardsCollected": "13",
+    "slotPosition": "4"
+  },
+  {
+    "id": "1013",
+    "cardsCollected": "14",
+    "slotPosition": "4"
+  },
+  {
+    "id": "1014",
+    "cardsCollected": "15",
+    "slotPosition": "4"
+  },
+  {
+    "id": "1015",
+    "cardsCollected": "16",
+    "slotPosition": "4"
+  },
+  {
+    "id": "1016",
+    "cardsCollected": "17",
+    "slotPosition": "4"
+  },
+  {
+    "id": "1017",
+    "cardsCollected": "18",
+    "slotPosition": "4"
+  },
+  {
+    "id": "1018",
+    "cardsCollected": "19",
+    "slotPosition": "4"
+  },
+  {
+    "id": "1019",
+    "cardsCollected": "20",
+    "slotPosition": "4"
+  },
+  {
+    "id": "1020",
+    "cardsCollected": "21",
+    "slotPosition": "5"
+  },
+  {
+    "id": "1021",
+    "cardsCollected": "22",
+    "slotPosition": "5"
+  },
+  {
+    "id": "1022",
+    "cardsCollected": "23",
+    "slotPosition": "5"
+  },
+  {
+    "id": "1023",
+    "cardsCollected": "24",
+    "slotPosition": "5"
+  },
+  {
+    "id": "1024",
+    "cardsCollected": "25",
+    "slotPosition": "5"
+  },
+  {
+    "id": "1025",
+    "cardsCollected": "26",
+    "slotPosition": "5"
+  },
+  {
+    "id": "1026",
+    "cardsCollected": "27",
+    "slotPosition": "5"
+  },
+  {
+    "id": "1027",
+    "cardsCollected": "28",
+    "slotPosition": "5"
+  },
+  {
+    "id": "1028",
+    "cardsCollected": "29",
+    "slotPosition": "5"
+  },
+  {
+    "id": "1029",
+    "cardsCollected": "30",
+    "slotPosition": "5"
+  },
+  {
+    "id": "1030",
+    "cardsCollected": "31",
+    "slotPosition": "6"
+  },
+  {
+    "id": "1031",
+    "cardsCollected": "32",
+    "slotPosition": "6"
+  },
+  {
+    "id": "1032",
+    "cardsCollected": "33",
+    "slotPosition": "6"
+  },
+  {
+    "id": "1033",
+    "cardsCollected": "34",
+    "slotPosition": "6"
+  },
+  {
+    "id": "1034",
+    "cardsCollected": "35",
+    "slotPosition": "6"
+  },
+  {
+    "id": "1035",
+    "cardsCollected": "36",
+    "slotPosition": "6"
+  },
+  {
+    "id": "1036",
+    "cardsCollected": "37",
+    "slotPosition": "6"
+  },
+  {
+    "id": "1037",
+    "cardsCollected": "38",
+    "slotPosition": "6"
+  },
+  {
+    "id": "1038",
+    "cardsCollected": "39",
+    "slotPosition": "6"
+  },
+  {
+    "id": "1039",
+    "cardsCollected": "40",
+    "slotPosition": "6"
+  }
+]

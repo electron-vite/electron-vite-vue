@@ -1,0 +1,237 @@
+[
+  {
+    "id": "1",
+    "key": "fazhenID",
+    "value": "4201001"
+  },
+  {
+    "id": "2",
+    "key": "monst1ID",
+    "value": "4201002"
+  },
+  {
+    "id": "3",
+    "key": "monst2ID",
+    "value": "4201003"
+  },
+  {
+    "id": "4",
+    "key": "monst3ID",
+    "value": "4201004"
+  },
+  {
+    "id": "5",
+    "key": "monst1Weight",
+    "value": "800"
+  },
+  {
+    "id": "6",
+    "key": "monst2Weight",
+    "value": "120"
+  },
+  {
+    "id": "7",
+    "key": "monst3Weight",
+    "value": "80"
+  },
+  {
+    "id": "8",
+    "key": "monst1Energy",
+    "value": "5"
+  },
+  {
+    "id": "9",
+    "key": "monst2Energy",
+    "value": "17"
+  },
+  {
+    "id": "10",
+    "key": "monst3Energy",
+    "value": "30"
+  },
+  {
+    "id": "11",
+    "key": "monstRate",
+    "value": "500"
+  },
+  {
+    "id": "12",
+    "key": "innerRate",
+    "value": "3000"
+  },
+  {
+    "id": "13",
+    "key": "inner",
+    "value": "400"
+  },
+  {
+    "id": "14",
+    "key": "outer",
+    "value": "600"
+  },
+  {
+    "id": "15",
+    "key": "size",
+    "value": "1300"
+  },
+  {
+    "id": "16",
+    "key": "bigRobberyRadius",
+    "value": "150"
+  },
+  {
+    "id": "17",
+    "key": "smallRobberyRadius",
+    "value": "50"
+  },
+  {
+    "id": "18",
+    "key": "phase1EndTime",
+    "value": "1000"
+  },
+  {
+    "id": "19",
+    "key": "phase2StartTime",
+    "value": "60000"
+  },
+  {
+    "id": "20",
+    "key": "phase2EndTime",
+    "value": "120000"
+  },
+  {
+    "id": "21",
+    "key": "fristRobberyTime",
+    "value": "1000"
+  },
+  {
+    "id": "22",
+    "key": "intervalRobbery1",
+    "value": "300"
+  },
+  {
+    "id": "23",
+    "key": "intervalRobbery2",
+    "value": "100"
+  },
+  {
+    "id": "24",
+    "key": "countRobbery1",
+    "value": "1"
+  },
+  {
+    "id": "25",
+    "key": "countRobbery2",
+    "value": "6"
+  },
+  {
+    "id": "26",
+    "key": "robberyMonstDelay",
+    "value": "250"
+  },
+  {
+    "id": "27",
+    "key": "energyMax",
+    "value": "1200"
+  },
+  {
+    "id": "28",
+    "key": "hpSkillID",
+    "value": "141011"
+  },
+  {
+    "id": "29",
+    "key": "mpSkillID",
+    "value": "141012"
+  },
+  {
+    "id": "30",
+    "key": "spSkillID",
+    "value": "141013"
+  },
+  {
+    "id": "31",
+    "key": "bigSkillCost",
+    "value": "300"
+  },
+  {
+    "id": "32",
+    "key": "bigSkillCD",
+    "value": "0"
+  },
+  {
+    "id": "33",
+    "key": "bigSkillPressTime",
+    "value": "2000"
+  },
+  {
+    "id": "34",
+    "key": "smallRobberyID",
+    "value": "1016"
+  },
+  {
+    "id": "35",
+    "key": "bigRobberyID",
+    "value": "1017"
+  },
+  {
+    "id": "36",
+    "key": "smallRobberyMinCD",
+    "value": "500"
+  },
+  {
+    "id": "37",
+    "key": "smallRobberyMaxCD",
+    "value": "1500"
+  },
+  {
+    "id": "38",
+    "key": "bigRobberyMinCD",
+    "value": "2000"
+  },
+  {
+    "id": "39",
+    "key": "bigRobberyMaxCD",
+    "value": "5000"
+  },
+  {
+    "id": "40",
+    "key": "robberyRate",
+    "value": "1500"
+  },
+  {
+    "id": "41",
+    "key": "itemPillAddCount",
+    "value": "25"
+  },
+  {
+    "id": "42",
+    "key": "fixUsePillCool",
+    "value": "200"
+  },
+  {
+    "id": "43",
+    "key": "fixAttribute",
+    "value": "5000"
+  },
+  {
+    "id": "44",
+    "key": "addPillCost",
+    "value": "-5000"
+  },
+  {
+    "id": "45",
+    "key": "winAddLuck",
+    "value": "147"
+  },
+  {
+    "id": "46",
+    "key": "maxMonster",
+    "value": "30"
+  },
+  {
+    "id": "47",
+    "key": "step2buff",
+    "value": "1410003"
+  }
+]

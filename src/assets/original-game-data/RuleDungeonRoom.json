@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "attr": "0"
+  },
+  {
+    "id": "2",
+    "attr": "hp_50|skillDmg_40"
+  },
+  {
+    "id": "3",
+    "attr": "hp_100|skillDmg_80"
+  },
+  {
+    "id": "4",
+    "attr": "hp_150|skillDmg_120"
+  },
+  {
+    "id": "5",
+    "attr": "hp_200|skillDmg_160"
+  }
+]

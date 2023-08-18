@@ -1,0 +1,317 @@
+[
+  {
+    "id": "70001",
+    "isRotation": "0",
+    "posi": "0",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70002",
+    "isRotation": "1",
+    "posi": "0",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70003",
+    "isRotation": "0",
+    "posi": "0",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70004",
+    "isRotation": "0",
+    "posi": "11",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70005",
+    "isRotation": "0",
+    "posi": "1",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70006",
+    "isRotation": "0",
+    "posi": "1",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70007",
+    "isRotation": "0",
+    "posi": "1",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70008",
+    "isRotation": "1",
+    "posi": "1",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70009",
+    "isRotation": "1",
+    "posi": "0",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70010",
+    "isRotation": "1",
+    "posi": "12",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70011",
+    "isRotation": "1",
+    "posi": "2",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70012",
+    "isRotation": "1",
+    "posi": "1",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70013",
+    "isRotation": "0",
+    "posi": "1",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70014",
+    "isRotation": "0",
+    "posi": "12",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70015",
+    "isRotation": "0",
+    "posi": "2",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70016",
+    "isRotation": "0",
+    "posi": "2",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70017",
+    "isRotation": "0",
+    "posi": "2",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70018",
+    "isRotation": "0",
+    "posi": "2",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70019",
+    "isRotation": "0",
+    "posi": "0",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70020",
+    "isRotation": "0",
+    "posi": "0",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70021",
+    "isRotation": "0",
+    "posi": "0",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70022",
+    "isRotation": "0",
+    "posi": "0",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70023",
+    "isRotation": "1",
+    "posi": "2",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70024",
+    "isRotation": "0",
+    "posi": "3",
+    "isTargetPosi": "1",
+    "interval": "100"
+  },
+  {
+    "id": "70025",
+    "isRotation": "0",
+    "posi": "0",
+    "isTargetPosi": "0",
+    "interval": "1000"
+  },
+  {
+    "id": "70026",
+    "isRotation": "0",
+    "posi": "12",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70027",
+    "isRotation": "0",
+    "posi": "12",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70028",
+    "isRotation": "0",
+    "posi": "2",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70029",
+    "isRotation": "0",
+    "posi": "12",
+    "isTargetPosi": "0",
+    "interval": "&710005_qgcxsj"
+  },
+  {
+    "id": "70030",
+    "isRotation": "0",
+    "posi": "12",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70031",
+    "isRotation": "0",
+    "posi": "12",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70032",
+    "isRotation": "0",
+    "posi": "12",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70033",
+    "isRotation": "0",
+    "posi": "12",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70034",
+    "isRotation": "0",
+    "posi": "12",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70035",
+    "isRotation": "0",
+    "posi": "12",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70036",
+    "isRotation": "0",
+    "posi": "1",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70037",
+    "isRotation": "1",
+    "posi": "4",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70038",
+    "isRotation": "0",
+    "posi": "1",
+    "isTargetPosi": "0",
+    "interval": "500"
+  },
+  {
+    "id": "70039",
+    "isRotation": "0",
+    "posi": "11",
+    "isTargetPosi": "1",
+    "interval": "0"
+  },
+  {
+    "id": "70040",
+    "isRotation": "0",
+    "posi": "11",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70041",
+    "isRotation": "0",
+    "posi": "12",
+    "isTargetPosi": "0",
+    "interval": "0"
+  },
+  {
+    "id": "70042",
+    "isRotation": "0",
+    "posi": "2",
+    "isTargetPosi": "1",
+    "interval": "500"
+  },
+  {
+    "id": "70043",
+    "isRotation": "0",
+    "posi": "1",
+    "isTargetPosi": "0",
+    "interval": "500"
+  },
+  {
+    "id": "70044",
+    "isRotation": "0",
+    "posi": "0",
+    "isTargetPosi": "1",
+    "interval": "100"
+  },
+  {
+    "id": "70045",
+    "isRotation": "0",
+    "posi": "13",
+    "isTargetPosi": "0",
+    "interval": "0"
+  }
+]

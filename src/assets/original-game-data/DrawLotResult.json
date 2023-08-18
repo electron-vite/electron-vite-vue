@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "key": "aceRed",
+    "value": "8005118|8005137"
+  },
+  {
+    "id": "2",
+    "key": "acePurple",
+    "value": "8005118|8005137"
+  },
+  {
+    "id": "3",
+    "key": "aceGreen",
+    "value": "8005118|8005137"
+  },
+  {
+    "id": "4",
+    "key": "allRed",
+    "value": "8005126|8005138"
+  },
+  {
+    "id": "6",
+    "key": "allPurple",
+    "value": "8005126|8005138"
+  },
+  {
+    "id": "5",
+    "key": "allGreen",
+    "value": "8005126|8005138"
+  },
+  {
+    "id": "7",
+    "key": "allGreatFortune",
+    "value": "8005127|8005137"
+  },
+  {
+    "id": "8",
+    "key": "allModestFortune",
+    "value": "8005127|8005137"
+  },
+  {
+    "id": "9",
+    "key": "allMisFortune",
+    "value": "8005127|8005137"
+  },
+  {
+    "id": "10",
+    "key": "pair",
+    "value": "8005212"
+  },
+  {
+    "id": "11",
+    "key": "fail",
+    "value": "8005130|8005211"
+  },
+  {
+    "id": "12",
+    "key": "forceAceRed",
+    "value": "8005122"
+  }
+]

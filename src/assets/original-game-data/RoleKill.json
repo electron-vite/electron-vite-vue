@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "key": "hateAddKill",
+    "value": "500"
+  },
+  {
+    "id": "2",
+    "key": "hateAddPara",
+    "value": "10"
+  },
+  {
+    "id": "3",
+    "key": "reputationReducePara",
+    "value": "-250"
+  },
+  {
+    "id": "4",
+    "key": "reputationAddPara",
+    "value": "125"
+  },
+  {
+    "id": "5",
+    "key": "lostItemInitProb",
+    "value": "80"
+  },
+  {
+    "id": "6",
+    "key": "lostItemGrowProb",
+    "value": "10"
+  },
+  {
+    "id": "7",
+    "key": "lostItemPercentMin",
+    "value": "20"
+  },
+  {
+    "id": "8",
+    "key": "lostItemPercentMax",
+    "value": "100"
+  },
+  {
+    "id": "9",
+    "key": "cureTimeMin",
+    "value": "24"
+  },
+  {
+    "id": "10",
+    "key": "cureTimeMax",
+    "value": "60"
+  },
+  {
+    "id": "11",
+    "key": "deadBuryRange",
+    "value": "10"
+  },
+  {
+    "id": "12",
+    "key": "hateLimited",
+    "value": "-9999"
+  }
+]

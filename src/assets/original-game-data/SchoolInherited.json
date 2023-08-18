@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "localScale": "-1",
+    "atkUp": "0.05",
+    "defUp": "0.05",
+    "hpUp": "0.05",
+    "bigUp": "0.05"
+  },
+  {
+    "id": "2",
+    "localScale": "1",
+    "atkUp": "0.05",
+    "defUp": "0.05",
+    "hpUp": "0.05",
+    "bigUp": "0.05"
+  },
+  {
+    "id": "3",
+    "localScale": "2",
+    "atkUp": "0.1",
+    "defUp": "0.1",
+    "hpUp": "0.1",
+    "bigUp": "0.1"
+  },
+  {
+    "id": "4",
+    "localScale": "3",
+    "atkUp": "0.15",
+    "defUp": "0.15",
+    "hpUp": "0.15",
+    "bigUp": "0.15"
+  },
+  {
+    "id": "5",
+    "localScale": "4",
+    "atkUp": "0.2",
+    "defUp": "0.2",
+    "hpUp": "0.2",
+    "bigUp": "0.2"
+  }
+]

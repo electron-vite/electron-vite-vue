@@ -1,0 +1,158 @@
+[
+  {
+    "id": "0",
+    "name": "world_building_blank",
+    "isOverDecorate": "1",
+    "moveCost": "300"
+  },
+  {
+    "id": "1",
+    "name": "world_building_ranking_top",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "2",
+    "name": "world_building_ranking_bottom",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "3",
+    "name": "world_building_school_white",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "4",
+    "name": "world_building_town",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "5",
+    "name": "world_building_honorHill",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "6",
+    "name": "world_building_honorVillage",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "101",
+    "name": "world_building_101",
+    "isOverDecorate": "1",
+    "moveCost": "500"
+  },
+  {
+    "id": "102",
+    "name": "world_building_102",
+    "isOverDecorate": "1",
+    "moveCost": "1000"
+  },
+  {
+    "id": "103",
+    "name": "world_building_103",
+    "isOverDecorate": "1",
+    "moveCost": "1000"
+  },
+  {
+    "id": "104",
+    "name": "world_building_104",
+    "isOverDecorate": "1",
+    "moveCost": "1000"
+  },
+  {
+    "id": "105",
+    "name": "world_building_105",
+    "isOverDecorate": "1",
+    "moveCost": "1000"
+  },
+  {
+    "id": "106",
+    "name": "world_building_106",
+    "isOverDecorate": "1",
+    "moveCost": "1000"
+  },
+  {
+    "id": "107",
+    "name": "world_building_107",
+    "isOverDecorate": "1",
+    "moveCost": "1000"
+  },
+  {
+    "id": "108",
+    "name": "world_building_108",
+    "isOverDecorate": "1",
+    "moveCost": "1000"
+  },
+  {
+    "id": "109",
+    "name": "world_building_109",
+    "isOverDecorate": "1",
+    "moveCost": "1000"
+  },
+  {
+    "id": "110",
+    "name": "world_building_110",
+    "isOverDecorate": "1",
+    "moveCost": "1000"
+  },
+  {
+    "id": "1001",
+    "name": "0",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "10001",
+    "name": "world_building_10001",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "10002",
+    "name": "world_building_10002",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "10003",
+    "name": "0",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "10004",
+    "name": "world_building_10004",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "10005",
+    "name": "0",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "10007",
+    "name": "0",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "10008",
+    "name": "0",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  },
+  {
+    "id": "10009",
+    "name": "0",
+    "isOverDecorate": "0",
+    "moveCost": "300"
+  }
+]

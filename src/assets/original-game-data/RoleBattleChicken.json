@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "key": "battleChickenCostEnergy",
+    "value": "10"
+  },
+  {
+    "id": "2",
+    "key": "battleChickenAddCloseMin",
+    "value": "5"
+  },
+  {
+    "id": "3",
+    "key": "battleChickenAddCloseMax",
+    "value": "10"
+  },
+  {
+    "id": "4",
+    "key": "battleChickenReduceCloseMin",
+    "value": "-6"
+  },
+  {
+    "id": "5",
+    "key": "battleChickenReduceCloseMax",
+    "value": "-3"
+  },
+  {
+    "id": "6",
+    "key": "battleChickenCostTime",
+    "value": "10"
+  }
+]

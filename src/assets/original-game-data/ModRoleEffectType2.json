@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "attrKey": "moodLock",
+    "attrText": "modEffectType2Name_moodLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "2",
+    "attrKey": "talentLock",
+    "attrText": "modEffectType2Name_talentLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "3",
+    "attrKey": "swordLock",
+    "attrText": "modEffectType2Name_swordLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "4",
+    "attrKey": "spearLock",
+    "attrText": "modEffectType2Name_spearLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "5",
+    "attrKey": "sladeLock",
+    "attrText": "modEffectType2Name_sladeLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "6",
+    "attrKey": "fistLock",
+    "attrText": "modEffectType2Name_fistLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "7",
+    "attrKey": "palmLock",
+    "attrText": "modEffectType2Name_palmLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "8",
+    "attrKey": "fingerLock",
+    "attrText": "modEffectType2Name_fingerLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "9",
+    "attrKey": "fireLock",
+    "attrText": "modEffectType2Name_fireLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "10",
+    "attrKey": "frozeLock",
+    "attrText": "modEffectType2Name_frozeLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "11",
+    "attrKey": "thunderLock",
+    "attrText": "modEffectType2Name_thunderLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "12",
+    "attrKey": "windLock",
+    "attrText": "modEffectType2Name_windLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "13",
+    "attrKey": "earthLock",
+    "attrText": "modEffectType2Name_earthLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "14",
+    "attrKey": "woodLock",
+    "attrText": "modEffectType2Name_woodLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "15",
+    "attrKey": "beautyLock",
+    "attrText": "modEffectType2Name_beautyLock",
+    "attrDesc": "0"
+  },
+  {
+    "id": "16",
+    "attrKey": "fspLock",
+    "attrText": "modEffectType2Name_fspLock",
+    "attrDesc": "0"
+  }
+]

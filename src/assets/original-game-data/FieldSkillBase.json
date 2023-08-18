@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "key": "attrParaA",
+    "value": "40"
+  },
+  {
+    "id": "2",
+    "key": "attrParaB",
+    "value": "500"
+  },
+  {
+    "id": "3",
+    "key": "chargeTime",
+    "value": "30000"
+  },
+  {
+    "id": "4",
+    "key": "dpCost",
+    "value": "100"
+  },
+  {
+    "id": "5",
+    "key": "duration",
+    "value": "25000"
+  },
+  {
+    "id": "6",
+    "key": "cd",
+    "value": "200000"
+  },
+  {
+    "id": "7",
+    "key": "range",
+    "value": "500"
+  },
+  {
+    "id": "8",
+    "key": "requirePropId",
+    "value": "1011601|1011602|1011603|1011604|1011605|1011606"
+  },
+  {
+    "id": "9",
+    "key": "monthAddDP",
+    "value": "30"
+  },
+  {
+    "id": "10",
+    "key": "dpMin",
+    "value": "150"
+  }
+]

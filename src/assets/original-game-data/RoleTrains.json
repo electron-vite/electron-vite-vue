@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "key": "expAddPara",
+    "value": "200"
+  },
+  {
+    "id": "2",
+    "key": "closeAddMin",
+    "value": "10"
+  },
+  {
+    "id": "3",
+    "key": "closeAddMax",
+    "value": "20"
+  },
+  {
+    "id": "4",
+    "key": "costDay",
+    "value": "10"
+  },
+  {
+    "id": "5",
+    "key": "trainsCD",
+    "value": "6"
+  },
+  {
+    "id": "6",
+    "key": "getAbilityPointMin",
+    "value": "1"
+  },
+  {
+    "id": "7",
+    "key": "getAbilityPointMax",
+    "value": "6"
+  },
+  {
+    "id": "8",
+    "key": "victoryThinkMin",
+    "value": "40"
+  },
+  {
+    "id": "9",
+    "key": "victoryThinkMax",
+    "value": "50"
+  },
+  {
+    "id": "10",
+    "key": "addMaxhpValueMin",
+    "value": "8"
+  },
+  {
+    "id": "11",
+    "key": "addMaxhpValueMax",
+    "value": "15"
+  }
+]

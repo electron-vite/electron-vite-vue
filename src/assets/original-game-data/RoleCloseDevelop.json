@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "key": "developValue",
+    "value": "40"
+  },
+  {
+    "id": "2",
+    "key": "closeMin",
+    "value": "60"
+  },
+  {
+    "id": "3",
+    "key": "hateMin",
+    "value": "0"
+  }
+]

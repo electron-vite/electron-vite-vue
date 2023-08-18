@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "key": "damageEnerge",
+    "value": "0.8"
+  },
+  {
+    "id": "2",
+    "key": "initAtk",
+    "value": "255"
+  },
+  {
+    "id": "3",
+    "key": "initDef",
+    "value": "35"
+  },
+  {
+    "id": "4",
+    "key": "initHp",
+    "value": "2000"
+  },
+  {
+    "id": "5",
+    "key": "initSpd",
+    "value": "60"
+  },
+  {
+    "id": "6",
+    "key": "atkValue",
+    "value": "28"
+  },
+  {
+    "id": "7",
+    "key": "defValue",
+    "value": "28"
+  },
+  {
+    "id": "8",
+    "key": "hpValue",
+    "value": "1"
+  },
+  {
+    "id": "9",
+    "key": "spdValue",
+    "value": "15"
+  },
+  {
+    "id": "10",
+    "key": "survivalScaleMin",
+    "value": "0.9"
+  },
+  {
+    "id": "11",
+    "key": "survivalScaleMax",
+    "value": "1.1"
+  },
+  {
+    "id": "12",
+    "key": "createUnitsLimit",
+    "value": "200"
+  },
+  {
+    "id": "13",
+    "key": "createUnitsAmount",
+    "value": "15"
+  },
+  {
+    "id": "14",
+    "key": "createUnitChickenMin",
+    "value": "8"
+  },
+  {
+    "id": "15",
+    "key": "createWeight1",
+    "value": "0"
+  },
+  {
+    "id": "16",
+    "key": "createWeight2",
+    "value": "0"
+  },
+  {
+    "id": "17",
+    "key": "createWeight3",
+    "value": "68"
+  },
+  {
+    "id": "18",
+    "key": "createWeight4",
+    "value": "20"
+  },
+  {
+    "id": "19",
+    "key": "createWeight5",
+    "value": "10"
+  },
+  {
+    "id": "20",
+    "key": "createWeight6",
+    "value": "2"
+  },
+  {
+    "id": "21",
+    "key": "createChickensMin",
+    "value": "8"
+  },
+  {
+    "id": "22",
+    "key": "createChickensMax",
+    "value": "12"
+  },
+  {
+    "id": "23",
+    "key": "coinId",
+    "value": "2821101"
+  },
+  {
+    "id": "24",
+    "key": "coinBonus",
+    "value": "100"
+  },
+  {
+    "id": "25",
+    "key": "uiHitValSize0",
+    "value": "40"
+  },
+  {
+    "id": "26",
+    "key": "uiHitValSize1",
+    "value": "50"
+  },
+  {
+    "id": "27",
+    "key": "uiHitValSize2",
+    "value": "60"
+  },
+  {
+    "id": "28",
+    "key": "uiHitValSize3",
+    "value": "70"
+  },
+  {
+    "id": "29",
+    "key": "uiHitValSize4",
+    "value": "80"
+  },
+  {
+    "id": "30",
+    "key": "uiHitValSize5",
+    "value": "90"
+  },
+  {
+    "id": "31",
+    "key": "extraHpPerGrade",
+    "value": "400"
+  },
+  {
+    "id": "32",
+    "key": "extraAtkPerGrade",
+    "value": "30"
+  },
+  {
+    "id": "33",
+    "key": "extraDefPerGrade",
+    "value": "30"
+  },
+  {
+    "id": "34",
+    "key": "extraAtkSpdPerGrade",
+    "value": "50"
+  },
+  {
+    "id": "35",
+    "key": "farmPropId",
+    "value": "0"
+  },
+  {
+    "id": "36",
+    "key": "farmOpenWinReq",
+    "value": "0"
+  }
+]

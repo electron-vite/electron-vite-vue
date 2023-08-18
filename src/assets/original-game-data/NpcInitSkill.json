@@ -1,0 +1,542 @@
+[
+  {
+    "id": "1",
+    "grade": "10",
+    "phase": "3",
+    "skillGrade": "10",
+    "skillLevel": "6",
+    "probability": "500",
+    "probabilityCrazy": "2000"
+  },
+  {
+    "id": "2",
+    "grade": "10",
+    "phase": "3",
+    "skillGrade": "10",
+    "skillLevel": "5",
+    "probability": "1000",
+    "probabilityCrazy": "6000"
+  },
+  {
+    "id": "3",
+    "grade": "10",
+    "phase": "2",
+    "skillGrade": "10",
+    "skillLevel": "4",
+    "probability": "5000",
+    "probabilityCrazy": "8000"
+  },
+  {
+    "id": "4",
+    "grade": "10",
+    "phase": "2",
+    "skillGrade": "10",
+    "skillLevel": "3",
+    "probability": "7500",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "5",
+    "grade": "10",
+    "phase": "1",
+    "skillGrade": "10",
+    "skillLevel": "2",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "6",
+    "grade": "10",
+    "phase": "1",
+    "skillGrade": "10",
+    "skillLevel": "1",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "7",
+    "grade": "9",
+    "phase": "3",
+    "skillGrade": "9",
+    "skillLevel": "6",
+    "probability": "500",
+    "probabilityCrazy": "2000"
+  },
+  {
+    "id": "8",
+    "grade": "9",
+    "phase": "3",
+    "skillGrade": "9",
+    "skillLevel": "5",
+    "probability": "1000",
+    "probabilityCrazy": "6000"
+  },
+  {
+    "id": "9",
+    "grade": "9",
+    "phase": "2",
+    "skillGrade": "9",
+    "skillLevel": "4",
+    "probability": "5000",
+    "probabilityCrazy": "8000"
+  },
+  {
+    "id": "10",
+    "grade": "9",
+    "phase": "2",
+    "skillGrade": "9",
+    "skillLevel": "3",
+    "probability": "7500",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "11",
+    "grade": "9",
+    "phase": "1",
+    "skillGrade": "9",
+    "skillLevel": "2",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "12",
+    "grade": "9",
+    "phase": "1",
+    "skillGrade": "9",
+    "skillLevel": "1",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "13",
+    "grade": "8",
+    "phase": "3",
+    "skillGrade": "8",
+    "skillLevel": "6",
+    "probability": "500",
+    "probabilityCrazy": "2000"
+  },
+  {
+    "id": "14",
+    "grade": "8",
+    "phase": "3",
+    "skillGrade": "8",
+    "skillLevel": "5",
+    "probability": "1000",
+    "probabilityCrazy": "6000"
+  },
+  {
+    "id": "15",
+    "grade": "8",
+    "phase": "2",
+    "skillGrade": "8",
+    "skillLevel": "4",
+    "probability": "5000",
+    "probabilityCrazy": "8000"
+  },
+  {
+    "id": "16",
+    "grade": "8",
+    "phase": "2",
+    "skillGrade": "8",
+    "skillLevel": "3",
+    "probability": "7500",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "17",
+    "grade": "8",
+    "phase": "1",
+    "skillGrade": "8",
+    "skillLevel": "2",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "18",
+    "grade": "8",
+    "phase": "1",
+    "skillGrade": "8",
+    "skillLevel": "1",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "19",
+    "grade": "7",
+    "phase": "3",
+    "skillGrade": "7",
+    "skillLevel": "6",
+    "probability": "500",
+    "probabilityCrazy": "2000"
+  },
+  {
+    "id": "20",
+    "grade": "7",
+    "phase": "3",
+    "skillGrade": "7",
+    "skillLevel": "5",
+    "probability": "1000",
+    "probabilityCrazy": "6000"
+  },
+  {
+    "id": "21",
+    "grade": "7",
+    "phase": "2",
+    "skillGrade": "7",
+    "skillLevel": "4",
+    "probability": "5000",
+    "probabilityCrazy": "8000"
+  },
+  {
+    "id": "22",
+    "grade": "7",
+    "phase": "2",
+    "skillGrade": "7",
+    "skillLevel": "3",
+    "probability": "7500",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "23",
+    "grade": "7",
+    "phase": "1",
+    "skillGrade": "7",
+    "skillLevel": "2",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "24",
+    "grade": "7",
+    "phase": "1",
+    "skillGrade": "7",
+    "skillLevel": "1",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "25",
+    "grade": "6",
+    "phase": "3",
+    "skillGrade": "6",
+    "skillLevel": "6",
+    "probability": "500",
+    "probabilityCrazy": "2000"
+  },
+  {
+    "id": "26",
+    "grade": "6",
+    "phase": "3",
+    "skillGrade": "6",
+    "skillLevel": "5",
+    "probability": "1000",
+    "probabilityCrazy": "6000"
+  },
+  {
+    "id": "27",
+    "grade": "6",
+    "phase": "2",
+    "skillGrade": "6",
+    "skillLevel": "4",
+    "probability": "5000",
+    "probabilityCrazy": "8000"
+  },
+  {
+    "id": "28",
+    "grade": "6",
+    "phase": "2",
+    "skillGrade": "6",
+    "skillLevel": "3",
+    "probability": "7500",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "29",
+    "grade": "6",
+    "phase": "1",
+    "skillGrade": "6",
+    "skillLevel": "2",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "30",
+    "grade": "6",
+    "phase": "1",
+    "skillGrade": "6",
+    "skillLevel": "1",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "31",
+    "grade": "5",
+    "phase": "3",
+    "skillGrade": "5",
+    "skillLevel": "6",
+    "probability": "500",
+    "probabilityCrazy": "2000"
+  },
+  {
+    "id": "32",
+    "grade": "5",
+    "phase": "3",
+    "skillGrade": "5",
+    "skillLevel": "5",
+    "probability": "1000",
+    "probabilityCrazy": "6000"
+  },
+  {
+    "id": "33",
+    "grade": "5",
+    "phase": "2",
+    "skillGrade": "5",
+    "skillLevel": "4",
+    "probability": "5000",
+    "probabilityCrazy": "8000"
+  },
+  {
+    "id": "34",
+    "grade": "5",
+    "phase": "2",
+    "skillGrade": "5",
+    "skillLevel": "3",
+    "probability": "7500",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "35",
+    "grade": "5",
+    "phase": "1",
+    "skillGrade": "5",
+    "skillLevel": "2",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "36",
+    "grade": "5",
+    "phase": "1",
+    "skillGrade": "5",
+    "skillLevel": "1",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "37",
+    "grade": "4",
+    "phase": "3",
+    "skillGrade": "4",
+    "skillLevel": "6",
+    "probability": "500",
+    "probabilityCrazy": "2000"
+  },
+  {
+    "id": "38",
+    "grade": "4",
+    "phase": "3",
+    "skillGrade": "4",
+    "skillLevel": "5",
+    "probability": "1000",
+    "probabilityCrazy": "6000"
+  },
+  {
+    "id": "39",
+    "grade": "4",
+    "phase": "2",
+    "skillGrade": "4",
+    "skillLevel": "4",
+    "probability": "5000",
+    "probabilityCrazy": "8000"
+  },
+  {
+    "id": "40",
+    "grade": "4",
+    "phase": "2",
+    "skillGrade": "4",
+    "skillLevel": "3",
+    "probability": "7500",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "41",
+    "grade": "4",
+    "phase": "1",
+    "skillGrade": "4",
+    "skillLevel": "2",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "42",
+    "grade": "4",
+    "phase": "1",
+    "skillGrade": "4",
+    "skillLevel": "1",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "43",
+    "grade": "3",
+    "phase": "3",
+    "skillGrade": "3",
+    "skillLevel": "6",
+    "probability": "500",
+    "probabilityCrazy": "2000"
+  },
+  {
+    "id": "44",
+    "grade": "3",
+    "phase": "3",
+    "skillGrade": "3",
+    "skillLevel": "5",
+    "probability": "1000",
+    "probabilityCrazy": "6000"
+  },
+  {
+    "id": "45",
+    "grade": "3",
+    "phase": "2",
+    "skillGrade": "3",
+    "skillLevel": "4",
+    "probability": "5000",
+    "probabilityCrazy": "8000"
+  },
+  {
+    "id": "46",
+    "grade": "3",
+    "phase": "2",
+    "skillGrade": "3",
+    "skillLevel": "3",
+    "probability": "7500",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "47",
+    "grade": "3",
+    "phase": "1",
+    "skillGrade": "3",
+    "skillLevel": "2",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "48",
+    "grade": "3",
+    "phase": "1",
+    "skillGrade": "3",
+    "skillLevel": "1",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "49",
+    "grade": "2",
+    "phase": "3",
+    "skillGrade": "2",
+    "skillLevel": "6",
+    "probability": "500",
+    "probabilityCrazy": "2000"
+  },
+  {
+    "id": "50",
+    "grade": "2",
+    "phase": "3",
+    "skillGrade": "2",
+    "skillLevel": "5",
+    "probability": "1000",
+    "probabilityCrazy": "6000"
+  },
+  {
+    "id": "51",
+    "grade": "2",
+    "phase": "2",
+    "skillGrade": "2",
+    "skillLevel": "4",
+    "probability": "5000",
+    "probabilityCrazy": "8000"
+  },
+  {
+    "id": "52",
+    "grade": "2",
+    "phase": "2",
+    "skillGrade": "2",
+    "skillLevel": "3",
+    "probability": "7500",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "53",
+    "grade": "2",
+    "phase": "1",
+    "skillGrade": "2",
+    "skillLevel": "2",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "54",
+    "grade": "2",
+    "phase": "1",
+    "skillGrade": "2",
+    "skillLevel": "1",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "55",
+    "grade": "1",
+    "phase": "3",
+    "skillGrade": "1",
+    "skillLevel": "6",
+    "probability": "500",
+    "probabilityCrazy": "2000"
+  },
+  {
+    "id": "56",
+    "grade": "1",
+    "phase": "3",
+    "skillGrade": "1",
+    "skillLevel": "5",
+    "probability": "1000",
+    "probabilityCrazy": "6000"
+  },
+  {
+    "id": "57",
+    "grade": "1",
+    "phase": "2",
+    "skillGrade": "1",
+    "skillLevel": "4",
+    "probability": "5000",
+    "probabilityCrazy": "8000"
+  },
+  {
+    "id": "58",
+    "grade": "1",
+    "phase": "2",
+    "skillGrade": "1",
+    "skillLevel": "3",
+    "probability": "7500",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "59",
+    "grade": "1",
+    "phase": "1",
+    "skillGrade": "1",
+    "skillLevel": "2",
+    "probability": "2000",
+    "probabilityCrazy": "10000"
+  },
+  {
+    "id": "60",
+    "grade": "1",
+    "phase": "1",
+    "skillGrade": "1",
+    "skillLevel": "1",
+    "probability": "10000",
+    "probabilityCrazy": "10000"
+  }
+]

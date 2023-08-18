@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "1001",
+    "title": "modEnum1001Title",
+    "desc": "0",
+    "types": "1|2|3|4|5|6|7|8|9|10",
+    "typesName": "modEnum10010EnumName1|modEnum10010EnumName2|modEnum10010EnumName3|modEnum10010EnumName4|modEnum10010EnumName5|modEnum10010EnumName6|modEnum10010EnumName7|modEnum10010EnumName8|modEnum10010EnumName9|modEnum10010EnumName10",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1002",
+    "title": "modEnum1002Title",
+    "desc": "0",
+    "types": "1|2|3|4|5|6",
+    "typesName": "modEnum10012EnumName1|modEnum10012EnumName2|modEnum10012EnumName3|modEnum10012EnumName4|modEnum10012EnumName5|modEnum10012EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1003",
+    "title": "modEnum1003Title",
+    "desc": "0",
+    "types": "3|4|5|6|7|8|9|10|11|12|13",
+    "typesName": "modEnum1003EnumName3|modEnum1003EnumName4|modEnum1003EnumName5|modEnum1003EnumName6|modEnum1003EnumName7|modEnum1003EnumName8|modEnum1003EnumName9|modEnum1003EnumName10|modEnum1003EnumName11|modEnum1003EnumName12|modEnum1003EnumName13",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1004",
+    "title": "modEnum1004Title",
+    "desc": "0",
+    "types": "1|2|3",
+    "typesName": "modEnum10023EnumName1|modEnum10023EnumName2|modEnum10023EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1005",
+    "title": "modEnum1005Title",
+    "desc": "0",
+    "types": "1|2|3|4|5|6",
+    "typesName": "modEnum1005EnumName1|modEnum1005EnumName2|modEnum1005EnumName3|modEnum1005EnumName4|modEnum1005EnumName5|modEnum1005EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1006",
+    "title": "modEnum1006Title",
+    "desc": "0",
+    "types": "1|2|3|4|5|6",
+    "typesName": "modEnum1006EnumName1|modEnum1006EnumName2|modEnum1006EnumName3|modEnum1006EnumName4|modEnum1006EnumName5|modEnum1006EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1007",
+    "title": "modEnum1007Title",
+    "desc": "0",
+    "types": "1|2|3|4|5",
+    "typesName": "modEnum1007EnumName1|modEnum1007EnumName2|modEnum1007EnumName3|modEnum1007EnumName4|modEnum1007EnumName5",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1008",
+    "title": "modEnum1008Title",
+    "desc": "0",
+    "types": "1|2",
+    "typesName": "modEnum1008EnumName1|modEnum1008EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1009",
+    "title": "modEnum1009Title",
+    "desc": "0",
+    "types": "0|1|2|3|4|5|6",
+    "typesName": "modEnum1009EnumName0|modEnum1009EnumName1|modEnum1009EnumName2|modEnum1009EnumName3|modEnum1009EnumName4|modEnum1009EnumName5|modEnum1009EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1010",
+    "title": "modEnum1010Title",
+    "desc": "0",
+    "types": "1|2|3",
+    "typesName": "modEnum1010EnumName1|modEnum1010EnumName2|modEnum1010EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1011",
+    "title": "modEnum1009Title",
+    "desc": "0",
+    "types": "1|2|3|4|5|6",
+    "typesName": "modEnum1009EnumName1|modEnum1009EnumName2|modEnum1009EnumName3|modEnum1009EnumName4|modEnum1009EnumName5|modEnum1009EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1012",
+    "title": "modEnum1012Title",
+    "desc": "0",
+    "types": "0|1|2|3|4|5",
+    "typesName": "modEnum1012EnumName0|modEnum1007EnumName1|modEnum1007EnumName2|modEnum1007EnumName3|modEnum1007EnumName4|modEnum1007EnumName5",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1013",
+    "title": "modEnum1013Title",
+    "desc": "0",
+    "types": "1|2|3|4|5",
+    "typesName": "modEnum1013EnumName1|modEnum1013EnumName2|modEnum1013EnumName3|modEnum1013EnumName4|modEnum1013EnumName5",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1014",
+    "title": "modEnum1014Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum1014EnumName0|modEnum1014EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1015",
+    "title": "modEnum1015Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum1015EnumName0|modEnum1015EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1016",
+    "title": "modEnum1016Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum1016EnumName0|modEnum1016EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1017",
+    "title": "modEnum1017Title",
+    "desc": "0",
+    "types": "1|2|3|4",
+    "typesName": "modEnum1017EnumName1|modEnum1017EnumName2|modEnum1017EnumName3|modEnum1017EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1018",
+    "title": "modEnum1018Title",
+    "desc": "0",
+    "types": "3|4",
+    "typesName": "modEnum1018EnumName3|modEnum1018EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1019",
+    "title": "modEnum1019Title",
+    "desc": "0",
+    "types": "basBlade|basSpear|basSword|basFist|basPalm|basFinger|basFire|basFroze|basThunder|basWind|basEarth|basWood",
+    "typesName": "modEnum1019EnumName1|modEnum1019EnumName2|modEnum1019EnumName3|modEnum1019EnumName4|modEnum1019EnumName5|modEnum1019EnumName6|modEnum1019EnumName11|modEnum1019EnumName12|modEnum1019EnumName13|modEnum1019EnumName14|modEnum1019EnumName15|modEnum1019EnumName16",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1020",
+    "title": "modEnum1020Title",
+    "desc": "0",
+    "types": "1|2|3|4|5|6|11|12|13|14|15|16",
+    "typesName": "modEnum1020EnumName1|modEnum1020EnumName2|modEnum1020EnumName3|modEnum1020EnumName4|modEnum1020EnumName5|modEnum1020EnumName6|modEnum1020EnumName11|modEnum1020EnumName12|modEnum1020EnumName13|modEnum1020EnumName14|modEnum1020EnumName15|modEnum1020EnumName16",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1021",
+    "title": "modEnum1021Title",
+    "desc": "0",
+    "types": "2|4|6|8|10",
+    "typesName": "modEnum1021EnumName2|modEnum1021EnumName4|modEnum1021EnumName6|modEnum1021EnumName8|modEnum1021EnumName10",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1022",
+    "title": "modEnum1022Title",
+    "desc": "0",
+    "types": "0|1|2|3|4|5|6",
+    "typesName": "modwuyaoqiu|modEnum10012EnumName1|modEnum10012EnumName2|modEnum10012EnumName3|modEnum10012EnumName4|modEnum10012EnumName5|modEnum10012EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1023",
+    "title": "modEnum1023Title",
+    "desc": "0",
+    "types": "0|1|2|3|4|5|6",
+    "typesName": "modwuyaoqiu|modEnum1005EnumName1|modEnum1005EnumName2|modEnum1005EnumName3|modEnum1005EnumName4|modEnum1005EnumName5|modEnum1005EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "1024",
+    "title": "modEnum1024Title",
+    "desc": "0",
+    "types": "0|1|2|3|4|5|6",
+    "typesName": "modwuyaoqiu|modEnum1006EnumName1|modEnum1006EnumName2|modEnum1006EnumName3|modEnum1006EnumName4|modEnum1006EnumName5|modEnum1006EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10001",
+    "title": "modEnum10001Title",
+    "desc": "modEnum10001Desc",
+    "types": "1|2|3",
+    "typesName": "modEnum10001EnumName1|modEnum10001EnumName2|modEnum10001EnumName3",
+    "typesDesc": "modEnum10001EnumDesc1|modEnum10001EnumDesc2|modEnum10001EnumDesc3",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10002",
+    "title": "modEnum10002Title",
+    "desc": "modEnum10002Desc",
+    "types": "1|2|3|4|5|6|-1|-2|-3|-4|-5|-6",
+    "typesName": "modEnum10002EnumName1|modEnum10002EnumName2|modEnum10002EnumName3|modEnum10002EnumName4|modEnum10002EnumName5|modEnum10002EnumName6|modEnum10002EnumName-1|modEnum10002EnumName-2|modEnum10002EnumName-3|modEnum10002EnumName-4|modEnum10002EnumName-5|modEnum10002EnumName-6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10003",
+    "title": "modEnum10003Title",
+    "desc": "modEnum10003Desc",
+    "types": "0|1|2|3",
+    "typesName": "modEnum10003EnumName0|modEnum10003EnumName1|modEnum10003EnumName2|modEnum10003EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10004",
+    "title": "modEnum10004Title",
+    "desc": "modEnum10004Desc",
+    "types": "0|1",
+    "typesName": "modEnum10004EnumName0|modEnum10004EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10005",
+    "title": "modEnum10005Title",
+    "desc": "modEnum10005Desc",
+    "types": "1|2|3|4|5|6",
+    "typesName": "modEnum10002EnumName1|modEnum10002EnumName2|modEnum10002EnumName3|modEnum10002EnumName4|modEnum10002EnumName5|modEnum10002EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10006",
+    "title": "modEnum10006Title",
+    "desc": "modEnum10006Desc",
+    "types": "1|101|2|3",
+    "typesName": "modEnum10006EnumName1|modEnum10006EnumName101|modEnum10006EnumName2|modEnum10006EnumName3",
+    "typesDesc": "modEnum10006EnumDesc1|modEnum10006EnumDesc101|modEnum10006EnumDesc2|modEnum10006EnumDesc3",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10007",
+    "title": "modEnum10007Title",
+    "desc": "modEnum10007Desc",
+    "types": "0|1",
+    "typesName": "modEnum10007EnumName0|modEnum10007EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10008",
+    "title": "modEnum10008Title",
+    "desc": "mod_chanchuquanzhongshuoming",
+    "types": "0|1|2|3|4|5|6|7",
+    "typesName": "modEnum10008EnumName0|modEnum10008EnumName1|modEnum10008EnumName2|modEnum10008EnumName3|modEnum10008EnumName4|modEnum10008EnumName5|modEnum10008EnumName6|modEnum10008EnumName7",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10009",
+    "title": "modEnum10009Title",
+    "desc": "0",
+    "types": "1|101|102|103|104|105|106|111|112|113|114|115|116",
+    "typesName": "modEnum10009EnumName1|modEnum10009EnumName101|modEnum10009EnumName102|modEnum10009EnumName103|modEnum10009EnumName104|modEnum10009EnumName105|modEnum10009EnumName106|modEnum10009EnumName111|modEnum10009EnumName112|modEnum10009EnumName113|modEnum10009EnumName114|modEnum10009EnumName115|modEnum10009EnumName116",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10010",
+    "title": "modEnum10010Title",
+    "desc": "0",
+    "types": "100|1|2|3|4|5|6|7|8|9|10",
+    "typesName": "modEnum10010EnumName100|modEnum10010EnumName1|modEnum10010EnumName2|modEnum10010EnumName3|modEnum10010EnumName4|modEnum10010EnumName5|modEnum10010EnumName6|modEnum10010EnumName7|modEnum10010EnumName8|modEnum10010EnumName9|modEnum10010EnumName10",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10011",
+    "title": "modEnum10011Title",
+    "desc": "0",
+    "types": "-1|1|2|3|4|5|6|7|8",
+    "typesName": "modEnum10011EnumName-1|modEnum10011EnumName1|modEnum10011EnumName2|modEnum10011EnumName3|modEnum10011EnumName4|modEnum10011EnumName5|modEnum10011EnumName6|modEnum10011EnumName7|modEnum10011EnumName8",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10012",
+    "title": "modEnum10012Title",
+    "desc": "0",
+    "types": "0|1|2|3|4|5|6",
+    "typesName": "modEnum10012EnumName0|modEnum10012EnumName1|modEnum10012EnumName2|modEnum10012EnumName3|modEnum10012EnumName4|modEnum10012EnumName5|modEnum10012EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10013",
+    "title": "modEnum10013Title",
+    "desc": "0",
+    "types": "0|1|2|3|4",
+    "typesName": "modEnum10013EnumName0|modEnum10013EnumName1|modEnum10013EnumName2|modEnum10013EnumName3|modEnum10013EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10014",
+    "title": "modEnum10014Title",
+    "desc": "0",
+    "types": "0|1|5|10|8|9|7|2|6|11|100|101",
+    "typesName": "modEnum10014EnumName0|modEnum10014EnumName1|modEnum10014EnumName5|modEnum10014EnumName10|modEnum10014EnumName8|modEnum10014EnumName9|modEnum10014EnumName7|modEnum10014EnumName2|modEnum10014EnumName6|modEnum10014EnumName11|modEnum10014EnumName100|modEnum10014EnumName101",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10015",
+    "title": "modEnum10015Title",
+    "desc": "0",
+    "types": "1|2|3|4",
+    "typesName": "modEnum10015EnumName1|modEnum10015EnumName2|modEnum10015EnumName3|modEnum10015EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10016",
+    "title": "modEnum10016Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10016EnumName0|modEnum10016EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10017",
+    "title": "modEnum10017Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10017EnumName0|modEnum10017EnumName1|modEnum10017EnumName2",
+    "typesDesc": "modEnum10017EnumDesc0|0|0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10018",
+    "title": "modEnum10018Title",
+    "desc": "0",
+    "types": "1|2|3|4",
+    "typesName": "modEnum10018EnumName1|modEnum10018EnumName2|modEnum10018EnumName3|modEnum10018EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10019",
+    "title": "modEnum10019Title",
+    "desc": "0",
+    "types": "viewItem|stealItem|escape|attack|askfor|drill|convoy|give|trains|dung|getExp|chat",
+    "typesName": "modEnum10019EnumName1|modEnum10019EnumName2|modEnum10019EnumName3|modEnum10019EnumName4|modEnum10019EnumName5|modEnum10019EnumName6|modEnum10019EnumName7|modEnum10019EnumName8|modEnum10019EnumName9|modEnum10019EnumName10|modEnum10019EnumName11|modEnum10019EnumName12",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10020",
+    "title": "modEnum10020Title",
+    "desc": "0",
+    "types": "pil|horse",
+    "typesName": "modEnum10020EnumName1|modEnum10020EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10021",
+    "title": "modEnum10021Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10021EnumName0|modEnum10021EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10022",
+    "title": "modEnum10022Title",
+    "desc": "0",
+    "types": "0|1|2|3|4|5|6|7|8|9|10",
+    "typesName": "modEnum10022EnumName0|modEnum10010EnumName1|modEnum10010EnumName2|modEnum10010EnumName3|modEnum10010EnumName4|modEnum10010EnumName5|modEnum10010EnumName6|modEnum10010EnumName7|modEnum10010EnumName8|modEnum10010EnumName9|modEnum10010EnumName10",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10023",
+    "title": "modEnum10023Title",
+    "desc": "0",
+    "types": "0|1|2|3",
+    "typesName": "modEnum10022EnumName0|modEnum10023EnumName1|modEnum10023EnumName2|modEnum10023EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10024",
+    "title": "modEnum10024Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10024EnumName0|modEnum10024EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10025",
+    "title": "modEnum10025Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10025EnumName0|modEnum10025EnumName1|modEnum10025EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10026",
+    "title": "modEnum10026Title",
+    "desc": "0",
+    "types": "-1|1|2|3|4|5|6|7|8|9|10",
+    "typesName": "modEnum10026EnumName-1|modEnum10010EnumName1|modEnum10010EnumName2|modEnum10010EnumName3|modEnum10010EnumName4|modEnum10010EnumName5|modEnum10010EnumName6|modEnum10010EnumName7|modEnum10010EnumName8|modEnum10010EnumName9|modEnum10010EnumName10",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10027",
+    "title": "modEnum10027Title",
+    "desc": "0",
+    "types": "6|7|8",
+    "typesName": "modEnum10027EnumName6|modEnum10027EnumName7|modEnum10027EnumName8",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10028",
+    "title": "modEnum10028Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10028EnumName0|modEnum10028EnumName1|modEnum10028EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10029",
+    "title": "modEnum10029Title",
+    "desc": "modEnum10029Desc",
+    "types": "1&0|4&openUI_MapMain|4&emit_GameWorldRunEnd|4&openUI_TownPub|4&openUI_Town|4&openUI_School|4&playerDie_0|4&emit_MapPlayerRoleEscapeInMap|4&createAction_UnitActionGridGetExp|4&createAction_UnitActionGridMine|4&createAction_UnitActionGridGeomantic|4&emit_MapPlayerRoleUpGradeBig|4&emit_BattleBattleEnd",
+    "typesName": "modEnum10029EnumName1|modEnum10029EnumName2|modEnum10029EnumName3|modEnum10029EnumName4|modEnum10029EnumName5|modEnum10029EnumName6|modEnum10029EnumName7|modEnum10029EnumName8|modEnum10029EnumName9|modEnum10029EnumName10|modEnum10029EnumName11|modEnum10029EnumName12|modEnum10029EnumName13",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10030",
+    "title": "modEnum10030Title",
+    "desc": "mod_qiyiwenben8",
+    "types": "0|1",
+    "typesName": "modEnum10030EnumName0|modEnum10030EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10031",
+    "title": "modEnum10031Title",
+    "desc": "0",
+    "types": "-1|0|10|11|12",
+    "typesName": "modEnum10031EnumName-1|modEnum10031EnumName0|modEnum10031EnumName10|modEnum10031EnumName11|modEnum10031EnumName12",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10032",
+    "title": "modEnum10032Title",
+    "desc": "0",
+    "types": "0|1|2|3|4|5|6",
+    "typesName": "modEnum10032EnumName0|modEnum10012EnumName1|modEnum10012EnumName2|modEnum10012EnumName3|modEnum10012EnumName4|modEnum10012EnumName5|modEnum10012EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10033",
+    "title": "modEnum10033Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10033EnumName0|modEnum10033EnumName1|modEnum10033EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10034",
+    "title": "modEnum10034Title",
+    "desc": "0",
+    "types": "1|2|3|4",
+    "typesName": "modEnum10034EnumName1|modEnum10034EnumName2|modEnum10034EnumName3|modEnum10034EnumName4",
+    "typesDesc": "modEnum10034EnumDesc1|0|0|0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10035",
+    "title": "modEnum10035Title",
+    "desc": "modEnum10035Desc",
+    "types": "1|2",
+    "typesName": "modEnum10035EnumName1|modEnum10035EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10036",
+    "title": "modEnum10036Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10036EnumName0|modEnum10036EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10037",
+    "title": "modEnum10037Title",
+    "desc": "0",
+    "types": "1|2|3|4|5|6",
+    "typesName": "modEnum10037EnumName1|modEnum10037EnumName2|modEnum10037EnumName3|modEnum10037EnumName4|modEnum10037EnumName5|modEnum10037EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10038",
+    "title": "modEnum10038Title",
+    "desc": "0",
+    "types": "1|2|3|4",
+    "typesName": "modEnum10038EnumName1|modEnum10038EnumName2|modEnum10038EnumName3|modEnum10038EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10039",
+    "title": "modEnum10039Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10039EnumName0|modEnum10039EnumName1|modEnum10039EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10040",
+    "title": "modEnum10040Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10040EnumName0|modEnum10040EnumName1|modEnum10040EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10041",
+    "title": "modEnum10041Title",
+    "desc": "0",
+    "types": "0|1|2|3|12",
+    "typesName": "modEnum10041EnumName0|modEnum10041EnumName1|modEnum10041EnumName2|modEnum10041EnumName3|modEnum10041EnumName12",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10042",
+    "title": "modEnum10042Title",
+    "desc": "modEnum10042Desc",
+    "types": "1|2",
+    "typesName": "modEnum10042EnumName1|modEnum10042EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10043",
+    "title": "modEnum10043Title",
+    "desc": "modEnum10043Desc",
+    "types": "1|2|3|4|5|6",
+    "typesName": "modEnum10043EnumName1|modEnum10043EnumName2|modEnum10043EnumName3|modEnum10043EnumName4|modEnum10043EnumName5|modEnum10043EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10044",
+    "title": "modEnum10044Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10044EnumName0|modEnum10044EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10045",
+    "title": "modEnum10045Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10045EnumName0|modEnum10045EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10046",
+    "title": "modEnum10046Title",
+    "desc": "0",
+    "types": "-1|0|1|2|3|4|5|6|7|8|9|10|11|101|102|103|104|105|106|107|108|109",
+    "typesName": "modEnum10046EnumName-1|modEnum10046EnumName0|modEnum10046EnumName1|modEnum10046EnumName2|modEnum10046EnumName3|modEnum10046EnumName4|modEnum10046EnumName5|modEnum10046EnumName6|modEnum10046EnumName7|modEnum10046EnumName8|modEnum10046EnumName9|modEnum10046EnumName10|modEnum10046EnumName11|modEnum10046EnumName101|modEnum10046EnumName102|modEnum10046EnumName103|modEnum10046EnumName104|modEnum10046EnumName105|modEnum10046EnumName106|modEnum10046EnumName107|modEnum10046EnumName108|modEnum10046EnumName109",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10047",
+    "title": "modEnum10047Title",
+    "desc": "0",
+    "types": "0|10|11",
+    "typesName": "modEnum10047EnumName0|modEnum10047EnumName10|modEnum10047EnumName11",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10048",
+    "title": "modEnum10048Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10048EnumName0|modEnum10048EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10049",
+    "title": "modEnum10049Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10049EnumName0|modEnum10049EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10050",
+    "title": "modEnum10050Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10050EnumName0|modEnum10050EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10051",
+    "title": "modEnum10051Title",
+    "desc": "0",
+    "types": "1|2|3",
+    "typesName": "modEnum10051EnumName1|modEnum10051EnumName2|modEnum10051EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10052",
+    "title": "modEnum10052Title",
+    "desc": "0",
+    "types": "1|2",
+    "typesName": "modEnum10052EnumName1|modEnum10052EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10053",
+    "title": "modEnum10053Title",
+    "desc": "0",
+    "types": "1|2|3|4",
+    "typesName": "modEnum10053EnumName1|modEnum10053EnumName2|modEnum10053EnumName3|modEnum10053EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10054",
+    "title": "modEnum10054Title",
+    "desc": "0",
+    "types": "1|2|3|4|5",
+    "typesName": "modEnum10054EnumName1|modEnum10054EnumName2|modEnum10054EnumName3|modEnum10054EnumName4|modEnum10054EnumName5",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10055",
+    "title": "modEnum10055Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10055EnumName0|modEnum10055EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10056",
+    "title": "modEnum10056Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10056EnumName0|modEnum10056EnumName1|modEnum10056EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10057",
+    "title": "modEnum10057Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10057EnumName0|modEnum10057EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10058",
+    "title": "modEnum10058Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10058EnumName0|modEnum10058EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10059",
+    "title": "modEnum10059Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10059EnumName0|modEnum10059EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10060",
+    "title": "modEnum10060Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10060EnumName0|modEnum10060EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10061",
+    "title": "modEnum10061Title",
+    "desc": "0",
+    "types": "1|2|3|4",
+    "typesName": "modEnum10061EnumName1|modEnum10061EnumName2|modEnum10061EnumName3|modEnum10061EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10062",
+    "title": "modEnum10062Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10062EnumName0|modEnum10062EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10063",
+    "title": "modEnum10063Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10063EnumName0|modEnum10063EnumName1|modEnum10063EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "350"
+  },
+  {
+    "id": "10064",
+    "title": "modEnum10064Title",
+    "desc": "0",
+    "types": "0|1|2|3|4|5",
+    "typesName": "modEnum10064EnumName0|modEnum1007EnumName1|modEnum1007EnumName2|modEnum1007EnumName3|modEnum1007EnumName4|modEnum1007EnumName5",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10065",
+    "title": "modEnum10065Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10065EnumName0|modEnum10065EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10066",
+    "title": "modEnum10066Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10066EnumName0|modEnum10066EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10067",
+    "title": "modEnum10067Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10067EnumName0|modEnum10067EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10068",
+    "title": "modEnum10068Title",
+    "desc": "0",
+    "types": "0|1|2|3|4|5|6|7|8|9|10",
+    "typesName": "modEnum10068EnumName0|modEnum10010EnumName1|modEnum10010EnumName2|modEnum10010EnumName3|modEnum10010EnumName4|modEnum10010EnumName5|modEnum10010EnumName6|modEnum10010EnumName7|modEnum10010EnumName8|modEnum10010EnumName9|modEnum10010EnumName10",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10069",
+    "title": "modEnum10069Title",
+    "desc": "0",
+    "types": "hp|mp|sp",
+    "typesName": "modEnum10069EnumNamehp|modEnum10069EnumNamemp|modEnum10069EnumNamesp",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10070",
+    "title": "modEnum10070Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10070EnumName0|modEnum10070EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10071",
+    "title": "modEnum10071Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10071EnumName0|modEnum10071EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10072",
+    "title": "modEnum10072Title",
+    "desc": "modEnum10072Desc",
+    "types": "0&0|1&1|1&2|2&1|2&2",
+    "typesName": "modEnum10072EnumName0|modEnum10072EnumName1|modEnum10072EnumName2|modEnum10072EnumName3|modEnum10072EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10073",
+    "title": "modEnum10073Title",
+    "desc": "modEnum10073Desc",
+    "types": "0|1",
+    "typesName": "modEnum10073EnumName0|modEnum10073EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10074",
+    "title": "modEnum10074Title",
+    "desc": "modEnum10074Desc",
+    "types": "1|2|3",
+    "typesName": "modEnum10074EnumName1|modEnum10074EnumName2|modEnum10074EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10075",
+    "title": "modEnum10075Title",
+    "desc": "modEnum10075Desc",
+    "types": "-1|-2",
+    "typesName": "modEnum10075EnumName-1|modEnum10075EnumName-2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10076",
+    "title": "modEnum10076Title",
+    "desc": "modEnum10076Desc",
+    "types": "0|QiyuPutong",
+    "typesName": "modEnum10076EnumName0|modEnum10076EnumNameQiyuPutong",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10077",
+    "title": "modEnum10077Title",
+    "desc": "modEnum10077Desc",
+    "types": "0|1",
+    "typesName": "modEnum10077EnumName0|modEnum10077EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10078",
+    "title": "modEnum10078Title",
+    "desc": "modEnum10078Desc",
+    "types": "0|1",
+    "typesName": "modEnum10078EnumName0|modEnum10078EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10079",
+    "title": "modEnum10079Title",
+    "desc": "modEnum10079Desc",
+    "types": "1|2|3|4|5|6",
+    "typesName": "modEnum10079EnumName1|modEnum10079EnumName2|modEnum10079EnumName3|modEnum10079EnumName4|modEnum10079EnumName5|modEnum10079EnumName6",
+    "typesDesc": "modEnum10079EnumDesc1|modEnum10079EnumDesc2|modEnum10079EnumDesc3|modEnum10079EnumDesc4|modEnum10079EnumDesc5|modEnum10079EnumDesc6",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10080",
+    "title": "modEnum10080Title",
+    "desc": "0",
+    "types": "1|2",
+    "typesName": "modEnum10080EnumName1|modEnum10080EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10081",
+    "title": "modEnum10081Title",
+    "desc": "0",
+    "types": "1|4",
+    "typesName": "modEnum10081EnumName1|modEnum10081EnumName4",
+    "typesDesc": "modEnum10081EnumDesc1|modEnum10081EnumDesc4",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10082",
+    "title": "modEnum10082Title",
+    "desc": "0",
+    "types": "110",
+    "typesName": "modEnum10081EnumName110",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10083",
+    "title": "modEnum10083Title",
+    "desc": "0",
+    "types": "1|2|3|4|5",
+    "typesName": "modEnum10083EnumName1|modEnum10083EnumName2|modEnum10083EnumName3|modEnum10083EnumName4|modEnum10083EnumName5",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10084",
+    "title": "modEnum10084Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10084EnumName0|modEnum10084EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10085",
+    "title": "modEnum10085Title",
+    "desc": "modEnum10085Desc",
+    "types": "0|1",
+    "typesName": "modEnum10085EnumName0|modEnum10085EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10086",
+    "title": "modEnum10086Title",
+    "desc": "modEnum10086Desc",
+    "types": "1|2|3|4|5|6|7|8",
+    "typesName": "modEnum10086EnumName1|modEnum10086EnumName2|modEnum10086EnumName3|modEnum10086EnumName4|modEnum10086EnumName5|modEnum10086EnumName6|modEnum10086EnumName7|modEnum10086EnumName8",
+    "typesDesc": "modEnum10086EnumDesc1|modEnum10086EnumDesc2|modEnum10086EnumDesc3|modEnum10086EnumDesc4|modEnum10086EnumDesc5|modEnum10086EnumDesc6|modEnum10086EnumDesc7|modEnum10086EnumDesc8",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10087",
+    "title": "modEnum10087Title",
+    "desc": "modEnum10087Desc",
+    "types": "1|2",
+    "typesName": "modEnum10087EnumName1|modEnum10087EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10088",
+    "title": "modEnum10088Title",
+    "desc": "0",
+    "types": "-1|1|11|12",
+    "typesName": "modEnum10088EnumName-1|modEnum10088EnumName1|modEnum10088EnumName11|modEnum10088EnumName12",
+    "typesDesc": "0|0|modEnum10088EnumDesc11|modEnum10088EnumDesc11",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10089",
+    "title": "modEnum10089Title",
+    "desc": "0",
+    "types": "1|2",
+    "typesName": "modEnum10089EnumName1|modEnum10089EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10090",
+    "title": "modEnum10090Title",
+    "desc": "0",
+    "types": "0|1|2|3",
+    "typesName": "modEnum10090EnumName0|modEnum10091EnumName1|modEnum10091EnumName2|modEnum10091EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10091",
+    "title": "modEnum10091Title",
+    "desc": "0",
+    "types": "0|1|2|3|4|5|6|7|8|9|10",
+    "typesName": "modEnum10091EnumName0|modEnum10010EnumName1|modEnum10010EnumName2|modEnum10010EnumName3|modEnum10010EnumName4|modEnum10010EnumName5|modEnum10010EnumName6|modEnum10010EnumName7|modEnum10010EnumName8|modEnum10010EnumName9|modEnum10010EnumName10",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10092",
+    "title": "modEnum10092Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10092EnumName0|modEnum10092EnumName1|modEnum10092EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10093",
+    "title": "modEnum10093Title",
+    "desc": "0",
+    "types": "1|2|5|6|7|8|9|10|11|21",
+    "typesName": "modEnum10093EnumName1|modEnum10093EnumName2|modEnum10093EnumName5|modEnum10093EnumName6|modEnum10093EnumName7|modEnum10093EnumName8|modEnum10093EnumName9|modEnum10093EnumName10|modEnum10093EnumName11|modEnum10093EnumName21",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10094",
+    "title": "modEnum10094Title",
+    "desc": "0",
+    "types": "0|1|2|3",
+    "typesName": "modEnum10094EnumName0|modEnum10094EnumName1|modEnum10094EnumName2|modEnum10094EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10095",
+    "title": "modEnum10095Title",
+    "desc": "0",
+    "types": "1|2",
+    "typesName": "modEnum10095EnumName1|modEnum10095EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10096",
+    "title": "modEnum10096Title",
+    "desc": "0",
+    "types": "0|1|2|3",
+    "typesName": "modEnum10096EnumName0|modEnum10096EnumName1|modEnum10096EnumName2|modEnum10096EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10097",
+    "title": "modEnum10097Title",
+    "desc": "0",
+    "types": "0|1|2|3|4",
+    "typesName": "modEnum10097EnumName0|modEnum10097EnumName1|modEnum10097EnumName2|modEnum10097EnumName3|modEnum10097EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10098",
+    "title": "modEnum10098Title",
+    "desc": "0",
+    "types": "1|2|3|11|12|13",
+    "typesName": "modEnum10098EnumName1|modEnum10098EnumName2|modEnum10098EnumName3|modEnum10098EnumName11|modEnum10098EnumName12|modEnum10098EnumName13",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10099",
+    "title": "modEnum10099Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10099EnumName0|modEnum10099EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10100",
+    "title": "modEnum10100Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10100EnumName0|modEnum10100EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10101",
+    "title": "modEnum10101Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10101EnumName0|modEnum10101EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10102",
+    "title": "modEnum10102Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10102EnumName0|modEnum10102EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10103",
+    "title": "modEnum10103Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10103EnumName0|modEnum10103EnumName1|modEnum10103EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10104",
+    "title": "modEnum10104Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10104EnumName0|modEnum10104EnumName1|modEnum10104EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10105",
+    "title": "modEnum10105Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10105EnumName0|modEnum10105EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10106",
+    "title": "modEnum10106Title",
+    "desc": "0",
+    "types": "0|1|3",
+    "typesName": "modEnum10106EnumName0|modEnum10106EnumName1|modEnum10106EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10107",
+    "title": "modEnum10107Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10107EnumName0|modEnum10107EnumName1|modEnum10107EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10108",
+    "title": "modEnum10108Title",
+    "desc": "0",
+    "types": "1|2|3|4|5|6",
+    "typesName": "modEnum10108EnumName1|modEnum10108EnumName2|modEnum10108EnumName3|modEnum10108EnumName4|modEnum10108EnumName5|modEnum10108EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10109",
+    "title": "modEnum10109Title",
+    "desc": "0",
+    "types": "1|2|3|4|5|6",
+    "typesName": "modEnum10109EnumName1|modEnum10109EnumName2|modEnum10109EnumName3|modEnum10109EnumName4|modEnum10109EnumName5|modEnum10109EnumName6",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10110",
+    "title": "modEnum10110Title",
+    "desc": "0",
+    "types": "1|2",
+    "typesName": "modEnum10110EnumName1|modEnum10110EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10111",
+    "title": "modEnum10111Title",
+    "desc": "0",
+    "types": "1|2|3|4|5|6|7|8|9",
+    "typesName": "modEnum10111EnumName1|modEnum10111EnumName2|modEnum10111EnumName3|modEnum10111EnumName4|modEnum10111EnumName5|modEnum10111EnumName6|modEnum10111EnumName7|modEnum10111EnumName8|modEnum10111EnumName9",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10112",
+    "title": "modEnum10112Title",
+    "desc": "0",
+    "types": "0|1|3",
+    "typesName": "modEnum10112EnumName0|modEnum10112EnumName1|modEnum10112EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10113",
+    "title": "modEnum10113Title",
+    "desc": "0",
+    "types": "0|1|3",
+    "typesName": "modEnum10113EnumName0|modEnum10113EnumName1|modEnum10113EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10114",
+    "title": "modEnum10114Title",
+    "desc": "0",
+    "types": "1|2|3",
+    "typesName": "modEnum10114EnumName1|modEnum10114EnumName2|modEnum10114EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10115",
+    "title": "modEnum10115Title",
+    "desc": "0",
+    "types": "-1|0|1|2|4",
+    "typesName": "modEnum10115EnumName-1|modEnum10115EnumName0|modEnum10115EnumName1|modEnum10115EnumName2|modEnum10115EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10116",
+    "title": "modEnum10116Title",
+    "desc": "0",
+    "types": "1|2",
+    "typesName": "modEnum10116EnumName1|modEnum10116EnumName2",
+    "typesDesc": "modEnum10116EnumDesc1|modEnum10116EnumDesc2",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10117",
+    "title": "modEnum10117Title",
+    "desc": "0",
+    "types": "1|2|3|4",
+    "typesName": "modEnum10117EnumName1|modEnum10117EnumName2|modEnum10117EnumName3|modEnum10117EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10118",
+    "title": "modEnum10118Title",
+    "desc": "0",
+    "types": "1|2|3|4",
+    "typesName": "modEnum10118EnumName1|modEnum10118EnumName2|modEnum10118EnumName3|modEnum10118EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10119",
+    "title": "modEnum10119Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10119EnumName0|modEnum10119EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10120",
+    "title": "modEnum10120Title",
+    "desc": "0",
+    "types": "1|2|3|4|5|6|11|12",
+    "typesName": "modEnum10120EnumName1|modEnum10120EnumName2|modEnum10120EnumName3|modEnum10120EnumName4|modEnum10120EnumName5|modEnum10120EnumName6|modEnum10120EnumName11|modEnum10120EnumName12",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10121",
+    "title": "modEnum10121Title",
+    "desc": "0",
+    "types": "1|2",
+    "typesName": "modEnum10121EnumName1|modEnum10121EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10122",
+    "title": "modEnum10122Title",
+    "desc": "0",
+    "types": "0|1|2|3|4",
+    "typesName": "modEnum10122EnumName0|modEnum10122EnumName1|modEnum10122EnumName2|modEnum10122EnumName3|modEnum10122EnumName4",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10123",
+    "title": "modEnum10123Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10123EnumName0|modEnum10123EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10124",
+    "title": "modEnum10124Title",
+    "desc": "0",
+    "types": "1|2|3",
+    "typesName": "modEnum10124EnumName1|modEnum10124EnumName2|modEnum10124EnumName3",
+    "typesDesc": "modEnum10124EnumDesc1|modEnum10124EnumDesc2|modEnum10124EnumDesc3",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10125",
+    "title": "modEnum10125Title",
+    "desc": "0",
+    "types": "0|1|4",
+    "typesName": "modEnum10125EnumName0|modEnum10125EnumName1|modEnum10125EnumName4",
+    "typesDesc": "modEnum10125EnumDesc0|modEnum10125EnumDesc1|modEnum10125EnumDesc4",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10126",
+    "title": "modEnum10126Title",
+    "desc": "0",
+    "types": "hp|mp|sp|atk|def|moveSpeed|crit|critV|guard|guardV|pfr|mfr|basFire|basFroze|basThunder|basWind|basEarth|basWood|basSword|basSpear|basBlade|basFist|basPalm|basFinger|basAll",
+    "typesName": "modEnum10126EnumName_hp|modEnum10126EnumName_mp|modEnum10126EnumName_sp|modEnum10126EnumName_atk|modEnum10126EnumName_def|modEnum10126EnumName_moveSpeed|modEnum10126EnumName_crit|modEnum10126EnumName_critV|modEnum10126EnumName_guard|modEnum10126EnumName_guardV|modEnum10126EnumName_pfr|modEnum10126EnumName_mfr|modEnum10126EnumName_basFire|modEnum10126EnumName_basFroze|modEnum10126EnumName_basThunder|modEnum10126EnumName_basWind|modEnum10126EnumName_basEarth|modEnum10126EnumName_basWood|modEnum10126EnumName_basSword|modEnum10126EnumName_basSpear|modEnum10126EnumName_basBlade|modEnum10126EnumName_basFist|modEnum10126EnumName_basPalm|modEnum10126EnumName_basFinger|modEnum10126EnumName_basAll",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10127",
+    "title": "modEnum10127Title",
+    "desc": "0",
+    "types": "0|1|2|3|4|5|6|7|8|9|10|11",
+    "typesName": "modEnum10127EnumName_0|modEnum10127EnumName_1|modEnum10127EnumName_2|modEnum10127EnumName_3|modEnum10127EnumName_4|modEnum10127EnumName_5|modEnum10127EnumName_6|modEnum10127EnumName_7|modEnum10127EnumName_8|modEnum10127EnumName_9|modEnum10127EnumName_10|modEnum10127EnumName_11",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10128",
+    "title": "modEnum10128Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10128EnumName_0|modEnum10128EnumName_1|modEnum10128EnumName_2",
+    "typesDesc": "modEnum10128EnumDesc0|modEnum10128EnumDesc1|modEnum10128EnumDesc2",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10129",
+    "title": "modEnum10129Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10129EnumName0|modEnum10129EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10130",
+    "title": "modEnum10130Title",
+    "desc": "0",
+    "types": "0|1|2|3",
+    "typesName": "modEnum10130EnumName0|modEnum10130EnumName1|modEnum10130EnumName2|modEnum10130EnumName3",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10131",
+    "title": "modEnum10131Title",
+    "desc": "0",
+    "types": "101|102|103|104|105|106|107|108",
+    "typesName": "modEnum10131EnumName101|modEnum10131EnumName102|modEnum10131EnumName103|modEnum10131EnumName104|modEnum10131EnumName105|modEnum10131EnumName106|modEnum10131EnumName107|modEnum10131EnumName108",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10132",
+    "title": "modEnum10132Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10132EnumName0|modEnum10132EnumName1|modEnum10132EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10133",
+    "title": "modEnum10133Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10133EnumName0|modEnum10133EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10134",
+    "title": "modEnum10134Title",
+    "desc": "0",
+    "types": "0|1",
+    "typesName": "modEnum10134EnumName0|modEnum10134EnumName1",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10135",
+    "title": "modEnum10135Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10135EnumName0|modEnum10135EnumName1|modEnum10135EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10136",
+    "title": "modEnum10136Title",
+    "desc": "0",
+    "types": "5|6|7|8|9|10|11",
+    "typesName": "modEnum10136EnumName5|modEnum10136EnumName6|modEnum10136EnumName7|modEnum10136EnumName8|modEnum10136EnumName9|modEnum10136EnumName10|modEnum10136EnumName11",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10137",
+    "title": "modEnum10137Title",
+    "desc": "0",
+    "types": "1|2",
+    "typesName": "modEnum10137EnumName1|modEnum10137EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  },
+  {
+    "id": "10138",
+    "title": "modEnum10138Title",
+    "desc": "0",
+    "types": "0|1|2",
+    "typesName": "modEnum10138EnumName0|modEnum10138EnumName1|modEnum10138EnumName2",
+    "typesDesc": "0",
+    "enumWidth": "0"
+  }
+]

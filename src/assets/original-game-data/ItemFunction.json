@@ -1,0 +1,177 @@
+[
+  {
+    "id": "1082011",
+    "condition": "0",
+    "function": "callDrama_2000411",
+    "consume": "1",
+    "multiUse": "0"
+  },
+  {
+    "id": "1082012",
+    "condition": "0",
+    "function": "callDrama_2000412",
+    "consume": "1",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000163",
+    "condition": "0",
+    "function": "callDrama_2010023_2010031_2010032_2010033_2010034_2010035_2010036",
+    "consume": "0",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000169",
+    "condition": "0",
+    "function": "callDrama_2010206",
+    "consume": "1",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000170",
+    "condition": "0",
+    "function": "callDrama_2010258",
+    "consume": "0",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000171",
+    "condition": "dialogue_2025171_0",
+    "function": "callDrama_2025171",
+    "consume": "0",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000176",
+    "condition": "0",
+    "function": "callDrama_2020450",
+    "consume": "0",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000107",
+    "condition": "0",
+    "function": "callDrama_2027302",
+    "consume": "1",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000108",
+    "condition": "0",
+    "function": "callDrama_2025805",
+    "consume": "1",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000177",
+    "condition": "0",
+    "function": "callDrama_2025937",
+    "consume": "1",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000178",
+    "condition": "0",
+    "function": "callDrama_2026438",
+    "consume": "1",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000179",
+    "condition": "0",
+    "function": "callDrama_2027471",
+    "consume": "1",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000180",
+    "condition": "0",
+    "function": "callDrama_2030431",
+    "consume": "1",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000182",
+    "condition": "0",
+    "function": "callDrama_2203000",
+    "consume": "0",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000183",
+    "condition": "0",
+    "function": "callDrama_2203100",
+    "consume": "0",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000184",
+    "condition": "0",
+    "function": "callDrama_2212100",
+    "consume": "0",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000185",
+    "condition": "0",
+    "function": "callDrama_2203600",
+    "consume": "0",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000186",
+    "condition": "0",
+    "function": "callDrama_2203780",
+    "consume": "0",
+    "multiUse": "0"
+  },
+  {
+    "id": "2821005",
+    "condition": "grade_0_10_10",
+    "function": "immortalGradeAddExp_50000",
+    "consume": "1",
+    "multiUse": "1"
+  },
+  {
+    "id": "7000181",
+    "condition": "0",
+    "function": "callDrama_2010113",
+    "consume": "0",
+    "multiUse": "0"
+  },
+  {
+    "id": "2022061",
+    "condition": "0",
+    "function": "callDrama_9012101_9012131",
+    "consume": "1",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000600",
+    "condition": "0",
+    "function": "callDrama_2100015",
+    "consume": "0",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000601",
+    "condition": "0",
+    "function": "callDrama_2100102_2100016",
+    "consume": "0",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000602",
+    "condition": "0",
+    "function": "callDrama_2100510",
+    "consume": "0",
+    "multiUse": "0"
+  },
+  {
+    "id": "7000604",
+    "condition": "0",
+    "function": "callDrama_2102705",
+    "consume": "0",
+    "multiUse": "0"
+  }
+]

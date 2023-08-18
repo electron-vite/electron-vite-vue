@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1001",
+    "itemCostID": "10001_100",
+    "cost": "100",
+    "addEffect": "8001|8002",
+    "title": "0",
+    "desc": "SchoolLuckyEffectDesc1001"
+  },
+  {
+    "id": "1002",
+    "itemCostID": "10001_100",
+    "cost": "100",
+    "addEffect": "8001|8002",
+    "title": "0",
+    "desc": "SchoolLuckyEffectDesc1002"
+  },
+  {
+    "id": "1003",
+    "itemCostID": "10001_100",
+    "cost": "100",
+    "addEffect": "8001|8002",
+    "title": "0",
+    "desc": "SchoolLuckyEffectDesc1003"
+  }
+]

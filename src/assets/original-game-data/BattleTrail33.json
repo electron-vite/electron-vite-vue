@@ -1,0 +1,62 @@
+[
+  {
+    "id": "33001",
+    "bulletNum": "1",
+    "popNum": "&43113_tycs",
+    "popRange": "&43113_tyfw",
+    "repeatPop": "&43113_tycf",
+    "lockTarget": "1",
+    "searchRange": "150",
+    "popDelay": "150",
+    "attackBlank": "1",
+    "targetPos": "0"
+  },
+  {
+    "id": "33002",
+    "bulletNum": "&53114_djmb",
+    "popNum": "0",
+    "popRange": "0",
+    "repeatPop": "0",
+    "lockTarget": "0",
+    "searchRange": "5000",
+    "popDelay": "150",
+    "attackBlank": "0",
+    "targetPos": "1"
+  },
+  {
+    "id": "33003",
+    "bulletNum": "&63112_lfmb",
+    "popNum": "0",
+    "popRange": "0",
+    "repeatPop": "0",
+    "lockTarget": "2",
+    "searchRange": "5000",
+    "popDelay": "150",
+    "attackBlank": "0",
+    "targetPos": "1"
+  },
+  {
+    "id": "33004",
+    "bulletNum": "1",
+    "popNum": "0",
+    "popRange": "0",
+    "repeatPop": "0",
+    "lockTarget": "0",
+    "searchRange": "150",
+    "popDelay": "150",
+    "attackBlank": "1",
+    "targetPos": "1"
+  },
+  {
+    "id": "33005",
+    "bulletNum": "1",
+    "popNum": "0",
+    "popRange": "0",
+    "repeatPop": "0",
+    "lockTarget": "0",
+    "searchRange": "5000",
+    "popDelay": "150",
+    "attackBlank": "0",
+    "targetPos": "1"
+  }
+]

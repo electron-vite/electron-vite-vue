@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "key": "cutOffMax",
+    "value": "22000"
+  },
+  {
+    "id": "2",
+    "key": "cutOffMin",
+    "value": "800"
+  },
+  {
+    "id": "3",
+    "key": "soundDownTime",
+    "value": "1"
+  },
+  {
+    "id": "4",
+    "key": "soundUpTime",
+    "value": "1.5"
+  },
+  {
+    "id": "5",
+    "key": "soundVolueMin",
+    "value": "0.8"
+  },
+  {
+    "id": "6",
+    "key": "soundVolueMax",
+    "value": "1"
+  }
+]

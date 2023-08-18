@@ -1,0 +1,46 @@
+[
+  {
+    "id": "22001",
+    "bulletNum": "1",
+    "bulletDegreeTrend": "120",
+    "moveDis": "100",
+    "initMinAngle": "15",
+    "initMaxAngle": "50",
+    "randomMinAngle": "-60",
+    "randomMaxAngle": "60",
+    "maxAngleDis": "700"
+  },
+  {
+    "id": "22003",
+    "bulletNum": "&34112_ddsl",
+    "bulletDegreeTrend": "120",
+    "moveDis": "0",
+    "initMinAngle": "0",
+    "initMaxAngle": "&34112_cspc",
+    "randomMinAngle": "&34112_qjpc|*-1|f0",
+    "randomMaxAngle": "&34112_qjpc",
+    "maxAngleDis": "1000"
+  },
+  {
+    "id": "22004",
+    "bulletNum": "1",
+    "bulletDegreeTrend": "120",
+    "moveDis": "0",
+    "initMinAngle": "0",
+    "initMaxAngle": "360",
+    "randomMinAngle": "-180",
+    "randomMaxAngle": "180",
+    "maxAngleDis": "1000"
+  },
+  {
+    "id": "22005",
+    "bulletNum": "1",
+    "bulletDegreeTrend": "120",
+    "moveDis": "0",
+    "initMinAngle": "0",
+    "initMaxAngle": "360",
+    "randomMinAngle": "-20",
+    "randomMaxAngle": "360",
+    "maxAngleDis": "10000"
+  }
+]

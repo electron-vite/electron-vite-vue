@@ -1,0 +1,72 @@
+[
+  {
+    "id": "103001",
+    "dungeonType": "10|30",
+    "dungeonArea": "101",
+    "dungeonLevel": "0",
+    "dungeonID": "0",
+    "dungeonCenter": "0",
+    "dungeonRange": "0",
+    "listenType": "0"
+  },
+  {
+    "id": "103002",
+    "dungeonType": "10",
+    "dungeonArea": "101",
+    "dungeonLevel": "0",
+    "dungeonID": "0",
+    "dungeonCenter": "0",
+    "dungeonRange": "0",
+    "listenType": "0"
+  },
+  {
+    "id": "103101",
+    "dungeonType": "10|30",
+    "dungeonArea": "0",
+    "dungeonLevel": "0",
+    "dungeonID": "0",
+    "dungeonCenter": "-1,-1",
+    "dungeonRange": "8",
+    "listenType": "0"
+  },
+  {
+    "id": "103102",
+    "dungeonType": "10|30",
+    "dungeonArea": "0",
+    "dungeonLevel": "0",
+    "dungeonID": "0",
+    "dungeonCenter": "-1,-1",
+    "dungeonRange": "8",
+    "listenType": "0"
+  },
+  {
+    "id": "103103",
+    "dungeonType": "10|30",
+    "dungeonArea": "0",
+    "dungeonLevel": "0",
+    "dungeonID": "0",
+    "dungeonCenter": "-1,-1",
+    "dungeonRange": "8",
+    "listenType": "0"
+  },
+  {
+    "id": "103104",
+    "dungeonType": "10|30",
+    "dungeonArea": "0",
+    "dungeonLevel": "0",
+    "dungeonID": "0",
+    "dungeonCenter": "-1,-1",
+    "dungeonRange": "8",
+    "listenType": "0"
+  },
+  {
+    "id": "103105",
+    "dungeonType": "10|30",
+    "dungeonArea": "0",
+    "dungeonLevel": "0",
+    "dungeonID": "0",
+    "dungeonCenter": "-1,-1",
+    "dungeonRange": "8",
+    "listenType": "0"
+  }
+]

@@ -1,0 +1,4115 @@
+[
+  {
+    "id": "1001001",
+    "spriteID": "1001",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1001001",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_chat_01"
+  },
+  {
+    "id": "1001002",
+    "spriteID": "1001",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1001002",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_chat_02"
+  },
+  {
+    "id": "1001003",
+    "spriteID": "1001",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1001003",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_chat_03"
+  },
+  {
+    "id": "1001021",
+    "spriteID": "1001",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1001021",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_chat_04"
+  },
+  {
+    "id": "1001022",
+    "spriteID": "1001",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1001022",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_chat_05"
+  },
+  {
+    "id": "1001023",
+    "spriteID": "1001",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1001023",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_chat_06"
+  },
+  {
+    "id": "1001041",
+    "spriteID": "1001",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001041",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_chat_07"
+  },
+  {
+    "id": "1001042",
+    "spriteID": "1001",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001042",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_chat_08"
+  },
+  {
+    "id": "1001043",
+    "spriteID": "1001",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001043",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_chat_09"
+  },
+  {
+    "id": "1001044",
+    "spriteID": "1001",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001044",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_chat_10"
+  },
+  {
+    "id": "1001045",
+    "spriteID": "1001",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001045",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_chat_11"
+  },
+  {
+    "id": "1001046",
+    "spriteID": "1001",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001046",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_chat_12"
+  },
+  {
+    "id": "1001047",
+    "spriteID": "1001",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001047",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_chat_13"
+  },
+  {
+    "id": "1001061",
+    "spriteID": "1001",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1001061",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_acceptGift_01"
+  },
+  {
+    "id": "1001062",
+    "spriteID": "1001",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1001062",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_acceptGift_02"
+  },
+  {
+    "id": "1001063",
+    "spriteID": "1001",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1001063",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_acceptGift_03"
+  },
+  {
+    "id": "1001081",
+    "spriteID": "1001",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1001081",
+    "anime": "Face_Blink",
+    "vocal": "Vocal/1001/vox_1001_acceptGift_04"
+  },
+  {
+    "id": "1001082",
+    "spriteID": "1001",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1001082",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_acceptGift_05"
+  },
+  {
+    "id": "1001083",
+    "spriteID": "1001",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1001083",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1001/vox_1001_acceptGift_06"
+  },
+  {
+    "id": "1001084",
+    "spriteID": "1001",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1001084",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_acceptGift_07"
+  },
+  {
+    "id": "1001101",
+    "spriteID": "1001",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001101",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_acceptGift_08"
+  },
+  {
+    "id": "1001102",
+    "spriteID": "1001",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001102",
+    "anime": "Face_LookLeft",
+    "vocal": "Vocal/1001/vox_1001_acceptGift_09"
+  },
+  {
+    "id": "1001103",
+    "spriteID": "1001",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001103",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1001/vox_1001_acceptGift_10"
+  },
+  {
+    "id": "1001104",
+    "spriteID": "1001",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001104",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_acceptGift_11"
+  },
+  {
+    "id": "1001121",
+    "spriteID": "1001",
+    "active": "rejectGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1001121",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_rejectGift_01"
+  },
+  {
+    "id": "1001122",
+    "spriteID": "1001",
+    "active": "rejectGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1001122",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1001/vox_1001_rejectGift_02"
+  },
+  {
+    "id": "1001141",
+    "spriteID": "1001",
+    "active": "rejectGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1001141",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_rejectGift_03"
+  },
+  {
+    "id": "1001161",
+    "spriteID": "1001",
+    "active": "rejectGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001161",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_rejectGift_04"
+  },
+  {
+    "id": "1001181",
+    "spriteID": "1001",
+    "active": "oftenGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1001181",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1001/vox_1001_oftenGift_01"
+  },
+  {
+    "id": "1001201",
+    "spriteID": "1001",
+    "active": "oftenGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1001201",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_oftenGift_02"
+  },
+  {
+    "id": "1001221",
+    "spriteID": "1001",
+    "active": "oftenGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001221",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_oftenGift_03"
+  },
+  {
+    "id": "1001241",
+    "spriteID": "1001",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1001241",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_talent_01"
+  },
+  {
+    "id": "1001242",
+    "spriteID": "1001",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1001242",
+    "anime": "Face_MoveEar",
+    "vocal": "Vocal/1001/vox_1001_talent_02"
+  },
+  {
+    "id": "1001261",
+    "spriteID": "1001",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1001261",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_talent_03"
+  },
+  {
+    "id": "1001262",
+    "spriteID": "1001",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1001262",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_talent_04"
+  },
+  {
+    "id": "1001281",
+    "spriteID": "1001",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001281",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_talent_05"
+  },
+  {
+    "id": "1001282",
+    "spriteID": "1001",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001282",
+    "anime": "0",
+    "vocal": "Vocal/1001/vox_1001_talent_06"
+  },
+  {
+    "id": "1001283",
+    "spriteID": "1001",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1001283",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1001/vox_1001_talent_07"
+  },
+  {
+    "id": "1001301",
+    "spriteID": "1001",
+    "active": "life",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1001301",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1001/vox_1001_life_01"
+  },
+  {
+    "id": "1001321",
+    "spriteID": "1001",
+    "active": "unLife",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1001321",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1001/vox_1001_unlife_01"
+  },
+  {
+    "id": "1001341",
+    "spriteID": "1001",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1001341",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1001/vox_1001_fuse_01"
+  },
+  {
+    "id": "1002001",
+    "spriteID": "1002",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1002001",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_chat_01"
+  },
+  {
+    "id": "1002002",
+    "spriteID": "1002",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1002002",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_chat_02"
+  },
+  {
+    "id": "1002003",
+    "spriteID": "1002",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1002003",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_chat_03"
+  },
+  {
+    "id": "1002021",
+    "spriteID": "1002",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1002021",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_chat_04"
+  },
+  {
+    "id": "1002022",
+    "spriteID": "1002",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1002022",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_chat_05"
+  },
+  {
+    "id": "1002023",
+    "spriteID": "1002",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1002023",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_chat_06"
+  },
+  {
+    "id": "1002041",
+    "spriteID": "1002",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002041",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_chat_07"
+  },
+  {
+    "id": "1002042",
+    "spriteID": "1002",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002042",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_chat_08"
+  },
+  {
+    "id": "1002043",
+    "spriteID": "1002",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002043",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_chat_09"
+  },
+  {
+    "id": "1002061",
+    "spriteID": "1002",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1002061",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_acceptGift_01"
+  },
+  {
+    "id": "1002062",
+    "spriteID": "1002",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1002062",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_acceptGift_02"
+  },
+  {
+    "id": "1002063",
+    "spriteID": "1002",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1002063",
+    "anime": "Body_ScratchBeard",
+    "vocal": "Vocal/1002/vox_1002_acceptGift_03"
+  },
+  {
+    "id": "1002081",
+    "spriteID": "1002",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1002081",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_acceptGift_04"
+  },
+  {
+    "id": "1002082",
+    "spriteID": "1002",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1002082",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1002/vox_1002_acceptGift_05"
+  },
+  {
+    "id": "1002101",
+    "spriteID": "1002",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002101",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_acceptGift_06"
+  },
+  {
+    "id": "1002102",
+    "spriteID": "1002",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002102",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1002/vox_1002_acceptGift_07"
+  },
+  {
+    "id": "1002103",
+    "spriteID": "1002",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002103",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_acceptGift_08"
+  },
+  {
+    "id": "1002104",
+    "spriteID": "1002",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002104",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_acceptGift_09"
+  },
+  {
+    "id": "1002105",
+    "spriteID": "1002",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002105",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_acceptGift_10"
+  },
+  {
+    "id": "1002121",
+    "spriteID": "1002",
+    "active": "rejectGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1002121",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1002/vox_1002_rejectGift_01"
+  },
+  {
+    "id": "1002141",
+    "spriteID": "1002",
+    "active": "rejectGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1002141",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_rejectGift_02"
+  },
+  {
+    "id": "1002161",
+    "spriteID": "1002",
+    "active": "rejectGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002161",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_rejectGift_03"
+  },
+  {
+    "id": "1002181",
+    "spriteID": "1002",
+    "active": "oftenGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1002181",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1002/vox_1002_oftenGift_01"
+  },
+  {
+    "id": "1002201",
+    "spriteID": "1002",
+    "active": "oftenGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1002201",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_oftenGift_02"
+  },
+  {
+    "id": "1002221",
+    "spriteID": "1002",
+    "active": "oftenGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002221",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_oftenGift_03"
+  },
+  {
+    "id": "1002241",
+    "spriteID": "1002",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1002241",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_talent_01"
+  },
+  {
+    "id": "1002242",
+    "spriteID": "1002",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1002242",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_talent_02"
+  },
+  {
+    "id": "1002243",
+    "spriteID": "1002",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1002243",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_talent_03"
+  },
+  {
+    "id": "1002261",
+    "spriteID": "1002",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1002261",
+    "anime": "Body_ScratchBeard",
+    "vocal": "Vocal/1002/vox_1002_talent_04"
+  },
+  {
+    "id": "1002262",
+    "spriteID": "1002",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1002262",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_talent_05"
+  },
+  {
+    "id": "1002281",
+    "spriteID": "1002",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002281",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1002/vox_1002_talent_06"
+  },
+  {
+    "id": "1002282",
+    "spriteID": "1002",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002282",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_talent_07"
+  },
+  {
+    "id": "1002283",
+    "spriteID": "1002",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002283",
+    "anime": "Body_ScratchBeard",
+    "vocal": "Vocal/1002/vox_1002_talent_08"
+  },
+  {
+    "id": "1002284",
+    "spriteID": "1002",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1002284",
+    "anime": "0",
+    "vocal": "Vocal/1002/vox_1002_talent_09"
+  },
+  {
+    "id": "1002301",
+    "spriteID": "1002",
+    "active": "life",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1002301",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1002/vox_1002_life_01"
+  },
+  {
+    "id": "1002321",
+    "spriteID": "1002",
+    "active": "unLife",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1002321",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1002/vox_1002_unlife_01"
+  },
+  {
+    "id": "1002341",
+    "spriteID": "1002",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1002341",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1002/vox_1002_fuse_01"
+  },
+  {
+    "id": "1003001",
+    "spriteID": "1003",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1003001",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_chat_01"
+  },
+  {
+    "id": "1003002",
+    "spriteID": "1003",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1003002",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_chat_02"
+  },
+  {
+    "id": "1003003",
+    "spriteID": "1003",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1003003",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_chat_03"
+  },
+  {
+    "id": "1003021",
+    "spriteID": "1003",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1003021",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_chat_04"
+  },
+  {
+    "id": "1003022",
+    "spriteID": "1003",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1003022",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_chat_05"
+  },
+  {
+    "id": "1003023",
+    "spriteID": "1003",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1003023",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_chat_06"
+  },
+  {
+    "id": "1003041",
+    "spriteID": "1003",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1003041",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_chat_07"
+  },
+  {
+    "id": "1003042",
+    "spriteID": "1003",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1003042",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_chat_08"
+  },
+  {
+    "id": "1003043",
+    "spriteID": "1003",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1003043",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_chat_09"
+  },
+  {
+    "id": "1003061",
+    "spriteID": "1003",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1003061",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_acceptGift_01"
+  },
+  {
+    "id": "1003062",
+    "spriteID": "1003",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1003062",
+    "anime": "Special_DongShouZhi",
+    "vocal": "Vocal/1003/vox_1003_acceptGift_02"
+  },
+  {
+    "id": "1003063",
+    "spriteID": "1003",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1003063",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_acceptGift_03"
+  },
+  {
+    "id": "1003081",
+    "spriteID": "1003",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1003081",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_acceptGift_04"
+  },
+  {
+    "id": "1003082",
+    "spriteID": "1003",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1003082",
+    "anime": "Face_Blink",
+    "vocal": "Vocal/1003/vox_1003_acceptGift_05"
+  },
+  {
+    "id": "1003101",
+    "spriteID": "1003",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1003101",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_acceptGift_06"
+  },
+  {
+    "id": "1003102",
+    "spriteID": "1003",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1003102",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1003/vox_1003_acceptGift_07"
+  },
+  {
+    "id": "1003121",
+    "spriteID": "1003",
+    "active": "rejectGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1003121",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1003/vox_1003_rejectGift_01"
+  },
+  {
+    "id": "1003141",
+    "spriteID": "1003",
+    "active": "rejectGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1003141",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_rejectGift_02"
+  },
+  {
+    "id": "1003161",
+    "spriteID": "1003",
+    "active": "rejectGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1003161",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_rejectGift_03"
+  },
+  {
+    "id": "1003181",
+    "spriteID": "1003",
+    "active": "oftenGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1003181",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1003/vox_1003_oftenGift_01"
+  },
+  {
+    "id": "1003201",
+    "spriteID": "1003",
+    "active": "oftenGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1003201",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_oftenGift_02"
+  },
+  {
+    "id": "1003221",
+    "spriteID": "1003",
+    "active": "oftenGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1003221",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_oftenGift_03"
+  },
+  {
+    "id": "1003241",
+    "spriteID": "1003",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1003241",
+    "anime": "Special_DongEr",
+    "vocal": "Vocal/1003/vox_1003_talent_01"
+  },
+  {
+    "id": "1003242",
+    "spriteID": "1003",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1003242",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_talent_02"
+  },
+  {
+    "id": "1003243",
+    "spriteID": "1003",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1003243",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_talent_03"
+  },
+  {
+    "id": "1003261",
+    "spriteID": "1003",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1003261",
+    "anime": "Special_DongShouZhi",
+    "vocal": "Vocal/1003/vox_1003_talent_04"
+  },
+  {
+    "id": "1003262",
+    "spriteID": "1003",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1003262",
+    "anime": "0",
+    "vocal": "Vocal/1003/vox_1003_talent_05"
+  },
+  {
+    "id": "1003281",
+    "spriteID": "1003",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1003281",
+    "anime": "Special_DongShouZhi",
+    "vocal": "Vocal/1003/vox_1003_talent_06"
+  },
+  {
+    "id": "1003282",
+    "spriteID": "1003",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1003282",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1003/vox_1003_talent_07"
+  },
+  {
+    "id": "1003301",
+    "spriteID": "1003",
+    "active": "life",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1003301",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1003/vox_1003_life_01"
+  },
+  {
+    "id": "1003321",
+    "spriteID": "1003",
+    "active": "unLife",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1003321",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1003/vox_1003_unlife_01"
+  },
+  {
+    "id": "1003341",
+    "spriteID": "1003",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1003341",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1003/vox_1003_fuse_01"
+  },
+  {
+    "id": "1004001",
+    "spriteID": "1004",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1004001",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_chat_01"
+  },
+  {
+    "id": "1004002",
+    "spriteID": "1004",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1004002",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_chat_02"
+  },
+  {
+    "id": "1004003",
+    "spriteID": "1004",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1004003",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_chat_03"
+  },
+  {
+    "id": "1004021",
+    "spriteID": "1004",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1004021",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_chat_04"
+  },
+  {
+    "id": "1004022",
+    "spriteID": "1004",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1004022",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_chat_05"
+  },
+  {
+    "id": "1004023",
+    "spriteID": "1004",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1004023",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_chat_06"
+  },
+  {
+    "id": "1004041",
+    "spriteID": "1004",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004041",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_chat_07"
+  },
+  {
+    "id": "1004042",
+    "spriteID": "1004",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004042",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_chat_08"
+  },
+  {
+    "id": "1004043",
+    "spriteID": "1004",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004043",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_chat_09"
+  },
+  {
+    "id": "1004044",
+    "spriteID": "1004",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004044",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_chat_10"
+  },
+  {
+    "id": "1004045",
+    "spriteID": "1004",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004045",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_chat_11"
+  },
+  {
+    "id": "1004046",
+    "spriteID": "1004",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004046",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_chat_12"
+  },
+  {
+    "id": "1004061",
+    "spriteID": "1004",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1004061",
+    "anime": "Special_StarEyes1",
+    "vocal": "Vocal/1004/vox_1004_acceptGift_01"
+  },
+  {
+    "id": "1004062",
+    "spriteID": "1004",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1004062",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_acceptGift_02"
+  },
+  {
+    "id": "1004063",
+    "spriteID": "1004",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1004063",
+    "anime": "Face_Blink",
+    "vocal": "Vocal/1004/vox_1004_acceptGift_03"
+  },
+  {
+    "id": "1004081",
+    "spriteID": "1004",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1004081",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1004/vox_1004_acceptGift_04"
+  },
+  {
+    "id": "1004082",
+    "spriteID": "1004",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1004082",
+    "anime": "Body_Shake",
+    "vocal": "Vocal/1004/vox_1004_acceptGift_05"
+  },
+  {
+    "id": "1004083",
+    "spriteID": "1004",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1004083",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_acceptGift_06"
+  },
+  {
+    "id": "1004101",
+    "spriteID": "1004",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004101",
+    "anime": "Face_Blink",
+    "vocal": "Vocal/1004/vox_1004_acceptGift_07"
+  },
+  {
+    "id": "1004102",
+    "spriteID": "1004",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004102",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_acceptGift_08"
+  },
+  {
+    "id": "1004103",
+    "spriteID": "1004",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004103",
+    "anime": "Special_StarEyes1",
+    "vocal": "Vocal/1004/vox_1004_acceptGift_09"
+  },
+  {
+    "id": "1004104",
+    "spriteID": "1004",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004104",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1004/vox_1004_acceptGift_10"
+  },
+  {
+    "id": "1004121",
+    "spriteID": "1004",
+    "active": "rejectGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1004121",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_rejectGift_01"
+  },
+  {
+    "id": "1004122",
+    "spriteID": "1004",
+    "active": "rejectGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1004122",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1004/vox_1004_rejectGift_02"
+  },
+  {
+    "id": "1004141",
+    "spriteID": "1004",
+    "active": "rejectGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1004141",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_rejectGift_03"
+  },
+  {
+    "id": "1004161",
+    "spriteID": "1004",
+    "active": "rejectGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004161",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_rejectGift_04"
+  },
+  {
+    "id": "1004181",
+    "spriteID": "1004",
+    "active": "oftenGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1004181",
+    "anime": "Special_Doze",
+    "vocal": "Vocal/1004/vox_1004_oftenGift_01"
+  },
+  {
+    "id": "1004201",
+    "spriteID": "1004",
+    "active": "oftenGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1004201",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_oftenGift_02"
+  },
+  {
+    "id": "1004221",
+    "spriteID": "1004",
+    "active": "oftenGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004221",
+    "anime": "Special_Doze",
+    "vocal": "Vocal/1004/vox_1004_oftenGift_03"
+  },
+  {
+    "id": "1004241",
+    "spriteID": "1004",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1004241",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_talent_01"
+  },
+  {
+    "id": "1004242",
+    "spriteID": "1004",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1004242",
+    "anime": "Special_Doze",
+    "vocal": "Vocal/1004/vox_1004_talent_02"
+  },
+  {
+    "id": "1004243",
+    "spriteID": "1004",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1004243",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_talent_03"
+  },
+  {
+    "id": "1004261",
+    "spriteID": "1004",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1004261",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_talent_04"
+  },
+  {
+    "id": "1004262",
+    "spriteID": "1004",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1004262",
+    "anime": "Special_Doze",
+    "vocal": "Vocal/1004/vox_1004_talent_05"
+  },
+  {
+    "id": "1004263",
+    "spriteID": "1004",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1004263",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_talent_06"
+  },
+  {
+    "id": "1004281",
+    "spriteID": "1004",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004281",
+    "anime": "0",
+    "vocal": "Vocal/1004/vox_1004_talent_07"
+  },
+  {
+    "id": "1004282",
+    "spriteID": "1004",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004282",
+    "anime": "Face_Blink",
+    "vocal": "Vocal/1004/vox_1004_talent_08"
+  },
+  {
+    "id": "1004283",
+    "spriteID": "1004",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1004283",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1004/vox_1004_talent_09"
+  },
+  {
+    "id": "1004301",
+    "spriteID": "1004",
+    "active": "life",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1004301",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1004/vox_1004_life_01"
+  },
+  {
+    "id": "1004321",
+    "spriteID": "1004",
+    "active": "unLife",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1004321",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1004/vox_1004_unlife_01"
+  },
+  {
+    "id": "1004341",
+    "spriteID": "1004",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1004341",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1004/vox_1004_fuse_01"
+  },
+  {
+    "id": "1005001",
+    "spriteID": "1005",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1005001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "1005021",
+    "spriteID": "1005",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005021",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_chat_02"
+  },
+  {
+    "id": "1005022",
+    "spriteID": "1005",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005022",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_chat_03"
+  },
+  {
+    "id": "1005023",
+    "spriteID": "1005",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005023",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_chat_04"
+  },
+  {
+    "id": "1005024",
+    "spriteID": "1005",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005024",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_chat_05"
+  },
+  {
+    "id": "1005041",
+    "spriteID": "1005",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005041",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_chat_06"
+  },
+  {
+    "id": "1005042",
+    "spriteID": "1005",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005042",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_chat_07"
+  },
+  {
+    "id": "1005043",
+    "spriteID": "1005",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005043",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_chat_08"
+  },
+  {
+    "id": "1005044",
+    "spriteID": "1005",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005044",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_chat_09"
+  },
+  {
+    "id": "1005045",
+    "spriteID": "1005",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005045",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_chat_10"
+  },
+  {
+    "id": "1005046",
+    "spriteID": "1005",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005046",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_chat_11"
+  },
+  {
+    "id": "1005061",
+    "spriteID": "1005",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1005061",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "1005081",
+    "spriteID": "1005",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005081",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_acceptGift_02"
+  },
+  {
+    "id": "1005082",
+    "spriteID": "1005",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005082",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_acceptGift_03"
+  },
+  {
+    "id": "1005083",
+    "spriteID": "1005",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005083",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_acceptGift_04"
+  },
+  {
+    "id": "1005084",
+    "spriteID": "1005",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005084",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_acceptGift_05"
+  },
+  {
+    "id": "1005101",
+    "spriteID": "1005",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005101",
+    "anime": "Face_Blink",
+    "vocal": "Vocal/1005/vox_1005_acceptGift_06"
+  },
+  {
+    "id": "1005102",
+    "spriteID": "1005",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005102",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1005/vox_1005_acceptGift_07"
+  },
+  {
+    "id": "1005103",
+    "spriteID": "1005",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005103",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_acceptGift_08"
+  },
+  {
+    "id": "1005104",
+    "spriteID": "1005",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005104",
+    "anime": "Face_Blush_5",
+    "vocal": "Vocal/1005/vox_1005_acceptGift_09"
+  },
+  {
+    "id": "1005121",
+    "spriteID": "1005",
+    "active": "rejectGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1005121",
+    "anime": "Face_Serious",
+    "vocal": "0"
+  },
+  {
+    "id": "1005141",
+    "spriteID": "1005",
+    "active": "rejectGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005141",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_rejectGift_02"
+  },
+  {
+    "id": "1005142",
+    "spriteID": "1005",
+    "active": "rejectGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005142",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_rejectGift_03"
+  },
+  {
+    "id": "1005161",
+    "spriteID": "1005",
+    "active": "rejectGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005161",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_rejectGift_04"
+  },
+  {
+    "id": "1005162",
+    "spriteID": "1005",
+    "active": "rejectGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005162",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_rejectGift_05"
+  },
+  {
+    "id": "1005181",
+    "spriteID": "1005",
+    "active": "oftenGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1005181",
+    "anime": "Face_Serious",
+    "vocal": "0"
+  },
+  {
+    "id": "1005201",
+    "spriteID": "1005",
+    "active": "oftenGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005201",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_oftenGift_02"
+  },
+  {
+    "id": "1005202",
+    "spriteID": "1005",
+    "active": "oftenGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005202",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_oftenGift_03"
+  },
+  {
+    "id": "1005221",
+    "spriteID": "1005",
+    "active": "oftenGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005221",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_oftenGift_04"
+  },
+  {
+    "id": "1005222",
+    "spriteID": "1005",
+    "active": "oftenGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005222",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_oftenGift_05"
+  },
+  {
+    "id": "1005241",
+    "spriteID": "1005",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1005241",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "1005261",
+    "spriteID": "1005",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005261",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_talent_02"
+  },
+  {
+    "id": "1005262",
+    "spriteID": "1005",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005262",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_talent_03"
+  },
+  {
+    "id": "1005263",
+    "spriteID": "1005",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005263",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_talent_04"
+  },
+  {
+    "id": "1005264",
+    "spriteID": "1005",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1005264",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_talent_05"
+  },
+  {
+    "id": "1005281",
+    "spriteID": "1005",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005281",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_talent_06"
+  },
+  {
+    "id": "1005282",
+    "spriteID": "1005",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005282",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_talent_07"
+  },
+  {
+    "id": "1005283",
+    "spriteID": "1005",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005283",
+    "anime": "Face_Blush_5",
+    "vocal": "Vocal/1005/vox_1005_talent_08"
+  },
+  {
+    "id": "1005284",
+    "spriteID": "1005",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1005284",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_talent_09"
+  },
+  {
+    "id": "1005301",
+    "spriteID": "1005",
+    "active": "life",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1005301",
+    "anime": "0",
+    "vocal": "Vocal/1005/vox_1005_life_01"
+  },
+  {
+    "id": "1005321",
+    "spriteID": "1005",
+    "active": "unLife",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1005321",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1005/vox_1005_unlife_01"
+  },
+  {
+    "id": "1005341",
+    "spriteID": "1005",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1005341",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1005/vox_1005_fuse_01"
+  },
+  {
+    "id": "1005351",
+    "spriteID": "1005",
+    "active": "closeMax",
+    "closeLevel": "-1",
+    "dialogueId": "0",
+    "anime": "Body_TakeOffMask",
+    "vocal": "0"
+  },
+  {
+    "id": "1006001",
+    "spriteID": "1006",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1006001",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_chat_01"
+  },
+  {
+    "id": "1006002",
+    "spriteID": "1006",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1006002",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_chat_02"
+  },
+  {
+    "id": "1006003",
+    "spriteID": "1006",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1006003",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_chat_03"
+  },
+  {
+    "id": "1006021",
+    "spriteID": "1006",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1006021",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_chat_04"
+  },
+  {
+    "id": "1006022",
+    "spriteID": "1006",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1006022",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_chat_05"
+  },
+  {
+    "id": "1006023",
+    "spriteID": "1006",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1006023",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_chat_06"
+  },
+  {
+    "id": "1006041",
+    "spriteID": "1006",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1006041",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_chat_07"
+  },
+  {
+    "id": "1006042",
+    "spriteID": "1006",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1006042",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_chat_08"
+  },
+  {
+    "id": "1006043",
+    "spriteID": "1006",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1006043",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_chat_09"
+  },
+  {
+    "id": "1006044",
+    "spriteID": "1006",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1006044",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_chat_10"
+  },
+  {
+    "id": "1006045",
+    "spriteID": "1006",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1006045",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_chat_11"
+  },
+  {
+    "id": "1006061",
+    "spriteID": "1006",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1006061",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_acceptGift_01"
+  },
+  {
+    "id": "1006062",
+    "spriteID": "1006",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1006062",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_acceptGift_02"
+  },
+  {
+    "id": "1006063",
+    "spriteID": "1006",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1006063",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_acceptGift_03"
+  },
+  {
+    "id": "1006081",
+    "spriteID": "1006",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1006081",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_acceptGift_04"
+  },
+  {
+    "id": "1006082",
+    "spriteID": "1006",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1006082",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1006/vox_1006_acceptGift_05"
+  },
+  {
+    "id": "1006083",
+    "spriteID": "1006",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1006083",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_acceptGift_06"
+  },
+  {
+    "id": "1006101",
+    "spriteID": "1006",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1006101",
+    "anime": "Face_Blink",
+    "vocal": "Vocal/1006/vox_1006_acceptGift_07"
+  },
+  {
+    "id": "1006102",
+    "spriteID": "1006",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1006102",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1006/vox_1006_acceptGift_08"
+  },
+  {
+    "id": "1006103",
+    "spriteID": "1006",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1006103",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_acceptGift_09"
+  },
+  {
+    "id": "1006121",
+    "spriteID": "1006",
+    "active": "rejectGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1006121",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1006/vox_1006_rejectGift_01"
+  },
+  {
+    "id": "1006141",
+    "spriteID": "1006",
+    "active": "rejectGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1006141",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_rejectGift_02"
+  },
+  {
+    "id": "1006161",
+    "spriteID": "1006",
+    "active": "rejectGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1006161",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_rejectGift_03"
+  },
+  {
+    "id": "1006181",
+    "spriteID": "1006",
+    "active": "oftenGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1006181",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1006/vox_1006_oftenGift_01"
+  },
+  {
+    "id": "1006201",
+    "spriteID": "1006",
+    "active": "oftenGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1006201",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_oftenGift_02"
+  },
+  {
+    "id": "1006221",
+    "spriteID": "1006",
+    "active": "oftenGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1006221",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_oftenGift_03"
+  },
+  {
+    "id": "1006241",
+    "spriteID": "1006",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1006241",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_talent_01"
+  },
+  {
+    "id": "1006242",
+    "spriteID": "1006",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1006242",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_talent_02"
+  },
+  {
+    "id": "1006261",
+    "spriteID": "1006",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1006261",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_talent_03"
+  },
+  {
+    "id": "1006262",
+    "spriteID": "1006",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1006262",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_talent_04"
+  },
+  {
+    "id": "1006281",
+    "spriteID": "1006",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1006281",
+    "anime": "0",
+    "vocal": "Vocal/1006/vox_1006_talent_05"
+  },
+  {
+    "id": "1006282",
+    "spriteID": "1006",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1006282",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1006/vox_1006_talent_06"
+  },
+  {
+    "id": "1006283",
+    "spriteID": "1006",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1006283",
+    "anime": "Face_Blink",
+    "vocal": "Vocal/1006/vox_1006_talent_06"
+  },
+  {
+    "id": "1006301",
+    "spriteID": "1006",
+    "active": "life",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1006301",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1006/vox_1006_life_01"
+  },
+  {
+    "id": "1006321",
+    "spriteID": "1006",
+    "active": "unLife",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1006321",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1006/vox_1006_unlife_01"
+  },
+  {
+    "id": "1006341",
+    "spriteID": "1006",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1006341",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1006/vox_1006_fuse_01"
+  },
+  {
+    "id": "1007001",
+    "spriteID": "1007",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1007001",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_001"
+  },
+  {
+    "id": "1007002",
+    "spriteID": "1007",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1007002",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_002"
+  },
+  {
+    "id": "1007003",
+    "spriteID": "1007",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1007003",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_003"
+  },
+  {
+    "id": "1007004",
+    "spriteID": "1007",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1007004",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_004"
+  },
+  {
+    "id": "1007005",
+    "spriteID": "1007",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1007005",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_005"
+  },
+  {
+    "id": "1007006",
+    "spriteID": "1007",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1007006",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_006"
+  },
+  {
+    "id": "1007007",
+    "spriteID": "1007",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007007",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_007"
+  },
+  {
+    "id": "1007008",
+    "spriteID": "1007",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007008",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_008"
+  },
+  {
+    "id": "1007009",
+    "spriteID": "1007",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007009",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_009"
+  },
+  {
+    "id": "1007010",
+    "spriteID": "1007",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007010",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_010"
+  },
+  {
+    "id": "1007011",
+    "spriteID": "1007",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007011",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_011"
+  },
+  {
+    "id": "1007012",
+    "spriteID": "1007",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007012",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_012"
+  },
+  {
+    "id": "1007013",
+    "spriteID": "1007",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007013",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_013"
+  },
+  {
+    "id": "1007014",
+    "spriteID": "1007",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1007014",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_014"
+  },
+  {
+    "id": "1007015",
+    "spriteID": "1007",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1007015",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_015"
+  },
+  {
+    "id": "1007016",
+    "spriteID": "1007",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1007016",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_016"
+  },
+  {
+    "id": "1007017",
+    "spriteID": "1007",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1007017",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1007/active_017"
+  },
+  {
+    "id": "1007018",
+    "spriteID": "1007",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1007018",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_018"
+  },
+  {
+    "id": "1007019",
+    "spriteID": "1007",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1007019",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_019"
+  },
+  {
+    "id": "1007020",
+    "spriteID": "1007",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1007020",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_020"
+  },
+  {
+    "id": "1007021",
+    "spriteID": "1007",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007021",
+    "anime": "Face_Blink",
+    "vocal": "Vocal/1007/active_021"
+  },
+  {
+    "id": "1007022",
+    "spriteID": "1007",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007022",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_022"
+  },
+  {
+    "id": "1007023",
+    "spriteID": "1007",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007023",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_023"
+  },
+  {
+    "id": "1007024",
+    "spriteID": "1007",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007024",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1007/active_024"
+  },
+  {
+    "id": "1007025",
+    "spriteID": "1007",
+    "active": "rejectGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1007025",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_025"
+  },
+  {
+    "id": "1007026",
+    "spriteID": "1007",
+    "active": "rejectGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1007026",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_026"
+  },
+  {
+    "id": "1007027",
+    "spriteID": "1007",
+    "active": "rejectGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1007027",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_027"
+  },
+  {
+    "id": "1007028",
+    "spriteID": "1007",
+    "active": "rejectGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007028",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_028"
+  },
+  {
+    "id": "1007029",
+    "spriteID": "1007",
+    "active": "oftenGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1007029",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_029"
+  },
+  {
+    "id": "1007030",
+    "spriteID": "1007",
+    "active": "oftenGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1007030",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_030"
+  },
+  {
+    "id": "1007031",
+    "spriteID": "1007",
+    "active": "oftenGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007031",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1007/active_031"
+  },
+  {
+    "id": "1007032",
+    "spriteID": "1007",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1007032",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1007/active_032"
+  },
+  {
+    "id": "1007033",
+    "spriteID": "1007",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1007033",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_033"
+  },
+  {
+    "id": "1007034",
+    "spriteID": "1007",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1007034",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_034"
+  },
+  {
+    "id": "1007035",
+    "spriteID": "1007",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1007035",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_035"
+  },
+  {
+    "id": "1007036",
+    "spriteID": "1007",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007036",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1007/active_036"
+  },
+  {
+    "id": "1007037",
+    "spriteID": "1007",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007037",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_037"
+  },
+  {
+    "id": "1007038",
+    "spriteID": "1007",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1007038",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_038"
+  },
+  {
+    "id": "1007039",
+    "spriteID": "1007",
+    "active": "life",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1007039",
+    "anime": "0",
+    "vocal": "Vocal/1007/active_039"
+  },
+  {
+    "id": "1007040",
+    "spriteID": "1007",
+    "active": "unLife",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1007040",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1007/active_040"
+  },
+  {
+    "id": "1007041",
+    "spriteID": "1007",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1007041",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1007/active_041"
+  },
+  {
+    "id": "1008001",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1008001",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_042"
+  },
+  {
+    "id": "1008002",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1008002",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_043"
+  },
+  {
+    "id": "1008003",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1008003",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_044"
+  },
+  {
+    "id": "1008004",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1008004",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_045"
+  },
+  {
+    "id": "1008005",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1008005",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_046"
+  },
+  {
+    "id": "1008006",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008006",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_047"
+  },
+  {
+    "id": "1008007",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008007",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_048"
+  },
+  {
+    "id": "1008008",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008008",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_049"
+  },
+  {
+    "id": "1008009",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008009",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_050"
+  },
+  {
+    "id": "1008010",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008010",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_051"
+  },
+  {
+    "id": "1008011",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008011",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_052"
+  },
+  {
+    "id": "1008012",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008012",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_053"
+  },
+  {
+    "id": "1008013",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008013",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_054"
+  },
+  {
+    "id": "1008014",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008014",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_055"
+  },
+  {
+    "id": "1008015",
+    "spriteID": "1008",
+    "active": "chat",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008015",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_056"
+  },
+  {
+    "id": "1008016",
+    "spriteID": "1008",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1008016",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_057"
+  },
+  {
+    "id": "1008017",
+    "spriteID": "1008",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1008017",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_058"
+  },
+  {
+    "id": "1008018",
+    "spriteID": "1008",
+    "active": "acceptGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1008018",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_059"
+  },
+  {
+    "id": "1008019",
+    "spriteID": "1008",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1008019",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_060"
+  },
+  {
+    "id": "1008020",
+    "spriteID": "1008",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1008020",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_061"
+  },
+  {
+    "id": "1008021",
+    "spriteID": "1008",
+    "active": "acceptGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1008021",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_062"
+  },
+  {
+    "id": "1008022",
+    "spriteID": "1008",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008022",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1008/active_063"
+  },
+  {
+    "id": "1008023",
+    "spriteID": "1008",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008023",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_064"
+  },
+  {
+    "id": "1008024",
+    "spriteID": "1008",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008024",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_065"
+  },
+  {
+    "id": "1008025",
+    "spriteID": "1008",
+    "active": "acceptGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008025",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1008/active_066"
+  },
+  {
+    "id": "1008026",
+    "spriteID": "1008",
+    "active": "rejectGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1008026",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_067"
+  },
+  {
+    "id": "1008027",
+    "spriteID": "1008",
+    "active": "rejectGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1008027",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_068"
+  },
+  {
+    "id": "1008028",
+    "spriteID": "1008",
+    "active": "rejectGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1008028",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_069"
+  },
+  {
+    "id": "1008029",
+    "spriteID": "1008",
+    "active": "rejectGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008029",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1008/active_070"
+  },
+  {
+    "id": "1008030",
+    "spriteID": "1008",
+    "active": "oftenGift",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1008030",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_071"
+  },
+  {
+    "id": "1008031",
+    "spriteID": "1008",
+    "active": "oftenGift",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1008031",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_072"
+  },
+  {
+    "id": "1008032",
+    "spriteID": "1008",
+    "active": "oftenGift",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008032",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_073"
+  },
+  {
+    "id": "1008033",
+    "spriteID": "1008",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1008033",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_074"
+  },
+  {
+    "id": "1008034",
+    "spriteID": "1008",
+    "active": "talent",
+    "closeLevel": "0",
+    "dialogueId": "spriteSub_1008034",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_075"
+  },
+  {
+    "id": "1008035",
+    "spriteID": "1008",
+    "active": "talent",
+    "closeLevel": "1",
+    "dialogueId": "spriteSub_1008035",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_076"
+  },
+  {
+    "id": "1008036",
+    "spriteID": "1008",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008036",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1008/active_077"
+  },
+  {
+    "id": "1008037",
+    "spriteID": "1008",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008037",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_078"
+  },
+  {
+    "id": "1008038",
+    "spriteID": "1008",
+    "active": "talent",
+    "closeLevel": "2",
+    "dialogueId": "spriteSub_1008038",
+    "anime": "0",
+    "vocal": "Vocal/1008/active_079"
+  },
+  {
+    "id": "1008039",
+    "spriteID": "1008",
+    "active": "life",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1008039",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1008/active_080"
+  },
+  {
+    "id": "1008040",
+    "spriteID": "1008",
+    "active": "unLife",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1008040",
+    "anime": "Face_Serious",
+    "vocal": "Vocal/1008/active_081"
+  },
+  {
+    "id": "1008041",
+    "spriteID": "1008",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_1008041",
+    "anime": "Face_Happy",
+    "vocal": "Vocal/1008/active_082"
+  },
+  {
+    "id": "1008042",
+    "spriteID": "1008",
+    "active": "closeMax",
+    "closeLevel": "-1",
+    "dialogueId": "0",
+    "anime": "Body_CloseMax",
+    "vocal": "0"
+  },
+  {
+    "id": "2001001",
+    "spriteID": "2001",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2001001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2001002",
+    "spriteID": "2001",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2001002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2001003",
+    "spriteID": "2001",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2001003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2001004",
+    "spriteID": "2001",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2001004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2001005",
+    "spriteID": "2001",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2001005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2001006",
+    "spriteID": "2001",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2001006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2002001",
+    "spriteID": "2002",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2002001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2002002",
+    "spriteID": "2002",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2002002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2002003",
+    "spriteID": "2002",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2002003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2002004",
+    "spriteID": "2002",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2002004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2002005",
+    "spriteID": "2002",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2002005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2002006",
+    "spriteID": "2002",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2002006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2003001",
+    "spriteID": "2003",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2003001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2003002",
+    "spriteID": "2003",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2003002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2003003",
+    "spriteID": "2003",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2003003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2003004",
+    "spriteID": "2003",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2003004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2003005",
+    "spriteID": "2003",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2003005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2003006",
+    "spriteID": "2003",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2003006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2004001",
+    "spriteID": "2004",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2004001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2004002",
+    "spriteID": "2004",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2004002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2004003",
+    "spriteID": "2004",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2004003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2004004",
+    "spriteID": "2004",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2004004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2004005",
+    "spriteID": "2004",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2004005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2004006",
+    "spriteID": "2004",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2004006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2005001",
+    "spriteID": "2005",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2005001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2005002",
+    "spriteID": "2005",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2005002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2005003",
+    "spriteID": "2005",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2005003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2005004",
+    "spriteID": "2005",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2005004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2005005",
+    "spriteID": "2005",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2005005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2005006",
+    "spriteID": "2005",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2005006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2006001",
+    "spriteID": "2006",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2006001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2006002",
+    "spriteID": "2006",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2006002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2006003",
+    "spriteID": "2006",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2006003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2006004",
+    "spriteID": "2006",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2006004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2006005",
+    "spriteID": "2006",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2006005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2006006",
+    "spriteID": "2006",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2006006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2007001",
+    "spriteID": "2007",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2007001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2007002",
+    "spriteID": "2007",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2007002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2007003",
+    "spriteID": "2007",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2007003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2007004",
+    "spriteID": "2007",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2007004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2007005",
+    "spriteID": "2007",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2007005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2007006",
+    "spriteID": "2007",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2007006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2008001",
+    "spriteID": "2008",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2008001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2008002",
+    "spriteID": "2008",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2008002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2008003",
+    "spriteID": "2008",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2008003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2008004",
+    "spriteID": "2008",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2008004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2008005",
+    "spriteID": "2008",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2008005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2008006",
+    "spriteID": "2008",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2008006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2009001",
+    "spriteID": "2009",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2009001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2009002",
+    "spriteID": "2009",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2009002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2009003",
+    "spriteID": "2009",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2009003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2009004",
+    "spriteID": "2009",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2009004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2009005",
+    "spriteID": "2009",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2009005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2009006",
+    "spriteID": "2009",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2009006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2010001",
+    "spriteID": "2010",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2010001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2010002",
+    "spriteID": "2010",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2010002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2010003",
+    "spriteID": "2010",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2010003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2010004",
+    "spriteID": "2010",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2010004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2010005",
+    "spriteID": "2010",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2010005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2010006",
+    "spriteID": "2010",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2010006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2011001",
+    "spriteID": "2011",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2011001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2011002",
+    "spriteID": "2011",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2011002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2011003",
+    "spriteID": "2011",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2011003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2011004",
+    "spriteID": "2011",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2011004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2011005",
+    "spriteID": "2011",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2011005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2011006",
+    "spriteID": "2011",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2011006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2012001",
+    "spriteID": "2012",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2012001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2012002",
+    "spriteID": "2012",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2012002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2012003",
+    "spriteID": "2012",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2012003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2012004",
+    "spriteID": "2012",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2012004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2012005",
+    "spriteID": "2012",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2012005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2012006",
+    "spriteID": "2012",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2012006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2013001",
+    "spriteID": "2013",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2013001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2013002",
+    "spriteID": "2013",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2013002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2013003",
+    "spriteID": "2013",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2013003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2013004",
+    "spriteID": "2013",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2013004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2013005",
+    "spriteID": "2013",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2013005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2013006",
+    "spriteID": "2013",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2013006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2014001",
+    "spriteID": "2014",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2014001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2014002",
+    "spriteID": "2014",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2014002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2014003",
+    "spriteID": "2014",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2014003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2014004",
+    "spriteID": "2014",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2014004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2014005",
+    "spriteID": "2014",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2014005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2014006",
+    "spriteID": "2014",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2014006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2015001",
+    "spriteID": "2015",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2015001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2015002",
+    "spriteID": "2015",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2015002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2015003",
+    "spriteID": "2015",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2015003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2015004",
+    "spriteID": "2015",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2015004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2015005",
+    "spriteID": "2015",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2015005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2015006",
+    "spriteID": "2015",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2015006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2016001",
+    "spriteID": "2016",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2016001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2016002",
+    "spriteID": "2016",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2016002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2016003",
+    "spriteID": "2016",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2016003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2016004",
+    "spriteID": "2016",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2016004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2016005",
+    "spriteID": "2016",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2016005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2016006",
+    "spriteID": "2016",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2016006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2017001",
+    "spriteID": "2017",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2017001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2017002",
+    "spriteID": "2017",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2017002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2017003",
+    "spriteID": "2017",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2017003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2017004",
+    "spriteID": "2017",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2017004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2017005",
+    "spriteID": "2017",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2017005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2017006",
+    "spriteID": "2017",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2017006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2018001",
+    "spriteID": "2018",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2018001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2018002",
+    "spriteID": "2018",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2018002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2018003",
+    "spriteID": "2018",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2018003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2018004",
+    "spriteID": "2018",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2018004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2018005",
+    "spriteID": "2018",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2018005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2018006",
+    "spriteID": "2018",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2018006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2019001",
+    "spriteID": "2019",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2019001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2019002",
+    "spriteID": "2019",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2019002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2019003",
+    "spriteID": "2019",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2019003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2019004",
+    "spriteID": "2019",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2019004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2019005",
+    "spriteID": "2019",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2019005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2019006",
+    "spriteID": "2019",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2019006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2020001",
+    "spriteID": "2020",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2020001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2020002",
+    "spriteID": "2020",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2020002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2020003",
+    "spriteID": "2020",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2020003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2020004",
+    "spriteID": "2020",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2020004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2020005",
+    "spriteID": "2020",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2020005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2020006",
+    "spriteID": "2020",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2020006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2021001",
+    "spriteID": "2021",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2021001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2021002",
+    "spriteID": "2021",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2021002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2021003",
+    "spriteID": "2021",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2021003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2021004",
+    "spriteID": "2021",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2021004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2021005",
+    "spriteID": "2021",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2021005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2021006",
+    "spriteID": "2021",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2021006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2022001",
+    "spriteID": "2022",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2022001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2022002",
+    "spriteID": "2022",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2022002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2022003",
+    "spriteID": "2022",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2022003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2022004",
+    "spriteID": "2022",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2022004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2022005",
+    "spriteID": "2022",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2022005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2022006",
+    "spriteID": "2022",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2022006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2023001",
+    "spriteID": "2023",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2023001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2023002",
+    "spriteID": "2023",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2023002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2023003",
+    "spriteID": "2023",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2023003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2023004",
+    "spriteID": "2023",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2023004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2023005",
+    "spriteID": "2023",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2023005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2023006",
+    "spriteID": "2023",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2023006",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2024001",
+    "spriteID": "2024",
+    "active": "chat",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2024001",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2024002",
+    "spriteID": "2024",
+    "active": "acceptGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2024002",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2024003",
+    "spriteID": "2024",
+    "active": "rejectGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2024003",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2024004",
+    "spriteID": "2024",
+    "active": "oftenGift",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2024004",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2024005",
+    "spriteID": "2024",
+    "active": "talent",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2024005",
+    "anime": "0",
+    "vocal": "0"
+  },
+  {
+    "id": "2024006",
+    "spriteID": "2024",
+    "active": "fuse",
+    "closeLevel": "-1",
+    "dialogueId": "spriteSub_2024006",
+    "anime": "0",
+    "vocal": "0"
+  }
+]

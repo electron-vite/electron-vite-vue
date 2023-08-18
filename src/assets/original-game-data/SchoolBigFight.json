@@ -1,0 +1,412 @@
+[
+  {
+    "id": "1",
+    "key": "isOpen",
+    "value": "1"
+  },
+  {
+    "id": "2",
+    "key": "openMonthInterval",
+    "value": "36"
+  },
+  {
+    "id": "3",
+    "key": "dayCost",
+    "value": "30"
+  },
+  {
+    "id": "4",
+    "key": "maxAreaChooseCount4",
+    "value": "10"
+  },
+  {
+    "id": "5",
+    "key": "maxAreaChooseCount6",
+    "value": "10"
+  },
+  {
+    "id": "6",
+    "key": "maxAreaChooseCount8",
+    "value": "10"
+  },
+  {
+    "id": "7",
+    "key": "maxAreaChooseCount10",
+    "value": "6"
+  },
+  {
+    "id": "8",
+    "key": "npcBattleTimeLimit",
+    "value": "120"
+  },
+  {
+    "id": "9",
+    "key": "minPointSchoolsRequire4",
+    "value": "4"
+  },
+  {
+    "id": "10",
+    "key": "minPointSchoolsRequire6",
+    "value": "4"
+  },
+  {
+    "id": "11",
+    "key": "minPointSchoolsRequire8",
+    "value": "3"
+  },
+  {
+    "id": "12",
+    "key": "minPointSchoolsRequire10",
+    "value": "2"
+  },
+  {
+    "id": "13",
+    "key": "maxPointBattleRound",
+    "value": "5"
+  },
+  {
+    "id": "14",
+    "key": "pointSchWinScore",
+    "value": "3"
+  },
+  {
+    "id": "15",
+    "key": "pointSchLoseScore",
+    "value": "0"
+  },
+  {
+    "id": "16",
+    "key": "pointSchDrawScore",
+    "value": "1"
+  },
+  {
+    "id": "17",
+    "key": "maxArenaSchoolCount4",
+    "value": "3"
+  },
+  {
+    "id": "18",
+    "key": "maxArenaSchoolCount6",
+    "value": "3"
+  },
+  {
+    "id": "19",
+    "key": "maxArenaSchoolCount8",
+    "value": "2"
+  },
+  {
+    "id": "20",
+    "key": "maxArenaSchoolCount10",
+    "value": "2"
+  },
+  {
+    "id": "21",
+    "key": "notifyMonths",
+    "value": "3"
+  },
+  {
+    "id": "22",
+    "key": "releaseLuckies",
+    "value": "8805224"
+  },
+  {
+    "id": "23",
+    "key": "banLuckies",
+    "value": "101|1011|1012|1013"
+  },
+  {
+    "id": "24",
+    "key": "winLucky2",
+    "value": "9184"
+  },
+  {
+    "id": "25",
+    "key": "winLucky3",
+    "value": "9185"
+  },
+  {
+    "id": "26",
+    "key": "playerAcceptDramaOptId",
+    "value": "10090071"
+  },
+  {
+    "id": "27",
+    "key": "playerRefuseDramaOptId",
+    "value": "10090072"
+  },
+  {
+    "id": "28",
+    "key": "playerAcceptDramaOptId10",
+    "value": "10096011"
+  },
+  {
+    "id": "29",
+    "key": "playerAcceptDramaOptId11",
+    "value": "10096012"
+  },
+  {
+    "id": "30",
+    "key": "playerRefuseDramaOptId10",
+    "value": "10096013"
+  },
+  {
+    "id": "31",
+    "key": "defeatUnitScore",
+    "value": "1"
+  },
+  {
+    "id": "32",
+    "key": "mystPropsId",
+    "value": "10001"
+  },
+  {
+    "id": "33",
+    "key": "mystPropsCost",
+    "value": "1500"
+  },
+  {
+    "id": "34",
+    "key": "mystRefreshCount",
+    "value": "3"
+  },
+  {
+    "id": "35",
+    "key": "mystRefreshProds",
+    "value": "3"
+  },
+  {
+    "id": "36",
+    "key": "mystRefreshCount1",
+    "value": "6"
+  },
+  {
+    "id": "37",
+    "key": "mystRefreshProds1",
+    "value": "3"
+  },
+  {
+    "id": "38",
+    "key": "pointRestRecovery",
+    "value": "lhp%20"
+  },
+  {
+    "id": "39",
+    "key": "arenaRestRecovery",
+    "value": "mhp%30"
+  },
+  {
+    "id": "40",
+    "key": "schoolReward41",
+    "value": "6440036"
+  },
+  {
+    "id": "41",
+    "key": "schoolReward42",
+    "value": "6440035"
+  },
+  {
+    "id": "42",
+    "key": "schoolReward43",
+    "value": "6440034"
+  },
+  {
+    "id": "43",
+    "key": "schoolReward61",
+    "value": "6440056"
+  },
+  {
+    "id": "44",
+    "key": "schoolReward62",
+    "value": "6440055"
+  },
+  {
+    "id": "45",
+    "key": "schoolReward63",
+    "value": "6440054"
+  },
+  {
+    "id": "46",
+    "key": "schoolReward81",
+    "value": "6440076"
+  },
+  {
+    "id": "47",
+    "key": "schoolReward82",
+    "value": "6440075"
+  },
+  {
+    "id": "48",
+    "key": "schoolReward83",
+    "value": "6440074"
+  },
+  {
+    "id": "49",
+    "key": "schoolReward101",
+    "value": "6440096"
+  },
+  {
+    "id": "50",
+    "key": "schoolReward102",
+    "value": "6440095"
+  },
+  {
+    "id": "51",
+    "key": "schoolReward103",
+    "value": "6440094"
+  },
+  {
+    "id": "52",
+    "key": "monthLogNotify",
+    "value": "drama_monthLog20466"
+  },
+  {
+    "id": "53",
+    "key": "monthLogNotifyYear",
+    "value": "drama_monthLog20465"
+  },
+  {
+    "id": "54",
+    "key": "monthLogBegin",
+    "value": "drama_monthLog20478"
+  },
+  {
+    "id": "55",
+    "key": "monthLogBeginNoPlayer",
+    "value": "drama_monthLog20468"
+  },
+  {
+    "id": "56",
+    "key": "monthLogBeginFailed",
+    "value": "drama_monthLog20479"
+  },
+  {
+    "id": "57",
+    "key": "eventLogMain0",
+    "value": "eventLogBigFightJoin6200035"
+  },
+  {
+    "id": "58",
+    "key": "eventLogMain1",
+    "value": "eventLogBigFightJoin6200023"
+  },
+  {
+    "id": "59",
+    "key": "eventLogMain2",
+    "value": "eventLogBigFightJoin6200027"
+  },
+  {
+    "id": "60",
+    "key": "eventLogMain3",
+    "value": "eventLogBigFightJoin6200031"
+  },
+  {
+    "id": "61",
+    "key": "eventLogBigElder0",
+    "value": "eventLogBigFightJoin6200036"
+  },
+  {
+    "id": "62",
+    "key": "eventLogBigElder1",
+    "value": "eventLogBigFightJoin6200024"
+  },
+  {
+    "id": "63",
+    "key": "eventLogBigElder2",
+    "value": "eventLogBigFightJoin6200028"
+  },
+  {
+    "id": "64",
+    "key": "eventLogBigElder3",
+    "value": "eventLogBigFightJoin6200032"
+  },
+  {
+    "id": "65",
+    "key": "eventLogElder0",
+    "value": "eventLogBigFightJoin6200037"
+  },
+  {
+    "id": "66",
+    "key": "eventLogElder1",
+    "value": "eventLogBigFightJoin6200025"
+  },
+  {
+    "id": "67",
+    "key": "eventLogElder2",
+    "value": "eventLogBigFightJoin6200029"
+  },
+  {
+    "id": "68",
+    "key": "eventLogElder3",
+    "value": "eventLogBigFightJoin6200033"
+  },
+  {
+    "id": "69",
+    "key": "eventLogDisciple0",
+    "value": "eventLogBigFightJoin6200038"
+  },
+  {
+    "id": "70",
+    "key": "eventLogDisciple1",
+    "value": "eventLogBigFightJoin6200026"
+  },
+  {
+    "id": "71",
+    "key": "eventLogDisciple2",
+    "value": "eventLogBigFightJoin6200030"
+  },
+  {
+    "id": "72",
+    "key": "eventLogDisciple3",
+    "value": "eventLogBigFightJoin6200034"
+  },
+  {
+    "id": "73",
+    "key": "eventLogUnitMvp",
+    "value": "eventLogBigFightJoin6200039"
+  },
+  {
+    "id": "74",
+    "key": "eventLogSchool0",
+    "value": "2404"
+  },
+  {
+    "id": "75",
+    "key": "eventLogSchool1",
+    "value": "2401"
+  },
+  {
+    "id": "76",
+    "key": "eventLogSchool2",
+    "value": "2402"
+  },
+  {
+    "id": "77",
+    "key": "eventLogSchool3",
+    "value": "2403"
+  },
+  {
+    "id": "78",
+    "key": "eventLogSchoolMvp",
+    "value": "2405"
+  },
+  {
+    "id": "79",
+    "key": "powerScaleAtk",
+    "value": "1.2"
+  },
+  {
+    "id": "80",
+    "key": "powerScaleDef",
+    "value": "1.2"
+  },
+  {
+    "id": "81",
+    "key": "powerScaleHp",
+    "value": "0.8"
+  },
+  {
+    "id": "82",
+    "key": "powerScaleSkill",
+    "value": "0.5"
+  }
+]

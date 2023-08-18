@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "dramaId": "1610101",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "5000",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_1_2_3|unitPost_4",
+    "triggerGroup": "0",
+    "triggerMonths": "108"
+  },
+  {
+    "id": "2",
+    "dramaId": "1610201",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "masterSchool_intim:1_post:0_1",
+    "weight": "1000",
+    "triggerConditions": "isBattleUnit_1|months_0_3|masterSchool_2_0",
+    "triggerGroup": "0",
+    "triggerMonths": "72"
+  },
+  {
+    "id": "3",
+    "dramaId": "1610301",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "masterSchool_intim:1_post:0_1",
+    "weight": "2500",
+    "triggerConditions": "isBattleUnit_1|months_0_3|masterSchool_2_0",
+    "triggerGroup": "1",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "4",
+    "dramaId": "1610401",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "2500",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_2_3_2_0|unitPost_4",
+    "triggerGroup": "1",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "5",
+    "dramaId": "1610501",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "1000",
+    "triggerConditions": "isBattleUnit_0|months_0_3|intimSchool_2_3_2_0|unitPost_5_6",
+    "triggerGroup": "0",
+    "triggerMonths": "72"
+  },
+  {
+    "id": "6",
+    "dramaId": "1610601",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "2500",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_5_6_0_2|unitPost_4",
+    "triggerGroup": "2",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "7",
+    "dramaId": "1610701",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "2500",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_5_6_0_2|unitPost_4",
+    "triggerGroup": "2",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "8",
+    "dramaId": "1610801",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "2500",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_5_6_0_2|unitPost_4",
+    "triggerGroup": "2",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "9",
+    "dramaId": "1610901",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "2500",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_4_1_2|unitPost_4",
+    "triggerGroup": "2",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "10",
+    "dramaId": "1611001",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "2500",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_4_0_-2|unitPost_4",
+    "triggerGroup": "3",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "11",
+    "dramaId": "1611101",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "2500",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_5_6_0_-2|unitPost_4",
+    "triggerGroup": "3",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "12",
+    "dramaId": "1611201",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "2500",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_5_6_0_-2|unitPost_4",
+    "triggerGroup": "3",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "13",
+    "dramaId": "1611301",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "5000",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_5_6_0_-4|unitPost_4",
+    "triggerGroup": "0",
+    "triggerMonths": "108"
+  },
+  {
+    "id": "14",
+    "dramaId": "1611401",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "0",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_5_6_2_2|unitPost_1",
+    "triggerGroup": "4",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "15",
+    "dramaId": "1611501",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "0",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_5_6_2_2|unitPost_1",
+    "triggerGroup": "4",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "16",
+    "dramaId": "1611601",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "0",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_2_3_2_2|unitPost_1",
+    "triggerGroup": "0",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "17",
+    "dramaId": "1611701",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "1000",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_4_2_3|unitPost_2_3",
+    "triggerGroup": "0",
+    "triggerMonths": "72"
+  },
+  {
+    "id": "18",
+    "dramaId": "1611801",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "0",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_5_6_2_2|unitPost_2_3",
+    "triggerGroup": "0",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "19",
+    "dramaId": "1611901",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "2500",
+    "triggerConditions": "isBattleUnit_1|months_1_36|intimSchool_5_6_2_2|unitPost_1",
+    "triggerGroup": "5",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "20",
+    "dramaId": "1612001",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "2500",
+    "triggerConditions": "isBattleUnit_1|months_1_36|intimSchool_2_3_2_0.1|unitPost_1",
+    "triggerGroup": "5",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "21",
+    "dramaId": "1612101",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "0",
+    "triggerConditions": "isBattleUnit_1|months_1_36|intimSchool_2_3_4_5_6_2_2|unitPost_1",
+    "triggerGroup": "0",
+    "triggerMonths": "72"
+  },
+  {
+    "id": "22",
+    "dramaId": "1612201",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "0",
+    "triggerConditions": "isBattleUnit_1|months_1_36|intimSchool_2_3_2_2|unitPost_1",
+    "triggerGroup": "0",
+    "triggerMonths": "72"
+  },
+  {
+    "id": "23",
+    "dramaId": "1612301",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "0",
+    "triggerConditions": "isBattleUnit_1|months_1_36|intimSchool_4_5_6_2_2|unitPost_1",
+    "triggerGroup": "0",
+    "triggerMonths": "72"
+  },
+  {
+    "id": "24",
+    "dramaId": "1612401",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "0",
+    "triggerConditions": "isBattleUnit_1|months_1_36|intimSchool_4_5_2_2|unitPost_2",
+    "triggerGroup": "0",
+    "triggerMonths": "72"
+  },
+  {
+    "id": "25",
+    "dramaId": "1612501",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "0",
+    "triggerConditions": "isBattleUnit_1|months_1_36|intimSchool_4_5_0_-2|unitPost_4",
+    "triggerGroup": "0",
+    "triggerMonths": "72"
+  },
+  {
+    "id": "26",
+    "dramaId": "1612601",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "0",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_5_6_2_2|unitPost_4",
+    "triggerGroup": "0",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "27",
+    "dramaId": "1612701",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "0",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_5_6_2_2|unitPost_4",
+    "triggerGroup": "0",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "28",
+    "dramaId": "1612801",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "intimSchool",
+    "weight": "0",
+    "triggerConditions": "isBattleUnit_1|months_0_3|intimSchool_5_6_2_0|unitPost_4",
+    "triggerGroup": "0",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "29",
+    "dramaId": "1009105",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "0",
+    "weight": "5000",
+    "triggerConditions": "isBattleUnit_0|months_1_3|count_1|unitPost_5_6",
+    "triggerGroup": "0",
+    "triggerMonths": "36"
+  },
+  {
+    "id": "30",
+    "dramaId": "1009107",
+    "dramaUnitLeft": "0",
+    "dramaUnitRight": "0",
+    "weight": "5000",
+    "triggerConditions": "isBattleUnit_1|months_1_3|count_1|unitPost_1_2_3_4",
+    "triggerGroup": "0",
+    "triggerMonths": "36"
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "id": "101",
+    "itemGroup": "2824001",
+    "eventCondition": "0",
+    "horizonPercent": "2500",
+    "horizonMin": "550",
+    "horizonMax": "1100"
+  },
+  {
+    "id": "102",
+    "itemGroup": "2824001",
+    "eventCondition": "5",
+    "horizonPercent": "3200",
+    "horizonMin": "695",
+    "horizonMax": "1390"
+  },
+  {
+    "id": "103",
+    "itemGroup": "2824001",
+    "eventCondition": "10",
+    "horizonPercent": "3900",
+    "horizonMin": "840",
+    "horizonMax": "1680"
+  },
+  {
+    "id": "104",
+    "itemGroup": "2824001",
+    "eventCondition": "15",
+    "horizonPercent": "4600",
+    "horizonMin": "985",
+    "horizonMax": "1970"
+  },
+  {
+    "id": "105",
+    "itemGroup": "2824001",
+    "eventCondition": "20",
+    "horizonPercent": "5300",
+    "horizonMin": "1130",
+    "horizonMax": "2260"
+  },
+  {
+    "id": "106",
+    "itemGroup": "2824001",
+    "eventCondition": "25",
+    "horizonPercent": "6000",
+    "horizonMin": "1275",
+    "horizonMax": "2550"
+  },
+  {
+    "id": "107",
+    "itemGroup": "2824001",
+    "eventCondition": "30",
+    "horizonPercent": "6700",
+    "horizonMin": "1420",
+    "horizonMax": "2840"
+  },
+  {
+    "id": "108",
+    "itemGroup": "2824001",
+    "eventCondition": "35",
+    "horizonPercent": "7400",
+    "horizonMin": "1565",
+    "horizonMax": "3130"
+  },
+  {
+    "id": "109",
+    "itemGroup": "2824001",
+    "eventCondition": "40",
+    "horizonPercent": "8100",
+    "horizonMin": "1710",
+    "horizonMax": "3420"
+  },
+  {
+    "id": "110",
+    "itemGroup": "2824001",
+    "eventCondition": "45",
+    "horizonPercent": "8800",
+    "horizonMin": "1855",
+    "horizonMax": "3710"
+  },
+  {
+    "id": "111",
+    "itemGroup": "2824001",
+    "eventCondition": "50",
+    "horizonPercent": "9500",
+    "horizonMin": "2400",
+    "horizonMax": "4000"
+  },
+  {
+    "id": "112",
+    "itemGroup": "2824001",
+    "eventCondition": "60",
+    "horizonPercent": "9700",
+    "horizonMin": "2574",
+    "horizonMax": "4290"
+  },
+  {
+    "id": "113",
+    "itemGroup": "2824001",
+    "eventCondition": "70",
+    "horizonPercent": "10000",
+    "horizonMin": "2748",
+    "horizonMax": "4580"
+  },
+  {
+    "id": "114",
+    "itemGroup": "2824001",
+    "eventCondition": "80",
+    "horizonPercent": "10000",
+    "horizonMin": "2922",
+    "horizonMax": "4870"
+  },
+  {
+    "id": "115",
+    "itemGroup": "2824001",
+    "eventCondition": "90",
+    "horizonPercent": "10000",
+    "horizonMin": "3096",
+    "horizonMax": "5160"
+  },
+  {
+    "id": "116",
+    "itemGroup": "2824001",
+    "eventCondition": "100",
+    "horizonPercent": "10000",
+    "horizonMin": "3270",
+    "horizonMax": "5450"
+  },
+  {
+    "id": "117",
+    "itemGroup": "2824001",
+    "eventCondition": "110",
+    "horizonPercent": "10000",
+    "horizonMin": "3444",
+    "horizonMax": "5740"
+  },
+  {
+    "id": "118",
+    "itemGroup": "2824001",
+    "eventCondition": "120",
+    "horizonPercent": "10000",
+    "horizonMin": "3618",
+    "horizonMax": "6030"
+  },
+  {
+    "id": "119",
+    "itemGroup": "2824001",
+    "eventCondition": "130",
+    "horizonPercent": "10000",
+    "horizonMin": "3792",
+    "horizonMax": "6320"
+  },
+  {
+    "id": "120",
+    "itemGroup": "2824001",
+    "eventCondition": "140",
+    "horizonPercent": "10000",
+    "horizonMin": "3966",
+    "horizonMax": "6610"
+  },
+  {
+    "id": "121",
+    "itemGroup": "2824001",
+    "eventCondition": "150",
+    "horizonPercent": "10000",
+    "horizonMin": "4140",
+    "horizonMax": "6900"
+  },
+  {
+    "id": "201",
+    "itemGroup": "2824002",
+    "eventCondition": "0",
+    "horizonPercent": "500",
+    "horizonMin": "550",
+    "horizonMax": "1100"
+  },
+  {
+    "id": "202",
+    "itemGroup": "2824002",
+    "eventCondition": "150",
+    "horizonPercent": "2500",
+    "horizonMin": "550",
+    "horizonMax": "1100"
+  },
+  {
+    "id": "203",
+    "itemGroup": "2824002",
+    "eventCondition": "165",
+    "horizonPercent": "3500",
+    "horizonMin": "800",
+    "horizonMax": "1600"
+  },
+  {
+    "id": "204",
+    "itemGroup": "2824002",
+    "eventCondition": "180",
+    "horizonPercent": "4000",
+    "horizonMin": "915",
+    "horizonMax": "1830"
+  },
+  {
+    "id": "205",
+    "itemGroup": "2824002",
+    "eventCondition": "195",
+    "horizonPercent": "4500",
+    "horizonMin": "1030",
+    "horizonMax": "2060"
+  },
+  {
+    "id": "206",
+    "itemGroup": "2824002",
+    "eventCondition": "210",
+    "horizonPercent": "5000",
+    "horizonMin": "1145",
+    "horizonMax": "2290"
+  },
+  {
+    "id": "207",
+    "itemGroup": "2824002",
+    "eventCondition": "225",
+    "horizonPercent": "5500",
+    "horizonMin": "1260",
+    "horizonMax": "2520"
+  },
+  {
+    "id": "208",
+    "itemGroup": "2824002",
+    "eventCondition": "240",
+    "horizonPercent": "6000",
+    "horizonMin": "1375",
+    "horizonMax": "2750"
+  },
+  {
+    "id": "209",
+    "itemGroup": "2824002",
+    "eventCondition": "255",
+    "horizonPercent": "6500",
+    "horizonMin": "1490",
+    "horizonMax": "2980"
+  },
+  {
+    "id": "210",
+    "itemGroup": "2824002",
+    "eventCondition": "270",
+    "horizonPercent": "7000",
+    "horizonMin": "1605",
+    "horizonMax": "3210"
+  },
+  {
+    "id": "211",
+    "itemGroup": "2824002",
+    "eventCondition": "285",
+    "horizonPercent": "7500",
+    "horizonMin": "1720",
+    "horizonMax": "3440"
+  },
+  {
+    "id": "212",
+    "itemGroup": "2824002",
+    "eventCondition": "300",
+    "horizonPercent": "8000",
+    "horizonMin": "1835",
+    "horizonMax": "3670"
+  },
+  {
+    "id": "213",
+    "itemGroup": "2824002",
+    "eventCondition": "315",
+    "horizonPercent": "8500",
+    "horizonMin": "1950",
+    "horizonMax": "3900"
+  },
+  {
+    "id": "214",
+    "itemGroup": "2824002",
+    "eventCondition": "330",
+    "horizonPercent": "9000",
+    "horizonMin": "2065",
+    "horizonMax": "4130"
+  },
+  {
+    "id": "215",
+    "itemGroup": "2824002",
+    "eventCondition": "350",
+    "horizonPercent": "9500",
+    "horizonMin": "2180",
+    "horizonMax": "4360"
+  },
+  {
+    "id": "216",
+    "itemGroup": "2824002",
+    "eventCondition": "365",
+    "horizonPercent": "9700",
+    "horizonMin": "2295",
+    "horizonMax": "4590"
+  },
+  {
+    "id": "217",
+    "itemGroup": "2824002",
+    "eventCondition": "385",
+    "horizonPercent": "10000",
+    "horizonMin": "2410",
+    "horizonMax": "4820"
+  },
+  {
+    "id": "218",
+    "itemGroup": "2824002",
+    "eventCondition": "405",
+    "horizonPercent": "10000",
+    "horizonMin": "2525",
+    "horizonMax": "5050"
+  },
+  {
+    "id": "219",
+    "itemGroup": "2824002",
+    "eventCondition": "425",
+    "horizonPercent": "10000",
+    "horizonMin": "2640",
+    "horizonMax": "5280"
+  },
+  {
+    "id": "220",
+    "itemGroup": "2824002",
+    "eventCondition": "445",
+    "horizonPercent": "10000",
+    "horizonMin": "2755",
+    "horizonMax": "5510"
+  },
+  {
+    "id": "221",
+    "itemGroup": "2824002",
+    "eventCondition": "465",
+    "horizonPercent": "10000",
+    "horizonMin": "2870",
+    "horizonMax": "5740"
+  },
+  {
+    "id": "222",
+    "itemGroup": "2824002",
+    "eventCondition": "485",
+    "horizonPercent": "10000",
+    "horizonMin": "2985",
+    "horizonMax": "5970"
+  },
+  {
+    "id": "223",
+    "itemGroup": "2824002",
+    "eventCondition": "505",
+    "horizonPercent": "10000",
+    "horizonMin": "3100",
+    "horizonMax": "6200"
+  },
+  {
+    "id": "224",
+    "itemGroup": "2824002",
+    "eventCondition": "525",
+    "horizonPercent": "10000",
+    "horizonMin": "3215",
+    "horizonMax": "6430"
+  },
+  {
+    "id": "225",
+    "itemGroup": "2824002",
+    "eventCondition": "545",
+    "horizonPercent": "10000",
+    "horizonMin": "3330",
+    "horizonMax": "6660"
+  },
+  {
+    "id": "226",
+    "itemGroup": "2824002",
+    "eventCondition": "565",
+    "horizonPercent": "10000",
+    "horizonMin": "3445",
+    "horizonMax": "6890"
+  },
+  {
+    "id": "227",
+    "itemGroup": "2824002",
+    "eventCondition": "585",
+    "horizonPercent": "10000",
+    "horizonMin": "3560",
+    "horizonMax": "7120"
+  },
+  {
+    "id": "228",
+    "itemGroup": "2824002",
+    "eventCondition": "605",
+    "horizonPercent": "10000",
+    "horizonMin": "3675",
+    "horizonMax": "7350"
+  },
+  {
+    "id": "229",
+    "itemGroup": "2824002",
+    "eventCondition": "620",
+    "horizonPercent": "10000",
+    "horizonMin": "3790",
+    "horizonMax": "7580"
+  },
+  {
+    "id": "301",
+    "itemGroup": "2824003",
+    "eventCondition": "0",
+    "horizonPercent": "500",
+    "horizonMin": "550",
+    "horizonMax": "1100"
+  },
+  {
+    "id": "302",
+    "itemGroup": "2824003",
+    "eventCondition": "620",
+    "horizonPercent": "2500",
+    "horizonMin": "550",
+    "horizonMax": "1100"
+  },
+  {
+    "id": "303",
+    "itemGroup": "2824003",
+    "eventCondition": "650",
+    "horizonPercent": "5500",
+    "horizonMin": "1250",
+    "horizonMax": "2500"
+  },
+  {
+    "id": "304",
+    "itemGroup": "2824003",
+    "eventCondition": "680",
+    "horizonPercent": "6300",
+    "horizonMin": "1500",
+    "horizonMax": "3000"
+  },
+  {
+    "id": "305",
+    "itemGroup": "2824003",
+    "eventCondition": "710",
+    "horizonPercent": "7100",
+    "horizonMin": "1750",
+    "horizonMax": "3500"
+  },
+  {
+    "id": "306",
+    "itemGroup": "2824003",
+    "eventCondition": "740",
+    "horizonPercent": "7900",
+    "horizonMin": "2000",
+    "horizonMax": "4000"
+  },
+  {
+    "id": "307",
+    "itemGroup": "2824003",
+    "eventCondition": "770",
+    "horizonPercent": "8700",
+    "horizonMin": "2250",
+    "horizonMax": "4500"
+  },
+  {
+    "id": "308",
+    "itemGroup": "2824003",
+    "eventCondition": "805",
+    "horizonPercent": "9500",
+    "horizonMin": "2500",
+    "horizonMax": "5000"
+  },
+  {
+    "id": "309",
+    "itemGroup": "2824003",
+    "eventCondition": "835",
+    "horizonPercent": "9700",
+    "horizonMin": "2750",
+    "horizonMax": "5500"
+  },
+  {
+    "id": "310",
+    "itemGroup": "2824003",
+    "eventCondition": "865",
+    "horizonPercent": "10000",
+    "horizonMin": "3000",
+    "horizonMax": "6000"
+  },
+  {
+    "id": "311",
+    "itemGroup": "2824003",
+    "eventCondition": "895",
+    "horizonPercent": "10000",
+    "horizonMin": "3250",
+    "horizonMax": "6500"
+  },
+  {
+    "id": "312",
+    "itemGroup": "2824003",
+    "eventCondition": "925",
+    "horizonPercent": "10000",
+    "horizonMin": "3500",
+    "horizonMax": "7000"
+  },
+  {
+    "id": "313",
+    "itemGroup": "2824003",
+    "eventCondition": "955",
+    "horizonPercent": "10000",
+    "horizonMin": "3750",
+    "horizonMax": "7500"
+  },
+  {
+    "id": "314",
+    "itemGroup": "2824003",
+    "eventCondition": "980",
+    "horizonPercent": "10000",
+    "horizonMin": "4000",
+    "horizonMax": "8000"
+  },
+  {
+    "id": "401",
+    "itemGroup": "2824004",
+    "eventCondition": "0",
+    "horizonPercent": "500",
+    "horizonMin": "550",
+    "horizonMax": "1100"
+  },
+  {
+    "id": "402",
+    "itemGroup": "2824004",
+    "eventCondition": "620",
+    "horizonPercent": "2500",
+    "horizonMin": "550",
+    "horizonMax": "1100"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "grade": "1",
+    "level": "3",
+    "exp": "0",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "2",
+    "grade": "2",
+    "level": "8",
+    "exp": "8000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "3",
+    "grade": "3",
+    "level": "13",
+    "exp": "18000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "4",
+    "grade": "4",
+    "level": "18",
+    "exp": "30000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "5",
+    "grade": "5",
+    "level": "23",
+    "exp": "45000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "6",
+    "grade": "6",
+    "level": "28",
+    "exp": "63000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "7",
+    "grade": "7",
+    "level": "33",
+    "exp": "88000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "8",
+    "grade": "8",
+    "level": "38",
+    "exp": "118000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "9",
+    "grade": "9",
+    "level": "43",
+    "exp": "153000",
+    "upgradeProp": "100999"
+  },
+  {
+    "id": "10",
+    "grade": "10",
+    "level": "48",
+    "exp": "203000",
+    "upgradeProp": "100999"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "dungeonID": "155",
+    "intimBonus": "10",
+    "deadTime": "32",
+    "deadTimeEffects": "0",
+    "deadDesc": "uiChickenBattleInfo_descDeadMode",
+    "noUnitsDeadTime": "5"
+  },
+  {
+    "id": "2",
+    "dungeonID": "183",
+    "intimBonus": "10",
+    "deadTime": "32",
+    "deadTimeEffects": "0",
+    "deadDesc": "uiChickenBattleInfo_descDeadMode",
+    "noUnitsDeadTime": "5"
+  }
+]

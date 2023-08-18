@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "name": "beibao",
+    "strangerOpen": "1"
+  },
+  {
+    "id": "2",
+    "name": "npcInfo_touqie",
+    "strangerOpen": "1"
+  },
+  {
+    "id": "3",
+    "name": "npcInfo_gongji",
+    "strangerOpen": "1"
+  },
+  {
+    "id": "4",
+    "name": "npcInfo_jiuren",
+    "strangerOpen": "1"
+  },
+  {
+    "id": "5",
+    "name": "npcInfo_suoqu",
+    "strangerOpen": "0"
+  },
+  {
+    "id": "6",
+    "name": "npcInfo_qiecuo",
+    "strangerOpen": "0"
+  },
+  {
+    "id": "7",
+    "name": "npcInfo_zengsong",
+    "strangerOpen": "0"
+  },
+  {
+    "id": "8",
+    "name": "npcInfo_jieyi",
+    "strangerOpen": "0"
+  },
+  {
+    "id": "9",
+    "name": "npcInfo_jieyuan",
+    "strangerOpen": "0"
+  },
+  {
+    "id": "10",
+    "name": "npcInfo_shitu",
+    "strangerOpen": "0"
+  },
+  {
+    "id": "11",
+    "name": "npcInfo_duihua",
+    "strangerOpen": "1"
+  },
+  {
+    "id": "12",
+    "name": "npcInfo_shuangxiu",
+    "strangerOpen": "0"
+  },
+  {
+    "id": "13",
+    "name": "npcInfo_lundao",
+    "strangerOpen": "0"
+  },
+  {
+    "id": "14",
+    "name": "npcInfo_biaoji",
+    "strangerOpen": "1"
+  },
+  {
+    "id": "15",
+    "name": "npcInfo_yaoyue",
+    "strangerOpen": "0"
+  },
+  {
+    "id": "16",
+    "name": "npcInfo_zhaona",
+    "strangerOpen": "0"
+  },
+  {
+    "id": "17",
+    "name": "npcInfo_douji",
+    "strangerOpen": "0"
+  }
+]

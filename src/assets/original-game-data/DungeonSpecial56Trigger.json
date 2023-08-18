@@ -1,0 +1,86 @@
+[
+  {
+    "id": "101",
+    "dungeonId": "7701",
+    "type": "1",
+    "value": "0",
+    "npcConditionID": "1002",
+    "dramaID": "80001",
+    "cdGroup": "101",
+    "triggerCD": "2",
+    "repeatedly": "1",
+    "probabilityA": "2000"
+  },
+  {
+    "id": "102",
+    "dungeonId": "7701",
+    "type": "2",
+    "value": "0",
+    "npcConditionID": "30001",
+    "dramaID": "82001",
+    "cdGroup": "102",
+    "triggerCD": "6",
+    "repeatedly": "1",
+    "probabilityA": "800"
+  },
+  {
+    "id": "103",
+    "dungeonId": "7701",
+    "type": "2",
+    "value": "0",
+    "npcConditionID": "30002",
+    "dramaID": "82301",
+    "cdGroup": "103",
+    "triggerCD": "3",
+    "repeatedly": "1",
+    "probabilityA": "800"
+  },
+  {
+    "id": "104",
+    "dungeonId": "7701",
+    "type": "2",
+    "value": "1",
+    "npcConditionID": "0",
+    "dramaID": "800001|800002|800003",
+    "cdGroup": "104",
+    "triggerCD": "1",
+    "repeatedly": "1",
+    "probabilityA": "1000"
+  },
+  {
+    "id": "105",
+    "dungeonId": "7701",
+    "type": "2",
+    "value": "5",
+    "npcConditionID": "0",
+    "dramaID": "800301|800302|800303|800305",
+    "cdGroup": "105",
+    "triggerCD": "1",
+    "repeatedly": "1",
+    "probabilityA": "1000"
+  },
+  {
+    "id": "106",
+    "dungeonId": "7701",
+    "type": "2",
+    "value": "6",
+    "npcConditionID": "0",
+    "dramaID": "800101|800102|800103",
+    "cdGroup": "106",
+    "triggerCD": "1",
+    "repeatedly": "1",
+    "probabilityA": "1000"
+  },
+  {
+    "id": "107",
+    "dungeonId": "7701",
+    "type": "2",
+    "value": "7",
+    "npcConditionID": "0",
+    "dramaID": "800201|800202|800203",
+    "cdGroup": "107",
+    "triggerCD": "1",
+    "repeatedly": "1",
+    "probabilityA": "1000"
+  }
+]

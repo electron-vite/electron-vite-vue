@@ -1,0 +1,42 @@
+[
+  {
+    "id": "18001",
+    "initDegreeRange": "0",
+    "valueA": "1.4",
+    "valueB": "0.2",
+    "degreeRangeMax": "16",
+    "dereeRangeRecover": "4"
+  },
+  {
+    "id": "18002",
+    "initDegreeRange": "0",
+    "valueA": "1.15",
+    "valueB": "0.5",
+    "degreeRangeMax": "45",
+    "dereeRangeRecover": "45"
+  },
+  {
+    "id": "18003",
+    "initDegreeRange": "5",
+    "valueA": "1.1",
+    "valueB": "0.3",
+    "degreeRangeMax": "30",
+    "dereeRangeRecover": "15"
+  },
+  {
+    "id": "18004",
+    "initDegreeRange": "0",
+    "valueA": "2",
+    "valueB": "0.05",
+    "degreeRangeMax": "&14112_zdpc",
+    "dereeRangeRecover": "&14112_hfpc"
+  },
+  {
+    "id": "18005",
+    "initDegreeRange": "1",
+    "valueA": "1.4",
+    "valueB": "0.4",
+    "degreeRangeMax": "50",
+    "dereeRangeRecover": "100"
+  }
+]

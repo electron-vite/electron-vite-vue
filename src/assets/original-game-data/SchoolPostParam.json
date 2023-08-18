@@ -1,0 +1,617 @@
+[
+  {
+    "id": "1",
+    "key": "joinAddIntimMin",
+    "value": "5"
+  },
+  {
+    "id": "2",
+    "key": "joinAddIntimMax",
+    "value": "10"
+  },
+  {
+    "id": "3",
+    "key": "outStartMonth",
+    "value": "1"
+  },
+  {
+    "id": "4",
+    "key": "outNPCAddRate1",
+    "value": "40"
+  },
+  {
+    "id": "5",
+    "key": "outNPCAddRate2",
+    "value": "50"
+  },
+  {
+    "id": "6",
+    "key": "outNPCAddRate3",
+    "value": "10"
+  },
+  {
+    "id": "7",
+    "key": "outNPCMaxCount",
+    "value": "15"
+  },
+  {
+    "id": "8",
+    "key": "outJoinDrama",
+    "value": "6371101"
+  },
+  {
+    "id": "9",
+    "key": "outNotBattleDrama",
+    "value": "6371201"
+  },
+  {
+    "id": "10",
+    "key": "outStartBattleDrama",
+    "value": "6371301"
+  },
+  {
+    "id": "11",
+    "key": "outJoinCompleteDrama",
+    "value": "6371401"
+  },
+  {
+    "id": "12",
+    "key": "outJoinFailDrama",
+    "value": "6371501"
+  },
+  {
+    "id": "13",
+    "key": "outMaxJoinCount",
+    "value": "4"
+  },
+  {
+    "id": "14",
+    "key": "outYearAddUnitCount",
+    "value": "-1"
+  },
+  {
+    "id": "15",
+    "key": "outExitSchoolWeight",
+    "value": "65"
+  },
+  {
+    "id": "16",
+    "key": "outDieSchoolWeight",
+    "value": "35"
+  },
+  {
+    "id": "17",
+    "key": "outExitSchoolMinMonth",
+    "value": "1"
+  },
+  {
+    "id": "18",
+    "key": "outExitSchoolMaxMonth",
+    "value": "12"
+  },
+  {
+    "id": "19",
+    "key": "inTipMonth",
+    "value": "1"
+  },
+  {
+    "id": "20",
+    "key": "inStartMonth",
+    "value": "1"
+  },
+  {
+    "id": "21",
+    "key": "inMaxUnitCount",
+    "value": "15"
+  },
+  {
+    "id": "22",
+    "key": "inJionDrama",
+    "value": "6372101"
+  },
+  {
+    "id": "23",
+    "key": "inNotBattleDrama",
+    "value": "6372201"
+  },
+  {
+    "id": "24",
+    "key": "inStartBattleDrama",
+    "value": "6372301"
+  },
+  {
+    "id": "25",
+    "key": "inJoinCompleteDrama",
+    "value": "6372401"
+  },
+  {
+    "id": "26",
+    "key": "inJoinFailDrama",
+    "value": "6372501"
+  },
+  {
+    "id": "27",
+    "key": "inMaxJoinCount",
+    "value": "1"
+  },
+  {
+    "id": "28",
+    "key": "inExitSchoolWeight",
+    "value": "65"
+  },
+  {
+    "id": "29",
+    "key": "inDieSchoolWeight",
+    "value": "35"
+  },
+  {
+    "id": "30",
+    "key": "inExitSchoolMinMonth",
+    "value": "1"
+  },
+  {
+    "id": "31",
+    "key": "inExitSchoolMaxMonth",
+    "value": "12"
+  },
+  {
+    "id": "32",
+    "key": "inAddUnitParam3",
+    "value": "-20"
+  },
+  {
+    "id": "33",
+    "key": "inAddUnitParam4",
+    "value": "20"
+  },
+  {
+    "id": "34",
+    "key": "inAddUnitParam5",
+    "value": "-1"
+  },
+  {
+    "id": "35",
+    "key": "inheritTipMonth",
+    "value": "1"
+  },
+  {
+    "id": "36",
+    "key": "inheritStartMonth",
+    "value": "7"
+  },
+  {
+    "id": "37",
+    "key": "inheritMaxUnitCount",
+    "value": "7"
+  },
+  {
+    "id": "38",
+    "key": "inheritJionDrama",
+    "value": "6373101"
+  },
+  {
+    "id": "39",
+    "key": "inheritStartDrama",
+    "value": "6373301"
+  },
+  {
+    "id": "40",
+    "key": "inheritNotBattleDrama",
+    "value": "6373201"
+  },
+  {
+    "id": "41",
+    "key": "inheritStartBattleDrama",
+    "value": "0"
+  },
+  {
+    "id": "42",
+    "key": "inheritJoinCompleteDrama",
+    "value": "6373401"
+  },
+  {
+    "id": "43",
+    "key": "inheritJoinFailDrama",
+    "value": "6373501"
+  },
+  {
+    "id": "44",
+    "key": "inheritNotAgreeJoin",
+    "value": "6373601"
+  },
+  {
+    "id": "45",
+    "key": "inheritHertValue",
+    "value": "-120"
+  },
+  {
+    "id": "46",
+    "key": "inheritAddUnitParam3",
+    "value": "-20"
+  },
+  {
+    "id": "47",
+    "key": "inheritAddUnitParam4",
+    "value": "20"
+  },
+  {
+    "id": "48",
+    "key": "inheritAddUnitParam5",
+    "value": "-1"
+  },
+  {
+    "id": "49",
+    "key": "inheritAddUnitIntim",
+    "value": "120"
+  },
+  {
+    "id": "50",
+    "key": "inheritAddHate",
+    "value": "180"
+  },
+  {
+    "id": "51",
+    "key": "inheritDrama1",
+    "value": "6373701"
+  },
+  {
+    "id": "52",
+    "key": "inheritDrama2",
+    "value": "6373801"
+  },
+  {
+    "id": "53",
+    "key": "inheritDrama3",
+    "value": "6373901"
+  },
+  {
+    "id": "54",
+    "key": "inheritDrama4",
+    "value": "6374001"
+  },
+  {
+    "id": "55",
+    "key": "inheritDrama5",
+    "value": "6374101"
+  },
+  {
+    "id": "56",
+    "key": "inheritDrama6",
+    "value": "6374201"
+  },
+  {
+    "id": "57",
+    "key": "eldersJionDrama",
+    "value": "6375101"
+  },
+  {
+    "id": "58",
+    "key": "eldersParms1",
+    "value": "180"
+  },
+  {
+    "id": "59",
+    "key": "eldersStartMonth",
+    "value": "1"
+  },
+  {
+    "id": "60",
+    "key": "eldersStartDrama",
+    "value": "6375201"
+  },
+  {
+    "id": "61",
+    "key": "eldersBattleID",
+    "value": "24"
+  },
+  {
+    "id": "62",
+    "key": "eldersParms2",
+    "value": "6375301"
+  },
+  {
+    "id": "63",
+    "key": "eldersParms3",
+    "value": "6375401"
+  },
+  {
+    "id": "64",
+    "key": "eldersParms4",
+    "value": "6375501"
+  },
+  {
+    "id": "65",
+    "key": "eldersParms5",
+    "value": "6375601"
+  },
+  {
+    "id": "66",
+    "key": "eldersParms6",
+    "value": "6375701"
+  },
+  {
+    "id": "67",
+    "key": "eldersParms7",
+    "value": "6375801"
+  },
+  {
+    "id": "68",
+    "key": "eldersParms8",
+    "value": "6375901"
+  },
+  {
+    "id": "69",
+    "key": "eldersParms9",
+    "value": "6376001"
+  },
+  {
+    "id": "70",
+    "key": "eldersParms10",
+    "value": "6376101"
+  },
+  {
+    "id": "71",
+    "key": "eldersParms11",
+    "value": "6376201"
+  },
+  {
+    "id": "72",
+    "key": "eldersBattleCompleteDrama",
+    "value": "6376301"
+  },
+  {
+    "id": "73",
+    "key": "eldersBattleFailedDrama",
+    "value": "6376401"
+  },
+  {
+    "id": "74",
+    "key": "eldersAddUnitParam3",
+    "value": "-20"
+  },
+  {
+    "id": "75",
+    "key": "eldersAddUnitParam4",
+    "value": "20"
+  },
+  {
+    "id": "76",
+    "key": "eldersAddUnitMinMonth",
+    "value": "1"
+  },
+  {
+    "id": "77",
+    "key": "eldersAddUnitMaxMonth",
+    "value": "2"
+  },
+  {
+    "id": "78",
+    "key": "bigEldersParms1",
+    "value": "180"
+  },
+  {
+    "id": "79",
+    "key": "bigEldersJionDrama",
+    "value": "6377101"
+  },
+  {
+    "id": "80",
+    "key": "bigEldersStartMonth",
+    "value": "1"
+  },
+  {
+    "id": "81",
+    "key": "bigEldersStartDrama",
+    "value": "6377201"
+  },
+  {
+    "id": "82",
+    "key": "bigEldersBattleID",
+    "value": "25"
+  },
+  {
+    "id": "83",
+    "key": "bigEldersParms2",
+    "value": "6377301"
+  },
+  {
+    "id": "84",
+    "key": "bigEldersParms3",
+    "value": "6377401"
+  },
+  {
+    "id": "85",
+    "key": "bigEldersParms4",
+    "value": "6377501"
+  },
+  {
+    "id": "86",
+    "key": "bigEldersParms5",
+    "value": "6377601"
+  },
+  {
+    "id": "87",
+    "key": "bigEldersParms6",
+    "value": "6377701"
+  },
+  {
+    "id": "88",
+    "key": "bigEldersParms7",
+    "value": "6377801"
+  },
+  {
+    "id": "89",
+    "key": "bigEldersAddEffect",
+    "value": "6121013"
+  },
+  {
+    "id": "90",
+    "key": "bigEldersAddUnitMinMonth",
+    "value": "1"
+  },
+  {
+    "id": "91",
+    "key": "bigEldersAddUnitMaxMonth",
+    "value": "2"
+  },
+  {
+    "id": "92",
+    "key": "bigEldersAddUnitParam3",
+    "value": "-20"
+  },
+  {
+    "id": "93",
+    "key": "bigEldersAddUnitParam4",
+    "value": "20"
+  },
+  {
+    "id": "94",
+    "key": "mainType1M",
+    "value": "60"
+  },
+  {
+    "id": "95",
+    "key": "mainType1RelationType",
+    "value": "6"
+  },
+  {
+    "id": "96",
+    "key": "mainType1IntimValue",
+    "value": "240"
+  },
+  {
+    "id": "97",
+    "key": "mainType1TriggerRate",
+    "value": "35"
+  },
+  {
+    "id": "98",
+    "key": "mainType1Drama",
+    "value": "6378101"
+  },
+  {
+    "id": "99",
+    "key": "mainType2TriggerRate",
+    "value": "35"
+  },
+  {
+    "id": "100",
+    "key": "mainType2Drama",
+    "value": "6378201"
+  },
+  {
+    "id": "101",
+    "key": "mainType3TriggerRate",
+    "value": "35"
+  },
+  {
+    "id": "102",
+    "key": "mainType3Drama",
+    "value": "6378301"
+  },
+  {
+    "id": "103",
+    "key": "mainStartInheritDrama",
+    "value": "6378401"
+  },
+  {
+    "id": "104",
+    "key": "mainInheritCompleteDrama",
+    "value": "6378501"
+  },
+  {
+    "id": "105",
+    "key": "mainInheritFailedDrama",
+    "value": "6378601"
+  },
+  {
+    "id": "106",
+    "key": "mainGiveDrama",
+    "value": "6378701"
+  },
+  {
+    "id": "107",
+    "key": "mainGiveReward",
+    "value": "21908"
+  },
+  {
+    "id": "108",
+    "key": "mainHideYearMin",
+    "value": "5"
+  },
+  {
+    "id": "109",
+    "key": "mainHideYearMax",
+    "value": "8"
+  },
+  {
+    "id": "110",
+    "key": "mainUpGrade",
+    "value": "2"
+  },
+  {
+    "id": "111",
+    "key": "mainType2EndDrama",
+    "value": "6378801"
+  },
+  {
+    "id": "112",
+    "key": "mainType2Heat",
+    "value": "-300"
+  },
+  {
+    "id": "113",
+    "key": "mainType3EndDrama",
+    "value": "6378901"
+  },
+  {
+    "id": "114",
+    "key": "InheritDramaMaxTime",
+    "value": "6"
+  },
+  {
+    "id": "115",
+    "key": "schoolMainAddUnitMinMonth",
+    "value": "5"
+  },
+  {
+    "id": "116",
+    "key": "schoolMainAddUnitMaxMonth",
+    "value": "8"
+  },
+  {
+    "id": "117",
+    "key": "leavePostMin",
+    "value": "5"
+  },
+  {
+    "id": "118",
+    "key": "leavePostMax",
+    "value": "6"
+  },
+  {
+    "id": "119",
+    "key": "leavePercentMin",
+    "value": "50"
+  },
+  {
+    "id": "120",
+    "key": "recruitCD",
+    "value": "24"
+  },
+  {
+    "id": "121",
+    "key": "refuseDialogue",
+    "value": "6391301"
+  },
+  {
+    "id": "122",
+    "key": "maxRealPolulationIndex",
+    "value": "300"
+  },
+  {
+    "id": "123",
+    "key": "exceedPopulationReduce",
+    "value": "40"
+  }
+]

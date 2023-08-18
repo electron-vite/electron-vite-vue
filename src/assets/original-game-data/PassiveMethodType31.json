@@ -1,0 +1,128 @@
+[
+  {
+    "id": "10001",
+    "num": "1",
+    "skillBaseID": "710001",
+    "skillTime": "4300",
+    "lastSkillTime": "0"
+  },
+  {
+    "id": "10002",
+    "num": "&710001_jqsl",
+    "skillBaseID": "710008",
+    "skillTime": "500",
+    "lastSkillTime": "200"
+  },
+  {
+    "id": "10011",
+    "num": "&710001_jlcs",
+    "skillBaseID": "710002",
+    "skillTime": "100",
+    "lastSkillTime": "200"
+  },
+  {
+    "id": "10012",
+    "num": "&710001_qmcs",
+    "skillBaseID": "710003",
+    "skillTime": "100",
+    "lastSkillTime": "200"
+  },
+  {
+    "id": "10013",
+    "num": "&710001_lycs",
+    "skillBaseID": "710004",
+    "skillTime": "100",
+    "lastSkillTime": "200"
+  },
+  {
+    "id": "10014",
+    "num": "&710001_qscs",
+    "skillBaseID": "710005",
+    "skillTime": "100",
+    "lastSkillTime": "200"
+  },
+  {
+    "id": "10015",
+    "num": "&710001_cscs",
+    "skillBaseID": "710006",
+    "skillTime": "100",
+    "lastSkillTime": "200"
+  },
+  {
+    "id": "10016",
+    "num": "&710001_wrcs",
+    "skillBaseID": "710007",
+    "skillTime": "100",
+    "lastSkillTime": "200"
+  },
+  {
+    "id": "20001",
+    "num": "1",
+    "skillBaseID": "810001",
+    "skillTime": "1000",
+    "lastSkillTime": "200"
+  },
+  {
+    "id": "20002",
+    "num": "1",
+    "skillBaseID": "810001",
+    "skillTime": "2500",
+    "lastSkillTime": "200"
+  },
+  {
+    "id": "20003",
+    "num": "1",
+    "skillBaseID": "810002",
+    "skillTime": "100",
+    "lastSkillTime": "100"
+  },
+  {
+    "id": "20004",
+    "num": "1",
+    "skillBaseID": "810003",
+    "skillTime": "100",
+    "lastSkillTime": "100"
+  },
+  {
+    "id": "20005",
+    "num": "1",
+    "skillBaseID": "810004",
+    "skillTime": "100",
+    "lastSkillTime": "100"
+  },
+  {
+    "id": "30001",
+    "num": "1",
+    "skillBaseID": "710201",
+    "skillTime": "5000",
+    "lastSkillTime": "0"
+  },
+  {
+    "id": "40001",
+    "num": "1",
+    "skillBaseID": "910001",
+    "skillTime": "2500",
+    "lastSkillTime": "0"
+  },
+  {
+    "id": "50001",
+    "num": "1",
+    "skillBaseID": "710401",
+    "skillTime": "4000",
+    "lastSkillTime": "0"
+  },
+  {
+    "id": "60001",
+    "num": "1",
+    "skillBaseID": "710501",
+    "skillTime": "2500",
+    "lastSkillTime": "0"
+  },
+  {
+    "id": "70001",
+    "num": "1",
+    "skillBaseID": "710601",
+    "skillTime": "5000",
+    "lastSkillTime": "0"
+  }
+]

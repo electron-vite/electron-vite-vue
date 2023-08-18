@@ -1,0 +1,32 @@
+[
+  {
+    "id": "905001",
+    "bulletNum": "36",
+    "width": "0",
+    "wave": "6",
+    "interval": "150",
+    "radius": "350",
+    "radiusGrow": "0",
+    "angularSpeed": "500"
+  },
+  {
+    "id": "905002",
+    "bulletNum": "36",
+    "width": "150",
+    "wave": "12",
+    "interval": "100",
+    "radius": "100",
+    "radiusGrow": "100",
+    "angularSpeed": "500"
+  },
+  {
+    "id": "905003",
+    "bulletNum": "36",
+    "width": "300",
+    "wave": "12",
+    "interval": "100",
+    "radius": "150",
+    "radiusGrow": "150",
+    "angularSpeed": "500"
+  }
+]

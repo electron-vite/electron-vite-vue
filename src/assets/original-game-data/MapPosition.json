@@ -1,0 +1,2738 @@
+[
+  {
+    "id": "101",
+    "areaID": "0",
+    "posiType": "0",
+    "posiID": "0",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1001",
+    "areaID": "1",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1002",
+    "areaID": "1",
+    "posiType": "1",
+    "posiID": "10002",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1003",
+    "areaID": "2",
+    "posiType": "1",
+    "posiID": "10003",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1004",
+    "areaID": "1",
+    "posiType": "1",
+    "posiID": "10004",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1005",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "8",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1006",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "10005",
+    "condition": "isDecorateId_1621|isCdBuild10005_0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1007",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "10",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1008",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "12",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1009",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "13",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1010",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "14",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1011",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "15",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1012",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "11",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1014",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1015",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "18",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1016",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "19",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1017",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "20",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1018",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "201",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1019",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "204",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1020",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "203",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1021",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "205",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1022",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "6",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1023",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "211",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1024",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "213",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1025",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "212",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1026",
+    "areaID": "0",
+    "posiType": "3",
+    "posiID": "126_169",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1027",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "221",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1028",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "222",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1029",
+    "areaID": "8",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "buildingTown_1",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1030",
+    "areaID": "4",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1031",
+    "areaID": "6",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1032",
+    "areaID": "8",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1033",
+    "areaID": "10",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1034",
+    "areaID": "6",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1035",
+    "areaID": "8",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1036",
+    "areaID": "10",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1037",
+    "areaID": "2",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "buildingTown_1",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1038",
+    "areaID": "4",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "buildingTown_1",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1039",
+    "areaID": "6",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "buildingTown_1",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1040",
+    "areaID": "8",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "buildingTown_1",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1041",
+    "areaID": "10",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "buildingTown_1",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1042",
+    "areaID": "-1",
+    "posiType": "1",
+    "posiID": "10007",
+    "condition": "0",
+    "buildingIndex": "-2"
+  },
+  {
+    "id": "1043",
+    "areaID": "-1",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "0",
+    "buildingIndex": "-2"
+  },
+  {
+    "id": "1044",
+    "areaID": "0",
+    "posiType": "4",
+    "posiID": "162101",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1045",
+    "areaID": "0",
+    "posiType": "4",
+    "posiID": "162102",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1046",
+    "areaID": "0",
+    "posiType": "4",
+    "posiID": "162103",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1047",
+    "areaID": "0",
+    "posiType": "4",
+    "posiID": "162104",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1048",
+    "areaID": "0",
+    "posiType": "4",
+    "posiID": "162105",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1049",
+    "areaID": "0",
+    "posiType": "4",
+    "posiID": "162106",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1050",
+    "areaID": "0",
+    "posiType": "4",
+    "posiID": "162107",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1051",
+    "areaID": "0",
+    "posiType": "4",
+    "posiID": "162108",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1052",
+    "areaID": "0",
+    "posiType": "4",
+    "posiID": "162109",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1053",
+    "areaID": "0",
+    "posiType": "4",
+    "posiID": "162110",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1054",
+    "areaID": "0",
+    "posiType": "4",
+    "posiID": "162111",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1055",
+    "areaID": "0",
+    "posiType": "4",
+    "posiID": "162112",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1056",
+    "areaID": "0",
+    "posiType": "4",
+    "posiID": "162113",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1057",
+    "areaID": "4",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1058",
+    "areaID": "2",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1059",
+    "areaID": "2",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1060",
+    "areaID": "4",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "0",
+    "buildingIndex": "-2"
+  },
+  {
+    "id": "1061",
+    "areaID": "6",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "0",
+    "buildingIndex": "-2"
+  },
+  {
+    "id": "1062",
+    "areaID": "-1",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "buildingTown_1",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1063",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "223",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1064",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "224",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1065",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "35",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1066",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "36",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1067",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "37",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1068",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "4601",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1069",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "4602",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1070",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "4603",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1071",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "4604",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1072",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "4605",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1073",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "4606",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1074",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "4621",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1075",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "4622",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1076",
+    "areaID": "8",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "0",
+    "buildingIndex": "-2"
+  },
+  {
+    "id": "1077",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "4607",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1078",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "227",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1079",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "228",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1080",
+    "areaID": "8",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "buildingTown_1",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1081",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "229",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1082",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "230",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1083",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "231",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1084",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "232",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1085",
+    "areaID": "0",
+    "posiType": "3",
+    "posiID": "16_195",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1086",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "235",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1087",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "233",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1088",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "234",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1089",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "4701",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1090",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "4801",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1091",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "0",
+    "buildingIndex": "-2"
+  },
+  {
+    "id": "1092",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "236",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1093",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "237",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1094",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "238",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1095",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "239",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1096",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "206",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1097",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "240",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1098",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "241",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1099",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "242",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1100",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "243",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1101",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "244",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1102",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "245",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1103",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "246",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1104",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "247",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1105",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "248",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1106",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "249",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1107",
+    "areaID": "0",
+    "posiType": "3",
+    "posiID": "77_198",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1201",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71000",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1202",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71010",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1203",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71020",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1204",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71030",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1205",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71040",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1206",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71050",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1207",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71060",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1208",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71061",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1209",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71070",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1210",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71071",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1211",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71072",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1212",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71073",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1213",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71074",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1214",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71075",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1215",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71076",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1216",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71081",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1217",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71077",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1218",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71078",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1219",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71123",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1230",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "90050",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1231",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "90051",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1232",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "90052",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1233",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "90053",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1234",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "90054",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1235",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "isSchoolPoint",
+    "buildingIndex": "-2"
+  },
+  {
+    "id": "1236",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "80050",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1237",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "0",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1238",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "80052",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1239",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "80051",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1240",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "0",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1241",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "isSchoolLevel_1",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1242",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71079",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1243",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71080",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1244",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71082",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1245",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71083",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1246",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71084",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1247",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "100301",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1248",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "100302",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1249",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "100306",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1250",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "100307",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1251",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "100303",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1252",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "100304",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1253",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "100305",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1255",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71100",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1256",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71101",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1257",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71102",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1258",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71103",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1259",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71104",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1260",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71105",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1261",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71106",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1262",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71107",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1263",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71108",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1264",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71109",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1265",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71110",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1266",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71111",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1267",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71112",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1268",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71113",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1269",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71118",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1270",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "0",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1271",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71130",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1272",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71350",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1273",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71132",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1274",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71351",
+    "condition": "0",
+    "buildingIndex": "71351"
+  },
+  {
+    "id": "1275",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71134",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1276",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "5201",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1277",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "5202",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1278",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "5203",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1279",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "5204",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1280",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "5205",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1281",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "5301",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1282",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71162",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1283",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71141",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1284",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71142",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1285",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71162",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1286",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71144",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1287",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71145",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1288",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71162",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1289",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71147",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1290",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "90003",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1291",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71162",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1292",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71149",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1293",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "90003",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1294",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71151",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1295",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71153",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1296",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "90003",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1297",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "90003",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1298",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "buildingTown_1|area_9_10",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1299",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71157",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1300",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71158",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1301",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71159",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1302",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71160",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1303",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71161",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1304",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71162",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1305",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71163",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1306",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71164",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1307",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71165",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1308",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71166",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1309",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71167",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1310",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71168",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1311",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71162",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1312",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71170",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1313",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71167",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1314",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71172",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1315",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71200",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1316",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71201",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1317",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71202",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1318",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71203",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1319",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71204",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1320",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71205",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1321",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71206",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1322",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71207",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1323",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71208",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1324",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71209",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1325",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71210",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1326",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71211",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1327",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71212",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1328",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71213",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1329",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71214",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1330",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71215",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1331",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71216",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1332",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71217",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1333",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71219",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1334",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71220",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1335",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71221",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1336",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71222",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1337",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71223",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1338",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71254",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1339",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71175",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1340",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "72001",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1341",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "72002",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1342",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "72001",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1343",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71162",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1344",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71228",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1345",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71229",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1346",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71230",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1347",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71162",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1348",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71162",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1349",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71162",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1350",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71172",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1351",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71231",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1352",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "buildingTown_1|area_9_10",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1353",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71351",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1360",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "90002",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1361",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71400",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1362",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "4",
+    "condition": "buildingTown_1|area_9_10",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1363",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "90002",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1364",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71450",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1401",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "schoolArea_9_10",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1402",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "schoolArea_9_10",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1403",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "schoolArea_9_10",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1404",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "schoolArea_9_10",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1405",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "schoolArea_9_10",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1406",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "schoolArea_9_10",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1407",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "schoolArea_9_10",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1408",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "schoolArea_9_10",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1409",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "schoolArea_9_10",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1410",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "schoolArea_9_10",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1411",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "schoolArea_9_10",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1412",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "schoolArea_9_10",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "1413",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "72003",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1414",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "72010",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1415",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "72011",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1416",
+    "areaID": "0",
+    "posiType": "3",
+    "posiID": "6_182",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1500",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "73005",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1501",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "73001",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1502",
+    "areaID": "0",
+    "posiType": "5",
+    "posiID": "100002",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1503",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "73006",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1504",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "73002",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1505",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "73003",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1506",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "73004",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1507",
+    "areaID": "0",
+    "posiType": "5",
+    "posiID": "100010",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1508",
+    "areaID": "0",
+    "posiType": "5",
+    "posiID": "100014",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1509",
+    "areaID": "0",
+    "posiType": "5",
+    "posiID": "100012",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1510",
+    "areaID": "0",
+    "posiType": "5",
+    "posiID": "100008",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1511",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "72001",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1512",
+    "areaID": "0",
+    "posiType": "5",
+    "posiID": "100001",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1601",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71401",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1602",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71402",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1603",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71403",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1604",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71404",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1605",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71405",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1606",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71406",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "1607",
+    "areaID": "0",
+    "posiType": "5",
+    "posiID": "100001|100002|100003|100004|100005|100006|100007|100008|100009|100010|100011|100012|100013|100014|100015",
+    "condition": "0",
+    "buildingIndex": "-2"
+  },
+  {
+    "id": "2001",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71352",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2002",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71159",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2003",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71162",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2004",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "711621",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2005",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71219",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2006",
+    "areaID": "9|10",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "buildingTown_1",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2007",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71167",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2008",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "712071",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2009",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71206",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2010",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71207",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2012",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71216",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2013",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71217",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2014",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71230",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2015",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "711411",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2016",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "711622",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2017",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71166",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2021",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "3",
+    "condition": "schoolArea_9_10|playerSchool_1",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2022",
+    "areaID": "9|10",
+    "posiType": "1",
+    "posiID": "4",
+    "condition": "buildingTown_1",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2031",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71901",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2032",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71922",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2033",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71903",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2034",
+    "areaID": "0",
+    "posiType": "1",
+    "posiID": "6",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2035",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71911",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2036",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71912",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2037",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71921",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2038",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71926",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2039",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71927",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2040",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71931",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2200",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "75000",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2201",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "75001",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2202",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "75003",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2203",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "75012",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2204",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "75015",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2205",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "75004",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2206",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "75005",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "2300",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "71913",
+    "condition": "0",
+    "buildingIndex": "-1"
+  },
+  {
+    "id": "10001",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "50001",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "10002",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "50009",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "10003",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "50027",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "10004",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "50028",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "10005",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "60205",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "10006",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "60202",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "10007",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "60301",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "800403",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "800403",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "800404",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "800404",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "800405",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "800405",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "800406",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "800406",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "800407",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "800407",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "800408",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "800408",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "800409",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "800409",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "800502",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "800502",
+    "condition": "0",
+    "buildingIndex": "0"
+  },
+  {
+    "id": "800521",
+    "areaID": "0",
+    "posiType": "2",
+    "posiID": "800521",
+    "condition": "0",
+    "buildingIndex": "0"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "40001",
+    "bulletNum": "1",
+    "radius": "20",
+    "delay": "500",
+    "sound": "0",
+    "startPosiEffect": "Scenes/yujing_0dian5",
+    "endPosiEffect": "Unit/qinyuan_ducibao"
+  },
+  {
+    "id": "40002",
+    "bulletNum": "1",
+    "radius": "0",
+    "delay": "0",
+    "sound": "0",
+    "startPosiEffect": "Scenes/yujing_1",
+    "endPosiEffect": "Unit/taowu_attack1_bao"
+  },
+  {
+    "id": "40003",
+    "bulletNum": "1",
+    "radius": "0",
+    "delay": "0",
+    "sound": "0",
+    "startPosiEffect": "0",
+    "endPosiEffect": "0"
+  },
+  {
+    "id": "40004",
+    "bulletNum": "1",
+    "radius": "450",
+    "delay": "0",
+    "sound": "0",
+    "startPosiEffect": "0",
+    "endPosiEffect": "0"
+  },
+  {
+    "id": "40005",
+    "bulletNum": "1",
+    "radius": "600",
+    "delay": "0",
+    "sound": "0",
+    "startPosiEffect": "0",
+    "endPosiEffect": "0"
+  }
+]

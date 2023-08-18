@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "quantity": "1",
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore1"
+  },
+  {
+    "id": "2",
+    "quantity": "6",
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore2"
+  },
+  {
+    "id": "3",
+    "quantity": "11",
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore3"
+  },
+  {
+    "id": "4",
+    "quantity": "16",
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore4"
+  },
+  {
+    "id": "5",
+    "quantity": "21",
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore5"
+  },
+  {
+    "id": "6",
+    "quantity": "26",
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore6"
+  },
+  {
+    "id": "7",
+    "quantity": "31",
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore7"
+  },
+  {
+    "id": "8",
+    "quantity": "36",
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore8"
+  },
+  {
+    "id": "9",
+    "quantity": "41",
+    "function": "addAttr_talent_1_5",
+    "desc": "TownBookstore9"
+  }
+]

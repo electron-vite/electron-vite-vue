@@ -1,0 +1,192 @@
+[
+  {
+    "id": "1081001",
+    "condition": "0",
+    "allyEffect": "1081001",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081002",
+    "condition": "0",
+    "allyEffect": "1081002",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081003",
+    "condition": "0",
+    "allyEffect": "1081003",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "%30"
+  },
+  {
+    "id": "1081004",
+    "condition": "0",
+    "allyEffect": "1081004",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081005",
+    "condition": "0",
+    "allyEffect": "1081005",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081006",
+    "condition": "0",
+    "allyEffect": "1081006",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081007",
+    "condition": "0",
+    "allyEffect": "1081007",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081008",
+    "condition": "0",
+    "allyEffect": "1081008",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081009",
+    "condition": "0",
+    "allyEffect": "1081009",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081010",
+    "condition": "0",
+    "allyEffect": "1081010",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081011",
+    "condition": "0",
+    "allyEffect": "0",
+    "enemyEffect": "1081011",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081012",
+    "condition": "0",
+    "allyEffect": "1081012",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081013",
+    "condition": "0",
+    "allyEffect": "1081013",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081014",
+    "condition": "0",
+    "allyEffect": "1081014",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081015",
+    "condition": "0",
+    "allyEffect": "1081015",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081016",
+    "condition": "0",
+    "allyEffect": "1081016",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081017",
+    "condition": "0",
+    "allyEffect": "1081017",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081018",
+    "condition": "0",
+    "allyEffect": "1081018",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  },
+  {
+    "id": "1081019",
+    "condition": "0",
+    "allyEffect": "1081019",
+    "enemyEffect": "0",
+    "applyCD": "0",
+    "applyGroupCD": "5000",
+    "cdGroup": "1",
+    "heal": "0"
+  }
+]

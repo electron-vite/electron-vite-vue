@@ -1,0 +1,1130 @@
+[
+  {
+    "id": "99001",
+    "innerNum": "1",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99002",
+    "innerNum": "5",
+    "innerCD": "5",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99003",
+    "innerNum": "&33111_ddcs",
+    "innerCD": "&33111_fsjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99004",
+    "innerNum": "1",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "1"
+  },
+  {
+    "id": "99005",
+    "innerNum": "&33112_cqcs",
+    "innerCD": "&33112_cqjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99006",
+    "innerNum": "3",
+    "innerCD": "10",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99007",
+    "innerNum": "1",
+    "innerCD": "40",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99008",
+    "innerNum": "0",
+    "innerCD": "&34111_jgsj",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99009",
+    "innerNum": "&34112_fscs",
+    "innerCD": "&34112_fsjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99010",
+    "innerNum": "&26114_csdd",
+    "innerCD": "80",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99012",
+    "innerNum": "4",
+    "innerCD": "300",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99013",
+    "innerNum": "&56114_ddls",
+    "innerCD": "&56114_ddjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99014",
+    "innerNum": "&15111_ddsl",
+    "innerCD": "&15111_fssj",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99015",
+    "innerNum": "&26112_csdd",
+    "innerCD": "&26112_ddjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99016",
+    "innerNum": "1",
+    "innerCD": "&27112_fsjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99017",
+    "innerNum": "1",
+    "innerCD": "&53112_ddjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99018",
+    "innerNum": "3",
+    "innerCD": "200",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99019",
+    "innerNum": "5",
+    "innerCD": "600",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99020",
+    "innerNum": "100",
+    "innerCD": "60",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99021",
+    "innerNum": "250",
+    "innerCD": "20",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99022",
+    "innerNum": "3",
+    "innerCD": "300",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99023",
+    "innerNum": "50",
+    "innerCD": "120",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99024",
+    "innerNum": "&23113_qcsl",
+    "innerCD": "30",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99025",
+    "innerNum": "3",
+    "innerCD": "700",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99026",
+    "innerNum": "&45111_ddsl",
+    "innerCD": "50",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99027",
+    "innerNum": "30",
+    "innerCD": "50",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99028",
+    "innerNum": "3",
+    "innerCD": "200",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99029",
+    "innerNum": "50",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99030",
+    "innerNum": "5",
+    "innerCD": "1000",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99031",
+    "innerNum": "25",
+    "innerCD": "200",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99032",
+    "innerNum": "4",
+    "innerCD": "2000",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99033",
+    "innerNum": "6",
+    "innerCD": "800",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99034",
+    "innerNum": "&27105_cxsj",
+    "innerCD": "&27105_shjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99035",
+    "innerNum": "3",
+    "innerCD": "250",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99036",
+    "innerNum": "2",
+    "innerCD": "150",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99037",
+    "innerNum": "20",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99038",
+    "innerNum": "7",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99039",
+    "innerNum": "&27300_cxsj|/27305_lxjg|f0",
+    "innerCD": "&27305_lxjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99040",
+    "innerNum": "&27405_cjcs",
+    "innerCD": "800",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99041",
+    "innerNum": "1",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99042",
+    "innerNum": "4",
+    "innerCD": "500",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99043",
+    "innerNum": "20",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99044",
+    "innerNum": "40",
+    "innerCD": "50",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99045",
+    "innerNum": "200",
+    "innerCD": "50",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99046",
+    "innerNum": "1",
+    "innerCD": "0",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99047",
+    "innerNum": "10",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99048",
+    "innerNum": "6",
+    "innerCD": "500",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99049",
+    "innerNum": "20",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99050",
+    "innerNum": "12",
+    "innerCD": "500",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99051",
+    "innerNum": "4",
+    "innerCD": "250",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99052",
+    "innerNum": "8",
+    "innerCD": "250",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99053",
+    "innerNum": "6",
+    "innerCD": "500",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99054",
+    "innerNum": "4",
+    "innerCD": "400",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99055",
+    "innerNum": "&70521_lfcs",
+    "innerCD": "&70521_lfjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99056",
+    "innerNum": "&100721_ddbs",
+    "innerCD": "&100721_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99057",
+    "innerNum": "&51521_mgsl",
+    "innerCD": "100",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99058",
+    "innerNum": "&7051_fscs",
+    "innerCD": "&7051_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99059",
+    "innerNum": "&110022_fscs",
+    "innerCD": "&110022_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99060",
+    "innerNum": "&7112_fscs",
+    "innerCD": "&7112_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99061",
+    "innerNum": "&110042_fscs",
+    "innerCD": "&110042_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99062",
+    "innerNum": "&7374_fscs",
+    "innerCD": "&7374_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99063",
+    "innerNum": "&110031_fscs",
+    "innerCD": "&110031_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99064",
+    "innerNum": "&7381_fscs",
+    "innerCD": "&7381_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99065",
+    "innerNum": "&7121_fscs",
+    "innerCD": "&7121_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99066",
+    "innerNum": "&7126_fscs",
+    "innerCD": "&7126_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99067",
+    "innerNum": "&7221_fscs",
+    "innerCD": "&7221_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99068",
+    "innerNum": "&7223_fscs",
+    "innerCD": "&7223_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99069",
+    "innerNum": "&7541_fscs",
+    "innerCD": "&7541_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99070",
+    "innerNum": "&7551_fscs",
+    "innerCD": "&7551_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99071",
+    "innerNum": "&7571_fscs",
+    "innerCD": "&7571_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99072",
+    "innerNum": "&7633_fscs",
+    "innerCD": "&7633_fsjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99073",
+    "innerNum": "&100721_ddbshz",
+    "innerCD": "&100721_fsjghz",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99074",
+    "innerNum": "5",
+    "innerCD": "250",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99075",
+    "innerNum": "4",
+    "innerCD": "650",
+    "startPos": "0",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99076",
+    "innerNum": "10",
+    "innerCD": "200",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99077",
+    "innerNum": "3",
+    "innerCD": "800",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99078",
+    "innerNum": "6",
+    "innerCD": "500",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99079",
+    "innerNum": "2",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99080",
+    "innerNum": "20",
+    "innerCD": "250",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99081",
+    "innerNum": "10",
+    "innerCD": "500",
+    "startPos": "0",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99082",
+    "innerNum": "3",
+    "innerCD": "500",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99083",
+    "innerNum": "5",
+    "innerCD": "200",
+    "startPos": "0",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99084",
+    "innerNum": "70",
+    "innerCD": "50",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99085",
+    "innerNum": "&800031_dqsl",
+    "innerCD": "&800031_fsjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99086",
+    "innerNum": "&80005_hmsl",
+    "innerCD": "0",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99087",
+    "innerNum": "4",
+    "innerCD": "500",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99088",
+    "innerNum": "4",
+    "innerCD": "800",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99089",
+    "innerNum": "3",
+    "innerCD": "600",
+    "startPos": "0",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99090",
+    "innerNum": "&80071_lfcs",
+    "innerCD": "&80071_lfjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99091",
+    "innerNum": "&800073_lfcs",
+    "innerCD": "&800073_lfjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99092",
+    "innerNum": "&99091_lfcs",
+    "innerCD": "&99091_lfjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99093",
+    "innerNum": "4",
+    "innerCD": "1500",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99094",
+    "innerNum": "6",
+    "innerCD": "500",
+    "startPos": "0",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99095",
+    "innerNum": "1",
+    "innerCD": "200",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99096",
+    "innerNum": "&710003_zmgsl",
+    "innerCD": "200",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99097",
+    "innerNum": "&710001_ddzjcs",
+    "innerCD": "200",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99098",
+    "innerNum": "1",
+    "innerCD": "0",
+    "startPos": "0",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99099",
+    "innerNum": "4",
+    "innerCD": "110",
+    "startPos": "0",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99100",
+    "innerNum": "&710005_fzqgcs",
+    "innerCD": "&710005_qgcxsj",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99101",
+    "innerNum": "&710005_sfybsj|x710005_ybsl|/1000|f0&",
+    "innerCD": "&int_1000|/710005_ybsl|f0&",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99102",
+    "innerNum": "6",
+    "innerCD": "1133",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99103",
+    "innerNum": "&710007_bzshcs",
+    "innerCD": "&int_1500|/710007_bzshcs|f0&",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99104",
+    "innerNum": "1",
+    "innerCD": "0",
+    "startPos": "0",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99105",
+    "innerNum": "&710002_mjsl",
+    "innerCD": "&710002_mjjg",
+    "startPos": "1",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99106",
+    "innerNum": "1",
+    "innerCD": "500",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99107",
+    "innerNum": "1",
+    "innerCD": "800",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99108",
+    "innerNum": "&710002_hjcs",
+    "innerCD": "&710002_mjjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99109",
+    "innerNum": "&710002_ljcs",
+    "innerCD": "&710002_mjjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99110",
+    "innerNum": "&710002_vjcs",
+    "innerCD": "&710002_mjjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99111",
+    "innerNum": "5",
+    "innerCD": "500",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99112",
+    "innerNum": "6",
+    "innerCD": "500",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99113",
+    "innerNum": "15",
+    "innerCD": "&7633_fsjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99114",
+    "innerNum": "10",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99115",
+    "innerNum": "5",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99116",
+    "innerNum": "6",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99117",
+    "innerNum": "7",
+    "innerCD": "88",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99118",
+    "innerNum": "8",
+    "innerCD": "60",
+    "startPos": "0",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99119",
+    "innerNum": "25",
+    "innerCD": "200",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99120",
+    "innerNum": "50",
+    "innerCD": "50",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99121",
+    "innerNum": "&804188_fscs",
+    "innerCD": "&804188_fsjg",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99122",
+    "innerNum": "&8025001_fscs",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99123",
+    "innerNum": "6",
+    "innerCD": "500",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99124",
+    "innerNum": "1",
+    "innerCD": "1000",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99125",
+    "innerNum": "6",
+    "innerCD": "250",
+    "startPos": "1",
+    "targetPos": "1",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99126",
+    "innerNum": "&7326_jfsl",
+    "innerCD": "&7326_jfjg",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99127",
+    "innerNum": "80",
+    "innerCD": "55",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99128",
+    "innerNum": "20",
+    "innerCD": "208",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99129",
+    "innerNum": "3",
+    "innerCD": "166",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99131",
+    "innerNum": "27",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99132",
+    "innerNum": "50",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99133",
+    "innerNum": "5",
+    "innerCD": "1000",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99134",
+    "innerNum": "4",
+    "innerCD": "100",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99135",
+    "innerNum": "3",
+    "innerCD": "300",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99136",
+    "innerNum": "5",
+    "innerCD": "400",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99137",
+    "innerNum": "2",
+    "innerCD": "4000",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99138",
+    "innerNum": "25",
+    "innerCD": "200",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99139",
+    "innerNum": "10",
+    "innerCD": "500",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99140",
+    "innerNum": "10",
+    "innerCD": "50",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99141",
+    "innerNum": "8",
+    "innerCD": "2000",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99142",
+    "innerNum": "4",
+    "innerCD": "3500",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  },
+  {
+    "id": "99143",
+    "innerNum": "&56111_gzcs",
+    "innerCD": "300",
+    "startPos": "0",
+    "targetPos": "0",
+    "rangeCheck": "0"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "key": "updateTime",
+    "value": "3"
+  },
+  {
+    "id": "2",
+    "key": "rewardGroup1",
+    "value": "0"
+  },
+  {
+    "id": "3",
+    "key": "rewardGroup2",
+    "value": "277002"
+  },
+  {
+    "id": "4",
+    "key": "rewardGroup3",
+    "value": "900004|900017"
+  },
+  {
+    "id": "5",
+    "key": "rewardCount1",
+    "value": "12_20"
+  },
+  {
+    "id": "6",
+    "key": "rewardCount2",
+    "value": "12_20"
+  },
+  {
+    "id": "7",
+    "key": "rewardCount3",
+    "value": "12_20"
+  },
+  {
+    "id": "8",
+    "key": "basePrice",
+    "value": "-13600"
+  },
+  {
+    "id": "9",
+    "key": "gradeValue",
+    "value": "150000"
+  },
+  {
+    "id": "10",
+    "key": "qualityValue",
+    "value": "10000"
+  },
+  {
+    "id": "11",
+    "key": "suitAbility",
+    "value": "100000"
+  },
+  {
+    "id": "12",
+    "key": "treasureUnLock",
+    "value": "10000"
+  },
+  {
+    "id": "13",
+    "key": "maritalUnLock",
+    "value": "2000"
+  },
+  {
+    "id": "14",
+    "key": "initiativeUpdateCount",
+    "value": "3"
+  },
+  {
+    "id": "15",
+    "key": "initiativeUpdateDrama",
+    "value": "9012141"
+  },
+  {
+    "id": "16",
+    "key": "yesOption",
+    "value": "90121411"
+  },
+  {
+    "id": "17",
+    "key": "updateProp",
+    "value": "2022051"
+  },
+  {
+    "id": "18",
+    "key": "updatePoup",
+    "value": "9012142"
+  },
+  {
+    "id": "19",
+    "key": "lastPoup",
+    "value": "9012143"
+  },
+  {
+    "id": "20",
+    "key": "basSword",
+    "value": "900007"
+  },
+  {
+    "id": "21",
+    "key": "basSpear",
+    "value": "900006"
+  },
+  {
+    "id": "22",
+    "key": "basBlade",
+    "value": "900005"
+  },
+  {
+    "id": "23",
+    "key": "basFist",
+    "value": "900008"
+  },
+  {
+    "id": "24",
+    "key": "basPalm",
+    "value": "900009"
+  },
+  {
+    "id": "25",
+    "key": "basFinger",
+    "value": "900010"
+  },
+  {
+    "id": "26",
+    "key": "basFire",
+    "value": "900012"
+  },
+  {
+    "id": "27",
+    "key": "basFroze",
+    "value": "900011"
+  },
+  {
+    "id": "28",
+    "key": "basThunder",
+    "value": "900013"
+  },
+  {
+    "id": "29",
+    "key": "basWind",
+    "value": "900014"
+  },
+  {
+    "id": "30",
+    "key": "basEarth",
+    "value": "900015"
+  },
+  {
+    "id": "31",
+    "key": "basWood",
+    "value": "900016"
+  },
+  {
+    "id": "32",
+    "key": "rewardCount",
+    "value": "6_10"
+  },
+  {
+    "id": "33",
+    "key": "rewardCount4",
+    "value": "3_4"
+  }
+]

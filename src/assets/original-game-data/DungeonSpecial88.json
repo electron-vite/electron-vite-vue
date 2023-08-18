@@ -1,0 +1,207 @@
+[
+  {
+    "id": "1",
+    "key": "fixedMoveSpeed",
+    "value": "500"
+  },
+  {
+    "id": "2",
+    "key": "enterEventTriggerRange",
+    "value": "21.6"
+  },
+  {
+    "id": "3",
+    "key": "bossFocusDelay",
+    "value": "1000"
+  },
+  {
+    "id": "4",
+    "key": "bossFocusSpeed",
+    "value": "10"
+  },
+  {
+    "id": "5",
+    "key": "bossFocusStay",
+    "value": "1000"
+  },
+  {
+    "id": "6",
+    "key": "bossFocusZoom",
+    "value": "5.4"
+  },
+  {
+    "id": "7",
+    "key": "bossFocusZoomIn",
+    "value": "100"
+  },
+  {
+    "id": "8",
+    "key": "bossFocusZoomOut",
+    "value": "100"
+  },
+  {
+    "id": "9",
+    "key": "bossFocusZoomStay",
+    "value": "1000"
+  },
+  {
+    "id": "10",
+    "key": "bossEnterDuration",
+    "value": "10000"
+  },
+  {
+    "id": "11",
+    "key": "boss2EnterDuration",
+    "value": "10000"
+  },
+  {
+    "id": "12",
+    "key": "boss2FocusSpeed",
+    "value": "10"
+  },
+  {
+    "id": "13",
+    "key": "drama1",
+    "value": "2250002"
+  },
+  {
+    "id": "14",
+    "key": "drama1Branch1",
+    "value": "22500241|22500245|22500541|22500545"
+  },
+  {
+    "id": "15",
+    "key": "drama1Branch2",
+    "value": "22500243|22500244|22500543|22500544"
+  },
+  {
+    "id": "16",
+    "key": "drama1Branch3",
+    "value": "22500242|22500542"
+  },
+  {
+    "id": "17",
+    "key": "drama2",
+    "value": "0"
+  },
+  {
+    "id": "18",
+    "key": "drama2Delay",
+    "value": "0.5"
+  },
+  {
+    "id": "19",
+    "key": "drama2BossHpPercentage",
+    "value": "0.7"
+  },
+  {
+    "id": "20",
+    "key": "drama3",
+    "value": "2250251|2251000"
+  },
+  {
+    "id": "21",
+    "key": "drama3Delay",
+    "value": "0.5"
+  },
+  {
+    "id": "22",
+    "key": "drama4",
+    "value": "2250701"
+  },
+  {
+    "id": "23",
+    "key": "drama4Delay",
+    "value": "0"
+  },
+  {
+    "id": "24",
+    "key": "drama4BossHpPercentage",
+    "value": "0.5"
+  },
+  {
+    "id": "25",
+    "key": "drama5",
+    "value": "2250751"
+  },
+  {
+    "id": "26",
+    "key": "drama5Delay",
+    "value": "0.5"
+  },
+  {
+    "id": "27",
+    "key": "drama6",
+    "value": "2250431"
+  },
+  {
+    "id": "28",
+    "key": "drama6Delay",
+    "value": "0"
+  },
+  {
+    "id": "29",
+    "key": "drama7",
+    "value": "0"
+  },
+  {
+    "id": "30",
+    "key": "drama7Delay",
+    "value": "0"
+  },
+  {
+    "id": "31",
+    "key": "drama8",
+    "value": "2270012"
+  },
+  {
+    "id": "32",
+    "key": "drama8Delay",
+    "value": "0"
+  },
+  {
+    "id": "33",
+    "key": "drama9Condition",
+    "value": "dialogue_2210231_0"
+  },
+  {
+    "id": "34",
+    "key": "drama9Function",
+    "value": "callDrama_2250501"
+  },
+  {
+    "id": "35",
+    "key": "enterFocusDelay",
+    "value": "2000"
+  },
+  {
+    "id": "36",
+    "key": "enterFocusZoom",
+    "value": "10.8"
+  },
+  {
+    "id": "37",
+    "key": "enterFocusStay",
+    "value": "1000"
+  },
+  {
+    "id": "38",
+    "key": "enterFocusSpeed",
+    "value": "9"
+  },
+  {
+    "id": "39",
+    "key": "enterFocusEnd",
+    "value": "0"
+  },
+  {
+    "id": "40",
+    "key": "drama10",
+    "value": "2250702"
+  },
+  {
+    "id": "41",
+    "key": "drama10Delay",
+    "value": "0"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "key": "eyeWinCD",
+    "value": "10"
+  },
+  {
+    "id": "2",
+    "key": "recoverRatio",
+    "value": "0.1"
+  },
+  {
+    "id": "3",
+    "key": "addFeatureProb",
+    "value": "30"
+  },
+  {
+    "id": "4",
+    "key": "featureID",
+    "value": "0"
+  },
+  {
+    "id": "5",
+    "key": "friendAll",
+    "value": "-99"
+  },
+  {
+    "id": "6",
+    "key": "noEnemy",
+    "value": "-99"
+  },
+  {
+    "id": "7",
+    "key": "enemyMore",
+    "value": "1"
+  },
+  {
+    "id": "8",
+    "key": "eyeDie",
+    "value": "2"
+  },
+  {
+    "id": "9",
+    "key": "friendHave",
+    "value": "3"
+  },
+  {
+    "id": "10",
+    "key": "friendNo",
+    "value": "1"
+  },
+  {
+    "id": "11",
+    "key": "eyeNoDie",
+    "value": "2"
+  },
+  {
+    "id": "12",
+    "key": "roomEyeUpdate",
+    "value": "1"
+  },
+  {
+    "id": "13",
+    "key": "roomBossUpdate",
+    "value": "1"
+  },
+  {
+    "id": "14",
+    "key": "dieCD",
+    "value": "10"
+  },
+  {
+    "id": "15",
+    "key": "againCD",
+    "value": "3"
+  },
+  {
+    "id": "16",
+    "key": "bossHP",
+    "value": "20"
+  },
+  {
+    "id": "17",
+    "key": "schoolMainBuff",
+    "value": "12301"
+  },
+  {
+    "id": "18",
+    "key": "actorToEyeHP",
+    "value": "1000"
+  },
+  {
+    "id": "19",
+    "key": "maxMorale",
+    "value": "50"
+  },
+  {
+    "id": "20",
+    "key": "schoolMainBuckleHP",
+    "value": "500"
+  }
+]

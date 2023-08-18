@@ -1,0 +1,32 @@
+[
+  {
+    "id": "214",
+    "icon": "suirenshixiaoguai1",
+    "moveValue": "2200",
+    "idleMoveSize": "3_3",
+    "isLookDire": "1",
+    "attackDis": "4",
+    "maxMoveDis": "8",
+    "dramaID": "73191|73201|73211"
+  },
+  {
+    "id": "215",
+    "icon": "suirenshixiaoguai3",
+    "moveValue": "2200",
+    "idleMoveSize": "3_3",
+    "isLookDire": "1",
+    "attackDis": "4",
+    "maxMoveDis": "8",
+    "dramaID": "73192|73201|73211"
+  },
+  {
+    "id": "60501",
+    "icon": "duanmaidan_3",
+    "moveValue": "1000",
+    "idleMoveSize": "3_3",
+    "isLookDire": "1",
+    "attackDis": "4",
+    "maxMoveDis": "7",
+    "dramaID": "6467101"
+  }
+]

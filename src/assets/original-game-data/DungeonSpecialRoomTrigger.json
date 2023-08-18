@@ -1,0 +1,26 @@
+[
+  {
+    "id": "101",
+    "dungeonID": "0",
+    "dungeonType": "0",
+    "className": "101",
+    "probability": "0",
+    "dungeonSpecialRoomBaseID": "900001|900002|900003|900004|900005"
+  },
+  {
+    "id": "102",
+    "dungeonID": "0",
+    "dungeonType": "0",
+    "className": "101",
+    "probability": "1000",
+    "dungeonSpecialRoomBaseID": "1000001|1000002|1000003|1000004"
+  },
+  {
+    "id": "103",
+    "dungeonID": "0",
+    "dungeonType": "0",
+    "className": "101",
+    "probability": "10000",
+    "dungeonSpecialRoomBaseID": "1100000"
+  }
+]

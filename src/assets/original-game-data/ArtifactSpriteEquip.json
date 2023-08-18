@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5321101",
+    "prefixValue": "0",
+    "attrValue": "hpMax_0_3|atk_0_3|def_0_3|crit_0_3|critV_0_3|guard_0_3|guardV_0_3",
+    "addArtifactSpriteBattleEffect": "0",
+    "addRoleBattleEffect": "0",
+    "skill": "0",
+    "skillAnim": "0"
+  },
+  {
+    "id": "5321201",
+    "prefixValue": "0",
+    "attrValue": "hpMax_0_4|atk_0_4|def_0_4|crit_0_4|critV_0_4|guard_0_4|guardV_0_4",
+    "addArtifactSpriteBattleEffect": "0",
+    "addRoleBattleEffect": "0",
+    "skill": "0",
+    "skillAnim": "0"
+  },
+  {
+    "id": "5321301",
+    "prefixValue": "0",
+    "attrValue": "hpMax_0_5|atk_0_5|def_0_5|crit_0_5|critV_0_5|guard_0_5|guardV_0_5",
+    "addArtifactSpriteBattleEffect": "0",
+    "addRoleBattleEffect": "0",
+    "skill": "0",
+    "skillAnim": "0"
+  },
+  {
+    "id": "5321401",
+    "prefixValue": "0",
+    "attrValue": "hpMax_0_6|atk_0_6|def_0_6|crit_0_6|critV_0_6|guard_0_6|guardV_0_6",
+    "addArtifactSpriteBattleEffect": "0",
+    "addRoleBattleEffect": "0",
+    "skill": "0",
+    "skillAnim": "0"
+  }
+]

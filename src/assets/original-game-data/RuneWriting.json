@@ -1,0 +1,252 @@
+[
+  {
+    "id": "1001",
+    "formulaId": "6092020",
+    "group": "101",
+    "grade": "1",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_xunleifu_1",
+    "writingTime": "40000"
+  },
+  {
+    "id": "1002",
+    "formulaId": "6092020",
+    "group": "101",
+    "grade": "2",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_2",
+    "writingTime": "50000"
+  },
+  {
+    "id": "1003",
+    "formulaId": "6092020",
+    "group": "101",
+    "grade": "3",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_3",
+    "writingTime": "65000"
+  },
+  {
+    "id": "1004",
+    "formulaId": "6092020",
+    "group": "101",
+    "grade": "4",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_3",
+    "writingTime": "65000"
+  },
+  {
+    "id": "1005",
+    "formulaId": "6092020",
+    "group": "101",
+    "grade": "5",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_3",
+    "writingTime": "65000"
+  },
+  {
+    "id": "2001",
+    "formulaId": "6092030",
+    "group": "102",
+    "grade": "1",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_lingdunfu_1",
+    "writingTime": "40000"
+  },
+  {
+    "id": "2002",
+    "formulaId": "6092030",
+    "group": "102",
+    "grade": "2",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_2",
+    "writingTime": "50000"
+  },
+  {
+    "id": "2003",
+    "formulaId": "6092030",
+    "group": "102",
+    "grade": "3",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_3",
+    "writingTime": "65000"
+  },
+  {
+    "id": "2004",
+    "formulaId": "6092030",
+    "group": "102",
+    "grade": "4",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_3",
+    "writingTime": "65000"
+  },
+  {
+    "id": "2005",
+    "formulaId": "6092030",
+    "group": "102",
+    "grade": "5",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_3",
+    "writingTime": "65000"
+  },
+  {
+    "id": "3001",
+    "formulaId": "6092040",
+    "group": "103",
+    "grade": "1",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_xiongweifu_1",
+    "writingTime": "40000"
+  },
+  {
+    "id": "3002",
+    "formulaId": "6092040",
+    "group": "103",
+    "grade": "2",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_2",
+    "writingTime": "50000"
+  },
+  {
+    "id": "3003",
+    "formulaId": "6092040",
+    "group": "103",
+    "grade": "3",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_3",
+    "writingTime": "65000"
+  },
+  {
+    "id": "3004",
+    "formulaId": "6092040",
+    "group": "103",
+    "grade": "4",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_3",
+    "writingTime": "65000"
+  },
+  {
+    "id": "3005",
+    "formulaId": "6092040",
+    "group": "103",
+    "grade": "5",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_3",
+    "writingTime": "65000"
+  },
+  {
+    "id": "4001",
+    "formulaId": "6092050",
+    "group": "104",
+    "grade": "1",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_1",
+    "writingTime": "40000"
+  },
+  {
+    "id": "4002",
+    "formulaId": "6092050",
+    "group": "104",
+    "grade": "2",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_2",
+    "writingTime": "50000"
+  },
+  {
+    "id": "4003",
+    "formulaId": "6092050",
+    "group": "104",
+    "grade": "3",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_3",
+    "writingTime": "65000"
+  },
+  {
+    "id": "4004",
+    "formulaId": "6092050",
+    "group": "104",
+    "grade": "4",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_3",
+    "writingTime": "65000"
+  },
+  {
+    "id": "4005",
+    "formulaId": "6092050",
+    "group": "104",
+    "grade": "5",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_julingfu_3",
+    "writingTime": "65000"
+  },
+  {
+    "id": "5001",
+    "formulaId": "6093010",
+    "group": "105",
+    "grade": "3",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_shunyifu",
+    "writingTime": "65000"
+  },
+  {
+    "id": "5002",
+    "formulaId": "6093020",
+    "group": "106",
+    "grade": "2",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_fengsuofu",
+    "writingTime": "50000"
+  },
+  {
+    "id": "5003",
+    "formulaId": "6093040",
+    "group": "107",
+    "grade": "3",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_shenmufu",
+    "writingTime": "65000"
+  },
+  {
+    "id": "5004",
+    "formulaId": "6093050",
+    "group": "108",
+    "grade": "1",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_qitianfu",
+    "writingTime": "50000"
+  },
+  {
+    "id": "5005",
+    "formulaId": "6093060",
+    "group": "109",
+    "grade": "1",
+    "title": "zifu_3",
+    "bottom": "zifu_2",
+    "writingDraw": "Scribbles_youshoufu",
+    "writingTime": "50000"
+  }
+]

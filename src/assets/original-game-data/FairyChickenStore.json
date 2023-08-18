@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "197",
+    "item": "1011054",
+    "group": "197",
+    "area": "2",
+    "weight": "100",
+    "countMin": "15",
+    "countMax": "30",
+    "price": "8"
+  },
+  {
+    "id": "198",
+    "item": "1011055",
+    "group": "197",
+    "area": "2",
+    "weight": "100",
+    "countMin": "10",
+    "countMax": "20",
+    "price": "11"
+  },
+  {
+    "id": "199",
+    "item": "1011114",
+    "group": "199",
+    "area": "2",
+    "weight": "100",
+    "countMin": "15",
+    "countMax": "30",
+    "price": "8"
+  },
+  {
+    "id": "200",
+    "item": "1011115",
+    "group": "199",
+    "area": "2",
+    "weight": "100",
+    "countMin": "10",
+    "countMax": "20",
+    "price": "11"
+  },
+  {
+    "id": "101",
+    "item": "1051132",
+    "group": "101",
+    "area": "2",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "25"
+  },
+  {
+    "id": "102",
+    "item": "1051142",
+    "group": "101",
+    "area": "2",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "25"
+  },
+  {
+    "id": "103",
+    "item": "1051152",
+    "group": "101",
+    "area": "2",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "25"
+  },
+  {
+    "id": "104",
+    "item": "1051162",
+    "group": "101",
+    "area": "2",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "25"
+  },
+  {
+    "id": "105",
+    "item": "1051172",
+    "group": "101",
+    "area": "2",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "25"
+  },
+  {
+    "id": "106",
+    "item": "1051182",
+    "group": "101",
+    "area": "2",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "25"
+  },
+  {
+    "id": "107",
+    "item": "1051072",
+    "group": "105",
+    "area": "2",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "25"
+  },
+  {
+    "id": "108",
+    "item": "1051082",
+    "group": "105",
+    "area": "2",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "25"
+  },
+  {
+    "id": "109",
+    "item": "1051092",
+    "group": "105",
+    "area": "2",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "25"
+  },
+  {
+    "id": "110",
+    "item": "1051102",
+    "group": "105",
+    "area": "2",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "25"
+  },
+  {
+    "id": "111",
+    "item": "1051112",
+    "group": "105",
+    "area": "2",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "25"
+  },
+  {
+    "id": "112",
+    "item": "1051122",
+    "group": "105",
+    "area": "2",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "25"
+  },
+  {
+    "id": "113",
+    "item": "5021415",
+    "group": "113",
+    "area": "2",
+    "weight": "100",
+    "countMin": "50",
+    "countMax": "100",
+    "price": "2"
+  },
+  {
+    "id": "114",
+    "item": "5021463",
+    "group": "114",
+    "area": "2",
+    "weight": "100",
+    "countMin": "50",
+    "countMax": "100",
+    "price": "2"
+  },
+  {
+    "id": "115",
+    "item": "2821001",
+    "group": "115",
+    "area": "2",
+    "weight": "100",
+    "countMin": "1",
+    "countMax": "1",
+    "price": "200"
+  },
+  {
+    "id": "116",
+    "item": "2821002",
+    "group": "116",
+    "area": "2",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "1",
+    "price": "300"
+  },
+  {
+    "id": "201",
+    "item": "1011064",
+    "group": "201",
+    "area": "4",
+    "weight": "100",
+    "countMin": "15",
+    "countMax": "30",
+    "price": "8"
+  },
+  {
+    "id": "202",
+    "item": "1011065",
+    "group": "201",
+    "area": "4",
+    "weight": "100",
+    "countMin": "10",
+    "countMax": "20",
+    "price": "11"
+  },
+  {
+    "id": "203",
+    "item": "1011124",
+    "group": "203",
+    "area": "4",
+    "weight": "100",
+    "countMin": "15",
+    "countMax": "30",
+    "price": "8"
+  },
+  {
+    "id": "204",
+    "item": "1011125",
+    "group": "203",
+    "area": "4",
+    "weight": "100",
+    "countMin": "10",
+    "countMax": "20",
+    "price": "11"
+  },
+  {
+    "id": "117",
+    "item": "1051133",
+    "group": "117",
+    "area": "4",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "30"
+  },
+  {
+    "id": "118",
+    "item": "1051143",
+    "group": "117",
+    "area": "4",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "30"
+  },
+  {
+    "id": "119",
+    "item": "1051153",
+    "group": "117",
+    "area": "4",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "30"
+  },
+  {
+    "id": "120",
+    "item": "1051163",
+    "group": "117",
+    "area": "4",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "30"
+  },
+  {
+    "id": "121",
+    "item": "1051173",
+    "group": "121",
+    "area": "4",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "30"
+  },
+  {
+    "id": "122",
+    "item": "1051183",
+    "group": "121",
+    "area": "4",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "30"
+  },
+  {
+    "id": "123",
+    "item": "1051073",
+    "group": "121",
+    "area": "4",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "30"
+  },
+  {
+    "id": "124",
+    "item": "1051083",
+    "group": "121",
+    "area": "4",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "30"
+  },
+  {
+    "id": "125",
+    "item": "1051093",
+    "group": "125",
+    "area": "4",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "30"
+  },
+  {
+    "id": "126",
+    "item": "1051103",
+    "group": "125",
+    "area": "4",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "30"
+  },
+  {
+    "id": "127",
+    "item": "1051113",
+    "group": "125",
+    "area": "4",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "30"
+  },
+  {
+    "id": "128",
+    "item": "1051123",
+    "group": "125",
+    "area": "4",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "30"
+  },
+  {
+    "id": "129",
+    "item": "5021425",
+    "group": "129",
+    "area": "4",
+    "weight": "100",
+    "countMin": "50",
+    "countMax": "100",
+    "price": "3"
+  },
+  {
+    "id": "130",
+    "item": "5021465",
+    "group": "130",
+    "area": "4",
+    "weight": "100",
+    "countMin": "50",
+    "countMax": "100",
+    "price": "3"
+  },
+  {
+    "id": "131",
+    "item": "2821001",
+    "group": "131",
+    "area": "4",
+    "weight": "100",
+    "countMin": "1",
+    "countMax": "1",
+    "price": "200"
+  },
+  {
+    "id": "132",
+    "item": "2821002",
+    "group": "131",
+    "area": "4",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "1",
+    "price": "300"
+  },
+  {
+    "id": "205",
+    "item": "1011074",
+    "group": "205",
+    "area": "6",
+    "weight": "100",
+    "countMin": "15",
+    "countMax": "30",
+    "price": "9"
+  },
+  {
+    "id": "206",
+    "item": "1011075",
+    "group": "205",
+    "area": "6",
+    "weight": "100",
+    "countMin": "10",
+    "countMax": "20",
+    "price": "12"
+  },
+  {
+    "id": "207",
+    "item": "1011134",
+    "group": "207",
+    "area": "6",
+    "weight": "100",
+    "countMin": "15",
+    "countMax": "30",
+    "price": "9"
+  },
+  {
+    "id": "208",
+    "item": "1011135",
+    "group": "207",
+    "area": "6",
+    "weight": "100",
+    "countMin": "10",
+    "countMax": "20",
+    "price": "12"
+  },
+  {
+    "id": "133",
+    "item": "1051134",
+    "group": "133",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "35"
+  },
+  {
+    "id": "134",
+    "item": "1051144",
+    "group": "133",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "35"
+  },
+  {
+    "id": "135",
+    "item": "1051154",
+    "group": "133",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "35"
+  },
+  {
+    "id": "136",
+    "item": "1051164",
+    "group": "133",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "35"
+  },
+  {
+    "id": "137",
+    "item": "1051174",
+    "group": "137",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "35"
+  },
+  {
+    "id": "138",
+    "item": "1051184",
+    "group": "137",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "35"
+  },
+  {
+    "id": "139",
+    "item": "1051074",
+    "group": "137",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "35"
+  },
+  {
+    "id": "140",
+    "item": "1051084",
+    "group": "137",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "35"
+  },
+  {
+    "id": "141",
+    "item": "1051094",
+    "group": "141",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "35"
+  },
+  {
+    "id": "142",
+    "item": "1051104",
+    "group": "141",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "35"
+  },
+  {
+    "id": "143",
+    "item": "1051114",
+    "group": "141",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "35"
+  },
+  {
+    "id": "144",
+    "item": "1051124",
+    "group": "141",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "35"
+  },
+  {
+    "id": "145",
+    "item": "5021435",
+    "group": "145",
+    "area": "6",
+    "weight": "100",
+    "countMin": "50",
+    "countMax": "100",
+    "price": "5"
+  },
+  {
+    "id": "146",
+    "item": "5021472",
+    "group": "146",
+    "area": "6",
+    "weight": "100",
+    "countMin": "50",
+    "countMax": "100",
+    "price": "5"
+  },
+  {
+    "id": "147",
+    "item": "2821002",
+    "group": "147",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "1",
+    "price": "300"
+  },
+  {
+    "id": "148",
+    "item": "2821003",
+    "group": "147",
+    "area": "6",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "1",
+    "price": "500"
+  },
+  {
+    "id": "209",
+    "item": "1011084",
+    "group": "209",
+    "area": "8",
+    "weight": "100",
+    "countMin": "15",
+    "countMax": "30",
+    "price": "9"
+  },
+  {
+    "id": "210",
+    "item": "1011085",
+    "group": "209",
+    "area": "8",
+    "weight": "100",
+    "countMin": "10",
+    "countMax": "20",
+    "price": "12"
+  },
+  {
+    "id": "211",
+    "item": "1011144",
+    "group": "211",
+    "area": "8",
+    "weight": "100",
+    "countMin": "15",
+    "countMax": "30",
+    "price": "9"
+  },
+  {
+    "id": "212",
+    "item": "1011145",
+    "group": "211",
+    "area": "8",
+    "weight": "100",
+    "countMin": "10",
+    "countMax": "20",
+    "price": "12"
+  },
+  {
+    "id": "149",
+    "item": "1051135",
+    "group": "149",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "150",
+    "item": "1051145",
+    "group": "149",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "151",
+    "item": "1051155",
+    "group": "149",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "152",
+    "item": "1051165",
+    "group": "149",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "153",
+    "item": "1051175",
+    "group": "153",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "154",
+    "item": "1051185",
+    "group": "153",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "155",
+    "item": "1051075",
+    "group": "153",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "156",
+    "item": "1051085",
+    "group": "153",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "157",
+    "item": "1051095",
+    "group": "157",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "158",
+    "item": "1051105",
+    "group": "157",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "159",
+    "item": "1051115",
+    "group": "157",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "160",
+    "item": "1051125",
+    "group": "157",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "161",
+    "item": "5021445",
+    "group": "161",
+    "area": "8",
+    "weight": "100",
+    "countMin": "50",
+    "countMax": "100",
+    "price": "8"
+  },
+  {
+    "id": "162",
+    "item": "5021474",
+    "group": "162",
+    "area": "8",
+    "weight": "100",
+    "countMin": "50",
+    "countMax": "100",
+    "price": "8"
+  },
+  {
+    "id": "163",
+    "item": "2821002",
+    "group": "163",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "1",
+    "price": "300"
+  },
+  {
+    "id": "164",
+    "item": "2821003",
+    "group": "163",
+    "area": "8",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "1",
+    "price": "500"
+  },
+  {
+    "id": "213",
+    "item": "1011094",
+    "group": "213",
+    "area": "9",
+    "weight": "100",
+    "countMin": "15",
+    "countMax": "30",
+    "price": "10"
+  },
+  {
+    "id": "214",
+    "item": "1011095",
+    "group": "213",
+    "area": "9",
+    "weight": "100",
+    "countMin": "10",
+    "countMax": "20",
+    "price": "14"
+  },
+  {
+    "id": "215",
+    "item": "1011154",
+    "group": "215",
+    "area": "9",
+    "weight": "100",
+    "countMin": "15",
+    "countMax": "30",
+    "price": "10"
+  },
+  {
+    "id": "216",
+    "item": "1011155",
+    "group": "215",
+    "area": "9",
+    "weight": "100",
+    "countMin": "10",
+    "countMax": "20",
+    "price": "14"
+  },
+  {
+    "id": "165",
+    "item": "1051136",
+    "group": "165",
+    "area": "9",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "166",
+    "item": "1051146",
+    "group": "165",
+    "area": "9",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "167",
+    "item": "1051156",
+    "group": "165",
+    "area": "9",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "168",
+    "item": "1051166",
+    "group": "165",
+    "area": "9",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "169",
+    "item": "1051176",
+    "group": "165",
+    "area": "9",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "170",
+    "item": "1051186",
+    "group": "165",
+    "area": "9",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "171",
+    "item": "1051076",
+    "group": "165",
+    "area": "9",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "172",
+    "item": "1051086",
+    "group": "165",
+    "area": "9",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "173",
+    "item": "1051096",
+    "group": "165",
+    "area": "9",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "174",
+    "item": "1051106",
+    "group": "165",
+    "area": "9",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "175",
+    "item": "1051116",
+    "group": "165",
+    "area": "9",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "176",
+    "item": "1051126",
+    "group": "165",
+    "area": "9",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "177",
+    "item": "5021455",
+    "group": "177",
+    "area": "10",
+    "weight": "100",
+    "countMin": "50",
+    "countMax": "100",
+    "price": "10"
+  },
+  {
+    "id": "178",
+    "item": "5021476",
+    "group": "178",
+    "area": "10",
+    "weight": "100",
+    "countMin": "50",
+    "countMax": "100",
+    "price": "10"
+  },
+  {
+    "id": "179",
+    "item": "2821003",
+    "group": "179",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "1",
+    "price": "500"
+  },
+  {
+    "id": "180",
+    "item": "2821004",
+    "group": "179",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "1",
+    "price": "1000"
+  },
+  {
+    "id": "217",
+    "item": "1011094",
+    "group": "217",
+    "area": "10",
+    "weight": "100",
+    "countMin": "15",
+    "countMax": "30",
+    "price": "10"
+  },
+  {
+    "id": "218",
+    "item": "1011095",
+    "group": "217",
+    "area": "10",
+    "weight": "100",
+    "countMin": "10",
+    "countMax": "20",
+    "price": "14"
+  },
+  {
+    "id": "219",
+    "item": "1011154",
+    "group": "219",
+    "area": "10",
+    "weight": "100",
+    "countMin": "15",
+    "countMax": "30",
+    "price": "10"
+  },
+  {
+    "id": "220",
+    "item": "1011155",
+    "group": "219",
+    "area": "10",
+    "weight": "100",
+    "countMin": "10",
+    "countMax": "20",
+    "price": "14"
+  },
+  {
+    "id": "181",
+    "item": "1051136",
+    "group": "181",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "182",
+    "item": "1051146",
+    "group": "181",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "183",
+    "item": "1051156",
+    "group": "181",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "184",
+    "item": "1051166",
+    "group": "181",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "185",
+    "item": "1051176",
+    "group": "185",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "186",
+    "item": "1051186",
+    "group": "185",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "187",
+    "item": "1051076",
+    "group": "185",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "188",
+    "item": "1051086",
+    "group": "185",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "189",
+    "item": "1051096",
+    "group": "189",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "190",
+    "item": "1051106",
+    "group": "189",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "191",
+    "item": "1051116",
+    "group": "189",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "192",
+    "item": "1051126",
+    "group": "189",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "3",
+    "price": "50"
+  },
+  {
+    "id": "193",
+    "item": "5021455",
+    "group": "193",
+    "area": "10",
+    "weight": "100",
+    "countMin": "50",
+    "countMax": "100",
+    "price": "10"
+  },
+  {
+    "id": "194",
+    "item": "5021476",
+    "group": "194",
+    "area": "10",
+    "weight": "100",
+    "countMin": "50",
+    "countMax": "100",
+    "price": "10"
+  },
+  {
+    "id": "195",
+    "item": "2821003",
+    "group": "195",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "1",
+    "price": "500"
+  },
+  {
+    "id": "196",
+    "item": "2821004",
+    "group": "195",
+    "area": "10",
+    "weight": "100",
+    "countMin": "0",
+    "countMax": "1",
+    "price": "1000"
+  }
+]

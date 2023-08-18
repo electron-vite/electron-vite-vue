@@ -1,0 +1,32 @@
+[
+  {
+    "id": "19001",
+    "innerCD": "100",
+    "bulletNum": "10"
+  },
+  {
+    "id": "19002",
+    "innerCD": "100",
+    "bulletNum": "15"
+  },
+  {
+    "id": "19003",
+    "innerCD": "100",
+    "bulletNum": "10"
+  },
+  {
+    "id": "19004",
+    "innerCD": "100",
+    "bulletNum": "15"
+  },
+  {
+    "id": "19005",
+    "innerCD": "80",
+    "bulletNum": "5"
+  },
+  {
+    "id": "19006",
+    "innerCD": "500",
+    "bulletNum": "4"
+  }
+]

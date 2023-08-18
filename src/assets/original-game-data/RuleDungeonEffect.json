@@ -1,0 +1,587 @@
+[
+  {
+    "id": "101",
+    "group": "1",
+    "basType": "1",
+    "item": "5072075",
+    "effect": "0",
+    "haloEffect": "301001",
+    "desc": "ruleDesc101"
+  },
+  {
+    "id": "102",
+    "group": "1",
+    "basType": "1",
+    "item": "5072075",
+    "effect": "0",
+    "haloEffect": "301011",
+    "desc": "ruleDesc102"
+  },
+  {
+    "id": "103",
+    "group": "1",
+    "basType": "1",
+    "item": "5072075",
+    "effect": "0",
+    "haloEffect": "301021",
+    "desc": "ruleDesc103"
+  },
+  {
+    "id": "104",
+    "group": "1",
+    "basType": "1",
+    "item": "5072075",
+    "effect": "0",
+    "haloEffect": "301031",
+    "desc": "ruleDesc104"
+  },
+  {
+    "id": "151",
+    "group": "2",
+    "basType": "1",
+    "item": "5072075",
+    "effect": "0",
+    "haloEffect": "301511",
+    "desc": "ruleDesc151"
+  },
+  {
+    "id": "152",
+    "group": "2",
+    "basType": "1",
+    "item": "5072075",
+    "effect": "0",
+    "haloEffect": "301521",
+    "desc": "ruleDesc152"
+  },
+  {
+    "id": "201",
+    "group": "1",
+    "basType": "2",
+    "item": "5072125",
+    "effect": "0",
+    "haloEffect": "302011",
+    "desc": "ruleDesc201"
+  },
+  {
+    "id": "202",
+    "group": "1",
+    "basType": "2",
+    "item": "5072125",
+    "effect": "0",
+    "haloEffect": "302021",
+    "desc": "ruleDesc202"
+  },
+  {
+    "id": "203",
+    "group": "1",
+    "basType": "2",
+    "item": "5072125",
+    "effect": "0",
+    "haloEffect": "302031",
+    "desc": "ruleDesc203"
+  },
+  {
+    "id": "204",
+    "group": "1",
+    "basType": "2",
+    "item": "5072125",
+    "effect": "0",
+    "haloEffect": "302041",
+    "desc": "ruleDesc204"
+  },
+  {
+    "id": "251",
+    "group": "2",
+    "basType": "2",
+    "item": "5072125",
+    "effect": "0",
+    "haloEffect": "302511",
+    "desc": "ruleDesc251"
+  },
+  {
+    "id": "252",
+    "group": "2",
+    "basType": "2",
+    "item": "5072125",
+    "effect": "0",
+    "haloEffect": "302521",
+    "desc": "ruleDesc252"
+  },
+  {
+    "id": "301",
+    "group": "1",
+    "basType": "3",
+    "item": "5072115",
+    "effect": "0",
+    "haloEffect": "303011",
+    "desc": "ruleDesc301"
+  },
+  {
+    "id": "302",
+    "group": "1",
+    "basType": "3",
+    "item": "5072115",
+    "effect": "0",
+    "haloEffect": "303021",
+    "desc": "ruleDesc302"
+  },
+  {
+    "id": "303",
+    "group": "1",
+    "basType": "3",
+    "item": "5072115",
+    "effect": "0",
+    "haloEffect": "303031",
+    "desc": "ruleDesc303"
+  },
+  {
+    "id": "304",
+    "group": "1",
+    "basType": "3",
+    "item": "5072115",
+    "effect": "0",
+    "haloEffect": "303041",
+    "desc": "ruleDesc304"
+  },
+  {
+    "id": "351",
+    "group": "2",
+    "basType": "3",
+    "item": "5072115",
+    "effect": "0",
+    "haloEffect": "303511",
+    "desc": "ruleDesc351"
+  },
+  {
+    "id": "352",
+    "group": "2",
+    "basType": "3",
+    "item": "5072115",
+    "effect": "0",
+    "haloEffect": "303521",
+    "desc": "ruleDesc352"
+  },
+  {
+    "id": "401",
+    "group": "1",
+    "basType": "4",
+    "item": "5072105",
+    "effect": "0",
+    "haloEffect": "304011",
+    "desc": "ruleDesc401"
+  },
+  {
+    "id": "402",
+    "group": "1",
+    "basType": "4",
+    "item": "5072105",
+    "effect": "0",
+    "haloEffect": "304021",
+    "desc": "ruleDesc402"
+  },
+  {
+    "id": "403",
+    "group": "1",
+    "basType": "4",
+    "item": "5072105",
+    "effect": "0",
+    "haloEffect": "304031",
+    "desc": "ruleDesc403"
+  },
+  {
+    "id": "404",
+    "group": "1",
+    "basType": "4",
+    "item": "5072105",
+    "effect": "0",
+    "haloEffect": "304041",
+    "desc": "ruleDesc404"
+  },
+  {
+    "id": "451",
+    "group": "2",
+    "basType": "4",
+    "item": "5072105",
+    "effect": "0",
+    "haloEffect": "304511",
+    "desc": "ruleDesc451"
+  },
+  {
+    "id": "452",
+    "group": "2",
+    "basType": "4",
+    "item": "5072105",
+    "effect": "0",
+    "haloEffect": "304521",
+    "desc": "ruleDesc452"
+  },
+  {
+    "id": "502",
+    "group": "1",
+    "basType": "5",
+    "item": "5072085",
+    "effect": "0",
+    "haloEffect": "305021",
+    "desc": "ruleDesc502"
+  },
+  {
+    "id": "504",
+    "group": "1",
+    "basType": "5",
+    "item": "5072085",
+    "effect": "0",
+    "haloEffect": "305041",
+    "desc": "ruleDesc504"
+  },
+  {
+    "id": "551",
+    "group": "2",
+    "basType": "5",
+    "item": "5072085",
+    "effect": "0",
+    "haloEffect": "304511",
+    "desc": "ruleDesc551"
+  },
+  {
+    "id": "552",
+    "group": "2",
+    "basType": "5",
+    "item": "5072085",
+    "effect": "0",
+    "haloEffect": "304521",
+    "desc": "ruleDesc552"
+  },
+  {
+    "id": "601",
+    "group": "1",
+    "basType": "6",
+    "item": "5072095",
+    "effect": "0",
+    "haloEffect": "306011",
+    "desc": "ruleDesc601"
+  },
+  {
+    "id": "602",
+    "group": "1",
+    "basType": "6",
+    "item": "5072095",
+    "effect": "0",
+    "haloEffect": "306021",
+    "desc": "ruleDesc602"
+  },
+  {
+    "id": "603",
+    "group": "1",
+    "basType": "6",
+    "item": "5072095",
+    "effect": "0",
+    "haloEffect": "306031",
+    "desc": "ruleDesc603"
+  },
+  {
+    "id": "604",
+    "group": "1",
+    "basType": "6",
+    "item": "5072095",
+    "effect": "0",
+    "haloEffect": "306041",
+    "desc": "ruleDesc604"
+  },
+  {
+    "id": "651",
+    "group": "2",
+    "basType": "6",
+    "item": "5072095",
+    "effect": "0",
+    "haloEffect": "306511",
+    "desc": "ruleDesc651"
+  },
+  {
+    "id": "1101",
+    "group": "1",
+    "basType": "11",
+    "item": "5072075",
+    "effect": "0",
+    "haloEffect": "311011",
+    "desc": "ruleDesc1101"
+  },
+  {
+    "id": "1103",
+    "group": "1",
+    "basType": "11",
+    "item": "5072075",
+    "effect": "0",
+    "haloEffect": "311031",
+    "desc": "ruleDesc1103"
+  },
+  {
+    "id": "1104",
+    "group": "1",
+    "basType": "11",
+    "item": "5072075",
+    "effect": "0",
+    "haloEffect": "311041",
+    "desc": "ruleDesc1104"
+  },
+  {
+    "id": "1105",
+    "group": "1",
+    "basType": "11",
+    "item": "5072075",
+    "effect": "0",
+    "haloEffect": "311051",
+    "desc": "ruleDesc1105"
+  },
+  {
+    "id": "1151",
+    "group": "2",
+    "basType": "11",
+    "item": "5072075",
+    "effect": "0",
+    "haloEffect": "311511",
+    "desc": "ruleDesc1151"
+  },
+  {
+    "id": "1201",
+    "group": "1",
+    "basType": "12",
+    "item": "5072095",
+    "effect": "0",
+    "haloEffect": "312011",
+    "desc": "ruleDesc1201"
+  },
+  {
+    "id": "1202",
+    "group": "1",
+    "basType": "12",
+    "item": "5072095",
+    "effect": "0",
+    "haloEffect": "312021",
+    "desc": "ruleDesc1202"
+  },
+  {
+    "id": "1204",
+    "group": "1",
+    "basType": "12",
+    "item": "5072095",
+    "effect": "0",
+    "haloEffect": "312041",
+    "desc": "ruleDesc1204"
+  },
+  {
+    "id": "1205",
+    "group": "1",
+    "basType": "12",
+    "item": "5072095",
+    "effect": "0",
+    "haloEffect": "312051",
+    "desc": "ruleDesc1205"
+  },
+  {
+    "id": "1251",
+    "group": "2",
+    "basType": "12",
+    "item": "5072095",
+    "effect": "0",
+    "haloEffect": "312511",
+    "desc": "ruleDesc1251"
+  },
+  {
+    "id": "1252",
+    "group": "2",
+    "basType": "12",
+    "item": "5072095",
+    "effect": "0",
+    "haloEffect": "312521",
+    "desc": "ruleDesc1252"
+  },
+  {
+    "id": "1301",
+    "group": "1",
+    "basType": "13",
+    "item": "5072125",
+    "effect": "0",
+    "haloEffect": "313011",
+    "desc": "ruleDesc1301"
+  },
+  {
+    "id": "1303",
+    "group": "1",
+    "basType": "13",
+    "item": "5072125",
+    "effect": "0",
+    "haloEffect": "313031",
+    "desc": "ruleDesc1303"
+  },
+  {
+    "id": "1305",
+    "group": "1",
+    "basType": "13",
+    "item": "5072125",
+    "effect": "0",
+    "haloEffect": "313051",
+    "desc": "ruleDesc1305"
+  },
+  {
+    "id": "1306",
+    "group": "1",
+    "basType": "13",
+    "item": "5072125",
+    "effect": "0",
+    "haloEffect": "313061",
+    "desc": "ruleDesc1306"
+  },
+  {
+    "id": "1307",
+    "group": "1",
+    "basType": "13",
+    "item": "5072125",
+    "effect": "0",
+    "haloEffect": "313071",
+    "desc": "ruleDesc1307"
+  },
+  {
+    "id": "1351",
+    "group": "2",
+    "basType": "13",
+    "item": "5072125",
+    "effect": "0",
+    "haloEffect": "313511",
+    "desc": "ruleDesc1351"
+  },
+  {
+    "id": "1401",
+    "group": "1",
+    "basType": "14",
+    "item": "5072115",
+    "effect": "0",
+    "haloEffect": "314011",
+    "desc": "ruleDesc1401"
+  },
+  {
+    "id": "1403",
+    "group": "1",
+    "basType": "14",
+    "item": "5072115",
+    "effect": "0",
+    "haloEffect": "314031",
+    "desc": "ruleDesc1403"
+  },
+  {
+    "id": "1404",
+    "group": "1",
+    "basType": "14",
+    "item": "5072115",
+    "effect": "0",
+    "haloEffect": "314041",
+    "desc": "ruleDesc1404"
+  },
+  {
+    "id": "1451",
+    "group": "2",
+    "basType": "14",
+    "item": "5072115",
+    "effect": "0",
+    "haloEffect": "314511",
+    "desc": "ruleDesc1451"
+  },
+  {
+    "id": "1452",
+    "group": "2",
+    "basType": "14",
+    "item": "5072115",
+    "effect": "0",
+    "haloEffect": "314521",
+    "desc": "ruleDesc1452"
+  },
+  {
+    "id": "1501",
+    "group": "1",
+    "basType": "15",
+    "item": "5072105",
+    "effect": "0",
+    "haloEffect": "315011",
+    "desc": "ruleDesc1501"
+  },
+  {
+    "id": "1503",
+    "group": "1",
+    "basType": "15",
+    "item": "5072105",
+    "effect": "0",
+    "haloEffect": "315031",
+    "desc": "ruleDesc1503"
+  },
+  {
+    "id": "1504",
+    "group": "1",
+    "basType": "15",
+    "item": "5072105",
+    "effect": "0",
+    "haloEffect": "315041",
+    "desc": "ruleDesc1504"
+  },
+  {
+    "id": "1551",
+    "group": "1",
+    "basType": "15",
+    "item": "5072105",
+    "effect": "0",
+    "haloEffect": "315511",
+    "desc": "ruleDesc1551"
+  },
+  {
+    "id": "1552",
+    "group": "2",
+    "basType": "15",
+    "item": "5072105",
+    "effect": "0",
+    "haloEffect": "315521",
+    "desc": "ruleDesc1552"
+  },
+  {
+    "id": "1601",
+    "group": "1",
+    "basType": "16",
+    "item": "5072085",
+    "effect": "0",
+    "haloEffect": "316011",
+    "desc": "ruleDesc1601"
+  },
+  {
+    "id": "1603",
+    "group": "1",
+    "basType": "16",
+    "item": "5072085",
+    "effect": "0",
+    "haloEffect": "316031",
+    "desc": "ruleDesc1603"
+  },
+  {
+    "id": "1604",
+    "group": "1",
+    "basType": "16",
+    "item": "5072085",
+    "effect": "0",
+    "haloEffect": "316041",
+    "desc": "ruleDesc1604"
+  },
+  {
+    "id": "1651",
+    "group": "2",
+    "basType": "16",
+    "item": "5072085",
+    "effect": "0",
+    "haloEffect": "316511",
+    "desc": "ruleDesc1651"
+  },
+  {
+    "id": "1652",
+    "group": "2",
+    "basType": "16",
+    "item": "5072085",
+    "effect": "0",
+    "haloEffect": "316521",
+    "desc": "ruleDesc1652"
+  }
+]

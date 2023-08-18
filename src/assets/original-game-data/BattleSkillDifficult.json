@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "talent": "0",
+    "desc": "skill_difficult1"
+  },
+  {
+    "id": "2",
+    "talent": "50",
+    "desc": "skill_difficult2"
+  },
+  {
+    "id": "3",
+    "talent": "100",
+    "desc": "skill_difficult3"
+  },
+  {
+    "id": "4",
+    "talent": "200",
+    "desc": "skill_difficult4"
+  },
+  {
+    "id": "5",
+    "talent": "400",
+    "desc": "skill_difficult5"
+  }
+]

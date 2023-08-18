@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "key": "costEnergy",
+    "value": "30"
+  },
+  {
+    "id": "2",
+    "key": "addCloseMin",
+    "value": "5"
+  },
+  {
+    "id": "3",
+    "key": "addCloseMax",
+    "value": "10"
+  },
+  {
+    "id": "4",
+    "key": "reduceCloseMin",
+    "value": "-6"
+  },
+  {
+    "id": "5",
+    "key": "reduceCloseMax",
+    "value": "-3"
+  },
+  {
+    "id": "6",
+    "key": "eventLogRoleDrill21311",
+    "value": "0"
+  },
+  {
+    "id": "7",
+    "key": "eventLogRoleDrill21321",
+    "value": "0"
+  },
+  {
+    "id": "8",
+    "key": "eventLogRoleDrill21312",
+    "value": "0"
+  },
+  {
+    "id": "9",
+    "key": "eventLogRoleDrill21322",
+    "value": "0"
+  },
+  {
+    "id": "10",
+    "key": "addCloseSec",
+    "value": "1"
+  },
+  {
+    "id": "11",
+    "key": "getAbilityPointMin",
+    "value": "1"
+  },
+  {
+    "id": "12",
+    "key": "getAbilityPointMax",
+    "value": "6"
+  },
+  {
+    "id": "13",
+    "key": "victoryThinkMin",
+    "value": "40"
+  },
+  {
+    "id": "14",
+    "key": "victoryThinkMax",
+    "value": "60"
+  },
+  {
+    "id": "15",
+    "key": "failThinkMin",
+    "value": "15"
+  },
+  {
+    "id": "16",
+    "key": "failThinkMax",
+    "value": "30"
+  },
+  {
+    "id": "17",
+    "key": "addMaxhpValueMin",
+    "value": "8"
+  },
+  {
+    "id": "18",
+    "key": "addMaxhpValueMax",
+    "value": "15"
+  }
+]

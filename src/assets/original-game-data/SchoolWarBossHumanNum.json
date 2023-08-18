@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "point": "4_0",
+    "atkSchoolPost": "1_2",
+    "atkSchoolPostNum": "1_2",
+    "defSchoolPost": "2_3",
+    "defSchoolPostNum": "2_1",
+    "defPlayerPost": "1_2_3",
+    "defPlayerPostNum": "1_1_1"
+  },
+  {
+    "id": "2",
+    "point": "4_2",
+    "atkSchoolPost": "3_4",
+    "atkSchoolPostNum": "1_2",
+    "defSchoolPost": "3_4",
+    "defSchoolPostNum": "1_2",
+    "defPlayerPost": "3_4",
+    "defPlayerPostNum": "1_2"
+  },
+  {
+    "id": "3",
+    "point": "4_4",
+    "atkSchoolPost": "3_4",
+    "atkSchoolPostNum": "1_2",
+    "defSchoolPost": "3_4",
+    "defSchoolPostNum": "1_2",
+    "defPlayerPost": "3_4",
+    "defPlayerPostNum": "1_2"
+  },
+  {
+    "id": "4",
+    "point": "4_6",
+    "atkSchoolPost": "3_4",
+    "atkSchoolPostNum": "1_2",
+    "defSchoolPost": "3_4",
+    "defSchoolPostNum": "1_2",
+    "defPlayerPost": "3_4",
+    "defPlayerPostNum": "1_2"
+  },
+  {
+    "id": "5",
+    "point": "4_8",
+    "atkSchoolPost": "3_4",
+    "atkSchoolPostNum": "1_2",
+    "defSchoolPost": "3_4",
+    "defSchoolPostNum": "1_2",
+    "defPlayerPost": "3_4",
+    "defPlayerPostNum": "1_2"
+  },
+  {
+    "id": "6",
+    "point": "4_10",
+    "atkSchoolPost": "3_4",
+    "atkSchoolPostNum": "1_2",
+    "defSchoolPost": "4",
+    "defSchoolPostNum": "2",
+    "defPlayerPost": "4",
+    "defPlayerPostNum": "2"
+  }
+]

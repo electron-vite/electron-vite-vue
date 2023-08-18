@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1031",
+    "weight": "3800",
+    "basRequire": "20",
+    "sourceItem": "5031031"
+  },
+  {
+    "id": "1032",
+    "weight": "2800",
+    "basRequire": "40",
+    "sourceItem": "5031032"
+  },
+  {
+    "id": "1033",
+    "weight": "1800",
+    "basRequire": "60",
+    "sourceItem": "5031033"
+  },
+  {
+    "id": "1034",
+    "weight": "1000",
+    "basRequire": "80",
+    "sourceItem": "5031034"
+  },
+  {
+    "id": "1035",
+    "weight": "500",
+    "basRequire": "100",
+    "sourceItem": "5031035"
+  },
+  {
+    "id": "1036",
+    "weight": "100",
+    "basRequire": "120",
+    "sourceItem": "5031036"
+  }
+]

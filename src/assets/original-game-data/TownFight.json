@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "key": "intervalMonth",
+    "value": "36"
+  },
+  {
+    "id": "2",
+    "key": "relationScorePara",
+    "value": "-4"
+  },
+  {
+    "id": "3",
+    "key": "reward1",
+    "value": "6"
+  },
+  {
+    "id": "4",
+    "key": "reward2",
+    "value": "4"
+  },
+  {
+    "id": "5",
+    "key": "reward3",
+    "value": "2"
+  },
+  {
+    "id": "6",
+    "key": "heresy1001Reward1",
+    "value": "9"
+  },
+  {
+    "id": "7",
+    "key": "heresy1001Reward2",
+    "value": "6"
+  },
+  {
+    "id": "8",
+    "key": "heresy1001Reward3",
+    "value": "3"
+  },
+  {
+    "id": "9",
+    "key": "heresy1002Reward1",
+    "value": "3"
+  },
+  {
+    "id": "10",
+    "key": "heresy1002Reward2",
+    "value": "2"
+  },
+  {
+    "id": "11",
+    "key": "heresy1002Reward3",
+    "value": "1"
+  },
+  {
+    "id": "12",
+    "key": "noticeMonth",
+    "value": "3"
+  }
+]

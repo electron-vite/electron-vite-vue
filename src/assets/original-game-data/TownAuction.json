@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "key": "announceMonths",
+    "value": "6"
+  },
+  {
+    "id": "2",
+    "key": "auctionInterval",
+    "value": "24"
+  },
+  {
+    "id": "3",
+    "key": "auctionCommission",
+    "value": "10"
+  },
+  {
+    "id": "4",
+    "key": "addPricePercent",
+    "value": "10"
+  },
+  {
+    "id": "5",
+    "key": "addPriceTime",
+    "value": "15"
+  },
+  {
+    "id": "6",
+    "key": "auctionCharge",
+    "value": "10"
+  },
+  {
+    "id": "7",
+    "key": "auctionNotice",
+    "value": "103"
+  },
+  {
+    "id": "8",
+    "key": "auctionStart",
+    "value": "104"
+  },
+  {
+    "id": "9",
+    "key": "npcAuctionCalCount",
+    "value": "5"
+  },
+  {
+    "id": "10",
+    "key": "itemScoreParaA",
+    "value": "100"
+  },
+  {
+    "id": "11",
+    "key": "itemScoreParaB",
+    "value": "0"
+  },
+  {
+    "id": "12",
+    "key": "referenceSale",
+    "value": "200"
+  },
+  {
+    "id": "13",
+    "key": "itemCount",
+    "value": "18"
+  },
+  {
+    "id": "14",
+    "key": "itemCountMin",
+    "value": "14"
+  },
+  {
+    "id": "15",
+    "key": "itemCountMin1",
+    "value": "14"
+  },
+  {
+    "id": "16",
+    "key": "itemCountMin2",
+    "value": "3"
+  }
+]

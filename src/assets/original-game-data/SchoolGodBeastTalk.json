@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "moodValue": "4000",
+    "moodDialogue": "drama_dialogue1010304",
+    "cdDialogue": "drama_dialogue1010306"
+  },
+  {
+    "id": "2",
+    "moodValue": "12001",
+    "moodDialogue": "drama_dialogue1010305",
+    "cdDialogue": "drama_dialogue1010307"
+  }
+]

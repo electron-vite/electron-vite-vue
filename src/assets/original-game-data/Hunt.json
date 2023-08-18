@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "gameDuration": "60",
+    "intervalMin": "1",
+    "intervalMax": "1",
+    "durationMin": "1",
+    "durationMax": "1",
+    "animSpeedMultiplier": "1",
+    "winCondition": "10",
+    "penaltyTime": "1",
+    "winDialogueID": "8009152|8009202",
+    "loseDialogueID": "8009153"
+  },
+  {
+    "id": "2",
+    "gameDuration": "40",
+    "intervalMin": "0.7",
+    "intervalMax": "0.7",
+    "durationMin": "0.7",
+    "durationMax": "0.7",
+    "animSpeedMultiplier": "2",
+    "winCondition": "20",
+    "penaltyTime": "1.5",
+    "winDialogueID": "8009203|8009206",
+    "loseDialogueID": "8009153"
+  },
+  {
+    "id": "3",
+    "gameDuration": "30",
+    "intervalMin": "0.4",
+    "intervalMax": "0.4",
+    "durationMin": "0.4",
+    "durationMax": "0.4",
+    "animSpeedMultiplier": "2.5",
+    "winCondition": "25",
+    "penaltyTime": "2",
+    "winDialogueID": "8009204|8009207",
+    "loseDialogueID": "8009153"
+  }
+]
