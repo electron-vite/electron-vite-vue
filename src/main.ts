@@ -1,7 +1,11 @@
 import { createApp } from 'vue'
-import "./style.css"
 import App from './App.vue'
-import './samples/node-api'
+
+import './style.css'
+
+// `nodeIntegration` needs to be enabled in the Main process.
+// import './demos/node'
+// import './demos/ipc'
 
 createApp(App)
   .mount('#app')

@@ -1,6 +1,6 @@
 {
   "name": "electron-vue-vite",
-  "version": "2.2.0",
+  "version": "28.0.0",
   "main": "dist-electron/main/index.mjs",
   "description": "Really simple Electron + Vue + Vite boilerplate.",
   "author": "草鞋没号 <308487730@qq.com>",
@@ -18,6 +18,7 @@
       "VITE_DEV_SERVER_URL": "http://127.0.0.1:3344/"
     }
   },
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build && electron-builder",
