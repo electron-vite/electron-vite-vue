@@ -1,12 +1,13 @@
-import fs from 'node:fs'
+import { rmSync } from 'node:fs'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
-import electron from 'vite-plugin-electron/simple'
+import electron from 'vite-plugin-electron'
+import renderer from 'vite-plugin-electron-renderer'
 import pkg from './package.json'
 
 // https://vitejs.dev/config/
 export default defineConfig(({ command }) => {
-  fs.rmSync('dist-electron', { recursive: true, force: true })
+  rmSync('dist-electron', { recursive: true, force: true })
 
   const isServe = command === 'serve'
   const isBuild = command === 'build'
@@ -15,9 +16,9 @@ export default defineConfig(({ command }) => {
   return {
     plugins: [
       vue(),
-      electron({
-        main: {
-          // Shortcut of `build.lib.entry`
+      electron([
+        {
+          // Main process entry file of the Electron App.
           entry: 'electron/main/index.ts',
           onstart({ startup }) {
             if (process.env.VSCODE_DEBUG) {
@@ -41,10 +42,13 @@ export default defineConfig(({ command }) => {
             },
           },
         },
-        preload: {
-          // Shortcut of `build.rollupOptions.input`.
-          // Preload scripts may contain Web assets, so use the `build.rollupOptions.input` instead `build.lib.entry`.
-          input: 'electron/preload/index.ts',
+        {
+          entry: 'electron/preload/index.ts',
+          onstart({ reload }) {
+            // Notify the Renderer process to reload the page when the Preload scripts build is complete, 
+            // instead of restarting the entire Electron App.
+            reload()
+          },
           vite: {
             build: {
               sourcemap: sourcemap ? 'inline' : undefined, // #332
@@ -55,10 +59,10 @@ export default defineConfig(({ command }) => {
               },
             },
           },
-        },
-        // Use Node.js API in the Renderer process
-        renderer: {},
-      }),
+        }
+      ]),
+      // Use Node.js API in the Renderer process
+      renderer(),
     ],
     server: process.env.VSCODE_DEBUG && (() => {
       const url = new URL(pkg.debug.env.VITE_DEV_SERVER_URL)
