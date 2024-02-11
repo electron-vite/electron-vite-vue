@@ -3,8 +3,8 @@ import { release } from 'node:os'
 import { join, dirname } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = dirname(__filename)
+globalThis.__filename = fileURLToPath(import.meta.url)
+globalThis.__dirname = dirname(__filename)
 
 // The built directory structure
 //
