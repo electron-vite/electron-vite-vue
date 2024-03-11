@@ -7,8 +7,6 @@ declare module '*.vue' {
 }
 
 interface Window {
-  app: {
-    // Expose in the `electron/preload/index.ts`
-    onEvent: (cb: (channel: string, ...args: any[]) => void) => void
-  }
+  // expose in the `electron/preload/index.ts`
+  ipcRenderer: import('electron').IpcRenderer
 }
