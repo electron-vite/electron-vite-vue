@@ -1,6 +1,6 @@
 {
   "name": "electron-vue-vite",
-  "version": "28.0.0",
+  "version": "28.1.0",
   "main": "dist-electron/main/index.js",
   "description": "Really simple Electron + Vue + Vite boilerplate.",
   "author": "草鞋没号 <308487730@qq.com>",
