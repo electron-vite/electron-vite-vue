@@ -19,5 +19,6 @@ spawn(
   {
     stdio: 'inherit',
     env: Object.assign(process.env, { VSCODE_DEBUG: 'true' }),
+    shell: true,
   },
 )
