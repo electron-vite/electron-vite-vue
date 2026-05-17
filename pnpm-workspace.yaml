@@ -1,0 +1,2 @@
+allowBuilds:
+  electron-winstaller: true
