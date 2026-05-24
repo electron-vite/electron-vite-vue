@@ -29,10 +29,10 @@
     "electron": "^42.1.0",
     "electron-builder": "^26.8.1",
     "typescript": "^6.0.3",
-    "vite": "^8.0.13",
-    "vite-plugin-electron": "1.0.0-beta.11",
-    "vite-plugin-electron-renderer": "1.0.0-beta.3",
+    "vite": "^8.0.14",
+    "vite-plugin-electron": "1.0.0-beta.12",
+    "vite-plugin-electron-renderer": "1.0.0-beta.6",
     "vue": "^3.5.34",
-    "vue-tsc": "^3.2.9"
+    "vue-tsc": "^3.3.1"
   }
 }
