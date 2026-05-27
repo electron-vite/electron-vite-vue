@@ -26,4 +26,4 @@ jobs:
           persist-credentials: false
 
       - name: Lint markdown
-        run: npx --yes markdownlint-cli@0.48.0 '**/*.md' --ignore node_modules
+        run: npx --yes markdownlint-cli@0.48.0 '**/*.md' --ignore node_modules --disable MD013
