@@ -32,23 +32,16 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v6
-        with:
-          version: 10
-
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
           node-version: 22
-          cache: pnpm
-
 
       - name: Install Dependencies
-        run: pnpm install --frozen-lockfile
+        run: npm install
 
       - name: Build Release Files
-        run: pnpm build
+        run: npm build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
