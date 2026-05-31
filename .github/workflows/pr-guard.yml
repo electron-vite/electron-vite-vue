@@ -1,0 +1,65 @@
+name: PR Guard
+
+on:
+  pull_request_target:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pull-requests: write
+
+concurrency:
+  group: pr-guard-${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Validate Pull Request
+    runs-on: ubuntu-latest
+    steps:
+      - name: Detect Changed Files
+        uses: dorny/paths-filter@v3
+        id: changes
+        with:
+          list-files: shell
+          filters: |
+            lockfiles:
+              - 'package-lock.json'
+              - 'yarn.lock'
+              - 'pnpm-lock.yaml'
+              - 'bun.lock'
+
+      # ref: https://github.com/github/docs/blob/main/.github/workflows/triage-unallowed-contributions.yml
+      - name: Comment About Changes We Can't Accept
+        if: ${{ steps.changes.outputs.lockfiles == 'true' }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            try {
+              const badFilesArr = [
+                'package-lock.json',
+                'yarn.lock',
+                'pnpm-lock.yaml',
+                'bun.lock',
+              ]
+              const badFiles = badFilesArr.join('\n- ')
+              const reviewMessage = `👋 Hey there spelunker. It looks like you've modified some files that we can't accept as contributions. The complete list of files we can't accept are:\n- ${badFiles}\n\nYou'll need to revert all of the files you changed in that list using [GitHub Desktop](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/reverting-a-commit) or \`git checkout origin/main <file name>\`. Once you get those files reverted, we can continue with the review process. :octocat:\n\nMore discussion:\n- https://github.com/electron-vite/electron-vite-vue/issues/192`
+
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.payload.pull_request.number,
+                body: reviewMessage,
+              })
+            } catch(err) {
+              core.warning(`Failed to create PR comment: ${err.message}`)
+            }
+
+      - name: Fail on Restricted Lockfile Changes
+        if: ${{ steps.changes.outputs.lockfiles == 'true' }}
+        run: |
+          echo "Lockfiles are managed by maintainers and should not be changed in PRs."
+          echo "Changed lockfiles:"
+          echo "${{ steps.changes.outputs.lockfiles_files }}"
+          exit 1
